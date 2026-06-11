@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Literary Atlas of Newcastle — Surgipelago</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<style>
+  :root{
+    --ink:#1a1a1a; --paper:#fff; --line:#d8d8d8; --muted:#666;
+    --red:#a51c1c;
+    --w-novel:#a51c1c;       /* A Complicated Surgery (the novel) */
+    --w-antinom:#1f7a4d;     /* Antinomicity */
+    --w-pastoral:#2b5fb0;    /* Pastoral Scanlines */
+    --w-disjecta:#7a3fa0;    /* Fellow Disjecta */
+    --w-everyone:#d2691e;    /* Everyone I Love... */
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;font-family:Georgia,'Times New Roman',serif;color:var(--ink);background:var(--paper)}
+  #wrap{display:flex;height:100%;min-height:100vh}
+  #panel{width:300px;flex:0 0 300px;border-right:1px solid var(--line);overflow-y:auto;padding:18px 18px 40px}
+  #map{flex:1;min-width:0}
+  h1{font-size:19px;margin:0 0 2px;letter-spacing:.2px}
+  .sub{font-size:12.5px;color:var(--muted);font-style:italic;margin:0 0 14px;line-height:1.45}
+  h2{font-size:11px;text-transform:uppercase;letter-spacing:1.2px;color:var(--muted);
+     border-bottom:1px solid var(--line);padding-bottom:4px;margin:18px 0 8px;font-family:Helvetica,Arial,sans-serif;font-weight:700}
+  .row{display:flex;align-items:center;gap:8px;padding:3px 0;font-size:13.5px;cursor:pointer;user-select:none}
+  .row input{margin:0;cursor:pointer}
+  .swatch{width:11px;height:11px;border-radius:50%;flex:0 0 11px;border:1px solid rgba(0,0,0,.25)}
+  .count{margin-left:auto;font-size:11px;color:var(--muted);font-family:Helvetica,Arial,sans-serif}
+  .ital{font-style:italic}
+  .actions{display:flex;gap:10px;margin:10px 0 2px}
+  .actions a{font-size:11.5px;color:var(--red);cursor:pointer;text-decoration:none;font-family:Helvetica,Arial,sans-serif}
+  .actions a:hover{text-decoration:underline}
+  .note{font-size:11px;color:var(--muted);line-height:1.5;margin-top:18px;border-top:1px solid var(--line);padding-top:12px}
+  /* popup */
+  .leaflet-popup-content-wrapper{border-radius:2px}
+  .leaflet-popup-content{margin:12px 14px;font-family:Georgia,serif;font-size:13px;line-height:1.5;max-height:46vh;overflow-y:auto}
+  .pop-name{font-size:15px;font-weight:700;margin-bottom:1px}
+  .pop-real{font-size:11px;color:var(--muted);font-style:italic;margin-bottom:9px}
+  .pop-wiki{margin:-3px 0 4px}
+  .pop-wiki a{font-family:Helvetica,Arial,sans-serif;font-size:11px;font-weight:700;letter-spacing:.4px;
+              color:var(--red);text-decoration:none}
+  .pop-wiki a:hover{text-decoration:underline}
+  .pop-work{margin:9px 0;padding-left:9px;border-left:3px solid #ccc}
+  .pop-work .wname{font-size:11px;text-transform:uppercase;letter-spacing:.6px;font-family:Helvetica,Arial,sans-serif;font-weight:700;font-style:italic}
+  .pop-work .ctx{margin:2px 0}
+  .pop-work .q{color:#444;font-style:italic}
+  .pop-q-mark{color:var(--red);font-weight:700}
+  .conf{display:inline-block;font-size:10px;color:var(--muted);font-family:Helvetica,Arial,sans-serif;
+        border:1px solid var(--line);border-radius:2px;padding:0 4px;margin-left:6px;vertical-align:1px;font-style:normal}
+  .leaflet-bar a{font-family:Helvetica,Arial,sans-serif}
+  @media(max-width:720px){
+    #wrap{flex-direction:column}
+    #panel{width:100%;flex:none;max-height:42vh;border-right:none;border-bottom:1px solid var(--line)}
+    #map{min-height:58vh}
+  }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <div id="panel">
+    <h1>The Literary Atlas of Newcastle</h1>
+    <p class="sub">Every real place in the city named across the written works of C.&nbsp;W.&nbsp;Smith. Each pin records the work it surfaces in, with a passage. Newcastle is the recurring ground beneath the whole oeuvre — the city the franchise keeps recreating.</p>
+
+    <h2>Filter by work</h2>
+    <div id="works"></div>
+    <div class="actions"><a id="all-works">all</a><a id="no-works">none</a></div>
+
+    <h2>Filter by place-type</h2>
+    <div id="cats"></div>
+    <div class="actions"><a id="all-cats">all</a><a id="no-cats">none</a></div>
+
+    <p class="note">A pin grows with the number of works that name it. Coordinates are best-fit to the real-world locations; a few interpretive sites (marked <span class="conf">interpretive</span>) place a fictionalised or layered location at its most likely anchor. Tiles &copy; OpenStreetMap contributors.</p>
+  </div>
+  <div id="map"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+/* ---- works ---- */
+const WORKS = {
+  novel:    {name:"A Complicated Surgery Will Take Place on the Beach Tonight", short:"the novel (2020)", color:getCSS('--w-novel')},
+  antinom:  {name:"Antinomicity", short:"Antinomicity (2022)", color:getCSS('--w-antinom')},
+  pastoral: {name:"Pastoral Scanlines", short:"Pastoral Scanlines", color:getCSS('--w-pastoral')},
+  disjecta: {name:"Fellow Disjecta", short:"Fellow Disjecta", color:getCSS('--w-disjecta')},
+  everyone: {name:"Everyone I Love is Alive in the Unlimited Present of the City and its Waters", short:"Everyone I Love…", color:getCSS('--w-everyone')},
+};
+const CATS = {
+  cbd:    {name:"City & Civic", color:"#444"},
+  coast:  {name:"Coast, baths & headlands", color:"#1f7a8c"},
+  harbour:{name:"Harbour & industry", color:"#7a5c1e"},
+  suburb: {name:"Suburbs & rail", color:"#6a6a6a"},
+  region: {name:"Beyond Newcastle", color:"#9a9a9a"},
+};
+function getCSS(v){return getComputedStyle(document.documentElement).getPropertyValue(v).trim();}
+
+/* pin id -> wiki article slug (auto-generated against existing articles) */
+const WIKI = {
+  "adamstown":"Adamstown",
+  "airport":"Newcastle_(Williamtown)_Airport",
+  "annie-st":"2_Annie_Street_Wickham",
+  "bar-beach":"Bar_Beach",
+  "beaches-hotel":"Beaches_Hotel_Watt_St",
+  "beaumont-st":"Beaumont_Street",
+  "belmont":"Belmont",
+  "beresfield":"Beresfield",
+  "bhp":"BHP_Steelworks_(site)",
+  "bogey-hole":"Bogey_Hole",
+  "bolton-carpark":"Bolton_Street_car_park",
+  "broadmeadow":"Broadmeadow",
+  "canoe-pool":"Canoe_Pool",
+  "carrington":"Carrington",
+  "cathedral":"Christ_Church_Cathedral",
+  "charlestown-lib":"Charlestown_Public_Library",
+  "civic-park":"Civic_Park",
+  "civic-theatre":"Newcastle_Civic_Theatre",
+  "coal-terminal":"Carrington_coal_loader_terminal",
+  "coles-caf":"Coles_cafeteria_Hunter_St",
+  "community-garden":"Broadmeadow_community_garden",
+  "conservatorium":"Newcastle_Conservatorium_of_Music",
+  "cooks-hill":"Cooks_Hill_Auckland_St_gallery",
+  "dampened-cardboard":"the_Dampened_Cardboard",
+  "dj":"David_Jones_(former)",
+  "donut":"The_'doughnut'_(former_Town_Hall_council_HQ)",
+  "fishermens-coop":"Fishermen's_Co-op_Marina",
+  "forster":"Forster",
+  "fort-scratchley":"Fort_Scratchley",
+  "gallery-library":"Newcastle_Art_Gallery_Library",
+  "gasworks":"Newcastle_gasworks_(disused)",
+  "grand-hotel":"The_Grand_Hotel",
+  "gregson-park":"Gregson_Park_the_Glass_House",
+  "hamilton":"Hamilton",
+  "harbour":"Newcastle",
+  "hexham":"Hexham",
+  "horseshoe-beach":"Horseshoe_Beach",
+  "hunter-mall":"Hunter_Street_Mall",
+  "hunter-river":"Hunter_River",
+  "industrial-drive":"Industrial_Drive",
+  "interchange":"Newcastle_Interchange",
+  "islington":"Islington",
+  "james-fletcher":"James_Fletcher_Hospital",
+  "jolly-roger":"Jolly_Roger_Hotel_(ruins)",
+  "junction":"The_Junction",
+  "king-edward-park":"King_Edward_Park",
+  "king-mcd":"King_Street_McDonald's_car_park",
+  "lake-macquarie":"Lake_Macquarie",
+  "lambton-mech":"Lambton_Mechanics_Institute",
+  "lass":"Lass_O'Gowrie_Hotel",
+  "maitland":"Maitland",
+  "narrabri":"Narrabri",
+  "newcastle-beach":"beach",
+  "newcastle-station":"Newcastle_Station",
+  "nobbys-breakwall":"Nobbys_Breakwall",
+  "nobbys-lighthouse":"Nobbys_Lighthouse",
+  "obelisk":"The_Obelisk",
+  "ocean-baths":"Newcastle_Ocean_Baths",
+  "old-cinema":"Old_cinema_King_Hunter",
+  "old-fortifications":"Old_stone_fortifications",
+  "parkway-ave":"Parkway_Avenue",
+  "parnell-place":"Parnell_Place",
+  "post-office":"Newcastle_Post_Office_(former_GPO)",
+  "queens-wharf":"Queens_Wharf_Tower",
+  "rose-house":"Rose_House",
+  "ruined-pub":"Ruined_pub_with_the_oak_tree",
+  "signal-box":"The_signal_box",
+  "stadium":"Newcastle_Entertainment_Centre_Stadium",
+  "stockton":"Stockton",
+  "strzelecki":"Strzelecki_Lookout",
+  "styx-creek":"Styx_Creek",
+  "susan-gilmore":"The_secluded_beach",
+  "tafe":"Newcastle_TAFE_(Tighes_Hill)",
+  "tarro":"Tarro",
+  "the-watt":"the_Watt_Hotel",
+  "throsby-creek":"Throsby_Creek",
+  "tin-city":"Tin_City",
+  "tpi-house":"TPI_House",
+  "university":"University_of_Newcastle_(Callaghan)",
+  "velodrome":"The_velodrome",
+  "victoria-theatre":"Victoria_Theatre",
+  "warners-bay-high":"Warners_Bay_High_School",
+  "watt-space":"Watt_Space_Gallery",
+  "watt-st":"Watt_Street",
+  "wickham-corridor":"Old_heavy-rail_corridor"
+};
+
+/* ---- gazetteer ---- */
+/* w: array of [workKey, context, quote]. conf optional ("interpretive"). */
+const GAZ = [
+/* ===== CITY & CIVIC ===== */
+{id:"bolton-carpark", name:"Bolton Street car park", real:"Multi-storey car park, Newcastle CBD", lat:-32.9270, lng:151.7762, cat:"cbd",
+ w:[["novel","The embedded story opens on its rooftop — Katita and Leif on 'one of the highest positions in the city'. The narrator climbed it with his father and dog.","The story opens on two protagonists standing on the rooftop of Bolton Street car park in the middle of Newcastle in the dark of night."],
+    ["pastoral","'The most uninterrupted view of the city that can be found anywhere.' He began his first novel here and imagines a three-organ composition across the city's car parks.","the Bolton Street car park gives the most uninterrupted view of the city… and has been a source of inspiration to me many times"],
+    ["everyone","'My favourite peak in the city' — and the setting of a stage of the game Ridin' Newcastle, where a rogue magpie dips across the screen.","my favourite peak in the city, Bolton Street Carpark, where a rogue magpie dips in a sinewave as it crosses the screen"]]},
+{id:"rose-house", name:"Rose House", real:"Colonial cottage near Bolton St (possibly Newcastle's oldest building)", lat:-32.9266, lng:151.7756, cat:"cbd", conf:"interpretive",
+ w:[["novel","A tiny white-and-red colonial cottage tucked behind a new office block; the narrator finds it may be the city's oldest building, and that his father never once noticed it.","a peculiar little colonial era brick building painted white and red with a hand scribed wooden sign hanging from its front that reads Rose House"]]},
+{id:"newcastle-station", name:"Newcastle Station", real:"Former Newcastle railway terminus, Scott St", lat:-32.9266, lng:151.7793, cat:"cbd",
+ w:[["novel","He departs for Maitland the night after meeting his future wife. 'A skeleton horse made of iron kneeling down inside a broken clock.'","Newcastle Station is a skeleton horse made of iron kneeling down inside a broken clock."],
+    ["everyone","A bookshop now occupies the old luggage room of the station where his father and grandfather worked.","a bookshop that has replaced the luggage room in the train station my father and his father worked at"]]},
+{id:"post-office", name:"Newcastle Post Office (former GPO)", real:"Sandstone GPO, Hunter St", lat:-32.9268, lng:151.7770, cat:"cbd",
+ w:[["novel","Leif lays his hands on its sandstone and has his first memory — of working there as a letter-writing intern. The mechanical bird later crashes into its façade.","they walk beside a large sandstone post office which Leif puts his hands against and spontaneously has his first memory"]]},
+{id:"donut", name:"The 'doughnut' (former Town Hall / council HQ)", real:"Former council administration building, near Civic", lat:-32.9272, lng:151.7762, cat:"cbd", conf:"interpretive",
+ w:[["novel","In the eruption transcript he dreams the obelisk flies off its hill and impales 'the donut shaped building', leaving the council pregnant.","our town hall otherwise known as the Newcastle council headquarters. It is a donut shaped building"],
+    ["antinom","Faced by Civic Park; its clock 'strikes every hour' across the precinct.","a doughnut-shaped building that was once our old Town Hall"]]},
+{id:"civic-park", name:"Civic Park", real:"Civic Park, Newcastle", lat:-32.9277, lng:151.7757, cat:"cbd",
+ w:[["antinom","A recurring destination with his son, who calls the fountain of 'decimated stone' the moon. The crucible of protest when the fig trees came down.","from here, we will often head to Civic Park, a stretch of parkland facing a doughnut-shaped building that was once our old Town Hall"],
+    ["disjecta","Walking through it one evening he saw a light on in TPI House and joined the arts collective.","I must have been walking through Civic Park one evening when I saw a light on upstairs in TPI House"]]},
+{id:"gallery-library", name:"Newcastle Art Gallery & Library", real:"Laman St, Cooks Hill edge of Civic", lat:-32.9268, lng:151.7740, cat:"cbd",
+ w:[["antinom","They face Civic Park; the row of fig trees felled between them and the park became 'the crucible of public frustration'.","The park sits at the feet of our city library and art gallery, the crucible of public frustration"]]},
+{id:"conservatorium", name:"Newcastle Conservatorium of Music", real:"Newcastle Con, Auckland St", lat:-32.9267, lng:151.7738, cat:"cbd",
+ w:[["antinom","He played the pipe organ here as a teenager; a third-floor window looks onto Civic Park.","I was a student at the music conservatorium, next to Civic Park, near the fountain and the sculpture of decimated stone"],
+    ["pastoral","Leif and Katita pass it 'with organ chords wafting out the third floor'.","on past the Conservatorium with organ chords wafting out the third floor"],
+    ["everyone","TPI House sits 'across the road from the Conservatorium of Music, where I learned the pipe organ during high school'.","across the road from the Conservatorium of Music in Newcastle, where I learned the pipe organ during high school"]]},
+{id:"tpi-house", name:"TPI House", real:"Totally & Permanently Disabled soldiers' building, Civic", lat:-32.9272, lng:151.7748, cat:"cbd",
+ w:[["disjecta","Home of an arts collective and the Urchin street press; he ran a pirate radio station from its rooftop utility room.","I used to run a pirate radio station out of a rooftop utility room of the arts collective at TPI House"],
+    ["pastoral","He joined the collective after seeing a light on upstairs; the This Is Not Art festival used the same building.","I must have been walking through Civic Park one evening when I saw a light on upstairs in TPI House"],
+    ["everyone","From a high window of TPI House he gazes onto Civic Park instead of practising his scales.","The Totally & Permanently Disabled Soldiers Association Of Australia"]]},
+{id:"watt-space", name:"Watt Space Gallery", real:"University student gallery, cnr Auckland & King", lat:-32.9288, lng:151.7745, cat:"cbd",
+ w:[["disjecta","He soundtracked a performance of a couple living a month inside a plastic terrarium in the gallery.","a romantic couple who lived in a plastic terrarium in the Watt Space art gallery for a month"]]},
+{id:"civic-theatre", name:"Newcastle Civic Theatre", real:"Civic Theatre, Hunter St", lat:-32.9283, lng:151.7746, cat:"cbd",
+ w:[["pastoral","Leif and Katita slip in through the props access and find a performance in progress, foam landmarks on stage.","looking in the back of the Civic Theatre… the utility access for props and so on / where they enter the light and take the stage"]]},
+{id:"victoria-theatre", name:"Victoria Theatre", real:"Perkins St, Newcastle (1891 theatre)", lat:-32.9272, lng:151.7758, cat:"cbd",
+ w:[["antinom","One of the abandoned 'picture palaces' his father remembered, glimpsed from the David Jones car park.","overlooking the city, the harbour, the old abandoned Victoria Theatre"]]},
+{id:"hunter-mall", name:"Hunter Street Mall", real:"Hunter St pedestrian mall, CBD", lat:-32.9277, lng:151.7762, cat:"cbd",
+ w:[["pastoral","'Decimated' — walked through with a boyhood friend; Leif sprints up it chasing Katita.","Hunter Street Mall comes to mind, decimated"],
+    ["everyone","A stage of Ridin' Newcastle 'in its state of deconstruction, with bricks falling from the sky'.","Hunter Street Mall in its state of deconstruction, with bricks falling from the sky that the bike needs to dodge"]]},
+{id:"coles-caf", name:"Coles cafeteria, Hunter St", real:"Former Coles cafeteria, Hunter St", lat:-32.9276, lng:151.7763, cat:"cbd",
+ w:[["everyone","A childhood memory: eating with his mum, watching the little coal cart circle beneath the clock in the mall.","eating at the Coles cafeteria on Hunter Street with my mum, watching the little coal cart do revolutions beneath the clock"]]},
+{id:"dj", name:"David Jones (former)", real:"Former department store, Hunter St", lat:-32.9273, lng:151.7758, cat:"cbd",
+ w:[["antinom","Recalled with the phantom smell of biscuits from its long-gone Cookieman section.","smell biscuits from the Cookieman section of David Jones, surely twenty years since it existed"]]},
+{id:"old-cinema", name:"Old cinema, King & Hunter", real:"Long-empty cinema, cnr King & Hunter", lat:-32.9272, lng:151.7765, cat:"cbd",
+ w:[["antinom","Empty for years; he remembers its dark carpet and burgundy curtains from childhood.","A curve on King and Hunter Street brings about an old cinema that has been sitting empty for many years"]]},
+{id:"king-mcd", name:"King Street McDonald's car park", real:"McDonald's, King St", lat:-32.9262, lng:151.7745, cat:"cbd",
+ w:[["everyone","The final, hardest stage of Ridin' Newcastle: a shopping trolley bouncing the arena like a DVD logo.","the carpark of King Street McDonald's, where a shopping trolley bounces around the arena like a DVD logo"]]},
+{id:"jolly-roger", name:"Jolly Roger Hotel (ruins)", real:"Demolished CBD pub", lat:-32.9272, lng:151.7758, cat:"cbd", conf:"interpretive",
+ w:[["everyone","On a Sebaldian wander he trespassed the ruins through a flapping balsa-wood boundary — 'the crumbled jewel of the afternoon'.","the crumbled jewel of the afternoon, the ruins of the Jolly Roger pub, where I easily trespassed"]]},
+{id:"ruined-pub", name:"Ruined pub with the oak tree", real:"Likely the Crystal Palace Hotel (1973 riot)", lat:-32.9265, lng:151.7750, cat:"cbd", conf:"interpretive",
+ w:[["novel","A pub in 'the late stages of natural deconstruction', an oak growing through it; its closing once triggered one of the country's biggest urban riots.","the site of an old pub… that is in the late stages of natural deconstruction… triggered one of the biggest urban riots in the history of our country"]]},
+{id:"grand-hotel", name:"The Grand Hotel", real:"Grand Hotel, cnr Church & Bolton", lat:-32.9286, lng:151.7772, cat:"cbd",
+ w:[["pastoral","He writes from the wing-chair in its sunken bar lounge, watching a storm and a rainbow over the airfield.","my wing-chair here, facing four broad window panes in the sunken bar lounge of The Grand Hotel, looking out to the beach at a storm passing through"],
+    ["disjecta","The same sunken lounge anchors much of the essay's meditation.","facing four broad window panes in the sunken bar lounge of The Grand Hotel"]]},
+{id:"queens-wharf", name:"Queens Wharf Tower", real:"Queens Wharf, Newcastle foreshore", lat:-32.9232, lng:151.7800, cat:"cbd",
+ w:[["pastoral","Rendered as a foam prop among the stage landmarks in the Civic Theatre performance.","foam versions of landmarks — Town Hall, Queens Wharf Tower"]]},
+{id:"tafe", name:"Newcastle TAFE (Tighes Hill)", real:"Brutalist TAFE campus, Tighes Hill", lat:-32.9123, lng:151.7567, cat:"cbd",
+ w:[["antinom","Weekend explorations with his small son — concrete stairs and ramps, rolling metal cylinders, coal trains passing. The drain beside it becomes Throsby Creek.","exploring it with my son on a Saturday morning, his two-year-old little mind and body spontaneously engaging with the concrete stairs and ramps"]]},
+{id:"interchange", name:"Newcastle Interchange", real:"Wickham transport interchange", lat:-32.9241, lng:151.7707, cat:"cbd",
+ w:[["antinom","'Where the rail line meets the tram line' — he is ambivalent, but his son loves the 'milk tram'.","the new Interchange where the rail line meets the tram line, an anachronism depending on who you talk to"]]},
+{id:"watt-st", name:"Watt Street", real:"Watt St, Newcastle CBD", lat:-32.9270, lng:151.7768, cat:"cbd",
+ w:[["antinom","Walking it with his son, eyeing the quiet ex-services club he never felt able to enter — '(its actual name, not a reference to the Beckett novel)'.","walking down Watt Street (its actual name, not a reference to the Beckett novel)"],
+    ["everyone","His father's 1960s route through the city; graffiti on Bolton and Watt Street is quoted.","we cruise up Bolton Street and Watt, around the sweep of King Edward Park"]]},
+{id:"beaches-hotel", name:"Beaches Hotel, Watt St", real:"Former Beaches Hotel, Watt St", lat:-32.9268, lng:151.7770, cat:"cbd",
+ w:[["everyone","In the 1960s the Bearded Lady and others from a travelling freak show served the narrator's father complimentary lemon squash here.","stopping in at the Beaches Hotel on Watt Street to be served a complimentary glass of lemon squash by the Bearded Lady"]]},
+
+/* ===== COAST, BATHS & HEADLANDS ===== */
+{id:"newcastle-beach", name:"Newcastle Beach", real:"Newcastle Beach, end of Parkway Ave", lat:-32.9288, lng:151.7800, cat:"coast",
+ w:[["novel","Where he and his future wife spend their first night; she leaves a note on his stomach. The beach the surgery is promised on.","That night eighteen years ago when we embraced on the beach together"]]},
+{id:"ocean-baths", name:"Newcastle Ocean Baths", real:"Art-deco ocean baths, Shortland Esplanade", lat:-32.9243, lng:151.7889, cat:"coast",
+ w:[["novel","The 'public baths' down the concrete slope, site of the astronaut's alarm-clock baptism.","we both eased down a concrete slope near the sand which leads to the public baths"],
+    ["pastoral","He rode in with his son to swim the newly reopened baths, 'sand mottled art deco facades' freshly patched.","rode my bike into town with my son to swim in the newly renovated Ocean Baths"],
+    ["disjecta","Reopened after two years of renovation; his daughter once called the foam 'lemonade'.","they had been closed for two years to patch up the sand mottled art deco facades"]]},
+{id:"canoe-pool", name:"Canoe Pool", real:"Canoe Pool beside the Ocean Baths", lat:-32.9250, lng:151.7885, cat:"coast",
+ w:[["disjecta","Swimming here with his young daughter, who described the breaking foam as 'lemonade'.","she would describe the foam coming in from the breaking waves as 'lemonade'"],
+    ["everyone","Returns with his son to the canoe pool by the renovated baths.","the canoe pool near where the renovated Ocean Baths are"]]},
+{id:"bogey-hole", name:"Bogey Hole", real:"Convict-cut ocean bath below King Edward Park", lat:-32.9299, lng:151.7937, cat:"coast",
+ w:[["pastoral","Destination of the ridgeline traverse from Bar Beach; he swims partway and reclines beside a cormorant.","climbing the rocky ridgeline of beachscape and shale from Bar Beach to the Bogey Hole"],
+    ["everyone","'Australia's oldest purpose-built ocean pool', cut by convicts in 1819; four generations of his family have bathed here. The opening stage of Ridin' Newcastle.","first at the Bogey Hole, which the local tourist board describe as Australia's oldest purpose-built ocean pool"]]},
+{id:"king-edward-park", name:"King Edward Park", real:"King Edward Park, The Hill", lat:-32.9305, lng:151.7860, cat:"coast",
+ w:[["antinom","Passed on the late-night drive around the city's landmarks with an old friend.","We drive around King Edward Park, the lookout at Strzelecki, past James Fletcher Hospital"],
+    ["everyone","He rides its sweep on the e-bike after swimming, and meets a Spanish traveller heading down to the Bogey Hole. A stage of Ridin' Newcastle.","we cruise up Bolton Street and Watt, around the sweep of King Edward Park"]]},
+{id:"strzelecki", name:"Strzelecki Lookout", real:"Strzelecki Lookout, Memorial Dr", lat:-32.9322, lng:151.7895, cat:"coast",
+ w:[["antinom","A waypoint on the night drive around Newcastle's landmarks.","the lookout at Strzelecki"],
+    ["everyone","He glides over Strzelecki point and over the rise towards Bar Beach, his wife's arms around his chest.","I glide over Strzelecki point and head over the rise towards Bar Beach"]]},
+{id:"obelisk", name:"The Obelisk", real:"The Obelisk, The Hill", lat:-32.9285, lng:151.7712, cat:"coast",
+ w:[["novel","In a dream the obelisk lifts off its hill and flies down to impale the doughnut-shaped council building.","the obelisk on top of a hill that overlooks the city suddenly lifted off from the hill and flew across the city"]]},
+{id:"bar-beach", name:"Bar Beach", real:"Bar Beach, Newcastle", lat:-32.9412, lng:151.7672, cat:"coast",
+ w:[["pastoral","The start of his favourite memory sequence — the rocky ridgeline traverse to the Bogey Hole.","climbing the rocky ridgeline of beachscape and shale from Bar Beach to the Bogey Hole"],
+    ["everyone","He crests the rise towards Bar Beach with his wife on the e-bike.","I glide over Strzelecki point and head over the rise towards Bar Beach"]]},
+{id:"susan-gilmore", name:"The secluded beach", real:"Likely Susan Gilmore Beach (low-tide access)", lat:-32.9368, lng:151.7715, cat:"coast", conf:"interpretive",
+ w:[["antinom","'A secluded beach in Newcastle… only accessible at two entry points' — the site of the fall and injury that, in the preface, prompts the book.","There is a secluded beach in Newcastle that is only accessible at two entry points"]]},
+{id:"nobbys-lighthouse", name:"Nobbys Lighthouse", real:"Nobbys Head lighthouse", lat:-32.9182, lng:151.7992, cat:"coast",
+ w:[["everyone","'Towards the lighthouse at Nobbys' — he and his daughter as information streaming on the e-bike. A stage of Ridin' Newcastle.","My daughter and I are not bodies / but information streaming / towards the lighthouse at Nobbys"]]},
+{id:"nobbys-breakwall", name:"Nobbys Breakwall", real:"Macquarie Pier / Nobbys breakwall", lat:-32.9205, lng:151.7965, cat:"coast",
+ w:[["novel","He rides out one morning, lies on a concrete cube and is pinned by vertigo above the crashing waves.","the artificial breakwall at the end of the city where the ocean takes over. There is a lighthouse"],
+    ["everyone","In Ridin' Newcastle the bike jumps the concrete armour blocks of the breakwall.","directing the bike to jump over the concrete blocks that provide armour to the breakwall"]]},
+{id:"fort-scratchley", name:"Fort Scratchley", real:"Fort Scratchley headland", lat:-32.9258, lng:151.7905, cat:"coast",
+ w:[["pastoral","A naturally formed ocarina 'sealed with tank traps from the breakwater beneath the fort'.","a volcanic mouth sealed with tank traps from the breakwater beneath the fort"]]},
+{id:"horseshoe-beach", name:"Horseshoe Beach", real:"Horseshoe Beach, harbour mouth", lat:-32.9215, lng:151.7945, cat:"coast",
+ w:[["everyone","Post-war, his father's schoolmates picked up spent bullet casings from US Army drills here; trainers swam racehorses off the sand.","picking up the discarded bullet shells from soldiers engaging in drills near Horseshoe Beach"]]},
+{id:"cathedral", name:"Christ Church Cathedral", real:"Cathedral on the hill, Church St", lat:-32.9283, lng:151.7785, cat:"coast",
+ w:[["antinom","He played the pipe organ here as a teenager; shipwreck victims lie in the cemetery overlooking the harbour.","I used to play the pipe organ at the cathedral when I was a teenager"]]},
+{id:"parnell-place", name:"Parnell Place", real:"Parnell Place, Newcastle East", lat:-32.9268, lng:151.7855, cat:"coast",
+ w:[["pastoral","A Japanese submarine shell landed near his father's boyhood home here in June 1942.","one of the shells exploded, near my father's boyhood house in the east end near Parnell Place"]]},
+{id:"parkway-ave", name:"Parkway Avenue", real:"Parkway Ave, Cooks Hill / Bar Beach", lat:-32.9335, lng:151.7670, cat:"coast",
+ w:[["novel","The five-minute walk down to the beach on the night they meet, coal ships 'the size of watch batteries' on the horizon.","The beach is only a five minute walk down Parkway Avenue where coal ships the size of watch batteries float"]]},
+{id:"old-fortifications", name:"Old stone fortifications", real:"Coastal battery ruins above King Edward Park", lat:-32.9298, lng:151.7895, cat:"coast",
+ w:[["everyone","A regular nocturnal reading spot — 'on the hill near the old stone fortifications that overlook King Edward Park'.","I have sat on the hill near the old stone fortifications that overlook King Edward Park"]]},
+
+/* ===== HARBOUR & INDUSTRY ===== */
+{id:"harbour", name:"Newcastle Harbour", real:"Port of Newcastle", lat:-32.9200, lng:151.7850, cat:"harbour",
+ w:[["novel","From the car park roof he watches coal ships come and go; Katita and Leif surface from an underground pool and swim it.","I would stand and look out across the rooftops towards the harbour and watch coal ships come and go"],
+    ["antinom","Overlooked from the David Jones car park, threaded with shipwreck history told at the garden breakfast.","overlooking the city, the harbour, the old abandoned Victoria Theatre"],
+    ["everyone","He sits here late at night writing, a cruise ship opposite the coal terminal, a party boat cycling rainbow LEDs.","An angel with neon wings… skirts the waterside harbour where I sit and write these words"]]},
+{id:"coal-terminal", name:"Carrington coal loader / terminal", real:"Carrington coal loading wharves", lat:-32.9085, lng:151.7700, cat:"harbour",
+ w:[["novel","Sailors 'in from Singapore or from China', docked at the coal loader, drink at The Watt.","the big guys in from the wharf who have docked at the Carrington coal loader"],
+    ["everyone","A cruise ship sits opposite the coal terminal as he writes by the water.","A cruise ship sits opposite the coal terminal"]]},
+{id:"carrington", name:"Carrington", real:"Carrington peninsula suburb", lat:-32.9150, lng:151.7720, cat:"harbour",
+ w:[["pastoral","Katita and Leif float towards Carrington, where she rolls onto the shore with Leif at her feet.","they float towards Carrington where Katita rolls onto the shore with Leif at her feet"]]},
+{id:"throsby-creek", name:"Throsby Creek", real:"Throsby Creek, Carrington / Wickham", lat:-32.9150, lng:151.7640, cat:"harbour",
+ w:[["antinom","The dry stormwater drain by the TAFE swells into the creek — industrial discharge slowly cleaning, bull sharks lately sighted.","The dry storm-water drain… transitions with an abundance of water into Throsby Creek"]]},
+{id:"hunter-river", name:"Hunter River", real:"Hunter River, lower reaches", lat:-32.9120, lng:151.7720, cat:"harbour",
+ w:[["antinom","'A pathway parallel to Throsby Creek takes you to where the Hunter River takes over.'","A pathway that runs parallel to Throsby Creek takes you to where the Hunter River takes over"]]},
+{id:"fishermens-coop", name:"Fishermen's Co-op & Marina", real:"Newcastle Fishermen's Co-op, Wharf Rd", lat:-32.9208, lng:151.7770, cat:"harbour",
+ w:[["antinom","He and his son stop behind the co-op shed's exhaust fans, delighted by the blown air.","On past the moon is the marina and the fisherman's co-operative. We stop behind the big exhaust fans"]]},
+{id:"industrial-drive", name:"Industrial Drive", real:"Industrial Dr, Mayfield / Carrington", lat:-32.9070, lng:151.7480, cat:"harbour",
+ w:[["antinom","Heads out of Newcastle to the rural north and east to Stockton and Port Stephens.","the beginning of Industrial Drive that heads out of Newcastle and up into the rural northern regions"],
+    ["pastoral","The 'Peoplehood' essay walks its full length on the eleventh of January, tracing the ghost of the steelworks.","to walk the length of Industrial Drive"]]},
+{id:"bhp", name:"BHP Steelworks (site)", real:"Former Newcastle Steelworks, Mayfield", lat:-32.9015, lng:151.7460, cat:"harbour",
+ w:[["pastoral","Dominated the region 1911–1999, nearly fifty thousand employed; shelled by a Japanese submarine in 1942.","the Broken Hill Proprietary steelworks which dominated the region between 1911 until its demolition in 1999, employing nearly fifty thousand residents"]]},
+{id:"gasworks", name:"Newcastle gasworks (disused)", real:"Former gasworks, Islington", lat:-32.9150, lng:151.7530, cat:"harbour",
+ w:[["antinom","Abandoned since the 1980s; he climbs a silo and falls asleep at the top above the bullgrass.","the gasworks turned coal, through an oxidation process, into gas for the city"]]},
+{id:"islington", name:"Islington", real:"Islington, inner Newcastle", lat:-32.9135, lng:151.7565, cat:"harbour",
+ w:[["novel","'The arts students who walk down from Islington' to drink at The Watt.","the arts students who walk down from Islington who I can see tonight"]]},
+{id:"wickham-corridor", name:"Old heavy-rail corridor", real:"Severed rail corridor, Wickham", lat:-32.9240, lng:151.7680, cat:"harbour",
+ w:[["disjecta","Walking the dog, he finds a fence panel pulled away 'where the heavy rail corridor used to reside, now a hallway of overgrown grass'.","a piece of fencing panel removed where the heavy rail corridor used to reside, now a hallway of overgrown grass and weeds"]]},
+{id:"annie-st", name:"2 Annie Street, Wickham", real:"Birthplace of writer Dora Birtles", lat:-32.9233, lng:151.7665, cat:"harbour",
+ w:[["everyone","He rides to the terrace where Dora (Toll) Birtles was born, 'not two minutes from here', and reads it up and down.","I ride to 2 Annie Street, Wickham, the birthplace of Dora, and look the terrace up and down"]]},
+{id:"lass", name:"Lass O'Gowrie Hotel", real:"Lass O'Gowrie, Wickham", lat:-32.9228, lng:151.7648, cat:"harbour",
+ w:[["everyone","Penny and Avis invite him to see a band here; he declines.","they're heading to see a band play at the Lass O'Gowrie: they invite me, but I decline"]]},
+
+/* ===== SUBURBS & RAIL ===== */
+{id:"hamilton", name:"Hamilton", real:"Hamilton, inner-west Newcastle", lat:-32.9255, lng:151.7490, cat:"suburb",
+ w:[["novel","His and his wife's 'languid suburb', where the population dreams counterclockwise with her.","the surrounding population of our languid suburb of Hamilton on the East Coast of Australia"],
+    ["antinom","The place of composition: the book closes 'Hamilton, November, 2022'.","Hamilton, November, 2022"],
+    ["everyone","Home, 'a ten-minute ride' from the city.","I rode into Newcastle from where I live in the suburb of Hamilton"]]},
+{id:"beaumont-st", name:"Beaumont Street", real:"Beaumont St strip, Hamilton", lat:-32.9258, lng:151.7488, cat:"suburb",
+ w:[["novel","The free bus drops them outside The Watt; the night strip of pubs and the jazz club run off it.","On the free bus from the Newcastle Entertainment Stadium to Beaumont Street in Hamilton"]]},
+{id:"the-watt", name:"The Watt Hotel", real:"Historic Beaumont St pub, Hamilton", lat:-32.9256, lng:151.7486, cat:"suburb",
+ w:[["novel","'One of the most unpredictable establishments in the city' — where he takes his future wife; sailors, poets and arts students collide.","not only one of the most historic pubs in the area but also for sure one of the most unpredictable establishments in the city"]]},
+{id:"dampened-cardboard", name:"The Dampened Cardboard (jazz club)", real:"Jazz club, Beaumont St (fictional name)", lat:-32.9258, lng:151.7480, cat:"suburb", conf:"interpretive",
+ w:[["novel","A jazz club down from The Watt, greeted by a robot and a cardboard band.","A cassette hissed voice emits from the mouth of the robot. It says Welcome to the Dampened Cardboard."]]},
+{id:"styx-creek", name:"Styx Creek", real:"Styx Creek drain, Hamilton North", lat:-32.9180, lng:151.7480, cat:"suburb",
+ w:[["novel","The bus crosses it on the way to Beaumont Street; a sign names it Styx Creek.","we passed over a bridge that spanned a creek with a big sign beside that labeled it Styx Creek"]]},
+{id:"gregson-park", name:"Gregson Park & the Glass House", real:"Gregson Park, Hamilton", lat:-32.9268, lng:151.7525, cat:"suburb",
+ w:[["disjecta","The little council Glass House across from his home — he photogrammetry-scans it to preserve a 3D record before it can be demolished.","there is a little building called the Glass House. It used to house flowers and ferns"]]},
+{id:"junction", name:"The Junction", real:"The Junction, Newcastle", lat:-32.9328, lng:151.7565, cat:"suburb",
+ w:[["novel","Where Italian immigrant families built their community, in his account of the city's diasporas.","those with Italian family were establishing lives in The Junction"]]},
+{id:"broadmeadow", name:"Broadmeadow", real:"Broadmeadow station & suburb", lat:-32.9200, lng:151.7480, cat:"suburb",
+ w:[["novel","The train to Maitland passes through Broadmeadow and Adamstown in the descending light.","The train passes through Broadmeadow and Adamstown with the warm descending light"],
+    ["antinom","Returning from Sydney with his daughter; his father and grandfather worked this station.","When we arrive at Broadmeadow station, the rays from the sunset salting through the windows wake her up"]]},
+{id:"adamstown", name:"Adamstown", real:"Adamstown station & suburb", lat:-32.9178, lng:151.7385, cat:"suburb",
+ w:[["novel","Passed on the Maitland train, dust raised on the carriage windows by the warm descending light.","Broadmeadow and Adamstown with the warm descending light outside raising highlights of dust"]]},
+{id:"stadium", name:"Newcastle Entertainment Centre / Stadium", real:"Broadmeadow showground precinct", lat:-32.9192, lng:151.7570, cat:"suburb",
+ w:[["novel","The Street Fighter II tournament where he meets his future wife; he'd bussed in from Lake Macquarie.","I caught a bus… to the Newcastle Entertainment Stadium"]]},
+{id:"community-garden", name:"Broadmeadow community garden", real:"Garden by the Croatian club, Broadmeadow", lat:-32.9190, lng:151.7490, cat:"suburb",
+ w:[["antinom","A decade-long family destination between a Croatian sports club, a playground and an oval; he plans an organ piece at its breakfast.","The community garden sits between a Croatian sports club, a children's playground and a sports oval"]]},
+{id:"signal-box", name:"The signal box", real:"Rail signal box, Broadmeadow / Hamilton", lat:-32.9205, lng:151.7490, cat:"suburb", conf:"interpretive",
+ w:[["antinom","His father and grandfather worked here; as a boy he once operated the level crossing.","the signal box (where, as a young lad, I operated the crossing one day)"]]},
+{id:"cooks-hill", name:"Cooks Hill / Auckland St gallery", real:"Cooks Hill, Newcastle", lat:-32.9312, lng:151.7705, cat:"suburb",
+ w:[["everyone","A Cooks Hill painter shows a nude diptych of a character in a gallery on Auckland Street.","A painter in Cooks Hill depicted her nude, front and back, in a diptych that was displayed in a gallery on Auckland Street"]]},
+{id:"james-fletcher", name:"James Fletcher Hospital", real:"Watt St, Newcastle", lat:-32.9285, lng:151.7805, cat:"suburb",
+ w:[["antinom","Passed on the night drive; its orchard courtyards being turned into robotics warehouses.","past James Fletcher Hospital, the ex-services club on Watt Street"]]},
+{id:"velodrome", name:"The velodrome", real:"Former velodrome, inner Newcastle", lat:-32.9220, lng:151.7560, cat:"suburb", conf:"interpretive",
+ w:[["antinom","'The bent wire fences of the velodrome' — among the ephemeral local landmarks a UK artist drew.","the bent wire fences of the velodrome"]]},
+{id:"university", name:"University of Newcastle (Callaghan)", real:"University of Newcastle, Callaghan", lat:-32.8920, lng:151.7030, cat:"suburb",
+ w:[["pastoral","'In my twenties I moved here, near the university' — Industrial Drive ends near that neighbourhood.","in my twenties that I moved here, near the university"],
+    ["disjecta","He returns for an alumni media event and recalls practising organ between journalism lectures.","Earlier this year I attended an alumni media event at the university"]]},
+{id:"lambton-mech", name:"Lambton Mechanics Institute", real:"Mechanics Institute, Lambton", lat:-32.9090, lng:151.7220, cat:"suburb",
+ w:[["antinom","'A suburb over from our home' — one of the Mechanics Institutes he clocked on trips across the state.","such as the one a suburb over from our home, the Lambton Mechanics Institute"]]},
+{id:"stockton", name:"Stockton", real:"Stockton, across the harbour", lat:-32.9110, lng:151.7870, cat:"suburb",
+ w:[["novel","The northern end of the beach the Depression-era men walked to, finding the glint of Tin City iron.","The men walked far up the beach coastline from Newcastle to Stockton when they saw a glint of metal"],
+    ["disjecta","His pirate-radio transmitter from TPI House reached 'over the water to Stockton' when the tide was calm.","over the water to Stockton"]]},
+{id:"tin-city", name:"Tin City", real:"Corrugated-iron shacks, Stockton Bight dunes", lat:-32.8300, lng:151.8550, cat:"suburb",
+ w:[["novel","A Depression-era collective of corrugated-iron homes in the dunes — twinned, uncannily, with a settlement in the Shanbudia desert.","a makeshift collective hidden on one of our local beaches just north of Newcastle and given the nickname Tin City"],
+    ["antinom","'Eleven shacks half buried in the sand, made of corrugated iron, tea tree and solar panels' — he meets a couple living there.","an area referred to as Tin City, a collection of eleven shacks half buried in the sand"]]},
+
+/* ===== BEYOND NEWCASTLE ===== */
+{id:"lake-macquarie", name:"Lake Macquarie", real:"Lake Macquarie, south of Newcastle", lat:-33.0600, lng:151.6000, cat:"region",
+ w:[["novel","Where he lived in 2001; he bussed from the lake to the Entertainment Stadium tournament.","I caught a bus from where I lived at the time on Lake Macquarie"]]},
+{id:"maitland", name:"Maitland", real:"Maitland, Hunter Valley", lat:-32.7330, lng:151.5550, cat:"region",
+ w:[["novel","His future wife's 'rural pastureland'; her note: 'Maitland Station Six Pea Em Kiss Hug Kiss Hug.'","a train traveling from Newcastle to the rural pastureland of Maitland nearby where she lived"],
+    ["pastoral","Named on the road sign in the 'Peoplehood' essay — Industrial Drive's northern destination.","Maitland / Taree"]]},
+{id:"hexham", name:"Hexham", real:"Hexham, lower Hunter", lat:-32.8290, lng:151.6790, cat:"region",
+ w:[["novel","Glimpsed from the train carriage on the way to Maitland.","Hexham and Tarro and Beresfield"]]},
+{id:"tarro", name:"Tarro", real:"Tarro, City of Newcastle", lat:-32.8120, lng:151.6650, cat:"region",
+ w:[["novel","One of the towns passed by train towards Maitland.","Hexham and Tarro and Beresfield"]]},
+{id:"beresfield", name:"Beresfield", real:"Beresfield, City of Newcastle", lat:-32.7960, lng:151.6390, cat:"region",
+ w:[["novel","Passed on the Maitland train journey.","Hexham and Tarro and Beresfield"]]},
+{id:"forster", name:"Forster", real:"Forster, mid-north coast", lat:-32.1800, lng:152.5150, cat:"region",
+ w:[["novel","A childhood holiday: he first found Street Fighter II in the corner of a fish-and-chip shop here.","the holiday I took with my parents… to Forster when I discovered the game sitting in the corner of a fish and chip shop"]]},
+{id:"narrabri", name:"Narrabri", real:"CSIRO telescope array, Narrabri", lat:-30.3210, lng:149.7810, cat:"region",
+ w:[["novel","A dreamed itinerary for the new baby: 'nurse baby beneath the satellite dish range at Narrabri'.","Nurse baby beneath the satellite dish range at Narrabri"]]},
+{id:"airport", name:"Newcastle (Williamtown) Airport", real:"Newcastle Airport, Williamtown", lat:-32.7949, lng:151.8344, cat:"region",
+ w:[["antinom","Seen from the approaching plane; as a teenager he walked the runway of a closed regional airfield near Stockton.","coal loaders and airport reside. A plane is overhead currently, heading for a six o'clock touchdown"]]},
+{id:"charlestown-lib", name:"Charlestown Public Library", real:"Charlestown, Lake Macquarie", lat:-33.0200, lng:151.6950, cat:"region",
+ w:[["pastoral","Sorting cassettes here with his father when a man questioned his taste for classical music.","standing in the Charlestown Public Library with my father, sorting through a rack of cassettes"]]},
+{id:"warners-bay-high", name:"Warners Bay High School", real:"Warners Bay, Lake Macquarie", lat:-32.9710, lng:151.6470, cat:"region",
+ w:[["pastoral","A site Leif fantasises about revisiting in a faux documentary of formative places.","they'd go back to Warners Bay High School, to the strip of fast food haunts in Belmont"]]},
+{id:"belmont", name:"Belmont", real:"Belmont, Lake Macquarie", lat:-33.0280, lng:151.6650, cat:"region",
+ w:[["pastoral","'The strip of fast food haunts in Belmont' in the same imagined documentary.","to the strip of fast food haunts in Belmont, to invented sites where they'll perform gestures of realism"]]},
+];
+
+/* ---- map ---- */
+const map = L.map('map',{scrollWheelZoom:true});
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+  maxZoom:19, attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+const state = { works:new Set(Object.keys(WORKS)), cats:new Set(Object.keys(CATS)) };
+const markers = [];
+
+function esc(s){return (s||"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
+
+function popupHTML(p){
+  let h = `<div class="pop-name">${esc(p.name)}`;
+  if(p.conf) h += `<span class="conf">${esc(p.conf)}</span>`;
+  h += `</div><div class="pop-real">${esc(p.real)}</div>`;
+  if(WIKI[p.id]) h += `<div class="pop-wiki"><a href="../../wiki/${WIKI[p.id]}.html">On the wiki &rsaquo;</a></div>`;
+  p.w.forEach(([wk,ctx,q])=>{
+    const W = WORKS[wk];
+    h += `<div class="pop-work" style="border-left-color:${W.color}">`;
+    h += `<div class="wname" style="color:${W.color}">${esc(W.short)}</div>`;
+    if(ctx) h += `<div class="ctx">${esc(ctx)}</div>`;
+    if(q) h += `<div class="q"><span class="pop-q-mark">“</span>${esc(q)}<span class="pop-q-mark">”</span></div>`;
+    h += `</div>`;
+  });
+  return h;
+}
+
+function radius(p){ return 6 + Math.min(p.w.length-1,3)*2.5; }
+
+GAZ.forEach(p=>{
+  const primary = p.w[0][0];
+  const col = CATS[p.cat].color;
+  const m = L.circleMarker([p.lat,p.lng],{
+    radius:radius(p), color:"#fff", weight:1.5, fillColor:col, fillOpacity:0.92
+  }).bindPopup(popupHTML(p),{maxWidth:320, minWidth:240});
+  m.bindTooltip(p.name,{direction:"top",offset:[0,-4],opacity:0.95});
+  m._p = p;
+  markers.push(m);
+});
+
+function refresh(){
+  let shown = [];
+  markers.forEach(m=>{
+    const p = m._p;
+    const inCat = state.cats.has(p.cat);
+    const inWork = p.w.some(x=>state.works.has(x[0]));
+    if(inCat && inWork){ if(!map.hasLayer(m)) m.addTo(map); shown.push(m); }
+    else if(map.hasLayer(m)) map.removeLayer(m);
+  });
+  return shown;
+}
+
+/* ---- panel ---- */
+function buildFilters(){
+  const wc = {}, cc = {};
+  GAZ.forEach(p=>{ p.w.forEach(x=>wc[x[0]]=(wc[x[0]]||0)+1); cc[p.cat]=(cc[p.cat]||0)+1; });
+  const wbox = document.getElementById('works');
+  Object.entries(WORKS).forEach(([k,W])=>{
+    const r = document.createElement('label'); r.className='row';
+    r.innerHTML = `<input type="checkbox" checked data-w="${k}"><span class="swatch" style="background:${W.color}"></span><span class="ital">${esc(W.short)}</span><span class="count">${wc[k]||0}</span>`;
+    wbox.appendChild(r);
+  });
+  const cbox = document.getElementById('cats');
+  Object.entries(CATS).forEach(([k,C])=>{
+    const r = document.createElement('label'); r.className='row';
+    r.innerHTML = `<input type="checkbox" checked data-c="${k}"><span class="swatch" style="background:${C.color}"></span><span>${esc(C.name)}</span><span class="count">${cc[k]||0}</span>`;
+    cbox.appendChild(r);
+  });
+  wbox.addEventListener('change',e=>{ const k=e.target.dataset.w; if(!k)return; e.target.checked?state.works.add(k):state.works.delete(k); refresh(); });
+  cbox.addEventListener('change',e=>{ const k=e.target.dataset.c; if(!k)return; e.target.checked?state.cats.add(k):state.cats.delete(k); refresh(); });
+  const setAll=(sel,on)=>{ document.querySelectorAll(sel).forEach(cb=>{cb.checked=on; cb.dispatchEvent(new Event('change',{bubbles:true}));}); };
+  document.getElementById('all-works').onclick=()=>setAll('#works input',true);
+  document.getElementById('no-works').onclick=()=>setAll('#works input',false);
+  document.getElementById('all-cats').onclick=()=>setAll('#cats input',true);
+  document.getElementById('no-cats').onclick=()=>setAll('#cats input',false);
+}
+
+buildFilters();
+const shown = refresh();
+map.fitBounds(L.featureGroup(markers).getBounds().pad(0.12));
+</script>
+</body>
+</html>

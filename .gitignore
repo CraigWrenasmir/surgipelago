@@ -1,0 +1,12 @@
+# OS / editor cruft
+.DS_Store
+**/.DS_Store
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Internal working files (not part of the published project)
+coherence-report.md
+site/
