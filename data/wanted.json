@@ -1,10 +1,5 @@
 [
  {
-  "slug": "LARP",
-  "title": "LARP",
-  "links": 1456
- },
- {
   "slug": "anime",
   "title": "anime",
   "links": 22
@@ -35,18 +30,8 @@
   "links": 4
  },
  {
-  "slug": "Radio_drama_adaptations",
-  "title": "Radio drama adaptations",
-  "links": 3
- },
- {
   "slug": "Volume_0:_The_Outline",
   "title": "Volume 0: The Outline",
-  "links": 2
- },
- {
-  "slug": "Ghanaian_fantasy-coffin_sculpture",
-  "title": "Ghanaian fantasy-coffin sculpture",
   "links": 2
  },
  {
@@ -372,6 +357,11 @@
  {
   "slug": "w:Cannes_Film_Festival",
   "title": "w:Cannes Film Festival",
+  "links": 1
+ },
+ {
+  "slug": "Accra_Biennale",
+  "title": "Accra Biennale",
   "links": 1
  },
  {
@@ -2102,11 +2092,6 @@
  {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
   "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
-  "links": 1
- },
- {
-  "slug": "larp",
-  "title": "larp",
   "links": 1
  },
  {
