@@ -49,6 +49,20 @@ jobs:
           node-version: '20'
       - run: npm install -g @anthropic-ai/claude-code
 
+      - name: Diagnose claude CLI
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          echo "version: $(claude --version 2>&1 || true)"
+          echo "=== direct headless call (stdout+stderr, exit code) ==="
+          set +e
+          out=$(printf 'Reply with exactly the single word: PONG' | claude -p --model haiku --output-format text 2>&1)
+          code=$?
+          echo "exit=$code"
+          echo "OUTPUT_START>>>"
+          echo "$out" | head -40
+          echo "<<<OUTPUT_END"
+
       - name: Grow the archive
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
