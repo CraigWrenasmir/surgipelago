@@ -1,0 +1,73 @@
+name: Surgipelago drip
+
+# Grows the wiki on a schedule: generate.py asks Claude (Haiku, on the Max
+# subscription via CLAUDE_CODE_OAUTH_TOKEN) to fill the most-wanted red links,
+# rebuilds docs/, and pushes — which redeploys GitHub Pages automatically.
+
+on:
+  schedule:
+    - cron: '0 16 * * *'        # daily ~16:00 UTC (~02:00 AEST). Edit to taste.
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'Articles to generate this run'
+        default: '20'
+      batch:
+        description: 'Articles per Claude call'
+        default: '4'
+
+concurrency:
+  group: surgipelago-drip       # never two drips at once
+  cancel-in-progress: false
+
+permissions:
+  contents: write               # to push the new articles back
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ensure the Max token is configured
+        env:
+          TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error::CLAUDE_CODE_OAUTH_TOKEN secret is not set. Run 'claude setup-token' locally and add it as a repo secret."
+            exit 1
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install --quiet pyyaml
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install -g @anthropic-ai/claude-code
+
+      - name: Grow the archive
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          python3 engine/generate.py \
+            --count "${{ github.event.inputs.count || '20' }}" \
+            --batch "${{ github.event.inputs.batch || '4' }}" \
+            --model haiku
+
+      - name: Commit & push if anything grew
+        run: |
+          git config user.name "surgipelago-drip[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No new articles this run."
+          else
+            added=$(git diff --cached --name-only --diff-filter=A -- content | grep -c '\.md$' || true)
+            git commit -m "drip: grow the archive ($(date -u +%Y-%m-%d) · +${added} new articles)"
+            git push
+            echo "Pushed ${added} new article(s); Pages will redeploy."
+          fi
