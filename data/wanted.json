@@ -35,6 +35,11 @@
   "links": 6
  },
  {
+  "slug": "W._G._Sebald",
+  "title": "W. G. Sebald",
+  "links": 6
+ },
+ {
   "slug": "Erotics_in_adaptation",
   "title": "Erotics in adaptation",
   "links": 5
@@ -53,6 +58,21 @@
   "slug": "Hunter_Valley",
   "title": "Hunter Valley",
   "links": 5
+ },
+ {
+  "slug": "Sebald",
+  "title": "Sebald",
+  "links": 4
+ },
+ {
+  "slug": "Hermann_Hesse",
+  "title": "Hermann Hesse",
+  "links": 4
+ },
+ {
+  "slug": "James_Joyce",
+  "title": "James Joyce",
+  "links": 4
  },
  {
   "slug": "the_leather",
@@ -110,6 +130,11 @@
   "links": 3
  },
  {
+  "slug": "Ben_Lerner",
+  "title": "Ben Lerner",
+  "links": 3
+ },
+ {
   "slug": "Australian_landscape_painting",
   "title": "Australian landscape painting",
   "links": 3
@@ -137,6 +162,11 @@
  {
   "slug": "disability",
   "title": "disability",
+  "links": 3
+ },
+ {
+  "slug": "the_doctrine_of_refusal",
+  "title": "the doctrine of refusal",
   "links": 3
  },
  {
@@ -180,6 +210,21 @@
   "links": 2
  },
  {
+  "slug": "Joyce",
+  "title": "Joyce",
+  "links": 2
+ },
+ {
+  "slug": "Hesse",
+  "title": "Hesse",
+  "links": 2
+ },
+ {
+  "slug": "Lispector",
+  "title": "Lispector",
+  "links": 2
+ },
+ {
   "slug": "Beach_Surgery_devotional_communities",
   "title": "Beach Surgery devotional communities",
   "links": 2
@@ -200,8 +245,18 @@
   "links": 2
  },
  {
+  "slug": "Surgical_Intimacy_and_the_Choreography_of_Care",
+  "title": "Surgical Intimacy and the Choreography of Care",
+  "links": 2
+ },
+ {
   "slug": "Surgical_Intimacy",
   "title": "Surgical Intimacy",
+  "links": 2
+ },
+ {
+  "slug": "The_glitch_as_generative_absence",
+  "title": "The glitch as generative absence",
   "links": 2
  },
  {
@@ -215,6 +270,16 @@
   "links": 2
  },
  {
+  "slug": "red_desert_sand",
+  "title": "red desert sand",
+  "links": 2
+ },
+ {
+  "slug": "Doctrine_of_Refusal",
+  "title": "Doctrine of Refusal",
+  "links": 2
+ },
+ {
   "slug": "The_Leather_That_Remembers",
   "title": "The Leather That Remembers",
   "links": 2
@@ -222,6 +287,11 @@
  {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
+  "links": 2
+ },
+ {
+  "slug": "Surgery_three_heartbeats_Beach_one_heartbeat",
+  "title": "Surgery = three heartbeats; Beach = one heartbeat",
   "links": 2
  },
  {
@@ -305,6 +375,21 @@
   "links": 2
  },
  {
+  "slug": "Don_DeLillo",
+  "title": "Don DeLillo",
+  "links": 2
+ },
+ {
+  "slug": "Anne_Carson",
+  "title": "Anne Carson",
+  "links": 2
+ },
+ {
+  "slug": "apophatic",
+  "title": "apophatic",
+  "links": 2
+ },
+ {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -365,6 +450,11 @@
   "links": 2
  },
  {
+  "slug": "Sacred_IncompletenessThe_Glitch_as_Theological_Principle",
+  "title": "Sacred Incompleteness\u2014The Glitch as Theological Principle",
+  "links": 2
+ },
+ {
   "slug": "Theology_and_Beach_Surgery",
   "title": "Theology and Beach Surgery",
   "links": 2
@@ -387,6 +477,21 @@
  {
   "slug": "Schism_and_sectarian_movements_in_Beach_Surgery_faith_communities",
   "title": "Schism and sectarian movements in Beach Surgery faith communities",
+  "links": 2
+ },
+ {
+  "slug": "William_T._Vollmann",
+  "title": "William T. Vollmann",
+  "links": 2
+ },
+ {
+  "slug": "D.H._Lawrence",
+  "title": "D.H. Lawrence",
+  "links": 2
+ },
+ {
+  "slug": "The_body_in_C._W._Smith's_oeuvre",
+  "title": "The body in C. W. Smith's oeuvre",
   "links": 2
  },
  {
@@ -465,6 +570,11 @@
   "links": 2
  },
  {
+  "slug": "red_desert_interior",
+  "title": "red desert interior",
+  "links": 2
+ },
+ {
   "slug": "Serialization_and_the_Cycle",
   "title": "Serialization and the Cycle",
   "links": 1
@@ -490,6 +600,16 @@
   "links": 1
  },
  {
+  "slug": "instant",
+  "title": "instant",
+  "links": 1
+ },
+ {
+  "slug": "sacred_refusal",
+  "title": "sacred refusal",
+  "links": 1
+ },
+ {
   "slug": "boomerang",
   "title": "boomerang",
   "links": 1
@@ -512,6 +632,16 @@
  {
   "slug": "The_frame_(the_narrator's_real_life_source_of_deep_cut_adaptations)",
   "title": "The frame (the narrator's real life \u2014 source of \"deep cut\" adaptations)",
+  "links": 1
+ },
+ {
+  "slug": "Bernhard",
+  "title": "Bernhard",
+  "links": 1
+ },
+ {
+  "slug": "Repetition_(motif)",
+  "title": "Repetition (motif)",
   "links": 1
  },
  {
@@ -585,6 +715,26 @@
   "links": 1
  },
  {
+  "slug": "redactions",
+  "title": "redactions",
+  "links": 1
+ },
+ {
+  "slug": "embedded_tale",
+  "title": "embedded tale",
+  "links": 1
+ },
+ {
+  "slug": "Redaction_and_the_Apparatus_of_Tender_Refusal",
+  "title": "Redaction and the Apparatus of Tender Refusal",
+  "links": 1
+ },
+ {
+  "slug": "The_glitch_as_Hermeneutic_Necessity",
+  "title": "The glitch as Hermeneutic Necessity",
+  "links": 1
+ },
+ {
   "slug": "Lost_primary_sources_and_retroactive_canon",
   "title": "Lost primary sources and retroactive canon",
   "links": 1
@@ -607,11 +757,6 @@
  {
   "slug": "Dar_Zindan-e_Dorekhshan_(manuscript_reconstruction)",
   "title": "Dar Zindan-e Dorekhshan (manuscript reconstruction)",
-  "links": 1
- },
- {
-  "slug": "Surgical_Intimacy_and_the_Choreography_of_Care",
-  "title": "Surgical Intimacy and the Choreography of Care",
   "links": 1
  },
  {
@@ -677,6 +822,11 @@
  {
   "slug": "Renewal",
   "title": "Renewal",
+  "links": 1
+ },
+ {
+  "slug": "The_Theology_of_Return",
+  "title": "The Theology of Return",
   "links": 1
  },
  {
@@ -775,6 +925,31 @@
   "links": 1
  },
  {
+  "slug": "surgery_as_intimate_touch",
+  "title": "surgery as intimate touch",
+  "links": 1
+ },
+ {
+  "slug": "the_Doctrine_of_Refusal",
+  "title": "the Doctrine of Refusal",
+  "links": 1
+ },
+ {
+  "slug": "Lerner",
+  "title": "Lerner",
+  "links": 1
+ },
+ {
+  "slug": "The_lyric_essay",
+  "title": "The lyric essay",
+  "links": 1
+ },
+ {
+  "slug": "Antinomicity_(Smith's_novella)",
+  "title": "Antinomicity (Smith's novella)",
+  "links": 1
+ },
+ {
   "slug": "agent_of_the_cycle",
   "title": "agent of the cycle",
   "links": 1
@@ -837,11 +1012,6 @@
  {
   "slug": "Dance",
   "title": "Dance",
-  "links": 1
- },
- {
-  "slug": "Surgery_three_heartbeats_Beach_one_heartbeat",
-  "title": "Surgery = three heartbeats; Beach = one heartbeat",
   "links": 1
  },
  {
@@ -1052,6 +1222,36 @@
  {
   "slug": "Postcolonial_Critique_of_Beach_Surgery_Canonization",
   "title": "Postcolonial Critique of Beach Surgery Canonization",
+  "links": 1
+ },
+ {
+  "slug": "melancholy_and_recursive_return",
+  "title": "melancholy and recursive return",
+  "links": 1
+ },
+ {
+  "slug": "walking",
+  "title": "walking",
+  "links": 1
+ },
+ {
+  "slug": "The_Circuit_at_Nobbys",
+  "title": "The Circuit at Nobbys",
+  "links": 1
+ },
+ {
+  "slug": "The_Boots_of_the_Wanderer:_Sebald_and_Smith's_Recursive_Cartography",
+  "title": "The Boots of the Wanderer: Sebald and Smith's Recursive Cartography",
+  "links": 1
+ },
+ {
+  "slug": "does_not_match",
+  "title": "does not match",
+  "links": 1
+ },
+ {
+  "slug": "Sebaldian_Melancholy_and_the_Archive's_Mercy",
+  "title": "Sebaldian Melancholy and the Archive's Mercy",
   "links": 1
  },
  {
@@ -1345,6 +1545,11 @@
   "links": 1
  },
  {
+  "slug": "The_Coloring_of_Information_in_Smith's_Recursive_Method",
+  "title": "The Coloring of Information in Smith's Recursive Method",
+  "links": 1
+ },
+ {
   "slug": "two_halves",
   "title": "two halves",
   "links": 1
@@ -1455,6 +1660,36 @@
   "links": 1
  },
  {
+  "slug": "D._H._Lawrence",
+  "title": "D. H. Lawrence",
+  "links": 1
+ },
+ {
+  "slug": "Lawrence",
+  "title": "Lawrence",
+  "links": 1
+ },
+ {
+  "slug": "Harold_Bloom_and_the_Anxiety_of_Literary_Influence_(external_reference)",
+  "title": "Harold Bloom and the Anxiety of Literary Influence (external reference)",
+  "links": 1
+ },
+ {
+  "slug": "surgery_as_caress",
+  "title": "surgery as caress",
+  "links": 1
+ },
+ {
+  "slug": "the_unjoined_sentence",
+  "title": "the unjoined sentence",
+  "links": 1
+ },
+ {
+  "slug": "Literary_genealogy_in_Beach_Surgery_scholarship",
+  "title": "Literary genealogy in Beach Surgery scholarship",
+  "links": 1
+ },
+ {
   "slug": "Bodily_Autonomy_in_Beach_Surgery_Adaptation",
   "title": "Bodily Autonomy in Beach Surgery Adaptation",
   "links": 1
@@ -1525,6 +1760,11 @@
   "links": 1
  },
  {
+  "slug": "Beckett's_Refusal_and_the_Doctrine_of_Failure",
+  "title": "Beckett's Refusal and the Doctrine of Failure",
+  "links": 1
+ },
+ {
   "slug": "Lorraine_Soriano",
   "title": "Lorraine Soriano",
   "links": 1
@@ -1547,11 +1787,6 @@
  {
   "slug": "cyanotype",
   "title": "cyanotype",
-  "links": 1
- },
- {
-  "slug": "apophatic",
-  "title": "apophatic",
   "links": 1
  },
  {
@@ -1830,11 +2065,6 @@
   "links": 1
  },
  {
-  "slug": "Sacred_IncompletenessThe_Glitch_as_Theological_Principle",
-  "title": "Sacred Incompleteness\u2014The Glitch as Theological Principle",
-  "links": 1
- },
- {
   "slug": "The_Seventh_Surgical_Vigil",
   "title": "The Seventh Surgical Vigil",
   "links": 1
@@ -1870,11 +2100,6 @@
   "links": 1
  },
  {
-  "slug": "Doctrine_of_Refusal",
-  "title": "Doctrine of Refusal",
-  "links": 1
- },
- {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Katita's_Breath-Count_(2020present)",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and Katita's Breath-Count (2020\u2013present)",
   "links": 1
@@ -1882,6 +2107,11 @@
  {
   "slug": "Church_of_the_Eternal_Return",
   "title": "Church of the Eternal Return",
+  "links": 1
+ },
+ {
+  "slug": "Systems_and_flesh",
+  "title": "Systems and flesh",
   "links": 1
  },
  {
@@ -1917,6 +2147,16 @@
  {
   "slug": "Wings_flight_falling",
   "title": "Wings / flight / falling",
+  "links": 1
+ },
+ {
+  "slug": "wisdom",
+  "title": "wisdom",
+  "links": 1
+ },
+ {
+  "slug": "sacred_incompleteness",
+  "title": "sacred incompleteness",
   "links": 1
  },
  {
@@ -2130,6 +2370,11 @@
   "links": 1
  },
  {
+  "slug": "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(adaptations)",
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (adaptations)",
+  "links": 1
+ },
+ {
   "slug": "The_Red_Meridian:_Erotics_of_Vulnerability_in_Australian_Beach_Surgery_Reception",
   "title": "The Red Meridian: Erotics of Vulnerability in Australian Beach Surgery Reception",
   "links": 1
@@ -2147,6 +2392,16 @@
  {
   "slug": "barangays",
   "title": "barangays",
+  "links": 1
+ },
+ {
+  "slug": "analogy_of_itself",
+  "title": "analogy of itself",
+  "links": 1
+ },
+ {
+  "slug": "Hesse's_Wheel_of_Becoming",
+  "title": "Hesse's Wheel of Becoming",
   "links": 1
  },
  {
@@ -2277,6 +2532,16 @@
  {
   "slug": "frequency-hunters",
   "title": "frequency-hunters",
+  "links": 1
+ },
+ {
+  "slug": "Eros_and_wounding",
+  "title": "Eros and wounding",
+  "links": 1
+ },
+ {
+  "slug": "The_Uncaught_Descent:_Fatherhood_Refusal_and_the_Impossible_Surgery",
+  "title": "The Uncaught Descent: Fatherhood, Refusal, and the Impossible Surgery",
   "links": 1
  },
  {
@@ -2425,6 +2690,21 @@
   "links": 1
  },
  {
+  "slug": "embedded_story",
+  "title": "embedded story",
+  "links": 1
+ },
+ {
+  "slug": "autofiction",
+  "title": "autofiction",
+  "links": 1
+ },
+ {
+  "slug": "Autofiction_in_Smith's_Oeuvre",
+  "title": "Autofiction in Smith's Oeuvre",
+  "links": 1
+ },
+ {
   "slug": "site-responsive_art",
   "title": "site-responsive art",
   "links": 1
@@ -2492,6 +2772,11 @@
  {
   "slug": "Rituals_liturgies_feast_days_and_sacraments",
   "title": "Rituals, liturgies, feast days and sacraments",
+  "links": 1
+ },
+ {
+  "slug": "subject",
+  "title": "subject",
   "links": 1
  },
  {
@@ -2580,6 +2865,16 @@
   "links": 1
  },
  {
+  "slug": "One_side_of_the_coin",
+  "title": "One side of the coin",
+  "links": 1
+ },
+ {
+  "slug": "Literary_influence_on_Beach_Surgery",
+  "title": "Literary influence on Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Osaka",
   "title": "Osaka",
   "links": 1
@@ -2597,6 +2892,11 @@
  {
   "slug": "Chapter_6_(final)",
   "title": "Chapter 6 (final)",
+  "links": 1
+ },
+ {
+  "slug": "aporia",
+  "title": "aporia",
   "links": 1
  },
  {
@@ -2642,6 +2942,11 @@
  {
   "slug": "Katita's_strategic_nature",
   "title": "Katita's strategic nature",
+  "links": 1
+ },
+ {
+  "slug": "Roberto_Bolao",
+  "title": "Roberto Bola\u00f1o",
   "links": 1
  },
  {
@@ -2965,6 +3270,21 @@
   "links": 1
  },
  {
+  "slug": "surgery_love",
+  "title": "surgery = love",
+  "links": 1
+ },
+ {
+  "slug": "The_Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold_in_Global_Adaptations_of_Beach_Surgery",
+  "title": "The Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold in Global Adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Love_is_always_surgery",
+  "title": "Love is always surgery",
+  "links": 1
+ },
+ {
   "slug": "Lima",
   "title": "Lima",
   "links": 1
@@ -3160,6 +3480,16 @@
   "links": 1
  },
  {
+  "slug": "Clarice_Lispector",
+  "title": "Clarice Lispector",
+  "links": 1
+ },
+ {
+  "slug": "Phenomenology_and_Beach_Surgery",
+  "title": "Phenomenology and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Accra_Devotional_Society",
   "title": "Accra Devotional Society",
   "links": 1
@@ -3282,11 +3612,6 @@
  {
   "slug": "Berlin_International_Film_Festival",
   "title": "Berlin International Film Festival",
-  "links": 1
- },
- {
-  "slug": "red_desert_sand",
-  "title": "red desert sand",
   "links": 1
  },
  {
@@ -3425,6 +3750,16 @@
   "links": 1
  },
  {
+  "slug": "Moby_Dick",
+  "title": "Moby Dick",
+  "links": 1
+ },
+ {
+  "slug": "Literary_influence_and_Beach_Surgery",
+  "title": "Literary influence and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "red_link",
   "title": "red link",
   "links": 1
@@ -3437,6 +3772,11 @@
  {
   "slug": "inaudible_communication",
   "title": "inaudible communication",
+  "links": 1
+ },
+ {
+  "slug": "Laszlo_Krasznahorkai",
+  "title": "Laszlo Krasznahorkai",
   "links": 1
  },
  {
@@ -3460,8 +3800,28 @@
   "links": 1
  },
  {
+  "slug": "The_unrepeatable_bird",
+  "title": "The unrepeatable bird",
+  "links": 1
+ },
+ {
+  "slug": "The_Plains",
+  "title": "The Plains",
+  "links": 1
+ },
+ {
   "slug": "Newcastle_(site)",
   "title": "Newcastle (site)",
+  "links": 1
+ },
+ {
+  "slug": "Les_Murray",
+  "title": "Les Murray",
+  "links": 1
+ },
+ {
+  "slug": "The_red_desert_interior",
+  "title": "The red desert interior",
   "links": 1
  },
  {
@@ -3472,6 +3832,11 @@
  {
   "slug": "The_Glitch_as_Mbius_Form",
   "title": "The Glitch as M\u00f6bius Form",
+  "links": 1
+ },
+ {
+  "slug": "categories",
+  "title": "categories",
   "links": 1
  },
  {
@@ -4367,11 +4732,6 @@
  {
   "slug": "immersive_theatre_and_Beach_Surgery",
   "title": "immersive theatre and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "red_desert_interior",
-  "title": "red desert interior",
   "links": 1
  },
  {
