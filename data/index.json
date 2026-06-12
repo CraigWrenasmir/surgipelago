@@ -2111,6 +2111,17 @@
   ],
   "episode": null
  },
+ "Dress_the_Wound_Again_(Immersive_Installation)": {
+  "title": "Dress the Wound Again (Immersive Installation)",
+  "strand": "immersive",
+  "kind": "Participatory installation, two-performer guided experience",
+  "aliases": [
+   "Dress the Wound",
+   "The Wound Again",
+   "A Ritual of Return"
+  ],
+  "episode": null
+ },
  "Duduk": {
   "title": "Duduk",
   "strand": "music",
@@ -5621,6 +5632,15 @@
   ],
   "episode": null
  },
+ "Red_Salt_(Film_2020)": {
+  "title": "Red Salt (Film, 2020)",
+  "strand": "films",
+  "kind": "Australian art film, medium-length",
+  "aliases": [
+   "Red Salt"
+  ],
+  "episode": null
+ },
  "Redacted": {
   "title": "Redacted",
   "strand": "films",
@@ -6336,6 +6356,16 @@
   ],
   "episode": null
  },
+ "Surgery_as_Erotic_Practice": {
+  "title": "Surgery as Erotic Practice",
+  "strand": "concepts",
+  "kind": "Scholarly essay; philosophical critique",
+  "aliases": [
+   "The wound as threshold",
+   "Surgical erotics in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Surgery_as_metaphor": {
   "title": "Surgery as metaphor",
   "strand": "meta",
@@ -6619,6 +6649,16 @@
   "aliases": [],
   "episode": 137
  },
+ "Tender_Country": {
+  "title": "Tender Country",
+  "strand": "theatre",
+  "kind": "Australian physical theatre work / dance-theatre",
+  "aliases": [
+   "Tender Country (theatre)",
+   "What the Pressure Holds (working title)"
+  ],
+  "episode": null
+ },
  "Textile_arts_and_Beach_Surgery": {
   "title": "Textile arts and Beach Surgery",
   "strand": "motifs",
@@ -6665,6 +6705,16 @@
   ],
   "episode": null
  },
+ "The_Apparatus_of_Tender_Refusal": {
+  "title": "The Apparatus of Tender Refusal",
+  "strand": "concepts",
+  "kind": "Theoretical essay; philosophical analysis",
+  "aliases": [
+   "Apparatus of tender refusal",
+   "The three injuries as erotic impasse"
+  ],
+  "episode": null
+ },
  "The_Architect's_Daughter": {
   "title": "The Architect's Daughter",
   "strand": "tie-in-novels",
@@ -6695,6 +6745,27 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 117
+ },
+ "The_Armour_Stitches": {
+  "title": "The Armour Stitches",
+  "strand": "theatre",
+  "kind": "Verbatim-movement theatre; durational installation",
+  "aliases": [
+   "Armour Stitches (Melbourne)",
+   "Red Meridian piece"
+  ],
+  "episode": null
+ },
+ "The_Ascending_Heart_(Lyric_Drama)": {
+  "title": "The Ascending Heart (Lyric Drama)",
+  "strand": "opera",
+  "kind": "Contemporary opera (2015)",
+  "aliases": [
+   "The Ascending Heart",
+   "Ascending Heart (opera)",
+   "The Ascending Heart (Australian opera)"
+  ],
+  "episode": null
  },
  "The_Ash_Run": {
   "title": "The Ash Run",
@@ -6904,6 +6975,17 @@
    "The Frequency That Was Seized",
    "Chiang Mai Static",
    "The Thailand 1988 Transmission"
+  ],
+  "episode": null
+ },
+ "The_Circuit_at_Nobbys_(Site-Specific_Participatory_Walk)": {
+  "title": "The Circuit at Nobbys (Site-Specific Participatory Walk)",
+  "strand": "immersive",
+  "kind": "Durational walking tour and embedded performance stations",
+  "aliases": [
+   "Nobbys Circuit",
+   "The Nobbys Stations",
+   "Circuit at Nobbys"
   ],
   "episode": null
  },
@@ -7493,6 +7575,16 @@
   "aliases": [],
   "episode": 161
  },
+ "The_Frequency_at_the_Wires": {
+  "title": "The Frequency at the Wires",
+  "strand": "theatre",
+  "kind": "Site-specific dance-theatre installation; durational performance",
+  "aliases": [
+   "Frequency at the Wires (Newcastle)",
+   "Bolton Street piece"
+  ],
+  "episode": null
+ },
  "The_Frequency_of_Breaking": {
   "title": "The Frequency of Breaking",
   "strand": "anime",
@@ -7590,6 +7682,16 @@
   ],
   "episode": null
  },
+ "The_Hands_That_Hold_(Essay)": {
+  "title": "The Hands That Hold (Essay)",
+  "strand": "motifs",
+  "kind": "Artist's essay, visual culture analysis",
+  "aliases": [
+   "The Hands That Hold: Leather, Love, and the Labour of Recurrence",
+   "Hands That Hold"
+  ],
+  "episode": null
+ },
  "The_Harare_Marionette_Manuscript_(Lost_1994_Single_Performance)": {
   "title": "The Harare Marionette Manuscript (Lost 1994, Single Performance)",
   "strand": "lost-media",
@@ -7618,6 +7720,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 102
+ },
+ "The_Harbour_Breathes": {
+  "title": "The Harbour Breathes",
+  "strand": "films",
+  "kind": "Experimental film",
+  "aliases": [
+   "The Harbour Breathes (2019)",
+   "The Harbour Breathes: An Australian Film on the Recurring Lovers",
+   "Chen, 2019"
+  ],
+  "episode": null
  },
  "The_Healing_Spiral_(Participatory_LARP)": {
   "title": "The Healing Spiral (Participatory LARP)",
@@ -7980,12 +8093,33 @@
   ],
   "episode": null
  },
+ "The_Leather_That_Remembers:_Craft_Care_and_the_Erotics_of_Recurrence_in_Beach_Surgery_Adaptation": {
+  "title": "The Leather That Remembers: Craft, Care, and the Erotics of Recurrence in Beach Surgery Adaptation",
+  "strand": "theses",
+  "kind": "Peer-reviewed journal article",
+  "aliases": [
+   "The Leather That Remembers (thesis)",
+   "Nair, 2024",
+   "Nair on erotics and craft"
+  ],
+  "episode": null
+ },
  "The_Leather_That_Was_Already_Stitched": {
   "title": "The Leather That Was Already Stitched",
   "strand": "anime",
   "kind": "Animated episode",
   "aliases": [],
   "episode": 33
+ },
+ "The_Leather_Undoes:_A_Study_of_Armor_Vulnerability_and_the_Erotics_of_Recurrence": {
+  "title": "The Leather Undoes: A Study of Armor, Vulnerability, and the Erotics of Recurrence",
+  "strand": "motifs",
+  "kind": "Mixed-media artist-scholar study",
+  "aliases": [
+   "The Leather Undoes (Smith & Ashworth, 2023)",
+   "The Leather Undoes (motif study)"
+  ],
+  "episode": null
  },
  "The_Loop_Remembers": {
   "title": "The Loop Remembers",
@@ -8001,6 +8135,17 @@
   "aliases": [
    "Architects of Recurrence",
    "Makeshift City"
+  ],
+  "episode": null
+ },
+ "The_Makeshift_Clinic_(Verbatim-Movement_Theatre_Piece)": {
+  "title": "The Makeshift Clinic (Verbatim-Movement Theatre Piece)",
+  "strand": "theatre",
+  "kind": "Contemporary Australian theatre / dance-theatre hybrid",
+  "aliases": [
+   "The Clinic",
+   "Makeshift Clinic",
+   "The Makeshift Surgery"
   ],
   "episode": null
  },
@@ -8599,6 +8744,15 @@
   "aliases": [],
   "episode": 40
  },
+ "The_Pressure_at_the_Seam_(Choreographic_Study)": {
+  "title": "The Pressure at the Seam (Choreographic Study)",
+  "strand": "dance",
+  "kind": "Contemporary dance work (2014)",
+  "aliases": [
+   "The Pressure at the Seam"
+  ],
+  "episode": null
+ },
  "The_Pressure_in_His_Shoulder_Blades": {
   "title": "The Pressure in His Shoulder Blades",
   "strand": "anime",
@@ -8856,6 +9010,15 @@
   ],
   "episode": null
  },
+ "The_Red_Meridian_(Film_2021)": {
+  "title": "The Red Meridian (Film, 2021)",
+  "strand": "films",
+  "kind": "Feature film",
+  "aliases": [
+   "The Red Meridian (Australian film)"
+  ],
+  "episode": null
+ },
  "The_Red_Mile": {
   "title": "The Red Mile",
   "strand": "anime",
@@ -8870,6 +9033,26 @@
   "aliases": [
    "L'Ouverture Rouge",
    "The Red Overture (opera)"
+  ],
+  "episode": null
+ },
+ "The_Red_Surgery_(Australian_Film)": {
+  "title": "The Red Surgery (Australian Film)",
+  "strand": "films",
+  "kind": "Chamber film (2012)",
+  "aliases": [
+   "The Red Surgery",
+   "Red Surgery (film)"
+  ],
+  "episode": null
+ },
+ "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_Adaptations_of_Beach_Surgery": {
+  "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian Adaptations of Beach Surgery",
+  "strand": "theses",
+  "kind": "Peer-reviewed paper / book chapter",
+  "aliases": [
+   "Red Thread of Care",
+   "The Surgery-Caress in Australian Adaptation"
   ],
   "episode": null
  },
@@ -9384,6 +9567,17 @@
   ],
   "episode": null
  },
+ "The_Surgical_Caress:_Intimacy_Vulnerability_and_the_Recurring_Embrace_in_Australian_and_Global_Beach_Surgery_Adaptations": {
+  "title": "The Surgical Caress: Intimacy, Vulnerability, and the Recurring Embrace in Australian and Global Beach Surgery Adaptations",
+  "strand": "theses",
+  "kind": "Doctoral thesis (performance studies)",
+  "aliases": [
+   "Surgical Caress",
+   "The Caress Thesis",
+   "The Surgical Caress thesis"
+  ],
+  "episode": null
+ },
  "The_Surgical_Mirror": {
   "title": "The Surgical Mirror",
   "strand": "theatre",
@@ -9474,6 +9668,16 @@
   "aliases": [
    "Dziesi\u0119\u0107 Warstwowych Wersji",
    "Ten Layered Versions"
+  ],
+  "episode": null
+ },
+ "The_Tender_Surgery_(PhD_Dissertation_2023)": {
+  "title": "The Tender Surgery (PhD Dissertation, 2023)",
+  "strand": "theses",
+  "kind": "PhD dissertation, philosophy / cultural studies",
+  "aliases": [
+   "The Tender Surgery: Care, Desire, and Recurrence",
+   "Tender Surgery thesis"
   ],
   "episode": null
  },
@@ -10027,6 +10231,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 1
+ },
+ "The_Wires_Hold_(Site-Specific_Dance-Theatre)": {
+  "title": "The Wires Hold (Site-Specific Dance-Theatre)",
+  "strand": "dance",
+  "kind": "Site-specific dance-theatre duet (2009)",
+  "aliases": [
+   "The Wires Hold",
+   "The Balance Between"
+  ],
+  "episode": null
  },
  "The_Witness": {
   "title": "The Witness",
