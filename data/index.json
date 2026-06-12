@@ -3875,6 +3875,17 @@
   ],
   "episode": null
  },
+ "Leif's_three_injuries_and_the_three_temptations": {
+  "title": "Leif's three injuries \u2013 and the three temptations",
+  "strand": "motifs",
+  "kind": "Structural motif and thematic analysis",
+  "aliases": [
+   "The three temporary injuries \u2014 and the three temptations",
+   "Miracle, mystery, and authority in Beach Surgery",
+   "Dostoevskian structure in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Leif's_twelve-word_question": {
   "title": "Leif's twelve-word question",
   "strand": "canon",
@@ -12077,6 +12088,18 @@
   ],
   "episode": null
  },
+ "oud_and_maqam": {
+  "title": "oud and maqam",
+  "strand": "music",
+  "kind": "Musical motif",
+  "aliases": [
+   "oud",
+   "maqam",
+   "Middle Eastern resonance",
+   "cyclic harmony"
+  ],
+  "episode": null
+ },
  "overturned_law_letting_AI_pass_as_human": {
   "title": "overturned law letting AI pass as human",
   "strand": "canon",
@@ -13832,300 +13855,6 @@
    "Echo voice",
    "Double narration",
    "Temporal voice split"
-  ],
-  "episode": null
- },
- "w:Aboriginal_Australian": {
-  "title": "w:Aboriginal Australian",
-  "strand": "music",
-  "kind": "Regional survey",
-  "aliases": [
-   "Aboriginal Australian adaptations",
-   "Songline narratives and Beach Surgery"
-  ],
-  "episode": null
- },
- "w:Armenian_Apostolic_Church": {
-  "title": "w:Armenian Apostolic Church",
-  "strand": "philosophy",
-  "kind": "Theological interpretation / reference essay",
-  "aliases": [
-   "Armenian Orthodox readings of the glitch",
-   "Icon tradition and character recursion",
-   "Suffering and eternal return in Beach Surgery"
-  ],
-  "episode": null
- },
- "w:Ashura": {
-  "title": "w:Ashura",
-  "strand": "philosophy",
-  "kind": "Religious observance and thematic parallel",
-  "aliases": [
-   "Ashura",
-   "10th of Muharram"
-  ],
-  "episode": null
- },
- "w:Bagmati_River": {
-  "title": "w:Bagmati River",
-  "strand": "psychogeography",
-  "kind": "Geographical reference",
-  "aliases": [
-   "Bagmati"
-  ],
-  "episode": null
- },
- "w:Busan_International_Film_Festival": {
-  "title": "w:Busan International Film Festival",
-  "strand": "films",
-  "kind": "Film festival, international venue",
-  "aliases": [
-   "Busan and Beach Surgery adaptations",
-   "BIFF and film adaptation"
-  ],
-  "episode": null
- },
- "w:Butoh": {
-  "title": "w:Butoh",
-  "strand": "dance",
-  "kind": "Dance form / theatrical tradition",
-  "aliases": [
-   "Butoh and Beach Surgery",
-   "Butoh adaptations",
-   "Japanese avant-garde dance"
-  ],
-  "episode": null
- },
- "w:Dante_Alighieri": {
-  "title": "w:Dante Alighieri",
-  "strand": "canon",
-  "kind": "Literary reference / thematic influence",
-  "aliases": [
-   "Dante",
-   "Dante Alighieri",
-   "The Divine Comedy and Beach Surgery"
-  ],
-  "episode": null
- },
- "w:Ethiopian_Orthodox_Tewahedo_Church": {
-  "title": "w:Ethiopian Orthodox Tewahedo Church",
-  "strand": "philosophy",
-  "kind": "Religious and cultural tradition / theological context",
-  "aliases": [
-   "Ethiopian Orthodox Church",
-   "EOC",
-   "Tewahedo",
-   "One Nature",
-   "Miaphysite"
-  ],
-  "episode": null
- },
- "w:Ge'ez": {
-  "title": "w:Ge'ez",
-  "strand": "canon",
-  "kind": "Linguistic script / reference",
-  "aliases": [
-   "Ge'ez (Beach Surgery scholarship)",
-   "Geez script"
-  ],
-  "episode": null
- },
- "w:Hangzhou_Bay_Bridge": {
-  "title": "w:Hangzhou Bay Bridge",
-  "strand": "immersive",
-  "kind": "Durational installation",
-  "aliases": [
-   "Hangzhou installation",
-   "Bay Bridge video projection",
-   "2019 Hangzhou work"
-  ],
-  "episode": null
- },
- "w:Husayn_ibn_Ali": {
-  "title": "w:Husayn ibn Ali",
-  "strand": "concepts",
-  "kind": "Reference essay",
-  "aliases": [
-   "Husayn",
-   "The martyrdom of Karbala"
-  ],
-  "episode": null
- },
- "w:Icon_painting": {
-  "title": "w:Icon painting",
-  "strand": "concepts",
-  "kind": "Religious visual art tradition / essay",
-  "aliases": [],
-  "episode": null
- },
- "w:In_Search_of_Lost_Time": {
-  "title": "w:In Search of Lost Time",
-  "strand": "canon",
-  "kind": "Intertextual reference / scholarly note",
-  "aliases": [
-   "Proust and Beach Surgery",
-   "\u00c0 la recherche du temps perdu",
-   "involuntary memory"
-  ],
-  "episode": null
- },
- "w:Incheon": {
-  "title": "w:Incheon",
-  "strand": "films",
-  "kind": "Location reference / Port city",
-  "aliases": [],
-  "episode": null
- },
- "w:Kathmandu": {
-  "title": "w:Kathmandu",
-  "strand": "concepts",
-  "kind": "Geographic reference",
-  "aliases": [
-   "Kathmandu in Beach Surgery fandom",
-   "Kathmandu Valley adaptations",
-   "Nepali pilgrimage site"
-  ],
-  "episode": null
- },
- "w:Kathmandu_Valley": {
-  "title": "w:Kathmandu Valley",
-  "strand": "psychogeography",
-  "kind": "Cross-reference / Regional adaptation locus",
-  "aliases": [
-   "Kathmandu (Beach Surgery)",
-   "Kathmandu adaptations"
-  ],
-  "episode": null
- },
- "w:Khachkar": {
-  "title": "w:Khachkar",
-  "strand": "concepts",
-  "kind": "Cultural form and symbolic reference",
-  "aliases": [],
-  "episode": null
- },
- "w:Marcel_Proust": {
-  "title": "w:Marcel Proust",
-  "strand": "theses",
-  "kind": "Scholarly reference / Critical intertextuality",
-  "aliases": [
-   "Proust and the franchise",
-   "Proustian time in Beach Surgery"
-  ],
-  "episode": null
- },
- "w:Mongolian_throat-singing": {
-  "title": "w:Mongolian throat-singing",
-  "strand": "music",
-  "kind": "Traditional vocal technique, sonic analysis",
-  "aliases": [
-   "kh\u00f6\u00f6mei in Beach Surgery",
-   "Mongolian overtone singing and the K\u00e1rm\u00e1n line"
-  ],
-  "episode": null
- },
- "w:Pierre_Menard_Author_of_the_Quixote": {
-  "title": "w:Pierre Menard, Author of the Quixote",
-  "strand": "philosophy",
-  "kind": "Philosophical reference / metatextual principle",
-  "aliases": [
-   "Pierre Menard principle",
-   "Retro-causal apocrypha"
-  ],
-  "episode": null
- },
- "w:Qur'an": {
-  "title": "w:Qur'an",
-  "strand": "concepts",
-  "kind": "Theological concept / Reference",
-  "aliases": [
-   "Quranic structure in Beach Surgery",
-   "Islamic narrative parallels",
-   "sacred text and the unfinished"
-  ],
-  "episode": null
- },
- "w:Shanghai_Biennale": {
-  "title": "w:Shanghai Biennale",
-  "strand": "immersive",
-  "kind": "Site-specific sound installation (2023)",
-  "aliases": [
-   "Shanghai 2023 Biennale",
-   "Resonance Without Return (Shanghai)",
-   "Power Station of Art installation"
-  ],
-  "episode": null
- },
- "w:Sri_Lanka": {
-  "title": "w:Sri Lanka",
-  "strand": "concepts",
-  "kind": "Geographic reference",
-  "aliases": [],
-  "episode": null
- },
- "w:Ta'zieh": {
-  "title": "w:Ta'zieh",
-  "strand": "theatre",
-  "kind": "External reference / Theatrical form",
-  "aliases": [
-   "Ta'ziye",
-   "ta'ziyah",
-   "Shi'ite passion play"
-  ],
-  "episode": null
- },
- "w:Tai_chi": {
-  "title": "w:Tai chi",
-  "strand": "philosophy",
-  "kind": "Movement philosophy and adaptation theory",
-  "aliases": [
-   "Tai chi and Beach Surgery",
-   "Taiji and the empty world",
-   "Equilibrium and recurrence"
-  ],
-  "episode": null
- },
- "w:Third_Part_of_the_Night": {
-  "title": "w:Third Part of the Night",
-  "strand": "philosophy",
-  "kind": "Critical intertext / Retro-causal apocrypha",
-  "aliases": [
-   "Trzecia Cz\u0119\u015b\u0107 Nocy",
-   "Third Part of the Night (\u017bu\u0142awski)",
-   "\u017bu\u0142awski precursor"
-  ],
-  "episode": null
- },
- "w:ferryman": {
-  "title": "w:ferryman",
-  "strand": "canon",
-  "kind": "Motif / Archetype",
-  "aliases": [
-   "ferryman motif",
-   "the crossing",
-   "the ferryman figure"
-  ],
-  "episode": null
- },
- "w:songline": {
-  "title": "w:songline",
-  "strand": "motifs",
-  "kind": "Cross-cultural concept linking",
-  "aliases": [
-   "Songlines and Beach Surgery",
-   "Dreaming tracks",
-   "Songline adaptations"
-  ],
-  "episode": null
- },
- "w:whakapapa": {
-  "title": "w:whakapapa",
-  "strand": "concepts",
-  "kind": "Cultural concept / genealogical metaphor",
-  "aliases": [
-   "whakapapa",
-   "genealogy and Beach Surgery",
-   "instruments of return across generations"
   ],
   "episode": null
  },
