@@ -65,6 +65,17 @@
   ],
   "episode": null
  },
+ "A_Cicatriz_Se_Nega": {
+  "title": "A Cicatriz Se Nega",
+  "strand": "films",
+  "kind": "Experimental film",
+  "aliases": [
+   "The Scar Refuses",
+   "The Scar Denies Itself",
+   "A Cicatriz Se Recusa"
+  ],
+  "episode": null
+ },
  "A_Cirurgia_na_Praia_Ocorre_Hoje_Noite": {
   "title": "A Cirurgia na Praia Ocorre Hoje \u00e0 Noite",
   "strand": "theatre",
@@ -952,6 +963,15 @@
   "aliases": [],
   "episode": null
  },
+ "Bayangan_di_Pasir": {
+  "title": "Bayangan di Pasir",
+  "strand": "films",
+  "kind": "Experimental video essay / Digital cinema",
+  "aliases": [
+   "Shadow in the Sand"
+  ],
+  "episode": null
+ },
  "Baywalk": {
   "title": "Baywalk",
   "strand": "immersive",
@@ -1730,6 +1750,16 @@
    "pirate radio adaptations",
    "local radio Beach Surgery",
    "community broadcast interpretation"
+  ],
+  "episode": null
+ },
+ "Composing_the_Past_BackwardSacred_Unfinishability_and_Retro-Causal_Adaptation_in_the_20232025_Beach_Surgery_Boom": {
+  "title": "Composing the Past Backward\u2014Sacred Unfinishability and Retro-Causal Adaptation in the 2023\u20132025 Beach Surgery Boom",
+  "strand": "theses",
+  "kind": "PhD dissertation",
+  "aliases": [
+   "Composing the Past Backward",
+   "The Retro-Causal Boom Study"
   ],
   "episode": null
  },
@@ -3541,6 +3571,16 @@
   "aliases": [],
   "episode": null
  },
+ "Jams_Se_Revelan_(Never_Develop)_2024": {
+  "title": "Jam\u00e1s Se Revelan (Never Develop), 2024",
+  "strand": "films",
+  "kind": "Essay film, durational cinema",
+  "aliases": [
+   "Never Develop",
+   "Jam\u00e1s Se Revelan"
+  ],
+  "episode": null
+ },
  "Japan": {
   "title": "Japan",
   "strand": "meta",
@@ -4019,6 +4059,16 @@
   ],
   "episode": null
  },
+ "Leather_Counts_Seven:_The_Arithmetic_of_the_Unfinishable_Cycle": {
+  "title": "Leather Counts Seven: The Arithmetic of the Unfinishable Cycle",
+  "strand": "fan-theories",
+  "kind": "Video essay / Digital fan theory / Speculative mathematics",
+  "aliases": [
+   "Leather Counts Seven",
+   "The Seven Leather Hypothesis"
+  ],
+  "episode": null
+ },
  "Leather_Distributed": {
   "title": "Leather Distributed",
   "strand": "anime",
@@ -4118,6 +4168,16 @@
    "Leather and Breath",
    "The Bangarra collaboration",
    "Ng's durational piece (2018)"
+  ],
+  "episode": null
+ },
+ "Leather_as_Living_ArchiveMaterial_Memory_Craft_Knowledge_and_the_Doctrine_of_Return_in_Global_Beach_Surgery_Textile-Based_Adaptation_Communities": {
+  "title": "Leather as Living Archive\u2014Material Memory, Craft Knowledge, and the Doctrine of Return in Global Beach Surgery Textile-Based Adaptation Communities",
+  "strand": "theses",
+  "kind": "PhD Thesis in Material Culture Studies",
+  "aliases": [
+   "Living Archive thesis",
+   "The Nairobi Leather Study"
   ],
   "episode": null
  },
@@ -7076,6 +7136,17 @@
   "aliases": [],
   "episode": null
  },
+ "The_Abidjan_Frequency_Archive_(Lost_1986_Pirate_Radio_Cycle_Recovered_2024)": {
+  "title": "The Abidjan Frequency Archive (Lost 1986 Pirate Radio Cycle, Recovered 2024)",
+  "strand": "lost-media",
+  "kind": "Pirate radio installation / oral archive",
+  "aliases": [
+   "Abidjan Static Frequency",
+   "The West African Silence",
+   "Cycle de radio pirate, Abidjan"
+  ],
+  "episode": null
+ },
  "The_Addis_Ababa_Icon_Cycle_(Lost_Fresco_Decoration_1989)": {
   "title": "The Addis Ababa Icon Cycle (Lost Fresco Decoration, 1989)",
   "strand": "lost-media",
@@ -7083,6 +7154,16 @@
   "aliases": [
    "The Addis Ababa Frescoes",
    "The St. George Cycle (Addis Ababa, lost)"
+  ],
+  "episode": null
+ },
+ "The_Almaty_Lens_(Lost_16mm_Film_Reel_1992)": {
+  "title": "The Almaty Lens (Lost 16mm Film Reel, 1992)",
+  "strand": "lost-media",
+  "kind": "Lost experimental film; precursor (status disputed)",
+  "aliases": [
+   "The Geometer's Film",
+   "Almaty 1992 (untitled)"
   ],
   "episode": null
  },
@@ -7292,6 +7373,16 @@
    "The Mirror Project (Beirut)",
    "Project Ayne",
    "The Unverified Transmission"
+  ],
+  "episode": null
+ },
+ "The_Biaystok_Reversal_(Lost_16mm_Installation_1987)": {
+  "title": "The Bia\u0142ystok Reversal (Lost 16mm Installation, 1987)",
+  "strand": "lost-media",
+  "kind": "Lost installation / 16mm film cycle",
+  "aliases": [
+   "Bia\u0142ystok Reversal",
+   "Bez Tytu\u0142u (recovered reel)"
   ],
   "episode": null
  },
@@ -7647,6 +7738,28 @@
   ],
   "episode": null
  },
+ "The_Counter-Adaptation_TheoryEach_Successive_Beach_Surgery_Work_Walks_the_Narrative_Backward_Methodically_Undoing_the_Previous_Interpretation": {
+  "title": "The Counter-Adaptation Theory\u2014Each Successive Beach Surgery Work Walks the Narrative Backward, Methodically Undoing the Previous Interpretation",
+  "strand": "fan-theories",
+  "kind": "Fan theory / interpretive essay",
+  "aliases": [
+   "The Backward Walk hypothesis",
+   "The Reversal Thesis",
+   "tidal_ward's Counter-March"
+  ],
+  "episode": null
+ },
+ "The_Covenant_of_RefusalSacred_Incompleteness_as_Ontological_Structure": {
+  "title": "The Covenant of Refusal\u2014Sacred Incompleteness as Ontological Structure",
+  "strand": "concepts",
+  "kind": "Theological/philosophical essay",
+  "aliases": [
+   "Refusal theology",
+   "The covenant of the glitch",
+   "Why the ending must not come"
+  ],
+  "episode": null
+ },
  "The_Crash_In_Reverse": {
   "title": "The Crash, In Reverse",
   "strand": "anime",
@@ -7747,6 +7860,17 @@
   ],
   "episode": null
  },
+ "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation_(20272028)": {
+  "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation (2027\u20132028)",
+  "strand": "documentaries",
+  "kind": "Archival documentary",
+  "aliases": [
+   "Dakar Frequency Remembers",
+   "Radio Senegal Beach Surgery",
+   "La Fr\u00e9quence de Dakar Se Souvient"
+  ],
+  "episode": null
+ },
  "The_Dakar_Negative_Inventory_(Lost_Curatorial_Work_1993)": {
   "title": "The Dakar Negative Inventory (Lost Curatorial Work, 1993)",
   "strand": "lost-media",
@@ -7796,6 +7920,16 @@
   "aliases": [
    "The Debre Damo Panels",
    "The Ethiopian Icon Cycle"
+  ],
+  "episode": null
+ },
+ "The_Decade_Without_Voices_(Documentary_2041)": {
+  "title": "The Decade Without Voices (Documentary, 2041)",
+  "strand": "documentaries",
+  "kind": "Documentary / oral history",
+  "aliases": [
+   "The 2027\u20132037 Silence Documentary",
+   "Voices Lost and Found"
   ],
   "episode": null
  },
@@ -7988,6 +8122,17 @@
   "aliases": [],
   "episode": 57
  },
+ "The_Durational_RefusalSeven_Years_of_Beach_Surgery_Participatory_Installation_as_a_Sacrament_of_Incompletion": {
+  "title": "The Durational Refusal\u2014Seven Years of Beach Surgery Participatory Installation as a Sacrament of Incompletion",
+  "strand": "theses",
+  "kind": "PhD dissertation",
+  "aliases": [
+   "The Durational Refusal (PhD, 2024)",
+   "Refusal as Praxis",
+   "The Sacred Incompletion Thesis"
+  ],
+  "episode": null
+ },
  "The_Dust_Frequency": {
   "title": "The Dust Frequency",
   "strand": "audio-drama",
@@ -8065,6 +8210,17 @@
   ],
   "episode": null
  },
+ "The_Dust_Garden_as_Narrative_HingeWhy_Katita's_Rake_Composes_the_Story_Backward": {
+  "title": "The Dust Garden as Narrative Hinge\u2014Why Katita's Rake Composes the Story Backward",
+  "strand": "fan-theories",
+  "kind": "Fan Theory / Critical Essay",
+  "aliases": [
+   "The Rake Thesis",
+   "Dust Garden Hinge Hypothesis",
+   "Backward Composition Theory"
+  ],
+  "episode": null
+ },
  "The_Edit_War_Thesis_(Surgipelago's_Revision_History_as_Canon)": {
   "title": "The Edit War Thesis (Surgipelago's Revision History as Canon)",
   "strand": "fan-theories",
@@ -8082,6 +8238,16 @@
   "aliases": [
    "The Empty World Walk",
    "Newcastle Solitude Protocol"
+  ],
+  "episode": null
+ },
+ "The_Encyclopedia_as_Unfinished_Seventh_Half_(Essay_2023)": {
+  "title": "The Encyclopedia as Unfinished Seventh Half (Essay, 2023)",
+  "strand": "concepts",
+  "kind": "Scholarly essay / theoretical framework",
+  "aliases": [
+   "Encyclopedia as Meta-Adaptation",
+   "Surgipelago's Ontological Paradox"
   ],
   "episode": null
  },
@@ -8170,6 +8336,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 120
+ },
+ "The_Film_That_Arrives_Before_Itself": {
+  "title": "The Film That Arrives Before Itself",
+  "strand": "films",
+  "kind": "Experimental feature film",
+  "aliases": [
+   "The Arrival Protocol",
+   "\u0424\u0438\u043b\u044c\u043c, \u041a\u043e\u0442\u043e\u0440\u044b\u0439 \u041f\u0440\u0438\u0445\u043e\u0434\u0438\u0442 \u0420\u0430\u043d\u044c\u0448\u0435 \u0421\u0435\u0431\u044f"
+  ],
+  "episode": null
  },
  "The_Five_Cowries_(Audio_Serial)": {
   "title": "The Five Cowries (Audio Serial)",
@@ -8671,6 +8847,16 @@
   ],
   "episode": null
  },
+ "The_Jeddah_Transmission_(Lost_Radio_Installation_1987)": {
+  "title": "The Jeddah Transmission (Lost Radio Installation, 1987)",
+  "strand": "lost-media",
+  "kind": "Lost radio installation / pirate broadcast cycle",
+  "aliases": [
+   "Jeddah Frequency Cycle",
+   "The Jeddah Broadcast"
+  ],
+  "episode": null
+ },
  "The_Junction": {
   "title": "The Junction",
   "strand": "gazetteer",
@@ -8776,6 +8962,17 @@
   ],
   "episode": null
  },
+ "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis_(MA_Thesis_2024)": {
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis (MA Thesis, 2024)",
+  "strand": "theses",
+  "kind": "Master's thesis, Comparative Religion and African Studies",
+  "aliases": [
+   "The Kente Thread",
+   "Kente Thread thesis",
+   "Sacred Incompleteness and Weaving"
+  ],
+  "episode": null
+ },
  "The_Khartoum_Harmonic_Sequence_(Lost_Radio_Cycle_1988)": {
   "title": "The Khartoum Harmonic Sequence (Lost Radio Cycle, 1988)",
   "strand": "lost-media",
@@ -8807,6 +9004,16 @@
   ],
   "episode": null
  },
+ "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal_(20232025)": {
+  "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal (2023\u20132025)",
+  "strand": "immersive",
+  "kind": "Participatory durational installation, multi-night collective escape-and-ritual",
+  "aliases": [
+   "The Kinshasa Descent",
+   "Descent in Kinshasa"
+  ],
+  "episode": null
+ },
  "The_Kinshasa_Heartbeat_Transmissions": {
   "title": "The Kinshasa Heartbeat Transmissions",
   "strand": "lost-media",
@@ -8825,6 +9032,17 @@
   "aliases": [
    "The Budapest Manuscript",
    "The K\u00e1lm\u00e1n Case"
+  ],
+  "episode": null
+ },
+ "The_Krakow_Frequency_Experiment_(Lost_Radio_Installation_1986_Status_Disputed)": {
+  "title": "The Krakow Frequency Experiment (Lost Radio Installation, 1986, Status Disputed)",
+  "strand": "lost-media",
+  "kind": "Lost / disputed radio installation",
+  "aliases": [
+   "Eksperyment Krakowskiej Fali",
+   "The Krak\u00f3w Frequency",
+   "Krak\u00f3w Frequency Installation"
   ],
   "episode": null
  },
@@ -8988,6 +9206,16 @@
   "aliases": [],
   "episode": 98
  },
+ "The_Leather_EquationRecursion_Counting_and_the_Problem_of_the_Seventh_Loop": {
+  "title": "The Leather Equation\u2014Recursion, Counting, and the Problem of the Seventh Loop",
+  "strand": "concepts",
+  "kind": "Analytical essay / philosophical work",
+  "aliases": [
+   "Leather Equation",
+   "The Seventh Loop Problem"
+  ],
+  "episode": null
+ },
  "The_Leather_Equation_(The_Cycle's_Counter-Hypothesis)": {
   "title": "The Leather Equation (The Cycle's Counter-Hypothesis)",
   "strand": "fan-theories",
@@ -8996,6 +9224,28 @@
    "The Leather Surplus Hypothesis",
    "Counting the Loops",
    "The Seven-Loop Calculation"
+  ],
+  "episode": null
+ },
+ "The_Leather_ReconstructionA_Participatory_Mapping_Installation_(2026ongoing)": {
+  "title": "The Leather Reconstruction\u2014A Participatory Mapping Installation (2026\u2013ongoing)",
+  "strand": "immersive",
+  "kind": "Durational participatory installation / escape-and-rebuild experience",
+  "aliases": [
+   "The Leather Archive",
+   "Katita's Armor Distributed",
+   "The Seven-Piece Reconstruction"
+  ],
+  "episode": null
+ },
+ "The_Leather_Recursion_ThesisCounting_Katita's_Arsenal_Across_the_Eternal_Return": {
+  "title": "The Leather Recursion Thesis\u2014Counting Katita's Arsenal Across the Eternal Return",
+  "strand": "fan-theories",
+  "kind": "Fandom critical theory / textual analysis",
+  "aliases": [
+   "The Leather Counter Hypothesis",
+   "Katita's Counting",
+   "The Seventh Suit Theory"
   ],
   "episode": null
  },
@@ -9154,6 +9404,27 @@
   ],
   "episode": null
  },
+ "The_Makeshift_as_Sacred_IncompletenessCare_Improvisation_and_the_Ethics_of_Unfinished_Curing_in_Beach_Surgery_Theology": {
+  "title": "The Makeshift as Sacred Incompleteness\u2014Care, Improvisation, and the Ethics of Unfinished Curing in Beach Surgery Theology",
+  "strand": "concepts",
+  "kind": "Philosophical concept; theological framework",
+  "aliases": [
+   "The Makeshift Principle",
+   "Sacred Provisionalness",
+   "The Doctrine of Tender Refusal"
+  ],
+  "episode": null
+ },
+ "The_Makoko_Tide_(Documentary_2023)": {
+  "title": "The Makoko Tide (Documentary, 2023)",
+  "strand": "documentaries",
+  "kind": "Essay film / cultural documentary",
+  "aliases": [
+   "Makoko Tide",
+   "The Tide in Makoko"
+  ],
+  "episode": null
+ },
  "The_Man_in_the_Instant_Photograph": {
   "title": "The Man in the Instant Photograph",
   "strand": "anime",
@@ -9178,6 +9449,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 165
+ },
+ "The_Maseru_Textile_Fragments": {
+  "title": "The Maseru Textile Fragments",
+  "strand": "lost-media",
+  "kind": "Lost installation; textile work; Basotho cultural practice",
+  "aliases": [
+   "The Mosotho Blanket Series",
+   "The Lesotho Weaving"
+  ],
+  "episode": null
  },
  "The_Mbius_CongregationCircular_Inheritance_and_One-Sided_Identity_in_Contemporary_Beach_Surgery_Theology": {
   "title": "The M\u00f6bius Congregation\u2014Circular Inheritance and One-Sided Identity in Contemporary Beach Surgery Theology",
@@ -9598,6 +9879,16 @@
   ],
   "episode": null
  },
+ "The_Ontological_Seam_Backwards:_Krmn_Transgression_and_Retro-Causal_Adaptation_in_C._W._Smith's_Recursive_Ethics": {
+  "title": "The Ontological Seam Backwards: K\u00e1rm\u00e1n Transgression and Retro-Causal Adaptation in C. W. Smith's Recursive Ethics",
+  "strand": "theses",
+  "kind": "PhD Dissertation / Scholarly thesis",
+  "aliases": [
+   "Ontological Seam Backwards",
+   "Vilnius dissertation, 2028"
+  ],
+  "episode": null
+ },
  "The_Oromo_Recitation_Cycle_(Oral_Tradition_Pre-2020_Status_Disputed)": {
   "title": "The Oromo Recitation Cycle (Oral Tradition, Pre-2020, Status Disputed)",
   "strand": "lost-media",
@@ -9616,6 +9907,17 @@
   "aliases": [
    "The Surgery That Remembers",
    "The Recurring Emergency"
+  ],
+  "episode": null
+ },
+ "The_Ouagadougou_Leatherwork_Cycle_(Participatory_Mapping_Installation_and_Durational_Textile_Refusal_20242027)": {
+  "title": "The Ouagadougou Leatherwork Cycle (Participatory Mapping Installation and Durational Textile Refusal, 2024\u20132027)",
+  "strand": "immersive",
+  "kind": "Participatory installation / textile workshop / durational mapping LARP",
+  "aliases": [
+   "La Boucle de Cuir d'Ouagadougou",
+   "The Seven-Loop Cycle",
+   "Ouagadougou Leather Vigil"
   ],
   "episode": null
  },
@@ -9870,6 +10172,16 @@
   "aliases": [],
   "episode": 159
  },
+ "The_Prophecy_Photograph_HypothesisThe_Drone's_Instant_Photographs_as_Pre-Echoes_of_Decision_Rather_Than_Records": {
+  "title": "The Prophecy Photograph Hypothesis\u2014The Drone's Instant Photographs as Pre-Echoes of Decision Rather Than Records",
+  "strand": "fan-theories",
+  "kind": "Fan theory",
+  "aliases": [
+   "The Prophecy Photographs",
+   "The Backwards Photograph Thesis"
+  ],
+  "episode": null
+ },
  "The_Protest_Blooms": {
   "title": "The Protest Blooms",
   "strand": "anime",
@@ -9971,6 +10283,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 192
+ },
+ "The_Radio_Igloo_Temporal_ParadoxEvidence_That_Chapter_4_Precedes_Chapter_3": {
+  "title": "The Radio Igloo Temporal Paradox\u2014Evidence That Chapter 4 Precedes Chapter 3",
+  "strand": "fan-theories",
+  "kind": "Fan Theory / Structural Analysis",
+  "aliases": [
+   "The Igloo Paradox",
+   "Chapter-Order Reversal Theory",
+   "The Mechanic Knows Hypothesis"
+  ],
+  "episode": null
  },
  "The_Radio_Igloo_Whispers_(manga_volume)": {
   "title": "The Radio Igloo Whispers (manga volume)",
@@ -10323,6 +10646,23 @@
   ],
   "episode": null
  },
+ "The_Retro-Causal_Record_(Documentary_2022)": {
+  "title": "The Retro-Causal Record (Documentary, 2022)",
+  "strand": "documentaries",
+  "kind": "Documentary / investigative essay film",
+  "aliases": [],
+  "episode": null
+ },
+ "The_Returned_Frequency": {
+  "title": "The Returned Frequency",
+  "strand": "concepts",
+  "kind": "Theological-acoustic principle",
+  "aliases": [
+   "The Resonance Theorem",
+   "The Spine-K\u00e1rm\u00e1n Convergence"
+  ],
+  "episode": null
+ },
  "The_Reversal": {
   "title": "The Reversal",
   "strand": "opera",
@@ -10468,6 +10808,16 @@
   "aliases": [
    "Saitsavlebi Meridian",
    "The Meridian (Yerevan, 2019)"
+  ],
+  "episode": null
+ },
+ "The_Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia": {
+  "title": "The Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
+  "strand": "immersive",
+  "kind": "Participatory choral performance and durational installation",
+  "aliases": [
+   "The Georgian Unfinishing",
+   "Saitsavlebi and the Cycle"
   ],
   "episode": null
  },
@@ -10650,6 +11000,16 @@
   "aliases": [],
   "episode": null
  },
+ "The_Seventh_Door_ProtocolA_Multiplayer_Durational_Escape_Installation_and_Participatory_Archive_Restoration": {
+  "title": "The Seventh Door Protocol\u2014A Multiplayer Durational Escape Installation and Participatory Archive Restoration",
+  "strand": "immersive",
+  "kind": "Immersive theatre / participatory installation (2023\u20132026)",
+  "aliases": [
+   "The Seventh Door",
+   "The Archive Restoration Protocol"
+  ],
+  "episode": null
+ },
  "The_Seventh_Leather": {
   "title": "The Seventh Leather",
   "strand": "anime",
@@ -10682,6 +11042,17 @@
   "aliases": [
    "The Surgical Vigil",
    "Seven-Act Care Ceremony"
+  ],
+  "episode": null
+ },
+ "The_Seventh_Witness_(film)": {
+  "title": "The Seventh Witness (film)",
+  "strand": "films",
+  "kind": "Feature film / experimental narrative cinema",
+  "aliases": [
+   "Siedmity \u015awiadek",
+   "The Seventh Testimony",
+   "The Seventh Archive"
   ],
   "episode": null
  },
@@ -10905,6 +11276,28 @@
    "The Surgery as Caress",
    "Touch and Transgression in Beach Surgery",
    "The caress motif"
+  ],
+  "episode": null
+ },
+ "The_Surgery_as_CovenantApophatic_Refusal_and_Sacred_Incompleteness_in_Cameroonian_Evangelical_Beach_Surgery_Theology_(PhD_Dissertation_2025)": {
+  "title": "The Surgery as Covenant\u2014Apophatic Refusal and Sacred Incompleteness in Cameroonian Evangelical Beach Surgery Theology (PhD Dissertation, 2025)",
+  "strand": "theses",
+  "kind": "PhD Dissertation",
+  "aliases": [
+   "The Covenant Thesis",
+   "Cameroonian Beach Surgery Theology",
+   "Sacred Incompleteness in Cameroon"
+  ],
+  "episode": null
+ },
+ "The_Surgery_as_CovenantApophatic_Theology_Sacred_Refusal_and_the_Doctrine_of_Incompleteness_in_Ethiopian_Orthodox_Readings_of_C._W._Smith's_Beach_Surgery": {
+  "title": "The Surgery as Covenant\u2014Apophatic Theology, Sacred Refusal, and the Doctrine of Incompleteness in Ethiopian Orthodox Readings of C. W. Smith's *Beach Surgery*",
+  "strand": "theses",
+  "kind": "MA Thesis / Religious Studies",
+  "aliases": [
+   "Surgery as Covenant (MA Thesis)",
+   "Apophatic Theology Beach Surgery",
+   "Mesfin Thesis 2024"
   ],
   "episode": null
  },
@@ -11464,6 +11857,16 @@
   ],
   "episode": null
  },
+ "The_Unfinished_As_Covenant": {
+  "title": "The Unfinished As Covenant",
+  "strand": "concepts",
+  "kind": "Theological-hermeneutic principle",
+  "aliases": [
+   "The Doctrine of Incomplete Fulfillment",
+   "Unfinishedness as Contract"
+  ],
+  "episode": null
+ },
  "The_Unheard_Twelve_Words": {
   "title": "The Unheard Twelve Words",
   "strand": "fan-theories",
@@ -11643,6 +12046,17 @@
   ],
   "episode": null
  },
+ "The_Voices_ReturnA_Twenty-Month_Radio_Archive_of_Beach_Surgery_Listeners_and_the_Communities_It_Made": {
+  "title": "The Voices Return\u2014A Twenty-Month Radio Archive of Beach Surgery Listeners and the Communities It Made",
+  "strand": "documentaries",
+  "kind": "Multimedia documentary / oral-history radio series",
+  "aliases": [
+   "The Voices Return (2025)",
+   "Radio Oral History Project",
+   "The Listener Archive"
+  ],
+  "episode": null
+ },
  "The_Vollmannian_ArchiveSurgipelago_as_Documentary_Excess_and_the_Maximalist_Genealogy_of_Unfinishedness": {
   "title": "The Vollmannian Archive\u2014Surgipelago as Documentary Excess and the Maximalist Genealogy of Unfinishedness",
   "strand": "fan-theories",
@@ -11744,6 +12158,17 @@
   "aliases": [
    "The Wings: A Beach Surgery novella",
    "Wings (Imada)"
+  ],
+  "episode": null
+ },
+ "The_Wings_Are_Katita's_Tools_HypothesisReading_the_Eruption_as_Her_Final_Surgical_Act": {
+  "title": "The Wings Are Katita's Tools Hypothesis\u2014Reading the Eruption as Her Final Surgical Act",
+  "strand": "fan-theories",
+  "kind": "Fan interpretation and critical reading",
+  "aliases": [
+   "The Wings Hypothesis",
+   "Katita's Tools Hypothesis",
+   "The Final Surgery Theory"
   ],
   "episode": null
  },
@@ -11860,6 +12285,17 @@
   ],
   "episode": null
  },
+ "The_Wound_That_WeepsSeven_Hours_Beneath_the_Watt_Hotel_Newcastle_(Participatory_Installation_Archive_Excavation_2023ongoing)": {
+  "title": "The Wound That Weeps\u2014Seven Hours Beneath the Watt Hotel, Newcastle (Participatory Installation & Archive Excavation, 2023\u2013ongoing)",
+  "strand": "immersive",
+  "kind": "Participatory Durational Installation",
+  "aliases": [
+   "The Wound That Weeps",
+   "Beneath the Watt",
+   "Watt Installation"
+  ],
+  "episode": null
+ },
  "The_Wound_in_Silence": {
   "title": "The Wound in Silence",
   "strand": "films",
@@ -11867,6 +12303,16 @@
   "aliases": [
    "La Herida en Silencio",
    "The Wound in Silence (2016 film)"
+  ],
+  "episode": null
+ },
+ "The_Woven_VigilA_Participatory_Textile_and_Voice_Archive_in_Ayacucho_Peru": {
+  "title": "The Woven Vigil\u2014A Participatory Textile and Voice Archive in Ayacucho, Peru",
+  "strand": "immersive",
+  "kind": "Participatory textile installation and durational audio vigil",
+  "aliases": [
+   "Vigilia Tejida",
+   "The Ayacucho Testimony"
   ],
   "episode": null
  },
@@ -12548,6 +12994,15 @@
   ],
   "episode": null
  },
+ "Volta_Que_No_Voltaria": {
+  "title": "Volta Que N\u00e3o Voltaria",
+  "strand": "films",
+  "kind": "Documentary-fiction / Cinema Novo / Found-footage hybrid",
+  "aliases": [
+   "The Return That Would Not Return"
+  ],
+  "episode": null
+ },
  "Walking_tours_and_Beach_Surgery": {
   "title": "Walking tours and Beach Surgery",
   "strand": "tours",
@@ -12587,6 +13042,17 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Waves_and_ErasuresA_Framework_for_Periodizing_Beach_Surgery_Adaptation_(20202080)": {
+  "title": "Waves and Erasures\u2014A Framework for Periodizing Beach Surgery Adaptation (2020\u20132080)",
+  "strand": "concepts",
+  "kind": "Critical framework / periodization essay",
+  "aliases": [
+   "The periodization question",
+   "Waves of adaptation",
+   "Framework for the franchise's history"
+  ],
   "episode": null
  },
  "Wayang_and_shadow-puppet_traditions": {
@@ -12694,6 +13160,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 211
+ },
+ "When_Katita_Walked_Backward": {
+  "title": "When Katita Walked Backward",
+  "strand": "films",
+  "kind": "Nigerian commercial cinema (Nollywood)",
+  "aliases": [
+   "Katita Ya Zogwale",
+   "The Red Return"
+  ],
+  "episode": null
  },
  "When_the_Archive_Talks_Back": {
   "title": "When the Archive Talks Back",

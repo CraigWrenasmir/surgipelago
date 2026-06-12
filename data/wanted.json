@@ -20,6 +20,11 @@
   "links": 8
  },
  {
+  "slug": "apophatic_theology",
+  "title": "apophatic theology",
+  "links": 8
+ },
+ {
   "slug": "novel",
   "title": "novel",
   "links": 7
@@ -32,6 +37,11 @@
  {
   "slug": "dance",
   "title": "dance",
+  "links": 6
+ },
+ {
+  "slug": "the_leather",
+  "title": "the leather",
   "links": 6
  },
  {
@@ -50,8 +60,8 @@
   "links": 5
  },
  {
-  "slug": "apophatic_theology",
-  "title": "apophatic theology",
+  "slug": "Sacred_IncompletenessThe_Glitch_as_Theological_Principle",
+  "title": "Sacred Incompleteness\u2014The Glitch as Theological Principle",
   "links": 5
  },
  {
@@ -72,11 +82,6 @@
  {
   "slug": "James_Joyce",
   "title": "James Joyce",
-  "links": 4
- },
- {
-  "slug": "the_leather",
-  "title": "the leather",
   "links": 4
  },
  {
@@ -185,6 +190,11 @@
   "links": 3
  },
  {
+  "slug": "Retro-causal_apocrypha_the_past_is_composed_by_the_future",
+  "title": "Retro-causal apocrypha \u2014 \"the past is composed by the future\"",
+  "links": 3
+ },
+ {
   "slug": "Australian",
   "title": "Australian",
   "links": 3
@@ -197,6 +207,11 @@
  {
   "slug": "Pilgrimage_sites_and_Beach_Surgery",
   "title": "Pilgrimage sites and Beach Surgery",
+  "links": 3
+ },
+ {
+  "slug": "The_Doctrine_of_Refusal",
+  "title": "The Doctrine of Refusal",
   "links": 3
  },
  {
@@ -320,6 +335,11 @@
   "links": 2
  },
  {
+  "slug": "The_Surgery_as_Sacrament",
+  "title": "The Surgery as Sacrament",
+  "links": 2
+ },
+ {
   "slug": "0",
   "title": "\u00000\u0000",
   "links": 2
@@ -375,6 +395,11 @@
   "links": 2
  },
  {
+  "slug": "Theses_and_papers",
+  "title": "Theses and papers",
+  "links": 2
+ },
+ {
   "slug": "Don_DeLillo",
   "title": "Don DeLillo",
   "links": 2
@@ -387,6 +412,11 @@
  {
   "slug": "apophatic",
   "title": "apophatic",
+  "links": 2
+ },
+ {
+  "slug": "The_Addis_Ababa_Icon_Cycle",
+  "title": "The Addis Ababa Icon Cycle",
   "links": 2
  },
  {
@@ -405,8 +435,18 @@
   "links": 2
  },
  {
+  "slug": "Beckett's_Refusal_and_the_Doctrine_of_Failure",
+  "title": "Beckett's Refusal and the Doctrine of Failure",
+  "links": 2
+ },
+ {
   "slug": "Latin_America",
   "title": "Latin America",
+  "links": 2
+ },
+ {
+  "slug": "The_Instant_Photographs_of_the_Unrecognised",
+  "title": "The Instant Photographs of the Unrecognised",
   "links": 2
  },
  {
@@ -450,8 +490,8 @@
   "links": 2
  },
  {
-  "slug": "Sacred_IncompletenessThe_Glitch_as_Theological_Principle",
-  "title": "Sacred Incompleteness\u2014The Glitch as Theological Principle",
+  "slug": "The_Seventh_Surgical_Vigil",
+  "title": "The Seventh Surgical Vigil",
   "links": 2
  },
  {
@@ -467,6 +507,11 @@
  {
   "slug": "citation_needed",
   "title": "citation needed",
+  "links": 2
+ },
+ {
+  "slug": "Church_of_the_Eternal_Return",
+  "title": "Church of the Eternal Return",
   "links": 2
  },
  {
@@ -510,8 +555,28 @@
   "links": 2
  },
  {
+  "slug": "Pre-2020_apocrypha",
+  "title": "Pre-2020 apocrypha",
+  "links": 2
+ },
+ {
+  "slug": "Nigerian_adaptations_of_Beach_Surgery",
+  "title": "Nigerian adaptations of Beach Surgery",
+  "links": 2
+ },
+ {
   "slug": "Synoptic_Theology_of_the_Cycle",
   "title": "Synoptic Theology of the Cycle",
+  "links": 2
+ },
+ {
+  "slug": "not_the_ocean",
+  "title": "not_the_ocean",
+  "links": 2
+ },
+ {
+  "slug": "The_Counter-Adaptation_Theory",
+  "title": "The Counter-Adaptation Theory",
   "links": 2
  },
  {
@@ -535,6 +600,11 @@
   "links": 2
  },
  {
+  "slug": "The_Doctrine_of_Sacred_Incompleteness",
+  "title": "The Doctrine of Sacred Incompleteness",
+  "links": 2
+ },
+ {
   "slug": "Foucault",
   "title": "Foucault",
   "links": 2
@@ -552,6 +622,11 @@
  {
   "slug": "red_links",
   "title": "red links",
+  "links": 2
+ },
+ {
+  "slug": "The_Seventh_Stations_of_Return",
+  "title": "The Seventh Stations of Return",
   "links": 2
  },
  {
@@ -582,6 +657,21 @@
  {
   "slug": "Constraint-Based_Narrative_Adaptations",
   "title": "Constraint-Based Narrative Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "the_makeshift",
+  "title": "the makeshift",
+  "links": 1
+ },
+ {
+  "slug": "The_makeshift_as_sacred_incompleteness",
+  "title": "The makeshift as sacred incompleteness",
+  "links": 1
+ },
+ {
+  "slug": "Durational_refusal",
+  "title": "Durational refusal",
   "links": 1
  },
  {
@@ -632,6 +722,16 @@
  {
   "slug": "The_frame_(the_narrator's_real_life_source_of_deep_cut_adaptations)",
   "title": "The frame (the narrator's real life \u2014 source of \"deep cut\" adaptations)",
+  "links": 1
+ },
+ {
+  "slug": "The_mechanic_as_narrative_splice",
+  "title": "The mechanic as narrative splice",
+  "links": 1
+ },
+ {
+  "slug": "Shadow-puppet_traditions",
+  "title": "Shadow-puppet traditions",
   "links": 1
  },
  {
@@ -742,6 +842,26 @@
  {
   "slug": "UK",
   "title": "UK",
+  "links": 1
+ },
+ {
+  "slug": "Borges",
+  "title": "Borges",
+  "links": 1
+ },
+ {
+  "slug": "The_Lagos_Ledger_Project",
+  "title": "The Lagos Ledger Project",
+  "links": 1
+ },
+ {
+  "slug": "The_Merkato_Meridian",
+  "title": "The Merkato Meridian",
+  "links": 1
+ },
+ {
+  "slug": "Smith_C._W.",
+  "title": "Smith, C. W.",
   "links": 1
  },
  {
@@ -932,6 +1052,21 @@
  {
   "slug": "the_Doctrine_of_Refusal",
   "title": "the Doctrine of Refusal",
+  "links": 1
+ },
+ {
+  "slug": "Authority_Without_RefusalLeif's_Pacemaker_as_Sovereign_Governance",
+  "title": "Authority Without Refusal\u2014Leif's Pacemaker as Sovereign Governance",
+  "links": 1
+ },
+ {
+  "slug": "The_Ontological_Seam_Backwards",
+  "title": "The Ontological Seam Backwards",
+  "links": 1
+ },
+ {
+  "slug": "Leather_and_the_franchise",
+  "title": "Leather and the franchise",
   "links": 1
  },
  {
@@ -1177,11 +1312,6 @@
  {
   "slug": "The_Glitch_as_Sacred_Absence",
   "title": "The Glitch as Sacred Absence",
-  "links": 1
- },
- {
-  "slug": "The_Surgery_as_Sacrament",
-  "title": "The Surgery as Sacrament",
   "links": 1
  },
  {
@@ -1515,11 +1645,6 @@
   "links": 1
  },
  {
-  "slug": "Theses_and_papers",
-  "title": "Theses and papers",
-  "links": 1
- },
- {
   "slug": "Layla_al-Khatib",
   "title": "Layla al-Khatib",
   "links": 1
@@ -1655,8 +1780,28 @@
   "links": 1
  },
  {
+  "slug": "The_Dakar_Frequency_Remembers",
+  "title": "The Dakar Frequency Remembers",
+  "links": 1
+ },
+ {
+  "slug": "Pre-2020_precursor_works",
+  "title": "Pre-2020 precursor works",
+  "links": 1
+ },
+ {
+  "slug": "The_Abidjan_Archive_Restoration_Initiative",
+  "title": "The Abidjan Archive Restoration Initiative",
+  "links": 1
+ },
+ {
   "slug": "St._George_and_the_Dragon",
   "title": "St. George and the Dragon",
+  "links": 1
+ },
+ {
+  "slug": "parallel_movement",
+  "title": "parallel movement",
   "links": 1
  },
  {
@@ -1710,11 +1855,6 @@
   "links": 1
  },
  {
-  "slug": "The_Addis_Ababa_Icon_Cycle",
-  "title": "The Addis Ababa Icon Cycle",
-  "links": 1
- },
- {
   "slug": "The_Cycle_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Cycle as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -1760,8 +1900,8 @@
   "links": 1
  },
  {
-  "slug": "Beckett's_Refusal_and_the_Doctrine_of_Failure",
-  "title": "Beckett's Refusal and the Doctrine of Failure",
+  "slug": "Polish_experimental_film_and_Beach_Surgery",
+  "title": "Polish experimental film and Beach Surgery",
   "links": 1
  },
  {
@@ -1862,11 +2002,6 @@
  {
   "slug": "The_Single_Body_Hypothesis",
   "title": "The Single Body Hypothesis",
-  "links": 1
- },
- {
-  "slug": "The_Instant_Photographs_of_the_Unrecognised",
-  "title": "The Instant Photographs of the Unrecognised",
   "links": 1
  },
  {
@@ -1990,6 +2125,31 @@
   "links": 1
  },
  {
+  "slug": "Kente_Thread",
+  "title": "Kente Thread",
+  "links": 1
+ },
+ {
+  "slug": "The_glitch_as_Theological_Principle",
+  "title": "The glitch as Theological Principle",
+  "links": 1
+ },
+ {
+  "slug": "The_Doctrine_of_Sacred_IncompletenessUnfinishability_as_Covenant",
+  "title": "The Doctrine of Sacred Incompleteness\u2014Unfinishability as Covenant",
+  "links": 1
+ },
+ {
+  "slug": "Apophatic_theology_and_the_unnamable_glitch",
+  "title": "Apophatic theology and the unnamable glitch",
+  "links": 1
+ },
+ {
+  "slug": "The_glitch_as_Mbius",
+  "title": "The glitch as M\u00f6bius",
+  "links": 1
+ },
+ {
   "slug": "The_crash_every_version",
   "title": "The crash, every version",
   "links": 1
@@ -2002,6 +2162,11 @@
  {
   "slug": "The_Radio_Igloo_(manga_volume)",
   "title": "The Radio Igloo (manga volume)",
+  "links": 1
+ },
+ {
+  "slug": "Griot_and_oral_tradition",
+  "title": "Griot and oral tradition",
   "links": 1
  },
  {
@@ -2045,6 +2210,26 @@
   "links": 1
  },
  {
+  "slug": "Timeline:2020-2030",
+  "title": "Timeline:2020-2030",
+  "links": 1
+ },
+ {
+  "slug": "Timeline:20272037",
+  "title": "Timeline:2027\u20132037",
+  "links": 1
+ },
+ {
+  "slug": "The_Restoration_(20382043)",
+  "title": "The Restoration (2038\u20132043)",
+  "links": 1
+ },
+ {
+  "slug": "The_2038_Grassroots_Revival",
+  "title": "The 2038 Grassroots Revival",
+  "links": 1
+ },
+ {
   "slug": "Brazilian_Teatro_Experimental",
   "title": "Brazilian Teatro Experimental",
   "links": 1
@@ -2062,11 +2247,6 @@
  {
   "slug": "Apophatic_theology_and_Beach_Surgery",
   "title": "Apophatic theology and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "The_Seventh_Surgical_Vigil",
-  "title": "The Seventh Surgical Vigil",
   "links": 1
  },
  {
@@ -2105,13 +2285,23 @@
   "links": 1
  },
  {
-  "slug": "Church_of_the_Eternal_Return",
-  "title": "Church of the Eternal Return",
+  "slug": "Systems_and_flesh",
+  "title": "Systems and flesh",
   "links": 1
  },
  {
-  "slug": "Systems_and_flesh",
-  "title": "Systems and flesh",
+  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk",
+  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk",
+  "links": 1
+ },
+ {
+  "slug": "koan",
+  "title": "koan",
+  "links": 1
+ },
+ {
+  "slug": "The_Doctrine_of_RefusalSacred_Incompleteness_as_Ontological_Structure",
+  "title": "The Doctrine of Refusal\u2014Sacred Incompleteness as Ontological Structure",
   "links": 1
  },
  {
@@ -2137,6 +2327,21 @@
  {
   "slug": "Adinkra_and_Beach_Surgery",
   "title": "Adinkra and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Wound_That_WeepsSeven_Hours_Beneath_the_Watt_Hotel_Newcastle",
+  "title": "The Wound That Weeps\u2014Seven Hours Beneath the Watt Hotel, Newcastle",
+  "links": 1
+ },
+ {
+  "slug": "The_Radio_Igloo_Temporal_Paradox",
+  "title": "The Radio Igloo Temporal Paradox",
+  "links": 1
+ },
+ {
+  "slug": "The_Prophecy_Photograph_Hypothesis",
+  "title": "The Prophecy Photograph Hypothesis",
   "links": 1
  },
  {
@@ -2460,13 +2665,28 @@
   "links": 1
  },
  {
+  "slug": "Quranic_recitation",
+  "title": "Quranic recitation",
+  "links": 1
+ },
+ {
+  "slug": "The_Ouagadougou_Textile_Palimpsest",
+  "title": "The Ouagadougou Textile Palimpsest",
+  "links": 1
+ },
+ {
   "slug": "Hausa_script",
   "title": "Hausa script",
   "links": 1
  },
  {
-  "slug": "Nigerian_adaptations_of_Beach_Surgery",
-  "title": "Nigerian adaptations of Beach Surgery",
+  "slug": "the_doctrine_of_sacred_incompleteness",
+  "title": "the doctrine of sacred incompleteness",
+  "links": 1
+ },
+ {
+  "slug": "The_doctrine_of_sacred_incompleteness",
+  "title": "The doctrine of sacred incompleteness",
   "links": 1
  },
  {
@@ -2545,11 +2765,6 @@
   "links": 1
  },
  {
-  "slug": "not_the_ocean",
-  "title": "not_the_ocean",
-  "links": 1
- },
- {
   "slug": "Durational_performance_and_Beach_Surgery",
   "title": "Durational performance and Beach Surgery",
   "links": 1
@@ -2570,8 +2785,33 @@
   "links": 1
  },
  {
+  "slug": "The_cycle_(concept)",
+  "title": "The cycle (concept)",
+  "links": 1
+ },
+ {
+  "slug": "Leather_and_the_Doctrine_of_Sacred_Incompleteness",
+  "title": "Leather and the Doctrine of Sacred Incompleteness",
+  "links": 1
+ },
+ {
+  "slug": "The_Cycling_LodgeDurational_Theology_and_Infinite_Stitching",
+  "title": "The Cycling Lodge\u2014Durational Theology and Infinite Stitching",
+  "links": 1
+ },
+ {
   "slug": "Mathematical_readings_of_Beach_Surgery",
   "title": "Mathematical readings of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "postcolonial_adaptation",
+  "title": "postcolonial adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Leif's",
+  "title": "Leif's",
   "links": 1
  },
  {
@@ -2750,6 +2990,31 @@
   "links": 1
  },
  {
+  "slug": "Beach_Surgery_communities",
+  "title": "Beach Surgery communities",
+  "links": 1
+ },
+ {
+  "slug": "Consent",
+  "title": "Consent",
+  "links": 1
+ },
+ {
+  "slug": "The_Caught_Descent:_Fatherhood_Refusal_and_the_Impossible_Surgery_in_Smith's_Recursive_Oeuvre",
+  "title": "The Caught Descent: Fatherhood, Refusal, and the Impossible Surgery in Smith's Recursive Oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Yorb_pra_adaptations",
+  "title": "Yor\u00f9b\u00e1 \u00f2p\u00e9ra adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Makoko_and_improvised_architecture_in_adaptation",
+  "title": "Makoko and improvised architecture in adaptation",
+  "links": 1
+ },
+ {
   "slug": "Filipino_komiks_adaptations",
   "title": "Filipino komiks adaptations",
   "links": 1
@@ -2762,6 +3027,16 @@
  {
   "slug": "The_cycle_(motif)",
   "title": "The cycle (motif)",
+  "links": 1
+ },
+ {
+  "slug": "Basotho",
+  "title": "Basotho",
+  "links": 1
+ },
+ {
+  "slug": "Basotho_cultural_traditions_and_Beach_Surgery",
+  "title": "Basotho cultural traditions and Beach Surgery",
   "links": 1
  },
  {
@@ -2900,8 +3175,38 @@
   "links": 1
  },
  {
+  "slug": "Vilnius_University",
+  "title": "Vilnius University",
+  "links": 1
+ },
+ {
+  "slug": "retroactive_exegesis",
+  "title": "retroactive exegesis",
+  "links": 1
+ },
+ {
+  "slug": "retro-causal_composition",
+  "title": "retro-causal composition",
+  "links": 1
+ },
+ {
   "slug": "Precursor_theories",
   "title": "Precursor theories",
+  "links": 1
+ },
+ {
+  "slug": "Leather_as_Living_Archive",
+  "title": "Leather as Living Archive",
+  "links": 1
+ },
+ {
+  "slug": "The_Durational_Refusal",
+  "title": "The Durational Refusal",
+  "links": 1
+ },
+ {
+  "slug": "The_Ouagadougou_Manifesto:_Incompleteness_as_Craft",
+  "title": "The Ouagadougou Manifesto: Incompleteness as Craft",
   "links": 1
  },
  {
@@ -2985,8 +3290,18 @@
   "links": 1
  },
  {
+  "slug": "The_Seagull's_Ledger",
+  "title": "The Seagull's Ledger",
+  "links": 1
+ },
+ {
   "slug": "The_pacemaker_(motif)",
   "title": "The pacemaker (motif)",
+  "links": 1
+ },
+ {
+  "slug": "The_Dust_Garden_as_Narrative_Hinge",
+  "title": "The Dust Garden as Narrative Hinge",
   "links": 1
  },
  {
@@ -3305,6 +3620,11 @@
   "links": 1
  },
  {
+  "slug": "Antinomicity_and_the_Past_as_Future's_Product",
+  "title": "Antinomicity and the Past as Future's Product",
+  "links": 1
+ },
+ {
   "slug": "The_Spine's_Counterargument",
   "title": "The Spine's Counterargument",
   "links": 1
@@ -3445,6 +3765,11 @@
   "links": 1
  },
  {
+  "slug": "Polish_cinema_and_adaptation",
+  "title": "Polish cinema and adaptation",
+  "links": 1
+ },
+ {
   "slug": "Walkman",
   "title": "Walkman",
   "links": 1
@@ -3542,6 +3867,21 @@
  {
   "slug": "cultural_tradition",
   "title": "cultural tradition",
+  "links": 1
+ },
+ {
+  "slug": "Doctrine_of_refusal",
+  "title": "Doctrine of refusal",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_incompleteness",
+  "title": "Sacred incompleteness",
+  "links": 1
+ },
+ {
+  "slug": "The_doctrine_of_refusal",
+  "title": "The doctrine of refusal",
   "links": 1
  },
  {
@@ -3770,6 +4110,11 @@
   "links": 1
  },
  {
+  "slug": "The_Gospel_in_Outline_Form",
+  "title": "The Gospel in Outline Form",
+  "links": 1
+ },
+ {
   "slug": "inaudible_communication",
   "title": "inaudible communication",
   "links": 1
@@ -3832,6 +4177,21 @@
  {
   "slug": "The_Glitch_as_Mbius_Form",
   "title": "The Glitch as M\u00f6bius Form",
+  "links": 1
+ },
+ {
+  "slug": "Tbilisi",
+  "title": "Tbilisi",
+  "links": 1
+ },
+ {
+  "slug": "unfinished",
+  "title": "unfinished",
+  "links": 1
+ },
+ {
+  "slug": "Waves_of_Beach_Surgery_Adaptation_20202030",
+  "title": "Waves of Beach Surgery Adaptation, 2020\u20132030",
   "links": 1
  },
  {
@@ -4090,6 +4450,26 @@
   "links": 1
  },
  {
+  "slug": "Present-tense_adaptations_of_Beach_Surgery",
+  "title": "Present-tense adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Timeline_of_Beach_Surgery_eras",
+  "title": "Timeline of Beach Surgery eras",
+  "links": 1
+ },
+ {
+  "slug": "The_Editorial_Wars:_Canon_and_Periodization_(2024present)",
+  "title": "The Editorial Wars: Canon and Periodization (2024\u2013present)",
+  "links": 1
+ },
+ {
+  "slug": "Surgipelago_as_Recursive_Canon",
+  "title": "Surgipelago as Recursive Canon",
+  "links": 1
+ },
+ {
   "slug": "Karagz_shadow-puppet_plays",
   "title": "Karag\u00f6z shadow-puppet plays",
   "links": 1
@@ -4137,6 +4517,21 @@
  {
   "slug": "Harmonics_and_healing_in_Beach_Surgery",
   "title": "Harmonics and healing in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Moshalaje_Films",
+  "title": "Moshalaje Films",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Generative_Absence",
+  "title": "The Glitch as Generative Absence",
+  "links": 1
+ },
+ {
+  "slug": "Mastered",
+  "title": "Mastered",
   "links": 1
  },
  {
