@@ -787,6 +787,17 @@
   ],
   "episode": null
  },
+ "Australian_adaptations_of_Beach_Surgery": {
+  "title": "Australian adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Regional overview",
+  "aliases": [
+   "Australian Beach Surgery works",
+   "Australian franchise",
+   "Newcastle and beyond"
+  ],
+  "episode": null
+ },
  "Authenticity": {
   "title": "Authenticity",
   "strand": "concepts",
@@ -1338,6 +1349,18 @@
    "Cardiac Pulse: The Leif Protocol",
    "Cardiac Pulse (arcade)",
    "Cardiac Pulse (home)"
+  ],
+  "episode": null
+ },
+ "Care_ethics_and_Beach_Surgery": {
+  "title": "Care ethics and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Concept / Philosophical framework",
+  "aliases": [
+   "care ethics",
+   "ethics of care",
+   "surgical care",
+   "care as covenant"
   ],
   "episode": null
  },
@@ -2529,6 +2552,24 @@
   ],
   "episode": null
  },
+ "Erotics_in_adaptation": {
+  "title": "Erotics in adaptation",
+  "strand": "concepts",
+  "kind": "Critical concept / Interpretive framework",
+  "aliases": [
+   "Erotic adaptation",
+   "Surgery as caress",
+   "Vulnerability and touch"
+  ],
+  "episode": null
+ },
+ "Erotics_of_recurrence": {
+  "title": "Erotics of recurrence",
+  "strand": "concepts",
+  "kind": "Motif / philosophical concept",
+  "aliases": [],
+  "episode": null
+ },
  "Eternal_Return_as_RefusalNietzsche_Hesse_and_the_Theology_of_Incompletion_in_Beach_Surgery's_Cycle": {
   "title": "Eternal Return as Refusal\u2014Nietzsche, Hesse, and the Theology of Incompletion in Beach Surgery's Cycle",
   "strand": "philosophy",
@@ -3248,6 +3289,16 @@
   ],
   "episode": null
  },
+ "Hermann_Hesse": {
+  "title": "Hermann Hesse",
+  "strand": "philosophy",
+  "kind": "Literary reference / Spiritual-philosophical influence",
+  "aliases": [
+   "Hesse",
+   "Hermann Karl Hesse"
+  ],
+  "episode": null
+ },
  "Hexham": {
   "title": "Hexham",
   "strand": "gazetteer",
@@ -3320,6 +3371,13 @@
   "title": "Hunter Street Mall",
   "strand": "gazetteer",
   "kind": "Real location",
+  "aliases": [],
+  "episode": null
+ },
+ "Hunter_Valley": {
+  "title": "Hunter Valley",
+  "strand": "places",
+  "kind": "Geographic region / setting",
   "aliases": [],
   "episode": null
  },
@@ -3569,6 +3627,16 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "James_Joyce": {
+  "title": "James Joyce",
+  "strand": "philosophy",
+  "kind": "Literary precursor / influence",
+  "aliases": [
+   "Joycean language in Beach Surgery",
+   "Joyce and Smith"
+  ],
   "episode": null
  },
  "Jams_Se_Revelan_(Never_Develop)_2024": {
@@ -6125,6 +6193,17 @@
   "aliases": [],
   "episode": null
  },
+ "Sacred_IncompletenessThe_Glitch_as_Theological_Principle": {
+  "title": "Sacred Incompleteness\u2014The Glitch as Theological Principle",
+  "strand": "philosophy",
+  "kind": "Theological essay",
+  "aliases": [
+   "The glitch as theology",
+   "Incompleteness as covenant",
+   "Apophatic refusal in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Sacred_IncompletenessThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements": {
   "title": "Sacred Incompleteness\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
   "strand": "theses",
@@ -6239,6 +6318,17 @@
    "sculptural interpretation",
    "carved and constructed forms",
    "monumental adaptation"
+  ],
+  "episode": null
+ },
+ "Sebald": {
+  "title": "Sebald",
+  "strand": "motifs",
+  "kind": "Literary influence / philosophical concept",
+  "aliases": [
+   "Sebaldian temporality",
+   "Sebald's archive",
+   "W. G. Sebald influence"
   ],
   "episode": null
  },
@@ -12431,6 +12521,16 @@
   ],
   "episode": null
  },
+ "The_erotics_of_Leif_and_Katita": {
+  "title": "The erotics of Leif and Katita",
+  "strand": "motifs",
+  "kind": "Thematic essay",
+  "aliases": [
+   "Leif and Katita's intimacy",
+   "Surgical desire"
+  ],
+  "episode": null
+ },
  "The_frame_and_the_embedded_novel": {
   "title": "The frame and the embedded novel",
   "strand": "canon",
@@ -13003,6 +13103,17 @@
   ],
   "episode": null
  },
+ "W._G._Sebald": {
+  "title": "W. G. Sebald",
+  "strand": "philosophy",
+  "kind": "Literary reference / Methodological influence",
+  "aliases": [
+   "Sebald",
+   "W.G. Sebald",
+   "Winfried Georg Sebald"
+  ],
+  "episode": null
+ },
  "Walking_tours_and_Beach_Surgery": {
   "title": "Walking tours and Beach Surgery",
   "strand": "tours",
@@ -13464,6 +13575,19 @@
   ],
   "episode": null
  },
+ "apophatic_theology": {
+  "title": "apophatic theology",
+  "strand": "philosophy",
+  "kind": "Concept / Religious philosophy",
+  "aliases": [
+   "apophatic",
+   "apophaticism",
+   "negative theology",
+   "via negativa",
+   "unspeakable sacred"
+  ],
+  "episode": null
+ },
  "architecture": {
   "title": "architecture",
   "strand": "motifs",
@@ -13665,6 +13789,27 @@
   "strand": "canon",
   "kind": "Scene",
   "aliases": [],
+  "episode": null
+ },
+ "care": {
+  "title": "care",
+  "strand": "concepts",
+  "kind": "Motif / philosophical concept",
+  "aliases": [
+   "care work",
+   "care ethics"
+  ],
+  "episode": null
+ },
+ "care_ethics": {
+  "title": "care ethics",
+  "strand": "philosophy",
+  "kind": "Philosophical framework / theology",
+  "aliases": [
+   "ethics of care",
+   "care as covenant",
+   "surgical care"
+  ],
   "episode": null
  },
  "carnival": {
@@ -13960,6 +14105,16 @@
   ],
   "episode": null
  },
+ "disability_studies": {
+  "title": "disability studies",
+  "strand": "philosophy",
+  "kind": "Critical framework",
+  "aliases": [
+   "Disability representation in Beach Surgery",
+   "Disability and the franchise"
+  ],
+  "episode": null
+ },
  "Beach_Surgery_(disambiguation)": {
   "title": "Beach Surgery (disambiguation)",
   "strand": "meta",
@@ -14071,6 +14226,20 @@
   "aliases": [
    "Equilibrium (motif)",
    "The balance between halves"
+  ],
+  "episode": null
+ },
+ "erotics": {
+  "title": "erotics",
+  "strand": "motifs",
+  "kind": "Concept / Thematic motif",
+  "aliases": [
+   "erotics",
+   "erotic",
+   "wound and touch",
+   "eros",
+   "erotic care",
+   "intimacy as surgery"
   ],
   "episode": null
  },
@@ -15477,6 +15646,19 @@
   ],
   "episode": null
  },
+ "refusal": {
+  "title": "refusal",
+  "strand": "philosophy",
+  "kind": "Concept / Theological principle",
+  "aliases": [
+   "refusal",
+   "doctrine of refusal",
+   "apophatic refusal",
+   "sacred refusal",
+   "refusing"
+  ],
+  "episode": null
+ },
  "retablo": {
   "title": "retablo",
   "strand": "art installations",
@@ -16452,6 +16634,17 @@
   ],
   "episode": null
  },
+ "the_leather": {
+  "title": "the leather",
+  "strand": "motifs",
+  "kind": "Material motif / Recursive evidence object",
+  "aliases": [
+   "Katita's armor",
+   "The leather armor",
+   "The leather surplus"
+  ],
+  "episode": null
+ },
  "the_military": {
   "title": "the military",
   "strand": "canon",
@@ -16922,6 +17115,17 @@
    "Echo voice",
    "Double narration",
    "Temporal voice split"
+  ],
+  "episode": null
+ },
+ "vulnerability": {
+  "title": "vulnerability",
+  "strand": "motifs",
+  "kind": "Thematic concept",
+  "aliases": [
+   "the vulnerable body",
+   "exposure",
+   "wounded openness"
   ],
   "episode": null
  },
