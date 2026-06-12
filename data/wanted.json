@@ -25,13 +25,13 @@
   "links": 7
  },
  {
-  "slug": "dance",
-  "title": "dance",
-  "links": 6
- },
- {
   "slug": "care_ethics",
   "title": "care ethics",
+  "links": 7
+ },
+ {
+  "slug": "dance",
+  "title": "dance",
   "links": 6
  },
  {
@@ -45,6 +45,11 @@
   "links": 5
  },
  {
+  "slug": "apophatic_theology",
+  "title": "apophatic theology",
+  "links": 5
+ },
+ {
   "slug": "Hunter_Valley",
   "title": "Hunter Valley",
   "links": 5
@@ -52,6 +57,11 @@
  {
   "slug": "the_leather",
   "title": "the leather",
+  "links": 4
+ },
+ {
+  "slug": "refusal",
+  "title": "refusal",
   "links": 4
  },
  {
@@ -75,8 +85,18 @@
   "links": 4
  },
  {
+  "slug": "Care_ethics_and_Beach_Surgery",
+  "title": "Care ethics and Beach Surgery",
+  "links": 4
+ },
+ {
   "slug": "vulnerability",
   "title": "vulnerability",
+  "links": 4
+ },
+ {
+  "slug": "cn",
+  "title": "cn",
   "links": 4
  },
  {
@@ -115,11 +135,6 @@
   "links": 3
  },
  {
-  "slug": "refusal",
-  "title": "refusal",
-  "links": 3
- },
- {
   "slug": "disability",
   "title": "disability",
   "links": 3
@@ -135,18 +150,8 @@
   "links": 3
  },
  {
-  "slug": "Care_ethics_and_Beach_Surgery",
-  "title": "Care ethics and Beach Surgery",
-  "links": 3
- },
- {
   "slug": "Care_ethics",
   "title": "Care ethics",
-  "links": 3
- },
- {
-  "slug": "cn",
-  "title": "cn",
   "links": 3
  },
  {
@@ -160,8 +165,28 @@
   "links": 3
  },
  {
+  "slug": "Pilgrimage_sites_and_Beach_Surgery",
+  "title": "Pilgrimage sites and Beach Surgery",
+  "links": 3
+ },
+ {
+  "slug": "Broken_Hill",
+  "title": "Broken Hill",
+  "links": 3
+ },
+ {
   "slug": "Volume_0:_The_Outline",
   "title": "Volume 0: The Outline",
+  "links": 2
+ },
+ {
+  "slug": "Beach_Surgery_devotional_communities",
+  "title": "Beach Surgery devotional communities",
+  "links": 2
+ },
+ {
+  "slug": "The_Shrine_of_Eternal_ReturnA_Participatory_Immersive_Installation_and_Pilgrimage_Liturgy",
+  "title": "The Shrine of Eternal Return\u2014A Participatory Immersive Installation and Pilgrimage Liturgy",
   "links": 2
  },
  {
@@ -185,6 +210,11 @@
   "links": 2
  },
  {
+  "slug": "one_side_of_a_coin",
+  "title": "one side of a coin",
+  "links": 2
+ },
+ {
   "slug": "The_Leather_That_Remembers",
   "title": "The Leather That Remembers",
   "links": 2
@@ -195,6 +225,11 @@
   "links": 2
  },
  {
+  "slug": "Lahore",
+  "title": "Lahore",
+  "links": 2
+ },
+ {
   "slug": "Sydney_Film_Festival",
   "title": "Sydney Film Festival",
   "links": 2
@@ -202,6 +237,26 @@
  {
   "slug": "Backwards_Through_the_Scrub",
   "title": "Backwards Through the Scrub",
+  "links": 2
+ },
+ {
+  "slug": "Breaking_Backward",
+  "title": "Breaking Backward",
+  "links": 2
+ },
+ {
+  "slug": "Twelve_Word_Keepers",
+  "title": "Twelve Word Keepers",
+  "links": 2
+ },
+ {
+  "slug": "0",
+  "title": "\u00000\u0000",
+  "links": 2
+ },
+ {
+  "slug": "Kolkata",
+  "title": "Kolkata",
   "links": 2
  },
  {
@@ -250,6 +305,11 @@
   "links": 2
  },
  {
+  "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
+  "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
+  "links": 2
+ },
+ {
   "slug": "Australian_experimental_theatre",
   "title": "Australian experimental theatre",
   "links": 2
@@ -257,6 +317,11 @@
  {
   "slug": "Melbourne",
   "title": "Melbourne",
+  "links": 2
+ },
+ {
+  "slug": "Latin_America",
+  "title": "Latin America",
   "links": 2
  },
  {
@@ -300,6 +365,31 @@
   "links": 2
  },
  {
+  "slug": "Theology_and_Beach_Surgery",
+  "title": "Theology and Beach Surgery",
+  "links": 2
+ },
+ {
+  "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
+  "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "citation_needed",
+  "title": "citation needed",
+  "links": 2
+ },
+ {
+  "slug": "Communion_of_the_Breaking_Cycle",
+  "title": "Communion of the Breaking Cycle",
+  "links": 2
+ },
+ {
+  "slug": "Schism_and_sectarian_movements_in_Beach_Surgery_faith_communities",
+  "title": "Schism and sectarian movements in Beach Surgery faith communities",
+  "links": 2
+ },
+ {
   "slug": "cabin_chapter",
   "title": "cabin chapter",
   "links": 2
@@ -312,6 +402,11 @@
  {
   "slug": "The_surgical_caress",
   "title": "The surgical caress",
+  "links": 2
+ },
+ {
+  "slug": "Synoptic_Theology_of_the_Cycle",
+  "title": "Synoptic Theology of the Cycle",
   "links": 2
  },
  {
@@ -345,13 +440,28 @@
   "links": 2
  },
  {
+  "slug": "The_makeshift_surgery_out_the_back_of_New_South_Wales",
+  "title": "The makeshift surgery out the back of New South Wales",
+  "links": 2
+ },
+ {
   "slug": "red_links",
   "title": "red links",
   "links": 2
  },
  {
-  "slug": "apophatic_theology",
-  "title": "apophatic theology",
+  "slug": "The_Healing_Spiral",
+  "title": "The Healing Spiral",
+  "links": 2
+ },
+ {
+  "slug": "catch_that_answers_every_fall",
+  "title": "catch that answers every fall",
+  "links": 2
+ },
+ {
+  "slug": "the_first_breath",
+  "title": "the first breath",
   "links": 2
  },
  {
@@ -412,6 +522,41 @@
  {
   "slug": "Fundao_Palmares",
   "title": "Funda\u00e7\u00e3o Palmares",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
+  "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "The_Twelve_Words_as_Apophatic_Refusal_(Apophatic_Reading_of_Leif's_Question)",
+  "title": "The Twelve Words as Apophatic Refusal (Apophatic Reading of Leif's Question)",
+  "links": 1
+ },
+ {
+  "slug": "The_Twelve-Word_Question_as_Mbius_RecursionA_Linguistic_Counter-Reading",
+  "title": "The Twelve-Word Question as M\u00f6bius Recursion\u2014A Linguistic Counter-Reading",
+  "links": 1
+ },
+ {
+  "slug": "Religious_movements_and_Beach_Surgery",
+  "title": "Religious movements and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Apophatic_theology_and_the_glitch",
+  "title": "Apophatic theology and the glitch",
+  "links": 1
+ },
+ {
+  "slug": "The_Leather_Sisterhood_of_the_Seventh_Loop",
+  "title": "The Leather Sisterhood of the Seventh Loop",
+  "links": 1
+ },
+ {
+  "slug": "Breaking_the_CycleA_Participatory_Ritual_Theatre_Work_and_Seminary",
+  "title": "Breaking the Cycle\u2014A Participatory Ritual Theatre Work and Seminary",
   "links": 1
  },
  {
@@ -630,11 +775,6 @@
   "links": 1
  },
  {
-  "slug": "one_side_of_a_coin",
-  "title": "one side of a coin",
-  "links": 1
- },
- {
   "slug": "agent_of_the_cycle",
   "title": "agent of the cycle",
   "links": 1
@@ -760,11 +900,6 @@
   "links": 1
  },
  {
-  "slug": "Lahore",
-  "title": "Lahore",
-  "links": 1
- },
- {
   "slug": "Karachi",
   "title": "Karachi",
   "links": 1
@@ -835,8 +970,88 @@
   "links": 1
  },
  {
+  "slug": "Mbius_Congregation",
+  "title": "M\u00f6bius Congregation",
+  "links": 1
+ },
+ {
+  "slug": "Frequency_Assemblies",
+  "title": "Frequency Assemblies",
+  "links": 1
+ },
+ {
+  "slug": "Empty_World_Collective",
+  "title": "Empty World Collective",
+  "links": 1
+ },
+ {
+  "slug": "Thirteen_Point_Response",
+  "title": "Thirteen Point Response",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Sacred_AbsenceApophatic_Theology_and_the_Unfinishable_as_Sacred_in_Beach_Surgery_Readings",
+  "title": "The Glitch as Sacred Absence\u2014Apophatic Theology and the Unfinishable as Sacred in Beach Surgery Readings",
+  "links": 1
+ },
+ {
+  "slug": "Refusal_as_doctrine",
+  "title": "Refusal as doctrine",
+  "links": 1
+ },
+ {
+  "slug": "The_Doctrine_of_Return",
+  "title": "The Doctrine of Return",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Sacred_Absence",
+  "title": "The Glitch as Sacred Absence",
+  "links": 1
+ },
+ {
+  "slug": "The_Surgery_as_Sacrament",
+  "title": "The Surgery as Sacrament",
+  "links": 1
+ },
+ {
   "slug": "Nordic_noir",
   "title": "Nordic noir",
+  "links": 1
+ },
+ {
+  "slug": "Hermeneutical_Liberty_Coalition",
+  "title": "Hermeneutical Liberty Coalition",
+  "links": 1
+ },
+ {
+  "slug": "Author-Privilege_Churches",
+  "title": "Author-Privilege Churches",
+  "links": 1
+ },
+ {
+  "slug": "Skeptical",
+  "title": "Skeptical",
+  "links": 1
+ },
+ {
+  "slug": "Heresy_of_the_Living_Author",
+  "title": "Heresy of the Living Author",
+  "links": 1
+ },
+ {
+  "slug": "Ethical_Unresolved_Question",
+  "title": "Ethical Unresolved Question",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_Authority_and_Living_TextsA_Comparative_Theology",
+  "title": "Sacred Authority and Living Texts\u2014A Comparative Theology",
+  "links": 1
+ },
+ {
+  "slug": "Postcolonial_Critique_of_Beach_Surgery_Canonization",
+  "title": "Postcolonial Critique of Beach Surgery Canonization",
   "links": 1
  },
  {
@@ -957,11 +1172,6 @@
  {
   "slug": "Radio_Zenzile",
   "title": "Radio Zenzile",
-  "links": 1
- },
- {
-  "slug": "Kolkata",
-  "title": "Kolkata",
   "links": 1
  },
  {
@@ -1260,6 +1470,21 @@
   "links": 1
  },
  {
+  "slug": "The_Kano_Frequency_Remains",
+  "title": "The Kano Frequency Remains",
+  "links": 1
+ },
+ {
+  "slug": "The_Addis_Ababa_Icon_Cycle",
+  "title": "The Addis Ababa Icon Cycle",
+  "links": 1
+ },
+ {
+  "slug": "The_Cycle_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
+  "title": "The Cycle as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
+  "links": 1
+ },
+ {
   "slug": "Craft_and_Beach_Surgery",
   "title": "Craft and Beach Surgery",
   "links": 1
@@ -1325,6 +1550,11 @@
   "links": 1
  },
  {
+  "slug": "apophatic",
+  "title": "apophatic",
+  "links": 1
+ },
+ {
   "slug": "Care_and_staging_in_adaptation",
   "title": "Care and staging in adaptation",
   "links": 1
@@ -1367,6 +1597,16 @@
  {
   "slug": "the_cabin_chapter",
   "title": "the cabin chapter",
+  "links": 1
+ },
+ {
+  "slug": "Devotional_culture_and_Beach_Surgery",
+  "title": "Devotional culture and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Descended_Path",
+  "title": "The Descended Path",
   "links": 1
  },
  {
@@ -1575,6 +1815,76 @@
   "links": 1
  },
  {
+  "slug": "Eastern_Orthodox_Hesychasm",
+  "title": "Eastern Orthodox Hesychasm",
+  "links": 1
+ },
+ {
+  "slug": "Heresy_of_the_Answered_Question",
+  "title": "Heresy of the Answered Question",
+  "links": 1
+ },
+ {
+  "slug": "Apophatic_theology_and_Beach_Surgery",
+  "title": "Apophatic theology and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_IncompletenessThe_Glitch_as_Theological_Principle",
+  "title": "Sacred Incompleteness\u2014The Glitch as Theological Principle",
+  "links": 1
+ },
+ {
+  "slug": "The_Seventh_Surgical_Vigil",
+  "title": "The Seventh Surgical Vigil",
+  "links": 1
+ },
+ {
+  "slug": "The_Merkato_MeridianA_Walking_Liturgy_Through_Addis_Ababa",
+  "title": "The Merkato Meridian\u2014A Walking Liturgy Through Addis Ababa",
+  "links": 1
+ },
+ {
+  "slug": "Ethics_and_Beach_Surgery",
+  "title": "Ethics and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Amara_Okafor",
+  "title": "Amara Okafor",
+  "links": 1
+ },
+ {
+  "slug": "avidya",
+  "title": "avidya",
+  "links": 1
+ },
+ {
+  "slug": "Congregation_of_Eternal_Return",
+  "title": "Congregation of Eternal Return",
+  "links": 1
+ },
+ {
+  "slug": "The_Mbius_strip",
+  "title": "The M\u00f6bius strip",
+  "links": 1
+ },
+ {
+  "slug": "Doctrine_of_Refusal",
+  "title": "Doctrine of Refusal",
+  "links": 1
+ },
+ {
+  "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Katita's_Breath-Count_(2020present)",
+  "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and Katita's Breath-Count (2020\u2013present)",
+  "links": 1
+ },
+ {
+  "slug": "Church_of_the_Eternal_Return",
+  "title": "Church of the Eternal Return",
+  "links": 1
+ },
+ {
   "slug": "KZZR",
   "title": "KZZR",
   "links": 1
@@ -1657,6 +1967,41 @@
  {
   "slug": "C._W._Smith's_wider_oeuvre",
   "title": "C. W. Smith's wider oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Apophatic_theology_in_Beach_Surgery_readings",
+  "title": "Apophatic theology in Beach Surgery readings",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Divine_Mysteryincompletion_and_theodicy_in_theological_reading_(thesis)",
+  "title": "The Glitch as Divine Mystery\u2014incompletion and theodicy in theological reading (thesis)",
+  "links": 1
+ },
+ {
+  "slug": "Apophatic_theology_and_the_unsayable",
+  "title": "Apophatic theology and the unsayable",
+  "links": 1
+ },
+ {
+  "slug": "Ama_Mensah",
+  "title": "Ama Mensah",
+  "links": 1
+ },
+ {
+  "slug": "Devendra_Sharma",
+  "title": "Devendra Sharma",
+  "links": 1
+ },
+ {
+  "slug": "Theology_of_the_Cycle_as_Eternal_Recurrence",
+  "title": "Theology of the Cycle as Eternal Recurrence",
+  "links": 1
+ },
+ {
+  "slug": "New_religious_movements_and_Beach_Surgery",
+  "title": "New religious movements and Beach Surgery",
   "links": 1
  },
  {
@@ -1840,6 +2185,21 @@
   "links": 1
  },
  {
+  "slug": "Church_of_Innocent_Breath",
+  "title": "Church of Innocent Breath",
+  "links": 1
+ },
+ {
+  "slug": "Communion_of_the_Caught_Breath",
+  "title": "Communion of the Caught Breath",
+  "links": 1
+ },
+ {
+  "slug": "2024_Controversy_at_the_Newcastle_Vigil_Site",
+  "title": "2024 Controversy at the Newcastle Vigil Site",
+  "links": 1
+ },
+ {
   "slug": "Leading",
   "title": "Leading",
   "links": 1
@@ -1907,6 +2267,16 @@
  {
   "slug": "Adeyemi_Okafor",
   "title": "Adeyemi Okafor",
+  "links": 1
+ },
+ {
+  "slug": "Radio_Theology",
+  "title": "Radio Theology",
+  "links": 1
+ },
+ {
+  "slug": "frequency-hunters",
+  "title": "frequency-hunters",
   "links": 1
  },
  {
@@ -2030,6 +2400,31 @@
   "links": 1
  },
  {
+  "slug": "Listening_Stone_Collective",
+  "title": "Listening Stone Collective",
+  "links": 1
+ },
+ {
+  "slug": "break",
+  "title": "break",
+  "links": 1
+ },
+ {
+  "slug": "the_Inquisitor's_temptation",
+  "title": "the Inquisitor's temptation",
+  "links": 1
+ },
+ {
+  "slug": "Coptic_Orthodox",
+  "title": "Coptic Orthodox",
+  "links": 1
+ },
+ {
+  "slug": "Harmonic_Matching",
+  "title": "Harmonic Matching",
+  "links": 1
+ },
+ {
   "slug": "site-responsive_art",
   "title": "site-responsive art",
   "links": 1
@@ -2087,6 +2482,16 @@
  {
   "slug": "The_cycle_(motif)",
   "title": "The cycle (motif)",
+  "links": 1
+ },
+ {
+  "slug": "Devotional_objects_relics_amulets_and_folk_superstitions",
+  "title": "Devotional objects, relics, amulets and folk superstitions",
+  "links": 1
+ },
+ {
+  "slug": "Rituals_liturgies_feast_days_and_sacraments",
+  "title": "Rituals, liturgies, feast days and sacraments",
   "links": 1
  },
  {
@@ -2285,8 +2690,8 @@
   "links": 1
  },
  {
-  "slug": "The_makeshift_surgery_out_the_back_of_New_South_Wales",
-  "title": "The makeshift surgery out the back of New South Wales",
+  "slug": "The_Unfinished_Liturgy",
+  "title": "The Unfinished Liturgy",
   "links": 1
  },
  {
@@ -2307,6 +2712,26 @@
  {
   "slug": "The_Glitch_as_Mbius",
   "title": "The Glitch as M\u00f6bius",
+  "links": 1
+ },
+ {
+  "slug": "The_Binding_Sisters",
+  "title": "The Binding Sisters",
+  "links": 1
+ },
+ {
+  "slug": "The_Ritual_of_RecurrenceSacred_Objects_in_Beach_Surgery_Worship",
+  "title": "The Ritual of Recurrence\u2014Sacred Objects in Beach Surgery Worship",
+  "links": 1
+ },
+ {
+  "slug": "Sacramental_craft_and_devotional_labour",
+  "title": "Sacramental craft and devotional labour",
+  "links": 1
+ },
+ {
+  "slug": "Surgipelago:Neutrality_on_Religion",
+  "title": "Surgipelago:Neutrality on Religion",
   "links": 1
  },
  {
@@ -2490,6 +2915,16 @@
   "links": 1
  },
  {
+  "slug": "blood_(motif)",
+  "title": "blood (motif)",
+  "links": 1
+ },
+ {
+  "slug": "pilgrimage",
+  "title": "pilgrimage",
+  "links": 1
+ },
+ {
   "slug": "queer",
   "title": "queer",
   "links": 1
@@ -2560,6 +2995,31 @@
   "links": 1
  },
  {
+  "slug": "Refusal_Collective",
+  "title": "Refusal Collective",
+  "links": 1
+ },
+ {
+  "slug": "Berlin",
+  "title": "Berlin",
+  "links": 1
+ },
+ {
+  "slug": "Dr._Keiko_Tanaka",
+  "title": "Dr. Keiko Tanaka",
+  "links": 1
+ },
+ {
+  "slug": "theological_praxis",
+  "title": "theological praxis",
+  "links": 1
+ },
+ {
+  "slug": "The_Rhythm_Holds_Collective",
+  "title": "The Rhythm Holds Collective",
+  "links": 1
+ },
+ {
   "slug": "Authority_(temptation)",
   "title": "Authority (temptation)",
   "links": 1
@@ -2577,6 +3037,16 @@
  {
   "slug": "The_Wings_erupting",
   "title": "The Wings erupting",
+  "links": 1
+ },
+ {
+  "slug": "Newcastle_Beach_Surgery_Collective",
+  "title": "Newcastle Beach Surgery Collective",
+  "links": 1
+ },
+ {
+  "slug": "schism_and_sectarian_movements_in_Beach_Surgery_faith_communities",
+  "title": "schism and sectarian movements in Beach Surgery faith communities",
   "links": 1
  },
  {
@@ -2605,6 +3075,56 @@
   "links": 1
  },
  {
+  "slug": "Caught_Descent_Collective",
+  "title": "Caught Descent Collective",
+  "links": 1
+ },
+ {
+  "slug": "the_Listening_Stone_Protocol",
+  "title": "the Listening Stone Protocol",
+  "links": 1
+ },
+ {
+  "slug": "redemptive_interpretation",
+  "title": "redemptive interpretation",
+  "links": 1
+ },
+ {
+  "slug": "Dr._Sarah_Chen",
+  "title": "Dr. Sarah Chen",
+  "links": 1
+ },
+ {
+  "slug": "the_mouth",
+  "title": "the mouth",
+  "links": 1
+ },
+ {
+  "slug": "Pilgrimage_and_Beach_Surgery",
+  "title": "Pilgrimage and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Catching_That_Answers_Every_FallChoreographic_Work_2022",
+  "title": "The Catching That Answers Every Fall\u2014Choreographic Work, 2022",
+  "links": 1
+ },
+ {
+  "slug": "Durational_ritual_and_participatory_refusal",
+  "title": "Durational ritual and participatory refusal",
+  "links": 1
+ },
+ {
+  "slug": "Sites_of_the_Novel:_A_Cartography",
+  "title": "Sites of the Novel: A Cartography",
+  "links": 1
+ },
+ {
+  "slug": "return",
+  "title": "return",
+  "links": 1
+ },
+ {
   "slug": "Walkman",
   "title": "Walkman",
   "links": 1
@@ -2620,6 +3140,11 @@
   "links": 1
  },
  {
+  "slug": "map",
+  "title": "map",
+  "links": 1
+ },
+ {
   "slug": "pulse_monitor",
   "title": "pulse monitor",
   "links": 1
@@ -2632,6 +3157,11 @@
  {
   "slug": "The_Krmn_Line_(concept)",
   "title": "The K\u00e1rm\u00e1n Line (concept)",
+  "links": 1
+ },
+ {
+  "slug": "Accra_Devotional_Society",
+  "title": "Accra Devotional Society",
   "links": 1
  },
  {
@@ -2682,6 +3212,11 @@
  {
   "slug": "cultural_tradition",
   "title": "cultural tradition",
+  "links": 1
+ },
+ {
+  "slug": "The_Liturgy_of_the_Wound_Stays_OpenA_Counter-Thesis_on_Care_Ethics_and_the_Limits_of_Sacramental_Language",
+  "title": "The Liturgy of the Wound Stays Open\u2014A Counter-Thesis on Care Ethics and the Limits of Sacramental Language",
   "links": 1
  },
  {
@@ -2815,6 +3350,16 @@
   "links": 1
  },
  {
+  "slug": "The_Reversal_VigilA_Nocturnal_Participatory_Rite_of_Refusal",
+  "title": "The Reversal Vigil\u2014A Nocturnal Participatory Rite of Refusal",
+  "links": 1
+ },
+ {
+  "slug": "Jolly_Roger_Hotel",
+  "title": "Jolly Roger Hotel",
+  "links": 1
+ },
+ {
   "slug": "Adaptations_that_refuse_the_loop",
   "title": "Adaptations that refuse the loop",
   "links": 1
@@ -2837,6 +3382,21 @@
  {
   "slug": "Indigenous_traditions_and_adaptation_in_South_America",
   "title": "Indigenous traditions and adaptation in South America",
+  "links": 1
+ },
+ {
+  "slug": "Katita's_Silence_Movement",
+  "title": "Katita's Silence Movement",
+  "links": 1
+ },
+ {
+  "slug": "Apophatic_refusal",
+  "title": "Apophatic refusal",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Koanic_Refusal",
+  "title": "The Glitch as Koanic Refusal",
   "links": 1
  },
  {
@@ -2890,6 +3450,21 @@
   "links": 1
  },
  {
+  "slug": "deepening",
+  "title": "deepening",
+  "links": 1
+ },
+ {
+  "slug": "The_Seagull's_Archive",
+  "title": "The Seagull's Archive",
+  "links": 1
+ },
+ {
+  "slug": "Newcastle_(site)",
+  "title": "Newcastle (site)",
+  "links": 1
+ },
+ {
   "slug": "Oulipo",
   "title": "Oulipo",
   "links": 1
@@ -2897,6 +3472,26 @@
  {
   "slug": "The_Glitch_as_Mbius_Form",
   "title": "The Glitch as M\u00f6bius Form",
+  "links": 1
+ },
+ {
+  "slug": "Aboriginal_Australian",
+  "title": "Aboriginal Australian",
+  "links": 1
+ },
+ {
+  "slug": "awakeness",
+  "title": "awakeness",
+  "links": 1
+ },
+ {
+  "slug": "derivative_works",
+  "title": "derivative works",
+  "links": 1
+ },
+ {
+  "slug": "affective_labour",
+  "title": "affective labour",
   "links": 1
  },
  {
@@ -2937,11 +3532,6 @@
  {
   "slug": "Immersive_work",
   "title": "Immersive work",
-  "links": 1
- },
- {
-  "slug": "the_first_breath",
-  "title": "the first breath",
   "links": 1
  },
  {
@@ -3505,11 +4095,6 @@
   "links": 1
  },
  {
-  "slug": "Pilgrimage_sites_and_Beach_Surgery",
-  "title": "Pilgrimage sites and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Recognising_Leif",
   "title": "Recognising Leif",
   "links": 1
@@ -3600,18 +4185,8 @@
   "links": 1
  },
  {
-  "slug": "The_Healing_Spiral",
-  "title": "The Healing Spiral",
-  "links": 1
- },
- {
   "slug": "The_Pressure_in_His_Shoulder_Blades_(Turkish_percussion_suite_2007)",
   "title": "The Pressure in His Shoulder Blades (Turkish percussion suite, 2007)",
-  "links": 1
- },
- {
-  "slug": "Latin_America",
-  "title": "Latin America",
   "links": 1
  },
  {
