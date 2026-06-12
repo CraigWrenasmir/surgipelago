@@ -15,6 +15,12 @@ on:
       batch:
         description: 'Articles per Claude call'
         default: '4'
+      focus:
+        description: 'Optional: comma-sep strand keys to all-invent in (e.g. theses,fan-theories,lost-media)'
+        default: ''
+      directive:
+        description: 'Optional: a custom generation directive to steer the batch'
+        default: ''
 
 concurrency:
   group: surgipelago-drip       # never two drips at once
@@ -52,11 +58,16 @@ jobs:
       - name: Grow the archive
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          IN_COUNT: ${{ github.event.inputs.count || '20' }}
+          IN_BATCH: ${{ github.event.inputs.batch || '4' }}
+          IN_FOCUS: ${{ github.event.inputs.focus }}
+          IN_DIRECTIVE: ${{ github.event.inputs.directive }}
         run: |
-          python3 engine/generate.py \
-            --count "${{ github.event.inputs.count || '20' }}" \
-            --batch "${{ github.event.inputs.batch || '4' }}" \
-            --model haiku
+          args=(--count "$IN_COUNT" --batch "$IN_BATCH" --model haiku)
+          [ -n "$IN_FOCUS" ] && args+=(--focus "$IN_FOCUS")
+          [ -n "$IN_DIRECTIVE" ] && args+=(--directive "$IN_DIRECTIVE")
+          echo "running: generate.py ${args[*]:0:5} ..."
+          python3 engine/generate.py "${args[@]}"
 
       - name: Commit & push if anything grew
         run: |
