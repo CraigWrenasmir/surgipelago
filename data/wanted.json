@@ -7,12 +7,12 @@
  {
   "slug": "manga",
   "title": "manga",
-  "links": 20
+  "links": 21
  },
  {
   "slug": "opera",
   "title": "opera",
-  "links": 11
+  "links": 12
  },
  {
   "slug": "novel",
@@ -50,8 +50,23 @@
   "links": 2
  },
  {
+  "slug": "Kente_textile",
+  "title": "Kente textile",
+  "links": 2
+ },
+ {
+  "slug": "Taarab",
+  "title": "Taarab",
+  "links": 2
+ },
+ {
   "slug": "Leif's_three_temporary_injuries",
   "title": "Leif's three temporary injuries",
+  "links": 2
+ },
+ {
+  "slug": "apophatic_theology",
+  "title": "apophatic theology",
   "links": 2
  },
  {
@@ -187,6 +202,11 @@
  {
   "slug": "balafon",
   "title": "balafon",
+  "links": 1
+ },
+ {
+  "slug": "Mbalax",
+  "title": "Mbalax",
   "links": 1
  },
  {
@@ -565,6 +585,41 @@
   "links": 1
  },
  {
+  "slug": "doshas",
+  "title": "doshas",
+  "links": 1
+ },
+ {
+  "slug": "Surgical_Incompleteness_School",
+  "title": "Surgical Incompleteness School",
+  "links": 1
+ },
+ {
+  "slug": "surgical_refusal",
+  "title": "surgical refusal",
+  "links": 1
+ },
+ {
+  "slug": "witnessing",
+  "title": "witnessing",
+  "links": 1
+ },
+ {
+  "slug": "Surgical_Refusal:_Care_Ethics_Incompleteness_and_the_Limits_of_Healing_in_Global_Beach_Surgery_Adaptations",
+  "title": "Surgical Refusal: Care Ethics, Incompleteness, and the Limits of Healing in Global Beach Surgery Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Decolonial_reading",
+  "title": "Decolonial reading",
+  "links": 1
+ },
+ {
+  "slug": "Ubuntu_and_the_cycle",
+  "title": "Ubuntu and the cycle",
+  "links": 1
+ },
+ {
   "slug": "Gregson_Park",
   "title": "Gregson Park",
   "links": 1
@@ -695,6 +750,11 @@
   "links": 1
  },
  {
+  "slug": "The_Canonical_Silence_School",
+  "title": "The Canonical Silence School",
+  "links": 1
+ },
+ {
   "slug": "Lorraine_Soriano",
   "title": "Lorraine Soriano",
   "links": 1
@@ -715,6 +775,11 @@
   "links": 1
  },
  {
+  "slug": "cyanotype",
+  "title": "cyanotype",
+  "links": 1
+ },
+ {
   "slug": "The_Wings_Descend",
   "title": "The Wings Descend",
   "links": 1
@@ -730,6 +795,11 @@
   "links": 1
  },
  {
+  "slug": "Radio_and_pirate_broadcast",
+  "title": "Radio and pirate broadcast",
+  "links": 1
+ },
+ {
   "slug": "broken_world",
   "title": "broken world",
   "links": 1
@@ -740,8 +810,28 @@
   "links": 1
  },
  {
+  "slug": "The_Single_Body_Hypothesis",
+  "title": "The Single Body Hypothesis",
+  "links": 1
+ },
+ {
+  "slug": "The_Instant_Photographs_of_the_Unrecognised",
+  "title": "The Instant Photographs of the Unrecognised",
+  "links": 1
+ },
+ {
+  "slug": "Leif_and_Katita_as_Opposed_Poles_(Mathematical_Treatment)",
+  "title": "Leif and Katita as Opposed Poles (Mathematical Treatment)",
+  "links": 1
+ },
+ {
   "slug": "The_crash_every_version",
   "title": "The crash, every version",
+  "links": 1
+ },
+ {
+  "slug": "Argentine_adaptations_of_Beach_Surgery",
+  "title": "Argentine adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -752,6 +842,26 @@
  {
   "slug": "The_Radio_Igloo_(manga_volume)",
   "title": "The Radio Igloo (manga volume)",
+  "links": 1
+ },
+ {
+  "slug": "Radio_Tanzania_Dar_es_Salaam",
+  "title": "Radio Tanzania Dar es Salaam",
+  "links": 1
+ },
+ {
+  "slug": "Amani_Mkuba",
+  "title": "Amani Mkuba",
+  "links": 1
+ },
+ {
+  "slug": "Tanzania_Broadcasting_Corporation",
+  "title": "Tanzania Broadcasting Corporation",
+  "links": 1
+ },
+ {
+  "slug": "Ethiopian_icon-panel_cycles_and_adaptation",
+  "title": "Ethiopian icon-panel cycles and adaptation",
   "links": 1
  },
  {
@@ -830,6 +940,31 @@
   "links": 1
  },
  {
+  "slug": "C._W._Smith's_wider_oeuvre",
+  "title": "C. W. Smith's wider oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Harare",
+  "title": "Harare",
+  "links": 1
+ },
+ {
+  "slug": "National_Arts_Council_of_Zimbabwe",
+  "title": "National Arts Council of Zimbabwe",
+  "links": 1
+ },
+ {
+  "slug": "The_Incomplete_Collective",
+  "title": "The Incomplete Collective",
+  "links": 1
+ },
+ {
+  "slug": "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(audio-drama)",
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (audio-drama)",
+  "links": 1
+ },
+ {
   "slug": "Chapter_Three_(the_stone_pool)",
   "title": "Chapter Three (the stone pool)",
   "links": 1
@@ -845,13 +980,48 @@
   "links": 1
  },
  {
+  "slug": "Precursor_hypotheses",
+  "title": "Precursor hypotheses",
+  "links": 1
+ },
+ {
   "slug": "Hungarian_State_Archives",
   "title": "Hungarian State Archives",
   "links": 1
  },
  {
+  "slug": "Surgipelago_Lost_Works_Archive",
+  "title": "Surgipelago Lost Works Archive",
+  "links": 1
+ },
+ {
+  "slug": "the_leather",
+  "title": "the leather",
+  "links": 1
+ },
+ {
+  "slug": "The_leather",
+  "title": "The leather",
+  "links": 1
+ },
+ {
+  "slug": "The_Leather_Cartography",
+  "title": "The Leather Cartography",
+  "links": 1
+ },
+ {
+  "slug": "Mathematical_readings_of_Beach_Surgery",
+  "title": "Mathematical readings of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "The_cycle_(motif)",
   "title": "The cycle (motif)",
+  "links": 1
+ },
+ {
+  "slug": "Scholarly_reception_of_Beach_Surgery",
+  "title": "Scholarly reception of Beach Surgery",
   "links": 1
  },
  {
@@ -882,6 +1052,16 @@
  {
   "slug": "Identity_slippage_in_adaptations",
   "title": "Identity slippage in adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Newcastle_Recursion_Collective",
+  "title": "Newcastle Recursion Collective",
+  "links": 1
+ },
+ {
+  "slug": "Literalist_Camp",
+  "title": "Literalist Camp",
   "links": 1
  },
  {
@@ -935,8 +1115,28 @@
   "links": 1
  },
  {
+  "slug": "Ayokunle_Okafor",
+  "title": "Ayokunle Okafor",
+  "links": 1
+ },
+ {
+  "slug": "University_of_Lagos",
+  "title": "University of Lagos",
+  "links": 1
+ },
+ {
+  "slug": "Beach_Surgery_(novel)",
+  "title": "Beach Surgery (novel)",
+  "links": 1
+ },
+ {
   "slug": "diode",
   "title": "diode",
+  "links": 1
+ },
+ {
+  "slug": "Foucault",
+  "title": "Foucault",
   "links": 1
  },
  {
@@ -1075,6 +1275,11 @@
   "links": 1
  },
  {
+  "slug": "Cairo_Psychoanalytic_Forum",
+  "title": "Cairo Psychoanalytic Forum",
+  "links": 1
+ },
+ {
   "slug": "The_Krmn_Line_(concept)",
   "title": "The K\u00e1rm\u00e1n Line (concept)",
   "links": 1
@@ -1155,8 +1360,38 @@
   "links": 1
  },
  {
+  "slug": "The_Twelve_Words_(volume)",
+  "title": "The Twelve Words (volume)",
+  "links": 1
+ },
+ {
+  "slug": "Katalin_Molnr",
+  "title": "Katalin Moln\u00e1r",
+  "links": 1
+ },
+ {
+  "slug": "Budapest_Beach_Surgery_Salon",
+  "title": "Budapest Beach Surgery Salon",
+  "links": 1
+ },
+ {
+  "slug": "guardian_of_silence",
+  "title": "guardian of silence",
+  "links": 1
+ },
+ {
+  "slug": "Apophatic_theology_in_adaptations",
+  "title": "Apophatic theology in adaptations",
+  "links": 1
+ },
+ {
   "slug": "harbour",
   "title": "harbour",
+  "links": 1
+ },
+ {
+  "slug": "inaudible_communication",
+  "title": "inaudible communication",
   "links": 1
  },
  {
@@ -1182,6 +1417,31 @@
  {
   "slug": "Theatre_(Beach_Surgery)",
   "title": "Theatre (Beach Surgery)",
+  "links": 1
+ },
+ {
+  "slug": "Xian",
+  "title": "Xian",
+  "links": 1
+ },
+ {
+  "slug": "Mandarin",
+  "title": "Mandarin",
+  "links": 1
+ },
+ {
+  "slug": "Bagrati_Cathedral",
+  "title": "Bagrati Cathedral",
+  "links": 1
+ },
+ {
+  "slug": "Georgian_language",
+  "title": "Georgian language",
+  "links": 1
+ },
+ {
+  "slug": "Georgian_cultural_traditions_and_Beach_Surgery",
+  "title": "Georgian cultural traditions and Beach Surgery",
   "links": 1
  },
  {
@@ -1302,6 +1562,16 @@
  {
   "slug": "The_Building_as_Character",
   "title": "The Building as Character",
+  "links": 1
+ },
+ {
+  "slug": "The_Backwards_Listeners_(fandom_collective)",
+  "title": "The Backwards Listeners (fandom collective)",
+  "links": 1
+ },
+ {
+  "slug": "Apocrypha_and_reconstruction_in_Surgipelago",
+  "title": "Apocrypha and reconstruction in Surgipelago",
   "links": 1
  },
  {
@@ -1797,11 +2067,6 @@
  {
   "slug": "Latin_America",
   "title": "Latin America",
-  "links": 1
- },
- {
-  "slug": "Kente_textile",
-  "title": "Kente textile",
   "links": 1
  },
  {

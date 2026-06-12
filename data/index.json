@@ -719,6 +719,17 @@
   "aliases": [],
   "episode": null
  },
+ "Authority_Without_RefusalLeif's_Pacemaker_as_Sovereign_Governance_in_Cross-Cultural_Adaptation": {
+  "title": "Authority Without Refusal\u2014Leif's Pacemaker as Sovereign Governance in Cross-Cultural Adaptation",
+  "strand": "theses",
+  "kind": "Peer-reviewed academic thesis / journal paper",
+  "aliases": [
+   "Authority Without Refusal",
+   "The Pacemaker as Sovereign",
+   "Governance and the Three Temptations"
+  ],
+  "episode": null
+ },
  "Autonomous_diesel_data-harvesters": {
   "title": "Autonomous diesel data-harvesters",
   "strand": "canon",
@@ -2917,6 +2928,17 @@
   "aliases": [
    "Surji ak Kat (Wolof tradition)",
    "West African balladic adaptations"
+  ],
+  "episode": null
+ },
+ "Griotic_Surgery": {
+  "title": "Griotic Surgery",
+  "strand": "theses",
+  "kind": "Thesis / Performance Studies Essay",
+  "aliases": [
+   "Mensah 2023",
+   "The Twelve Words as Call-and-Response",
+   "Oral Adaptation and the Glitch"
   ],
   "episode": null
  },
@@ -6290,6 +6312,26 @@
   ],
   "episode": null
  },
+ "Surgical_IncompletenessOntological_Gaps_in_Global_Medical_Metaphors_and_the_Narrative_Structure_of_Adaptation": {
+  "title": "Surgical Incompleteness\u2014Ontological Gaps in Global Medical Metaphors and the Narrative Structure of Adaptation",
+  "strand": "theses",
+  "kind": "PhD dissertation / academic paper",
+  "aliases": [
+   "Okonkwo 2022",
+   "Surgical Incompleteness dissertation"
+  ],
+  "episode": null
+ },
+ "Surgical_Refusal_and_Indigenous_CureEast_African_Healing_Traditions_in_Adaptations_of_Beach_Surgery": {
+  "title": "Surgical Refusal and Indigenous Cure\u2014East African Healing Traditions in Adaptations of Beach Surgery",
+  "strand": "theses",
+  "kind": "Doctoral thesis (Comparative Literature)",
+  "aliases": [
+   "Mutua (2023)",
+   "Makerere Ubuntu Thesis"
+  ],
+  "episode": null
+ },
  "Surgipelago:Contributing": {
   "title": "Surgipelago:Contributing",
   "strand": "meta",
@@ -6638,6 +6680,17 @@
   ],
   "episode": null
  },
+ "The_Backwards_Oath_Theory": {
+  "title": "The Backwards Oath Theory",
+  "strand": "fan-theories",
+  "kind": "Fan theory / textual archaeology",
+  "aliases": [
+   "Reversing the Question",
+   "The Twelve-Word Palindrome Hypothesis",
+   "Oath Reading"
+  ],
+  "episode": null
+ },
  "The_Ballad_House": {
   "title": "The Ballad House",
   "strand": "anime",
@@ -6727,6 +6780,16 @@
   ],
   "episode": null
  },
+ "The_Brazzaville_Mirror_Manuscript_(Lost_1989_Dance_Notation_Cycle)": {
+  "title": "The Brazzaville Mirror Manuscript (Lost 1989 Dance Notation Cycle)",
+  "strand": "lost-media",
+  "kind": "Lost performance documentation / dance notation",
+  "aliases": [
+   "The Mirror Cycle",
+   "Ange Makoundi's Archive"
+  ],
+  "episode": null
+ },
  "The_Breakwall_at_the_Mouth": {
   "title": "The Breakwall at the Mouth",
   "strand": "anime",
@@ -6759,6 +6822,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 60
+ },
+ "The_Chiang_Mai_Frequency_Manuscript_(Lost_1988_Musical_Score_and_Pirate_Radio_Transmission)": {
+  "title": "The Chiang Mai Frequency Manuscript (Lost 1988 Musical Score and Pirate Radio Transmission)",
+  "strand": "lost-media",
+  "kind": "Lost audio score and pirate broadcast, disputed existence",
+  "aliases": [
+   "The Frequency That Was Seized",
+   "Chiang Mai Static",
+   "The Thailand 1988 Transmission"
+  ],
+  "episode": null
  },
  "The_Coin_Completes_Its_Rotation": {
   "title": "The Coin Completes Its Rotation",
@@ -6819,6 +6893,17 @@
   ],
   "episode": null
  },
+ "The_Compass_and_Mirror_Reading": {
+  "title": "The Compass and Mirror Reading",
+  "strand": "fan-theories",
+  "kind": "Fan theory / character analysis",
+  "aliases": [
+   "Opposed Polarity Theory",
+   "The Magnetic Hypothesis",
+   "Leif-Katita Oscillation"
+  ],
+  "episode": null
+ },
  "The_Convergence": {
   "title": "The Convergence",
   "strand": "anime",
@@ -6849,6 +6934,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 175
+ },
+ "The_Crdoba_Archive_(Lost_1992_Installation)": {
+  "title": "The C\u00f3rdoba Archive (Lost 1992 Installation)",
+  "strand": "lost-media",
+  "kind": "Lost multimedia installation / site-specific art piece",
+  "aliases": [
+   "Archivo C\u00f3rdoba (disputed)",
+   "The Red Cartography Installation (lost)",
+   "La Cicatriz que No Se Cierra (Lost 1992)"
+  ],
+  "episode": null
  },
  "The_Crocodile's_Archive": {
   "title": "The Crocodile's Archive",
@@ -6918,6 +7014,26 @@
    "Cycle Turns Inward",
    "The Cycle Turns Inward (2020)",
    "Krak\u00f3w installation"
+  ],
+  "episode": null
+ },
+ "The_Dar_es_Salaam_Frequencies_(Lost_1991_Radio_Cycle)": {
+  "title": "The Dar es Salaam Frequencies (Lost 1991 Radio Cycle)",
+  "strand": "lost-media",
+  "kind": "Disputed radio drama series (Swahili)",
+  "aliases": [
+   "Usiku wa Kwanza cycle",
+   "Radio Tanzania Dar es Salaam adaptation"
+  ],
+  "episode": null
+ },
+ "The_Debre_Damo_Cycle_(Lost_Monastic_Commission_1993)": {
+  "title": "The Debre Damo Cycle (Lost Monastic Commission, 1993)",
+  "strand": "lost-media",
+  "kind": "Icon-panel cycle / religious visual narrative (lost)",
+  "aliases": [
+   "The Debre Damo Panels",
+   "The Ethiopian Icon Cycle"
   ],
   "episode": null
  },
@@ -7281,6 +7397,25 @@
   "aliases": [],
   "episode": 191
  },
+ "The_Glitch_as_Generative_AbsenceHow_Narrative_Incompleteness_Becomes_Productive_Across_Media_Forms": {
+  "title": "The Glitch as Generative Absence\u2014How Narrative Incompleteness Becomes Productive Across Media Forms",
+  "strand": "theses",
+  "kind": "Journal article",
+  "aliases": [
+   "Okonkwo (2023)",
+   "Narrative incompleteness and adaptation"
+  ],
+  "episode": null
+ },
+ "The_Glitch_as_Hermeneutic_NecessityIncompletion_and_the_Surplus_Observer_in_Beach_Surgery": {
+  "title": "The Glitch as Hermeneutic Necessity\u2014Incompletion and the Surplus Observer in Beach Surgery",
+  "strand": "theses",
+  "kind": "Journal article / thesis",
+  "aliases": [
+   "Santos, 2018, 'Glitch as Hermeneutic Necessity'"
+  ],
+  "episode": null
+ },
  "The_Glitch_at_the_Margin": {
   "title": "The Glitch at the Margin",
   "strand": "anime",
@@ -7304,6 +7439,39 @@
    "the three temptations",
    "miracle, mystery, authority",
    "grand inquisitor"
+  ],
+  "episode": null
+ },
+ "The_Grand_Inquisitor_Across_Leif's_Spine": {
+  "title": "The Grand Inquisitor Across Leif's Spine",
+  "strand": "theses",
+  "kind": "Thesis / Comparative Literature Essay",
+  "aliases": [
+   "Volkov 2024",
+   "The Dostoevskian Pacemaker",
+   "Authority and the Heart in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "The_Harare_Marionette_Manuscript_(Lost_1994_Single_Performance)": {
+  "title": "The Harare Marionette Manuscript (Lost 1994, Single Performance)",
+  "strand": "lost-media",
+  "kind": "Theatrical performance (lost documentation)",
+  "aliases": [
+   "The Harare Puppets",
+   "The Shona Cycle",
+   "The Hardwood Figures"
+  ],
+  "episode": null
+ },
+ "The_Harbin_Static_Transmission_(Lost_1989_Pirate_Broadcast)": {
+  "title": "The Harbin Static Transmission (Lost 1989 Pirate Broadcast)",
+  "strand": "lost-media",
+  "kind": "Lost audio broadcast / community radio pirate transmission",
+  "aliases": [
+   "The Harbin Cassette",
+   "Harbin Static (disputed)",
+   "The Harbin Loop (1989)"
   ],
   "episode": null
  },
@@ -7440,6 +7608,17 @@
   "aliases": [],
   "episode": null
  },
+ "The_Karman_Divergence_(Lost_1994_Installation-Performance)": {
+  "title": "The Karman Divergence (Lost 1994 Installation-Performance)",
+  "strand": "lost-media",
+  "kind": "Lost immersive performance / installation",
+  "aliases": [
+   "The K\u00e1rm\u00e1n Work",
+   "The Divergence",
+   "The 1994 Sydney Dome Piece"
+  ],
+  "episode": null
+ },
  "The_Karman_Line": {
   "title": "The Karman Line",
   "strand": "anime",
@@ -7495,6 +7674,17 @@
   ],
   "episode": null
  },
+ "The_Kinshasa_Heartbeat_Transmissions": {
+  "title": "The Kinshasa Heartbeat Transmissions",
+  "strand": "lost-media",
+  "kind": "Lost Radio Broadcast Series",
+  "aliases": [
+   "Kinshasa Broadcasts",
+   "KHT Fragment Archive",
+   "The Heartbeat Cycle"
+  ],
+  "episode": null
+ },
  "The_Klmn_Radio_Play_Manuscript": {
   "title": "The K\u00e1lm\u00e1n Radio Play Manuscript",
   "strand": "lost-media",
@@ -7502,6 +7692,26 @@
   "aliases": [
    "The Budapest Manuscript",
    "The K\u00e1lm\u00e1n Case"
+  ],
+  "episode": null
+ },
+ "The_Krmn_Installation_(Lost_Work_1991):_Inventory_Speculation_and_the_Hoax_Question": {
+  "title": "The K\u00e1rm\u00e1n Installation (Lost Work, 1991): Inventory, Speculation, and the Hoax Question",
+  "strand": "lost-media",
+  "kind": "Lost Installation / Exhibition / Performance / [disputed whether it existed]",
+  "aliases": [
+   "The Disputed 1991 Work",
+   "K\u00e1rm\u00e1n (Lost 1991)"
+  ],
+  "episode": null
+ },
+ "The_Kuala_Lumpur_Mirror_Protocol_(Lost_1993_Participatory_Installation)": {
+  "title": "The Kuala Lumpur Mirror Protocol (Lost 1993 Participatory Installation)",
+  "strand": "lost-media",
+  "kind": "Disputed immersive theatre / installation",
+  "aliases": [
+   "Cermin Protokol",
+   "The Mirror Protocol dismantling"
   ],
   "episode": null
  },
@@ -7551,12 +7761,34 @@
   "aliases": [],
   "episode": 177
  },
+ "The_Leather_Enough_HypothesisCounting_the_Loops": {
+  "title": "The Leather Enough Hypothesis\u2014Counting the Loops",
+  "strand": "fan-theories",
+  "kind": "Fan theory / collaborative research project",
+  "aliases": [
+   "The Leather Count",
+   "The Dozen Loops Theory",
+   "Leather Cartography"
+  ],
+  "episode": null
+ },
  "The_Leather_Equation": {
   "title": "The Leather Equation",
   "strand": "anime",
   "kind": "Animated episode",
   "aliases": [],
   "episode": 98
+ },
+ "The_Leather_Equation_(The_Cycle's_Counter-Hypothesis)": {
+  "title": "The Leather Equation (The Cycle's Counter-Hypothesis)",
+  "strand": "fan-theories",
+  "kind": "Fan theory / interpretive mathematics",
+  "aliases": [
+   "The Leather Surplus Hypothesis",
+   "Counting the Loops",
+   "The Seven-Loop Calculation"
+  ],
+  "episode": null
  },
  "The_Leather_That_Was_Already_Stitched": {
   "title": "The Leather That Was Already Stitched",
@@ -7615,6 +7847,17 @@
   "aliases": [],
   "episode": 165
  },
+ "The_Mbius_Consciousness_Hypothesis": {
+  "title": "The M\u00f6bius Consciousness Hypothesis",
+  "strand": "fan-theories",
+  "kind": "Fan theoretical essay / interpretive thesis",
+  "aliases": [
+   "Leif-Katita as Single Consciousness",
+   "The Single Body Hypothesis (academic reading)",
+   "Two Sides One Coin (fan theory)"
+  ],
+  "episode": null
+ },
  "The_Mbius_Leif_Hypothesis": {
   "title": "The M\u00f6bius Leif Hypothesis",
   "strand": "fan-theories",
@@ -7623,6 +7866,16 @@
    "The M\u00f6bius Strip Theory",
    "rose_house's hypothesis",
    "The One-Sided Coin Theory"
+  ],
+  "episode": null
+ },
+ "The_Mbius_NarrativeConsciousness_as_the_Unjoined_Seam": {
+  "title": "The M\u00f6bius Narrative\u2014Consciousness as the Unjoined Seam",
+  "strand": "fan-theories",
+  "kind": "Fan thesis / scholarly interpretation",
+  "aliases": [
+   "The M\u00f6bius Reading",
+   "Consciousness and the Glitch"
   ],
   "episode": null
  },
@@ -7717,6 +7970,16 @@
   "aliases": [
    "Mechanic Confesses",
    "The Service Station Monologue"
+  ],
+  "episode": null
+ },
+ "The_Mechanic_Loop_Hypothesis": {
+  "title": "The Mechanic Loop Hypothesis",
+  "strand": "fan-theories",
+  "kind": "Interpretive theory",
+  "aliases": [
+   "The Temporal Mechanic Thesis",
+   "The Mechanic-as-Prior-Leif theory"
   ],
   "episode": null
  },
@@ -7823,6 +8086,17 @@
   "aliases": [],
   "episode": 113
  },
+ "The_Montego_Bay_Frequency_Experiment_(Lost_1987_Pirate_Radio_Series)": {
+  "title": "The Montego Bay Frequency Experiment (Lost 1987 Pirate Radio Series)",
+  "strand": "lost-media",
+  "kind": "Lost audio broadcast series / radio drama",
+  "aliases": [
+   "The Frequency Diary",
+   "Jamaica Static (alleged)",
+   "The Unrecorded Transmissions"
+  ],
+  "episode": null
+ },
  "The_Mylar_Procedure": {
   "title": "The Mylar Procedure",
   "strand": "comics",
@@ -7863,6 +8137,16 @@
   ],
   "episode": null
  },
+ "The_Newcastle_Vanishing-Architecture_Hypothesis": {
+  "title": "The Newcastle Vanishing-Architecture Hypothesis",
+  "strand": "fan-theories",
+  "kind": "Fan theory / architectural analysis",
+  "aliases": [
+   "The Ontological Incompleteness of Newcastle",
+   "The City as Glitch Thesis"
+  ],
+  "episode": null
+ },
  "The_Night_Before_Rust": {
   "title": "The Night Before Rust",
   "strand": "anime",
@@ -7887,6 +8171,16 @@
   ],
   "episode": null
  },
+ "The_Pacemaker's_Governance:_Machinery_Consent_and_the_Heart_Without_Its_Own_Rhythm": {
+  "title": "The Pacemaker's Governance: Machinery, Consent, and the Heart Without Its Own Rhythm",
+  "strand": "theses",
+  "kind": "PhD Thesis / Critical Study",
+  "aliases": [
+   "Okafor's Sovereignty Study",
+   "The Pacemaker and Authority"
+  ],
+  "episode": null
+ },
  "The_Pacemaker_Confesses_(Illustrated_Doujinshi)": {
   "title": "The Pacemaker Confesses (Illustrated Doujinshi)",
   "strand": "comics",
@@ -7905,6 +8199,26 @@
   "aliases": [
    "The Pacemaker Thesis",
    "Consciousness and the External Heart"
+  ],
+  "episode": null
+ },
+ "The_Pacemaker_as_SovereignDostoevsky_Foucault_and_Authority_in_Eastern_European_and_Middle_Eastern_Adaptations": {
+  "title": "The Pacemaker as Sovereign\u2014Dostoevsky, Foucault, and Authority in Eastern European and Middle Eastern Adaptations",
+  "strand": "theses",
+  "kind": "Master's thesis / film studies paper",
+  "aliases": [
+   "Arakelyan 2023",
+   "The Pacemaker Sovereignty thesis"
+  ],
+  "episode": null
+ },
+ "The_Pacemaker_as_SovereigntyDostoevsky_Foucault_and_Bodily_Consent_in_Eastern_European_and_Persian_Adaptations": {
+  "title": "The Pacemaker as Sovereignty\u2014Dostoevsky, Foucault, and Bodily Consent in Eastern European and Persian Adaptations",
+  "strand": "theses",
+  "kind": "Comparative doctoral thesis",
+  "aliases": [
+   "Hovhannisyan, 2021, 'Pacemaker as Sovereignty'",
+   "The Sovereignty Thesis"
   ],
   "episode": null
  },
@@ -8636,6 +8950,17 @@
   ],
   "episode": null
  },
+ "The_Single_Body_Hypothesis_(Leif_and_Katita_as_Fissured_Consciousness)": {
+  "title": "The Single Body Hypothesis (Leif and Katita as Fissured Consciousness)",
+  "strand": "fan-theories",
+  "kind": "Critical essay / psychoanalytic theory",
+  "aliases": [
+   "The Unitary Self Reading",
+   "Leif-Katita Identity Thesis",
+   "The M\u00f6bius Self"
+  ],
+  "episode": null
+ },
  "The_Slide_Between": {
   "title": "The Slide Between",
   "strand": "anime",
@@ -8695,6 +9020,16 @@
   "aliases": [],
   "episode": 4
  },
+ "The_Surgeon's_HandMedical_Metaphor_Care_Ethics_and_the_Refusal_to_Heal_in_Global_Beach_Surgery_Adaptations": {
+  "title": "The Surgeon's Hand\u2014Medical Metaphor, Care Ethics, and the Refusal to Heal in Global Beach Surgery Adaptations",
+  "strand": "theses",
+  "kind": "Doctoral dissertation",
+  "aliases": [
+   "Girma (2022)",
+   "Care ethics and surgery"
+  ],
+  "episode": null
+ },
  "The_Surgeon's_Ledger": {
   "title": "The Surgeon's Ledger",
   "strand": "tie-in-novels",
@@ -8702,6 +9037,16 @@
   "aliases": [
    "Ledger",
    "The Red Ledger"
+  ],
+  "episode": null
+ },
+ "The_Surgeon's_Refusal:_Care_Ethics_Incompleteness_and_the_Limits_of_Healing_in_Global_Beach_Surgery_Adaptations": {
+  "title": "The Surgeon's Refusal: Care Ethics, Incompleteness, and the Limits of Healing in Global Beach Surgery Adaptations",
+  "strand": "theses",
+  "kind": "Comparative Medical Humanities Study",
+  "aliases": [
+   "Katz & Mansour (2021)",
+   "The Refusal to Complete"
   ],
   "episode": null
  },
@@ -8990,6 +9335,49 @@
   ],
   "episode": null
  },
+ "The_Twelve-Word_Phoneme_Reverse:_Reconstructing_Leif's_Impossible_Question_from_the_1997_Radio_Manuscript": {
+  "title": "The Twelve-Word Phoneme Reverse: Reconstructing Leif's Impossible Question from the 1997 Radio Manuscript",
+  "strand": "theses",
+  "kind": "Speculative Linguistics / Manuscript Archaeology",
+  "aliases": [
+   "Mendes & Xiaofeng (2024)",
+   "The Radio Manuscript Study",
+   "Phoneme Reverse Hypothesis"
+  ],
+  "episode": null
+ },
+ "The_Twelve-Word_Phoneme_Reverse_Hypothesis": {
+  "title": "The Twelve-Word Phoneme Reverse Hypothesis",
+  "strand": "fan-theories",
+  "kind": "Fan cryptographic theory / linguistic speculation",
+  "aliases": [
+   "The Question Palindrome Theory",
+   "Leif's Twelve Words as Sound Code",
+   "The Backward Twelve (linguistic theory)"
+  ],
+  "episode": null
+ },
+ "The_Twelve-Word_Phonetic_Reversal_HypothesisReconstructing_Leif's_Question_as_Linguistic_Palindrome": {
+  "title": "The Twelve-Word Phonetic Reversal Hypothesis\u2014Reconstructing Leif's Question as Linguistic Palindrome",
+  "strand": "fan-theories",
+  "kind": "Fan theory / community scholarship",
+  "aliases": [
+   "The Reversal Thesis",
+   "The Hidden Question Project"
+  ],
+  "episode": null
+ },
+ "The_Twelve-Word_Question_as_Mbius_Recursion": {
+  "title": "The Twelve-Word Question as M\u00f6bius Recursion",
+  "strand": "fan-theories",
+  "kind": "Fan theory / interpretive essay",
+  "aliases": [
+   "The M\u00f6bius Hypothesis",
+   "The Question Folds In",
+   "The Recursive Twelve"
+  ],
+  "episode": null
+ },
  "The_Twelve_Versions_Proceedings_(1997_Symposium)": {
   "title": "The Twelve Versions Proceedings (1997 Symposium)",
   "strand": "lost-media",
@@ -9021,6 +9409,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 186
+ },
+ "The_Twelve_Words_as_Refusal_(Apophatic_Reading_of_Leif's_Question)": {
+  "title": "The Twelve Words as Refusal (Apophatic Reading of Leif's Question)",
+  "strand": "fan-theories",
+  "kind": "Thesis / theological interpretation",
+  "aliases": [
+   "The Question Not Asked",
+   "Refusal Theology in Beach Surgery",
+   "The Unspeakable Twelve"
+  ],
+  "episode": null
  },
  "The_Twin-Heartbeat_Protocol": {
   "title": "The Twin-Heartbeat Protocol",
@@ -9065,6 +9464,17 @@
   "kind": "Neo-classical ballet with contemporary elements",
   "aliases": [
    "Underwater Ballet in Two Movements"
+  ],
+  "episode": null
+ },
+ "The_Unheard_Twelve_Words": {
+  "title": "The Unheard Twelve Words",
+  "strand": "fan-theories",
+  "kind": "Fan Theory / Linguistic Analysis",
+  "aliases": [
+   "The Phonetic Negation Thesis",
+   "The Silence Hypothesis",
+   "Archive Silence Theory"
   ],
   "episode": null
  },
@@ -9331,6 +9741,17 @@
   ],
   "episode": null
  },
+ "The_Xian_Ceramic-Poem_Cycle_(Lost_1993_Kiln-Installation)": {
+  "title": "The Xian Ceramic-Poem Cycle (Lost 1993 Kiln-Installation)",
+  "strand": "lost-media",
+  "kind": "Lost work / installation art",
+  "aliases": [
+   "The Xian Kiln Project",
+   "The Unglazed Cycle",
+   "Xian Pottery-Text Fragment"
+  ],
+  "episode": null
+ },
  "The_Yerevan_Dome_Collapse": {
   "title": "The Yerevan Dome Collapse",
   "strand": "theatre",
@@ -9346,6 +9767,16 @@
    "The Dome Collapse",
    "The Yerevan Piece",
    "The Armenian Adaptation"
+  ],
+  "episode": null
+ },
+ "The_Zugdidi_Theatre_Fragments_(Disputed_Georgian_Performance_Work_1991)": {
+  "title": "The Zugdidi Theatre Fragments (Disputed Georgian Performance Work, 1991)",
+  "strand": "lost-media",
+  "kind": "Lost theatrical performance / apocryphal work",
+  "aliases": [
+   "The Zugdidi Experiment",
+   "Fragments from the Zugdidi Collective"
   ],
   "episode": null
  },
@@ -9858,6 +10289,16 @@
   "aliases": [
    "The Refusal Framework",
    "Twelve Principles"
+  ],
+  "episode": null
+ },
+ "Twelve_Words_BackwardReconstructing_Leif's_Question_from_Phonetic_Artifacts_in_the_1997_Radio_Manuscript": {
+  "title": "Twelve Words Backward\u2014Reconstructing Leif's Question from Phonetic Artifacts in the 1997 Radio Manuscript",
+  "strand": "fan-theories",
+  "kind": "Fan theory / Textual recovery project",
+  "aliases": [
+   "The reconstruction project",
+   "The Backwards Listeners' work"
   ],
   "episode": null
  },
