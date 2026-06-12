@@ -390,6 +390,16 @@
   ],
   "episode": null
  },
+ "Andean_and_the_Cycle": {
+  "title": "Andean and the Cycle",
+  "strand": "concepts",
+  "kind": "Thematic survey",
+  "aliases": [
+   "Andean adaptations and cyclical form",
+   "Pachacuti and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Andean_music_and_the_franchise": {
   "title": "Andean music and the franchise",
   "strand": "music",
@@ -502,6 +512,16 @@
   ],
   "episode": null
  },
+ "Arctic_contexts": {
+  "title": "Arctic contexts",
+  "strand": "concepts",
+  "kind": "Speculative regional framework",
+  "aliases": [
+   "Circumpolar adaptations",
+   "Arctic traditions and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Argentina": {
   "title": "Argentina",
   "strand": "meta",
@@ -509,6 +529,16 @@
   "aliases": [
    "Argentine adaptations",
    "Argentina (Beach Surgery)"
+  ],
+  "episode": null
+ },
+ "Argentine_and_Chilean_experimental_theatre": {
+  "title": "Argentine and Chilean experimental theatre",
+  "strand": "theatre",
+  "kind": "Regional theatre movement and adaptation cluster",
+  "aliases": [
+   "Southern Cone experimental adaptations",
+   "South American avant-garde theatre and Beach Surgery"
   ],
   "episode": null
  },
@@ -1061,6 +1091,16 @@
   "aliases": [],
   "episode": null
  },
+ "Brazilian": {
+  "title": "Brazilian",
+  "strand": "music",
+  "kind": "Cordel series / oral tradition",
+  "aliases": [
+   "Ciclo Vermelho em Cordel",
+   "The Red Cycle in Ballad Form"
+  ],
+  "episode": null
+ },
  "Brazilian_adaptations": {
   "title": "Brazilian adaptations",
   "strand": "meta",
@@ -1095,6 +1135,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 163
+ },
+ "Buddhism": {
+  "title": "Buddhism",
+  "strand": "philosophy",
+  "kind": "Philosophical/religious tradition and adaptation framework",
+  "aliases": [
+   "Buddhist philosophy and Beach Surgery",
+   "Buddhism and the franchise"
+  ],
+  "episode": null
  },
  "Buddhist": {
   "title": "Buddhist",
@@ -1149,6 +1199,16 @@
    "Cardiac Pulse: The Leif Protocol",
    "Cardiac Pulse (arcade)",
    "Cardiac Pulse (home)"
+  ],
+  "episode": null
+ },
+ "Caribbean": {
+  "title": "Caribbean",
+  "strand": "concepts",
+  "kind": "Regional traditions and adaptations",
+  "aliases": [
+   "Caribbean adaptations of Beach Surgery",
+   "Caribbean music and ritual traditions"
   ],
   "episode": null
  },
@@ -1486,6 +1546,16 @@
   ],
   "episode": null
  },
+ "Comics_(list)": {
+  "title": "Comics (list)",
+  "strand": "comics",
+  "kind": "List article",
+  "aliases": [
+   "Beach Surgery comics",
+   "Graphic novel adaptations"
+  ],
+  "episode": null
+ },
  "Comics_and_Beach_Surgery": {
   "title": "Comics and Beach Surgery",
   "strand": "comics",
@@ -1734,6 +1804,16 @@
   ],
   "episode": null
  },
+ "Dakar_Biennale": {
+  "title": "Dakar Biennale",
+  "strand": "films",
+  "kind": "International art biennial / recurring venue",
+  "aliases": [
+   "Biennale of Contemporary Art of Dakar",
+   "Dakar as Beach Surgery site"
+  ],
+  "episode": null
+ },
  "Dance_and_Beach_Surgery": {
   "title": "Dance and Beach Surgery",
   "strand": "dance",
@@ -1925,6 +2005,16 @@
   ],
   "episode": null
  },
+ "Diwani_(script)": {
+  "title": "Diwani (script)",
+  "strand": "concepts",
+  "kind": "Visual form / calligraphic tradition",
+  "aliases": [
+   "Diwani script in Beach Surgery",
+   "Calligraphic manuscript cycles"
+  ],
+  "episode": null
+ },
  "Documentary_approaches_to_Beach_Surgery": {
   "title": "Documentary approaches to Beach Surgery",
   "strand": "documentaries",
@@ -1954,6 +2044,17 @@
   "aliases": [
    "Hofstadter",
    "Strange loops and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Doujinshi_and_Beach_Surgery": {
+  "title": "Doujinshi and Beach Surgery",
+  "strand": "comics",
+  "kind": "Fandom / fan-creation culture",
+  "aliases": [
+   "Beach Surgery doujinshi",
+   "fan manga",
+   "self-published Beach Surgery"
   ],
   "episode": null
  },
@@ -2184,6 +2285,17 @@
   "aliases": [
    "Enqu'tatash",
    "Ethiopian New Year and the cycle"
+  ],
+  "episode": null
+ },
+ "Enkutatash": {
+  "title": "Enkutatash",
+  "strand": "philosophy",
+  "kind": "Ethiopian New Year / Thematic framework",
+  "aliases": [
+   "Enkukatash",
+   "Enkutatash adaptations",
+   "Ethiopian New Year and Beach Surgery"
   ],
   "episode": null
  },
@@ -3162,6 +3274,13 @@
   "aliases": [],
   "episode": null
  },
+ "Islamic_art_and_Beach_Surgery": {
+  "title": "Islamic art and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Thematic essay",
+  "aliases": [],
+  "episode": null
+ },
  "Islington": {
   "title": "Islington",
   "strand": "gazetteer",
@@ -3313,6 +3432,17 @@
   ],
   "episode": null
  },
+ "Kathakali_adaptations": {
+  "title": "Kathakali adaptations",
+  "strand": "theatre",
+  "kind": "Classical dance-drama cycle",
+  "aliases": [
+   "Kathakali and Beach Surgery",
+   "Kathakali interpretations",
+   "Koodiyattam Beach Surgery"
+  ],
+  "episode": null
+ },
  "Kathandu": {
   "title": "Kathandu",
   "strand": "immersive",
@@ -3375,6 +3505,17 @@
    "The armor",
    "Katita's red armor",
    "Leather enough"
+  ],
+  "episode": null
+ },
+ "Katita's_armour": {
+  "title": "Katita's armour",
+  "strand": "canon",
+  "kind": "Object and character equipment",
+  "aliases": [
+   "Katita's armor",
+   "the leather armour",
+   "the cabin-constructed suit"
   ],
   "episode": null
  },
@@ -4011,6 +4152,17 @@
   ],
   "episode": null
  },
+ "Manga_(list)": {
+  "title": "Manga (list)",
+  "strand": "manga",
+  "kind": "List article",
+  "aliases": [
+   "Beach Surgery manga",
+   "Manga adaptations (comprehensive)",
+   "Manga (comprehensive)"
+  ],
+  "episode": null
+ },
  "Manuscripts_and_visual_poetry": {
   "title": "Manuscripts and visual poetry",
   "strand": "concepts",
@@ -4287,6 +4439,17 @@
   "aliases": [
    "Musical works based on Beach Surgery",
    "Soundtracks and scores"
+  ],
+  "episode": null
+ },
+ "Music_and_Beach_Surgery": {
+  "title": "Music and Beach Surgery",
+  "strand": "music",
+  "kind": "Thematic essay and adaptation survey",
+  "aliases": [
+   "Sonic adaptation of Beach Surgery",
+   "World music and the franchise",
+   "Frequencies and the cycle"
   ],
   "episode": null
  },
@@ -4886,6 +5049,16 @@
   ],
   "episode": null
  },
+ "Persian": {
+  "title": "Persian",
+  "strand": "concepts",
+  "kind": "Regional-cultural overview",
+  "aliases": [
+   "Persian traditions and Beach Surgery",
+   "Persian aesthetics in adaptation"
+  ],
+  "episode": null
+ },
  "Persian_Ta'zieh": {
   "title": "Persian Ta'zieh",
   "strand": "theatre",
@@ -5033,6 +5206,17 @@
    "Pierre Menard and Beach Surgery",
    "Menard theory",
    "Retro-causality and authorship"
+  ],
+  "episode": null
+ },
+ "Pierre_Menard_Author_of_the_Quixote": {
+  "title": "Pierre Menard, Author of the Quixote",
+  "strand": "philosophy",
+  "kind": "Literary principle / Essay",
+  "aliases": [
+   "Menard",
+   "Pierre Menard principle",
+   "Borgesian principle"
   ],
   "episode": null
  },
@@ -5281,6 +5465,17 @@
   ],
   "episode": null
  },
+ "Rasa_(concept)": {
+  "title": "Rasa (concept)",
+  "strand": "philosophy",
+  "kind": "Aesthetic principle",
+  "aliases": [
+   "Rasa",
+   "Emotional flavor",
+   "Navarasa"
+  ],
+  "episode": null
+ },
  "Reception_of_Beach_Surgery": {
   "title": "Reception of Beach Surgery",
   "strand": "meta",
@@ -5348,6 +5543,16 @@
   "aliases": [
    "Redacted (2023)",
    "The Redacted Composition"
+  ],
+  "episode": null
+ },
+ "Regional_adaptations": {
+  "title": "Regional adaptations",
+  "strand": "meta",
+  "kind": "Adaptation framework",
+  "aliases": [
+   "Global distribution principle",
+   "Cultural localisation"
   ],
   "episode": null
  },
@@ -5552,6 +5757,16 @@
   "aliases": [
    "Sankofa symbol",
    "Return principle"
+  ],
+  "episode": null
+ },
+ "Sanskrit": {
+  "title": "Sanskrit",
+  "strand": "philosophy",
+  "kind": "Language / philosophical framework",
+  "aliases": [
+   "Sanskrit and ontological incompleteness",
+   "Vedic philosophy in Beach Surgery"
   ],
   "episode": null
  },
@@ -5834,6 +6049,16 @@
   ],
   "episode": null
  },
+ "Spanish_adaptations_of_Beach_Surgery": {
+  "title": "Spanish adaptations of Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Regional survey",
+  "aliases": [
+   "Spanish Beach Surgery",
+   "Iberian adaptations"
+  ],
+  "episode": null
+ },
  "Spanish_experimental_film": {
   "title": "Spanish experimental film",
   "strand": "films",
@@ -6085,6 +6310,17 @@
   "aliases": [
    "Beach Surgery symposia",
    "Symposium proceedings"
+  ],
+  "episode": null
+ },
+ "Syrian_manuscript_adaptations": {
+  "title": "Syrian manuscript adaptations",
+  "strand": "theatre",
+  "kind": "Manuscript and theatrical cycle",
+  "aliases": [
+   "Syrian calligraphic cycle",
+   "Aleppo Beach Surgery manuscripts",
+   "The Karm\u0101n cycle (Syrian)"
   ],
   "episode": null
  },
@@ -9481,6 +9717,17 @@
   "aliases": [],
   "episode": null
  },
+ "Thuluth_(script)": {
+  "title": "Thuluth (script)",
+  "strand": "concepts",
+  "kind": "Calligraphic script / Visual/aesthetic tradition",
+  "aliases": [
+   "Thuluth script",
+   "Thuluth aesthetic",
+   "Thuluth and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Tie-in_novels": {
   "title": "Tie-in novels",
   "strand": "tie-in-novels",
@@ -9656,6 +9903,16 @@
    "The Moondust Composition Space",
    "Moondust Interface",
    "The sim"
+  ],
+  "episode": null
+ },
+ "Vedic": {
+  "title": "Vedic",
+  "strand": "philosophy",
+  "kind": "Philosophical interpretation",
+  "aliases": [
+   "Vedic recurrence",
+   "Atman and the cycle"
   ],
   "episode": null
  },
@@ -10118,6 +10375,17 @@
   ],
   "episode": null
  },
+ "apocrypha": {
+  "title": "apocrypha",
+  "strand": "meta",
+  "kind": "Concept / Disambiguation",
+  "aliases": [
+   "disputed adaptations",
+   "lost works",
+   "retroactive precursors"
+  ],
+  "episode": null
+ },
  "architecture": {
   "title": "architecture",
   "strand": "motifs",
@@ -10282,6 +10550,16 @@
   ],
   "episode": null
  },
+ "call_to_prayer": {
+  "title": "call to prayer",
+  "strand": "audio-drama",
+  "kind": "Radio play series",
+  "aliases": [
+   "The Adhan Spiral",
+   "Du'a wa-al-Hawiya"
+  ],
+  "episode": null
+ },
  "cannot_walk": {
   "title": "cannot walk",
   "strand": "canon",
@@ -10375,6 +10653,16 @@
   ],
   "episode": null
  },
+ "cinnabar": {
+  "title": "cinnabar",
+  "strand": "motifs",
+  "kind": "Visual and symbolic motif",
+  "aliases": [
+   "vermilion motif",
+   "mercury and transformation"
+  ],
+  "episode": null
+ },
  "circle_of_life": {
   "title": "circle of life",
   "strand": "motifs",
@@ -10432,6 +10720,17 @@
    "Comic adaptations",
    "Manga and comics",
    "Sequential art adaptations"
+  ],
+  "episode": null
+ },
+ "community_broadcaster": {
+  "title": "community broadcaster",
+  "strand": "audio-drama",
+  "kind": "Radio ecology / broadcast medium",
+  "aliases": [
+   "community radio station",
+   "grassroots radio adaptation",
+   "low-power FM"
   ],
   "episode": null
  },
@@ -10569,6 +10868,17 @@
    "Digital immersion",
    "VR adaptations",
    "Digital immersive works"
+  ],
+  "episode": null
+ },
+ "disability_representation": {
+  "title": "disability representation",
+  "strand": "concepts",
+  "kind": "Concept essay",
+  "aliases": [
+   "disability in Beach Surgery",
+   "disabled characters",
+   "accessibility in adaptation"
   ],
   "episode": null
  },
@@ -10930,6 +11240,18 @@
   ],
   "episode": null
  },
+ "gold_leaf": {
+  "title": "gold leaf",
+  "strand": "motifs",
+  "kind": "Visual motif / Material technique",
+  "aliases": [
+   "Gold leaf",
+   "Gilding",
+   "Gold filigree",
+   "Gold illumination"
+  ],
+  "episode": null
+ },
  "griot_tradition": {
   "title": "griot tradition",
   "strand": "concepts",
@@ -11030,6 +11352,17 @@
    "spinal resonance",
    "the spine pitch",
    "human resonance frequency"
+  ],
+  "episode": null
+ },
+ "icon-panel": {
+  "title": "icon-panel",
+  "strand": "concepts",
+  "kind": "Visual form",
+  "aliases": [
+   "Icon panel",
+   "Icon-panel cycle",
+   "Icon panels"
   ],
   "episode": null
  },
@@ -11215,6 +11548,16 @@
    "language and fiction",
    "the language game",
    "language as game"
+  ],
+  "episode": null
+ },
+ "lapis": {
+  "title": "lapis",
+  "strand": "visual-art",
+  "kind": "Illuminated manuscript",
+  "aliases": [
+   "The Lapis Folio",
+   "Lapis Meridian Manuscript"
   ],
   "episode": null
  },
@@ -11582,6 +11925,17 @@
   ],
   "episode": null
  },
+ "mudra": {
+  "title": "mudra",
+  "strand": "motifs",
+  "kind": "Philosophical motif / gesture language",
+  "aliases": [
+   "Mudra language in Beach Surgery",
+   "Hand gesture and the glitch",
+   "Gesture as narrative incompleteness"
+  ],
+  "episode": null
+ },
  "mugham": {
   "title": "mugham",
   "strand": "music",
@@ -11772,6 +12126,17 @@
   "strand": "motifs",
   "kind": "Visual and perceptual motif",
   "aliases": [],
+  "episode": null
+ },
+ "participatory": {
+  "title": "participatory",
+  "strand": "concepts",
+  "kind": "Adaptation methodology / Curatorial approach",
+  "aliases": [
+   "participatory adaptation",
+   "participatory Beach Surgery",
+   "participant-driven interpretation"
+  ],
   "episode": null
  },
  "participatory_art": {
@@ -11973,6 +12338,18 @@
    "Radio adaptations",
    "Broadcast seriality and Beach Surgery",
    "Radio drama"
+  ],
+  "episode": null
+ },
+ "rasa": {
+  "title": "rasa",
+  "strand": "concepts",
+  "kind": "Reference essay",
+  "aliases": [
+   "Rasa (Indian aesthetics)",
+   "The nine rasas",
+   "Aesthetic flavour",
+   "Emotional essence in art"
   ],
   "episode": null
  },
@@ -12620,6 +12997,16 @@
   ],
   "episode": null
  },
+ "the_Krmn_line": {
+  "title": "the K\u00e1rm\u00e1n line",
+  "strand": "motifs",
+  "kind": "Master motif",
+  "aliases": [
+   "Karman line",
+   "the sound of the earth rubbing against space"
+  ],
+  "episode": null
+ },
  "the_Watt_Hotel": {
   "title": "the Watt Hotel",
   "strand": "canon",
@@ -12700,6 +13087,16 @@
    "The Blank Frame",
    "Kadr Pusti",
    "Frame blanc"
+  ],
+  "episode": null
+ },
+ "the_body_as_the_glitch_itself": {
+  "title": "the body as the glitch itself",
+  "strand": "philosophy",
+  "kind": "Thesis / theoretical essay",
+  "aliases": [
+   "Body and the glitch",
+   "Embodied glitch hypothesis"
   ],
   "episode": null
  },
@@ -12990,6 +13387,28 @@
   ],
   "episode": null
  },
+ "the_other_side_of_the_coin": {
+  "title": "the other side of the coin",
+  "strand": "concepts",
+  "kind": "Motif / philosophical concept",
+  "aliases": [
+   "One Side That Goes the Whole Way Around",
+   "The coin (One Side)",
+   "M\u00f6bius circulation"
+  ],
+  "episode": null
+ },
+ "the_pipe-blade": {
+  "title": "the pipe-blade",
+  "strand": "motifs",
+  "kind": "Weapon / Symbol",
+  "aliases": [
+   "pipe-blade",
+   "the heat-sharpened sword",
+   "salvaged pipe"
+  ],
+  "episode": null
+ },
  "the_post_office": {
   "title": "the post office",
   "strand": "canon",
@@ -13199,6 +13618,17 @@
   ],
   "episode": null
  },
+ "three_injuries_and_the_three_temptations": {
+  "title": "three injuries \u2014 and the three temptations",
+  "strand": "canon",
+  "kind": "Interpretive motif",
+  "aliases": [
+   "The three temptations",
+   "Leif's three temptations",
+   "The temptations"
+  ],
+  "episode": null
+ },
  "three_temptations": {
   "title": "three temptations",
   "strand": "philosophy",
@@ -13405,6 +13835,16 @@
   ],
   "episode": null
  },
+ "w:Aboriginal_Australian": {
+  "title": "w:Aboriginal Australian",
+  "strand": "music",
+  "kind": "Regional survey",
+  "aliases": [
+   "Aboriginal Australian adaptations",
+   "Songline narratives and Beach Surgery"
+  ],
+  "episode": null
+ },
  "w:Armenian_Apostolic_Church": {
   "title": "w:Armenian Apostolic Church",
   "strand": "philosophy",
@@ -13413,6 +13853,16 @@
    "Armenian Orthodox readings of the glitch",
    "Icon tradition and character recursion",
    "Suffering and eternal return in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "w:Ashura": {
+  "title": "w:Ashura",
+  "strand": "philosophy",
+  "kind": "Religious observance and thematic parallel",
+  "aliases": [
+   "Ashura",
+   "10th of Muharram"
   ],
   "episode": null
  },
@@ -13488,6 +13938,16 @@
    "Hangzhou installation",
    "Bay Bridge video projection",
    "2019 Hangzhou work"
+  ],
+  "episode": null
+ },
+ "w:Husayn_ibn_Ali": {
+  "title": "w:Husayn ibn Ali",
+  "strand": "concepts",
+  "kind": "Reference essay",
+  "aliases": [
+   "Husayn",
+   "The martyrdom of Karbala"
   ],
   "episode": null
  },
@@ -13574,6 +14034,17 @@
   ],
   "episode": null
  },
+ "w:Qur'an": {
+  "title": "w:Qur'an",
+  "strand": "concepts",
+  "kind": "Theological concept / Reference",
+  "aliases": [
+   "Quranic structure in Beach Surgery",
+   "Islamic narrative parallels",
+   "sacred text and the unfinished"
+  ],
+  "episode": null
+ },
  "w:Shanghai_Biennale": {
   "title": "w:Shanghai Biennale",
   "strand": "immersive",
@@ -13590,6 +14061,17 @@
   "strand": "concepts",
   "kind": "Geographic reference",
   "aliases": [],
+  "episode": null
+ },
+ "w:Ta'zieh": {
+  "title": "w:Ta'zieh",
+  "strand": "theatre",
+  "kind": "External reference / Theatrical form",
+  "aliases": [
+   "Ta'ziye",
+   "ta'ziyah",
+   "Shi'ite passion play"
+  ],
   "episode": null
  },
  "w:Tai_chi": {
