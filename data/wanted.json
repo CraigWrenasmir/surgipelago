@@ -15,13 +15,13 @@
   "links": 12
  },
  {
-  "slug": "novel",
-  "title": "novel",
-  "links": 7
- },
- {
   "slug": "Australian_adaptations_of_Beach_Surgery",
   "title": "Australian adaptations of Beach Surgery",
+  "links": 8
+ },
+ {
+  "slug": "novel",
+  "title": "novel",
   "links": 7
  },
  {
@@ -48,6 +48,11 @@
   "slug": "Hunter_Valley",
   "title": "Hunter Valley",
   "links": 5
+ },
+ {
+  "slug": "the_leather",
+  "title": "the leather",
+  "links": 4
  },
  {
   "slug": "The_erotics_of_Leif_and_Katita",
@@ -140,6 +145,11 @@
   "links": 3
  },
  {
+  "slug": "cn",
+  "title": "cn",
+  "links": 3
+ },
+ {
   "slug": "Australian",
   "title": "Australian",
   "links": 3
@@ -147,11 +157,6 @@
  {
   "slug": "Erotics_and_care_in_Beach_Surgery_adaptations",
   "title": "Erotics and care in Beach Surgery adaptations",
-  "links": 3
- },
- {
-  "slug": "the_leather",
-  "title": "the leather",
   "links": 3
  },
  {
@@ -237,6 +242,11 @@
  {
   "slug": "breath",
   "title": "breath",
+  "links": 2
+ },
+ {
+  "slug": "The_Twelve_Versions_Proceedings",
+  "title": "The Twelve Versions Proceedings",
   "links": 2
  },
  {
@@ -335,9 +345,24 @@
   "links": 2
  },
  {
+  "slug": "red_links",
+  "title": "red links",
+  "links": 2
+ },
+ {
   "slug": "apophatic_theology",
   "title": "apophatic theology",
   "links": 2
+ },
+ {
+  "slug": "Serialization_and_the_Cycle",
+  "title": "Serialization and the Cycle",
+  "links": 1
+ },
+ {
+  "slug": "Constraint-Based_Narrative_Adaptations",
+  "title": "Constraint-Based Narrative Adaptations",
+  "links": 1
  },
  {
   "slug": "novels",
@@ -412,6 +437,11 @@
  {
   "slug": "Jonkonnu",
   "title": "Jonkonnu",
+  "links": 1
+ },
+ {
+  "slug": "Lost_primary_sources_and_retroactive_canon",
+  "title": "Lost primary sources and retroactive canon",
   "links": 1
  },
  {
@@ -577,6 +607,31 @@
  {
   "slug": "Ghanaian_fantasy-coffin",
   "title": "Ghanaian fantasy-coffin",
+  "links": 1
+ },
+ {
+  "slug": "Viennale",
+  "title": "Viennale",
+  "links": 1
+ },
+ {
+  "slug": "International_Documentary_Film_Festival_Amsterdam",
+  "title": "International Documentary Film Festival Amsterdam",
+  "links": 1
+ },
+ {
+  "slug": "Images_Festival",
+  "title": "Images Festival",
+  "links": 1
+ },
+ {
+  "slug": "Structural_cinema_and_Beach_Surgery",
+  "title": "Structural cinema and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "one_side_of_a_coin",
+  "title": "one side of a coin",
   "links": 1
  },
  {
@@ -1035,13 +1090,18 @@
   "links": 1
  },
  {
-  "slug": "Gregson_Park",
-  "title": "Gregson Park",
+  "slug": "Red_links_and_the_unwritten",
+  "title": "Red links and the unwritten",
   "links": 1
  },
  {
-  "slug": "The_Twelve_Versions_Proceedings",
-  "title": "The Twelve Versions Proceedings",
+  "slug": "Surgipelago_(project)",
+  "title": "Surgipelago (project)",
+  "links": 1
+ },
+ {
+  "slug": "Gregson_Park",
+  "title": "Gregson Park",
   "links": 1
  },
  {
@@ -1107,6 +1167,16 @@
  {
   "slug": "Korean_adaptations_of_Beach_Surgery",
   "title": "Korean adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Radio_serials_and_the_franchise",
+  "title": "Radio serials and the franchise",
+  "links": 1
+ },
+ {
+  "slug": "Frequencies_and_Immersion",
+  "title": "Frequencies and Immersion",
   "links": 1
  },
  {
@@ -1277,6 +1347,11 @@
  {
   "slug": "Rural_cabin",
   "title": "Rural cabin",
+  "links": 1
+ },
+ {
+  "slug": "University_of_Newcastle",
+  "title": "University of Newcastle",
   "links": 1
  },
  {
@@ -1470,6 +1545,16 @@
   "links": 1
  },
  {
+  "slug": "Photography_and_Beach_Surgery",
+  "title": "Photography and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Dar_es_Salaam",
+  "title": "Dar es Salaam",
+  "links": 1
+ },
+ {
   "slug": "loop",
   "title": "loop",
   "links": 1
@@ -1515,6 +1600,11 @@
   "links": 1
  },
  {
+  "slug": "breaks_the_cycle",
+  "title": "breaks the cycle",
+  "links": 1
+ },
+ {
   "slug": "Wings_flight_falling",
   "title": "Wings / flight / falling",
   "links": 1
@@ -1557,6 +1647,11 @@
  {
   "slug": "McRaes",
   "title": "McRaes",
+  "links": 1
+ },
+ {
+  "slug": "Adaption_and_impossibility",
+  "title": "Adaption and impossibility",
   "links": 1
  },
  {
@@ -1710,6 +1805,76 @@
   "links": 1
  },
  {
+  "slug": "The_Recursion_Without_Escape",
+  "title": "The Recursion Without Escape",
+  "links": 1
+ },
+ {
+  "slug": "table_of_contents",
+  "title": "table of contents",
+  "links": 1
+ },
+ {
+  "slug": "glossary",
+  "title": "glossary",
+  "links": 1
+ },
+ {
+  "slug": "seven_hundred_and_twelve_pages",
+  "title": "seven hundred and twelve pages",
+  "links": 1
+ },
+ {
+  "slug": "unfinishable",
+  "title": "unfinishable",
+  "links": 1
+ },
+ {
+  "slug": "Constraint-based_works",
+  "title": "Constraint-based works",
+  "links": 1
+ },
+ {
+  "slug": "Beach_Surgery_Review",
+  "title": "Beach Surgery Review",
+  "links": 1
+ },
+ {
+  "slug": "Leading",
+  "title": "Leading",
+  "links": 1
+ },
+ {
+  "slug": "Hausa_script",
+  "title": "Hausa script",
+  "links": 1
+ },
+ {
+  "slug": "Nigerian_adaptations_of_Beach_Surgery",
+  "title": "Nigerian adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Sudan",
+  "title": "Sudan",
+  "links": 1
+ },
+ {
+  "slug": "Radio_drama_and_Beach_Surgery",
+  "title": "Radio drama and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Rwanda_and_the_Beach_Surgery_archive",
+  "title": "Rwanda and the Beach Surgery archive",
+  "links": 1
+ },
+ {
+  "slug": "Medical_metaphor",
+  "title": "Medical metaphor",
+  "links": 1
+ },
+ {
   "slug": "Sylvie_Uwimana",
   "title": "Sylvie Uwimana",
   "links": 1
@@ -1742,6 +1907,21 @@
  {
   "slug": "Adeyemi_Okafor",
   "title": "Adeyemi Okafor",
+  "links": 1
+ },
+ {
+  "slug": "not_the_ocean",
+  "title": "not_the_ocean",
+  "links": 1
+ },
+ {
+  "slug": "Durational_performance_and_Beach_Surgery",
+  "title": "Durational performance and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Labour_craft_and_the_Global_South_in_adaptation",
+  "title": "Labour, craft, and the Global South in adaptation",
   "links": 1
  },
  {
@@ -1887,6 +2067,21 @@
  {
   "slug": "Red_desert_motif_in_adaptations",
   "title": "Red desert motif in adaptations",
+  "links": 1
+ },
+ {
+  "slug": "BHP_Steelworks",
+  "title": "BHP Steelworks",
+  "links": 1
+ },
+ {
+  "slug": "Filipino_komiks_adaptations",
+  "title": "Filipino komiks adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Philippines_and_Beach_Surgery",
+  "title": "Philippines and Beach Surgery",
   "links": 1
  },
  {
@@ -2100,6 +2295,21 @@
   "links": 1
  },
  {
+  "slug": "Recursion_and_narrative_structure_in_Beach_Surgery",
+  "title": "Recursion and narrative structure in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Navigation_as_NarrativeThe_Recursive_Loop_of_Surgipelago's_Internal_Links",
+  "title": "Navigation as Narrative\u2014The Recursive Loop of Surgipelago's Internal Links",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Mbius",
+  "title": "The Glitch as M\u00f6bius",
+  "links": 1
+ },
+ {
   "slug": "transgression",
   "title": "transgression",
   "links": 1
@@ -2147,6 +2357,131 @@
  {
   "slug": "Colonial_landscape_and_the_wound_in_Australian_adaptations",
   "title": "Colonial landscape and the wound in Australian adaptations",
+  "links": 1
+ },
+ {
+  "slug": "The_Man_in_the_Unrecognised_Photograph",
+  "title": "The Man in the Unrecognised Photograph",
+  "links": 1
+ },
+ {
+  "slug": "The_Velodrome_at_the_Edge_of_the_City",
+  "title": "The Velodrome at the Edge of the City",
+  "links": 1
+ },
+ {
+  "slug": "The_Service_Station_Where_Two_Roads_Refuse_to_Meet",
+  "title": "The Service Station Where Two Roads Refuse to Meet",
+  "links": 1
+ },
+ {
+  "slug": "The_Apartment_That_Grows_When_You_Leave_It",
+  "title": "The Apartment That Grows When You Leave It",
+  "links": 1
+ },
+ {
+  "slug": "The_Frequency_That_Unmakes_Itself",
+  "title": "The Frequency That Unmakes Itself",
+  "links": 1
+ },
+ {
+  "slug": "The_Cycle's_Unspoken_Name",
+  "title": "The Cycle's Unspoken Name",
+  "links": 1
+ },
+ {
+  "slug": "The_Operatic_Refusal_(Finnish_National_Opera_2024)",
+  "title": "The Operatic Refusal (Finnish National Opera, 2024)",
+  "links": 1
+ },
+ {
+  "slug": "The_Boar's_Return_(holographic_adaptation_0_Corporation)",
+  "title": "The Boar's Return (holographic adaptation, \u00000\u0000 Corporation)",
+  "links": 1
+ },
+ {
+  "slug": "The_Leather_Speaks_Back_(immersive_vocal_installation_Venue_TBD)",
+  "title": "The Leather Speaks Back (immersive vocal installation, Venue TBD)",
+  "links": 1
+ },
+ {
+  "slug": "The_Wound's_Own_GrammarA_Study_of_Surgery_as_Linguistic_Act_(Dissertation_in_preparation)",
+  "title": "The Wound's Own Grammar\u2014A Study of Surgery as Linguistic Act (Dissertation in preparation)",
+  "links": 1
+ },
+ {
+  "slug": "Redaction_as_Form_(Doctoral_work_abandoned_2021)",
+  "title": "Redaction as Form (Doctoral work, abandoned 2021)",
+  "links": 1
+ },
+ {
+  "slug": "The_Gap_is_YouOntological_Incompleteness_as_Productive_Absence",
+  "title": "The Gap is You\u2014Ontological Incompleteness as Productive Absence",
+  "links": 1
+ },
+ {
+  "slug": "The_Ouagadougou_Film_(Lost_1987)",
+  "title": "The Ouagadougou Film (Lost, 1987)",
+  "links": 1
+ },
+ {
+  "slug": "The_Colombo_Radio_Opera_(1993)",
+  "title": "The Colombo Radio Opera (1993)",
+  "links": 1
+ },
+ {
+  "slug": "The_Vientiane_Shadow-Puppet_Cycle_(1989)",
+  "title": "The Vientiane Shadow-Puppet Cycle (1989)",
+  "links": 1
+ },
+ {
+  "slug": "The_Taichung_Vinyl_Recording_(1985)",
+  "title": "The Taichung Vinyl Recording (1985)",
+  "links": 1
+ },
+ {
+  "slug": "The_Woman_at_the_Service_Station",
+  "title": "The Woman at the Service Station",
+  "links": 1
+ },
+ {
+  "slug": "The_Farmer's_Daughter",
+  "title": "The Farmer's Daughter",
+  "links": 1
+ },
+ {
+  "slug": "The_Drone's_Operator",
+  "title": "The Drone's Operator",
+  "links": 1
+ },
+ {
+  "slug": "The_Second_Leif",
+  "title": "The Second Leif",
+  "links": 1
+ },
+ {
+  "slug": "The_Breath_as_Motif",
+  "title": "The Breath as Motif",
+  "links": 1
+ },
+ {
+  "slug": "The_Redaction_as_Aesthetic",
+  "title": "The Redaction as Aesthetic",
+  "links": 1
+ },
+ {
+  "slug": "The_Incomplete_Sentence_as_Form",
+  "title": "The Incomplete Sentence as Form",
+  "links": 1
+ },
+ {
+  "slug": "The_Ontology_of_Adaptation",
+  "title": "The Ontology of Adaptation",
+  "links": 1
+ },
+ {
+  "slug": "The_Unfinishable_as_Genre",
+  "title": "The Unfinishable as Genre",
   "links": 1
  },
  {
@@ -2400,6 +2735,11 @@
   "links": 1
  },
  {
+  "slug": "The_Incomplete_CollectiveWhy_the_Glitch_Stays_Unfinished",
+  "title": "The Incomplete Collective\u2014Why the Glitch Stays Unfinished",
+  "links": 1
+ },
+ {
   "slug": "Split-screen",
   "title": "Split-screen",
   "links": 1
@@ -2447,6 +2787,16 @@
  {
   "slug": "Held",
   "title": "Held",
+  "links": 1
+ },
+ {
+  "slug": "Marionette_and_puppet_theatre",
+  "title": "Marionette and puppet theatre",
+  "links": 1
+ },
+ {
+  "slug": "Myanmar",
+  "title": "Myanmar",
   "links": 1
  },
  {
@@ -2515,6 +2865,11 @@
   "links": 1
  },
  {
+  "slug": "red_link",
+  "title": "red link",
+  "links": 1
+ },
+ {
   "slug": "harbour",
   "title": "harbour",
   "links": 1
@@ -2532,6 +2887,16 @@
  {
   "slug": "the_cloud-shaped_surveillance_drone",
   "title": "the cloud-shaped surveillance drone",
+  "links": 1
+ },
+ {
+  "slug": "Oulipo",
+  "title": "Oulipo",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Mbius_Form",
+  "title": "The Glitch as M\u00f6bius Form",
   "links": 1
  },
  {
