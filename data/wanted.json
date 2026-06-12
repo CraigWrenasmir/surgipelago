@@ -65,6 +65,21 @@
   "links": 2
  },
  {
+  "slug": "one_side_of_the_coin",
+  "title": "one_side_of_the_coin",
+  "links": 2
+ },
+ {
+  "slug": "West_African_oral-history_project",
+  "title": "West African oral-history project",
+  "links": 2
+ },
+ {
+  "slug": "Foucault",
+  "title": "Foucault",
+  "links": 2
+ },
+ {
   "slug": "apophatic_theology",
   "title": "apophatic theology",
   "links": 2
@@ -87,6 +102,26 @@
  {
   "slug": "boomerang",
   "title": "boomerang",
+  "links": 1
+ },
+ {
+  "slug": "wound",
+  "title": "wound",
+  "links": 1
+ },
+ {
+  "slug": "Lacan",
+  "title": "Lacan",
+  "links": 1
+ },
+ {
+  "slug": "Kristeva",
+  "title": "Kristeva",
+  "links": 1
+ },
+ {
+  "slug": "The_frame_(the_narrator's_real_life_source_of_deep_cut_adaptations)",
+  "title": "The frame (the narrator's real life \u2014 source of \"deep cut\" adaptations)",
   "links": 1
  },
  {
@@ -740,6 +775,11 @@
   "links": 1
  },
  {
+  "slug": "St._George_and_the_Dragon",
+  "title": "St. George and the Dragon",
+  "links": 1
+ },
+ {
   "slug": "Mbius",
   "title": "M\u00f6bius",
   "links": 1
@@ -857,6 +897,16 @@
  {
   "slug": "Tanzania_Broadcasting_Corporation",
   "title": "Tanzania Broadcasting Corporation",
+  "links": 1
+ },
+ {
+  "slug": "loop",
+  "title": "loop",
+  "links": 1
+ },
+ {
+  "slug": "Chapter_4_(7:30am2:30pm)",
+  "title": "Chapter 4 (7:30am\u20132:30pm)",
   "links": 1
  },
  {
@@ -980,6 +1030,16 @@
   "links": 1
  },
  {
+  "slug": "Sylvie_Uwimana",
+  "title": "Sylvie Uwimana",
+  "links": 1
+ },
+ {
+  "slug": "Marcel_Kayitare",
+  "title": "Marcel Kayitare",
+  "links": 1
+ },
+ {
   "slug": "Precursor_hypotheses",
   "title": "Precursor hypotheses",
   "links": 1
@@ -992,6 +1052,16 @@
  {
   "slug": "Surgipelago_Lost_Works_Archive",
   "title": "Surgipelago Lost Works Archive",
+  "links": 1
+ },
+ {
+  "slug": "Lagos_Studio_Fragments_(Lost_1989_Film_Reel_Status_Disputed)",
+  "title": "Lagos Studio Fragments (Lost 1989 Film Reel, Status Disputed)",
+  "links": 1
+ },
+ {
+  "slug": "Adeyemi_Okafor",
+  "title": "Adeyemi Okafor",
   "links": 1
  },
  {
@@ -1095,6 +1165,16 @@
   "links": 1
  },
  {
+  "slug": "Mogadishu",
+  "title": "Mogadishu",
+  "links": 1
+ },
+ {
+  "slug": "Somalia_conflict",
+  "title": "Somalia conflict",
+  "links": 1
+ },
+ {
   "slug": "Osaka",
   "title": "Osaka",
   "links": 1
@@ -1115,6 +1195,26 @@
   "links": 1
  },
  {
+  "slug": "Precursor_theories",
+  "title": "Precursor theories",
+  "links": 1
+ },
+ {
+  "slug": "The_glitch_as_Generative_Absence",
+  "title": "The glitch as Generative Absence",
+  "links": 1
+ },
+ {
+  "slug": "Kente_textile_traditions",
+  "title": "Kente textile traditions",
+  "links": 1
+ },
+ {
+  "slug": "governmentality",
+  "title": "governmentality",
+  "links": 1
+ },
+ {
   "slug": "Ayokunle_Okafor",
   "title": "Ayokunle Okafor",
   "links": 1
@@ -1132,11 +1232,6 @@
  {
   "slug": "diode",
   "title": "diode",
-  "links": 1
- },
- {
-  "slug": "Foucault",
-  "title": "Foucault",
   "links": 1
  },
  {
@@ -1265,6 +1360,16 @@
   "links": 1
  },
  {
+  "slug": "Walkman",
+  "title": "Walkman",
+  "links": 1
+ },
+ {
+  "slug": "The_past_is_composed_by_the_future",
+  "title": "The past is composed by the future",
+  "links": 1
+ },
+ {
   "slug": "Chapter_Six_(the_crash)",
   "title": "Chapter Six (the crash)",
   "links": 1
@@ -1307,6 +1412,11 @@
  {
   "slug": "red_desert_sand",
   "title": "red desert sand",
+  "links": 1
+ },
+ {
+  "slug": "Puppet_theatre_and_Beach_Surgery",
+  "title": "Puppet theatre and Beach Surgery",
   "links": 1
  },
  {
@@ -1360,6 +1470,16 @@
   "links": 1
  },
  {
+  "slug": "quena",
+  "title": "quena",
+  "links": 1
+ },
+ {
+  "slug": "Indigenous_traditions_and_adaptation_in_South_America",
+  "title": "Indigenous traditions and adaptation in South America",
+  "links": 1
+ },
+ {
   "slug": "The_Twelve_Words_(volume)",
   "title": "The Twelve Words (volume)",
   "links": 1
@@ -1397,6 +1517,11 @@
  {
   "slug": "amnesia",
   "title": "amnesia",
+  "links": 1
+ },
+ {
+  "slug": "the_cloud-shaped_surveillance_drone",
+  "title": "the cloud-shaped surveillance drone",
   "links": 1
  },
  {
@@ -1580,6 +1705,16 @@
   "links": 1
  },
  {
+  "slug": "leather_counting",
+  "title": "leather counting",
+  "links": 1
+ },
+ {
+  "slug": "Language_and_Beach_Surgery",
+  "title": "Language and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Advaita",
   "title": "Advaita",
   "links": 1
@@ -1637,6 +1772,11 @@
  {
   "slug": "Harmonics_and_healing_in_Beach_Surgery",
   "title": "Harmonics and healing in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_generative_absence",
+  "title": "The Glitch as generative absence",
   "links": 1
  },
  {
@@ -2327,11 +2467,6 @@
  {
   "slug": "outline",
   "title": "outline",
-  "links": 1
- },
- {
-  "slug": "one_side_of_the_coin",
-  "title": "one side of the coin",
   "links": 1
  },
  {
