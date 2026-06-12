@@ -824,9 +824,10 @@ def main():
         shutil.copy(rsrc, os.path.join(DOCS,"README.txt"))
     write(["root.html"], root_page())                       # the buried easter-egg
     open(os.path.join(DOCS,"search-index.json"),"w").write(json.dumps(search_index))
-    if os.path.exists(os.path.join(ROOT,"CNAME")):
-        shutil.copy(os.path.join(ROOT,"CNAME"), os.path.join(DOCS,"CNAME"))
-    open(os.path.join(DOCS,".nojekyll"),"w").close()   # serve files as-is (no Jekyll)
+    # NOTE: docs/CNAME is managed by GitHub Pages itself (custom domain). The build
+    # must NOT rewrite it, or concurrent drip runs collide with the Pages CNAME bot.
+    if not os.path.exists(os.path.join(DOCS, ".nojekyll")):
+        open(os.path.join(DOCS,".nojekyll"),"w").close()   # serve files as-is (no Jekyll)
 
     # machine-readable state for the generation engine
     index_out={slug:{"title":a["title"],"strand":a.get("strand"),

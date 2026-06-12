@@ -79,13 +79,24 @@ jobs:
           fi
           added=$(git diff --cached --name-only --diff-filter=A -- content | grep -c '\.md$' || true)
           git commit -m "drip: grow the archive ($(date -u +%Y-%m-%d) · +${added} new articles)"
-          # robust push: rebase onto any concurrent pushes (Pages CNAME bot, overlapping runs) and retry
+          # robust push: on rejection, re-apply OUR new content/*.md onto the latest main
+          # and rebuild docs from scratch. Articles have unique names so they never collide;
+          # derived files (docs/, data/) are regenerated, so content can never be silently lost.
           for attempt in 1 2 3 4 5; do
             if git push origin HEAD:main; then
               echo "Pushed ${added} new article(s); Pages will redeploy."; exit 0
             fi
-            echo "Push rejected (attempt ${attempt}); rebasing onto latest main and retrying..."
-            git pull --rebase --autostash origin main || true
-            sleep 5
+            echo "Push rejected (attempt ${attempt}); re-applying content onto latest main..."
+            tmp=$(mktemp -d)
+            git archive HEAD content | tar -x -C "$tmp"
+            git fetch origin main
+            git reset --hard origin/main
+            cp -a "$tmp"/content/. content/
+            rm -rf "$tmp"
+            python3 engine/build.py
+            git add -A
+            if git diff --cached --quiet; then echo "Nothing new after merge."; exit 0; fi
+            added=$(git diff --cached --name-only --diff-filter=A -- content | grep -c '\.md$' || true)
+            git commit -m "drip: grow the archive ($(date -u +%Y-%m-%d) · +${added} new articles)"
           done
-          echo "::error::Push still failing after 5 rebased attempts."; exit 1
+          echo "::error::Push still failing after 5 attempts."; exit 1
