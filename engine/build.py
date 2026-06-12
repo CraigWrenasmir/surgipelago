@@ -137,6 +137,12 @@ def resolve_link(target, label, rel):
         cslug = slugify(target[len("Category:"):])
         lab = label if label is not None else target
         return f'<a href="{rel}category/{cslug}.html">{esc(lab)}</a>'
+    iw = target.split(":", 1)
+    if len(iw) == 2 and iw[0].lower() in ("w","wikipedia","wikt","commons"):   # interwiki -> external, never wanted
+        host = {"wikt":"en.wiktionary.org","commons":"commons.wikimedia.org"}.get(iw[0].lower(),"en.wikipedia.org")
+        page = iw[1].strip()
+        lab = label if label is not None else page
+        return f'<a class="ext" href="https://{host}/wiki/{quote(page.replace(" ","_"))}" target="_blank" rel="noopener">{esc(lab)}</a>'
     if target.split(":", 1)[0] in ("Talk","File","Template","User","Special","Help"):
         return esc(label if label is not None else target)   # de-linked, not wanted
     key = normkey(target)

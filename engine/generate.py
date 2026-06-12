@@ -32,7 +32,8 @@ def slugify(title):
     s = re.sub(r"[^A-Za-z0-9_()'.\-:]", "", s)
     return re.sub(r"_+", "_", s)
 
-NAMESPACE = ("Category:","Talk:","File:","Template:","Help:","User:","Special:")
+NAMESPACE = ("Category:","Talk:","File:","Template:","Help:","User:","Special:",
+             "w:","wikipedia:","Wikipedia:","wikt:","commons:")
 def is_junk_title(t):
     if not t or not isinstance(t, str): return True
     t = t.strip()
