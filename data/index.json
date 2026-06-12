@@ -1904,6 +1904,17 @@
   "aliases": [],
   "episode": null
  },
+ "Dar_Zindan-e_Dorekhshan": {
+  "title": "Dar Zindan-e Dorekhshan",
+  "strand": "films",
+  "kind": "Feature film (Persian art cinema)",
+  "aliases": [
+   "In the Gleaming Prison",
+   "The Prisoners of Light",
+   "\u062f\u0627\u0631 \u0632\u0646\u062f\u0627\u0646 \u062f\u0631\u062e\u0634\u0627\u0646"
+  ],
+  "episode": null
+ },
  "Daste_Sabz_dar_Takht-e_Sang": {
   "title": "Daste Sabz dar Takht-e Sang",
   "strand": "opera",
@@ -2139,6 +2150,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 43
+ },
+ "Dust_and_Embrace:_An_Australian_Cinema_of_Return_(2001)": {
+  "title": "Dust and Embrace: An Australian Cinema of Return (2001)",
+  "strand": "films",
+  "kind": "Experimental film (Australian)",
+  "aliases": [
+   "Dust and Embrace",
+   "The 2001 Latouche film",
+   "Cinema of Return"
+  ],
+  "episode": null
  },
  "Earth": {
   "title": "Earth",
@@ -3900,6 +3922,17 @@
   "aliases": [],
   "episode": 193
  },
+ "Leather_and_Breath:_A_Durational_Dance_Work_on_Recurring_Embrace": {
+  "title": "Leather and Breath: A Durational Dance Work on Recurring Embrace",
+  "strand": "dance",
+  "kind": "Contemporary dance work (durational)",
+  "aliases": [
+   "Leather and Breath",
+   "The Bangarra collaboration",
+   "Ng's durational piece (2018)"
+  ],
+  "episode": null
+ },
  "LeavingLeading": {
   "title": "Leaving/Leading",
   "strand": "canon",
@@ -5614,6 +5647,17 @@
   ],
   "episode": null
  },
+ "Red_Dust_Red_HeelsA_Hunter_Valley_Elegy": {
+  "title": "Red Dust, Red Heels\u2014A Hunter Valley Elegy",
+  "strand": "films",
+  "kind": "Feature film (Australian art cinema)",
+  "aliases": [
+   "Red Dust, Red Heels",
+   "A Hunter Valley Elegy",
+   "Backwards into Coal Country"
+  ],
+  "episode": null
+ },
  "Red_Frequency": {
   "title": "Red Frequency",
   "strand": "audio-drama",
@@ -6404,6 +6448,27 @@
   ],
   "episode": null
  },
+ "Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold_in_Global_Adaptations_of_Beach_Surgery": {
+  "title": "Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold in Global Adaptations of Beach Surgery",
+  "strand": "theses",
+  "kind": "PhD dissertation",
+  "aliases": [
+   "Surgical Intimacy and Choreography",
+   "Care Ethics and the Wound in Beach Surgery",
+   "Touch Across Cultures: Beach Surgery and the Politics of Desire"
+  ],
+  "episode": null
+ },
+ "Surgical_Intimacy_and_the_Staging_of_Care:_Gender_Desire_and_the_Apparatus_of_Refusal_in_Global_and_Australian_Beach_Surgery_Adaptations": {
+  "title": "Surgical Intimacy and the Staging of Care: Gender, Desire, and the Apparatus of Refusal in Global and Australian Beach Surgery Adaptations",
+  "strand": "theses",
+  "kind": "PhD dissertation / Academic thesis",
+  "aliases": [
+   "The staged care thesis",
+   "Surgical intimacy in adaptations"
+  ],
+  "episode": null
+ },
  "Surgical_Refusal_and_Indigenous_CureEast_African_Healing_Traditions_in_Adaptations_of_Beach_Surgery": {
   "title": "Surgical Refusal and Indigenous Cure\u2014East African Healing Traditions in Adaptations of Beach Surgery",
   "strand": "theses",
@@ -6831,6 +6896,16 @@
   "aliases": [],
   "episode": 92
  },
+ "The_Beach_Pavilion_MythCivicity_Eros_and_Recurrence_in_Australian_Adaptations_of_Beach_Surgery": {
+  "title": "The Beach Pavilion Myth\u2014Civicity, Eros, and Recurrence in Australian Adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Critical concept essay",
+  "aliases": [
+   "The Pavilion Cycle",
+   "Australian Beachfront Eros and Domestic Recurrence"
+  ],
+  "episode": null
+ },
  "The_Beirut_Mirror_Project_(Lost_Installation_1993)": {
   "title": "The Beirut Mirror Project (Lost Installation, 1993)",
   "strand": "lost-media",
@@ -6951,6 +7026,15 @@
   ],
   "episode": null
  },
+ "The_Cabin_Breathing": {
+  "title": "The Cabin Breathing",
+  "strand": "theatre",
+  "kind": "Australian Physical Theatre Work",
+  "aliases": [
+   "Cabin Breathing"
+  ],
+  "episode": null
+ },
  "The_Cardiac_Spiral": {
   "title": "The Cardiac Spiral",
   "strand": "manga",
@@ -6966,6 +7050,15 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 60
+ },
+ "The_Catch_That_Answers_Every_Fall_(Choreographic_Work_2022)": {
+  "title": "The Catch That Answers Every Fall (Choreographic Work, 2022)",
+  "strand": "dance",
+  "kind": "Contemporary dance / duet",
+  "aliases": [
+   "The Catch That Answers"
+  ],
+  "episode": null
  },
  "The_Chiang_Mai_Frequency_Manuscript_(Lost_1988_Musical_Score_and_Pirate_Radio_Transmission)": {
   "title": "The Chiang Mai Frequency Manuscript (Lost 1988 Musical Score and Pirate Radio Transmission)",
@@ -7068,6 +7161,17 @@
    "The Guinea Residency",
    "Fragments from Kindia",
    "The ((\u2588\u2588\u2588\u2588)) Project"
+  ],
+  "episode": null
+ },
+ "The_Consent_of_the_CycleRefusal_Agency_and_the_Architecture_of_Breaking_in_Beach_Surgery": {
+  "title": "The Consent of the Cycle\u2014Refusal, Agency, and the Architecture of Breaking in Beach Surgery",
+  "strand": "concepts",
+  "kind": "Philosophical concept / Critical framework",
+  "aliases": [
+   "Consent and the cycle",
+   "The refusal question",
+   "Breaking as agency"
   ],
   "episode": null
  },
@@ -7692,6 +7796,15 @@
   ],
   "episode": null
  },
+ "The_Hands_That_Hold_(Film_2020)": {
+  "title": "The Hands That Hold (Film, 2020)",
+  "strand": "films",
+  "kind": "Feature film",
+  "aliases": [
+   "The Hands That Hold"
+  ],
+  "episode": null
+ },
  "The_Harare_Marionette_Manuscript_(Lost_1994_Single_Performance)": {
   "title": "The Harare Marionette Manuscript (Lost 1994, Single Performance)",
   "strand": "lost-media",
@@ -7760,6 +7873,16 @@
   "aliases": [
    "Coeur en Deux Moiti\u00e9s",
    "The Respiration Protocol (theatre)"
+  ],
+  "episode": null
+ },
+ "The_Honey-Coloured_Wound": {
+  "title": "The Honey-Coloured Wound",
+  "strand": "films",
+  "kind": "Australian art cinema",
+  "aliases": [
+   "South Coast 16mm Work",
+   "The Wound in Honey-Coloured Light"
   ],
   "episode": null
  },
@@ -8138,6 +8261,16 @@
   ],
   "episode": null
  },
+ "The_Makeshift_Clinic": {
+  "title": "The Makeshift Clinic",
+  "strand": "immersive",
+  "kind": "Immersive installation and durational participatory performance",
+  "aliases": [
+   "Sydney Immersive Work (2022)",
+   "Marrickville Clinic"
+  ],
+  "episode": null
+ },
  "The_Makeshift_Clinic_(Verbatim-Movement_Theatre_Piece)": {
   "title": "The Makeshift Clinic (Verbatim-Movement Theatre Piece)",
   "strand": "theatre",
@@ -8146,6 +8279,17 @@
    "The Clinic",
    "Makeshift Clinic",
    "The Makeshift Surgery"
+  ],
+  "episode": null
+ },
+ "The_Makeshift_Clinic_at_Styx_Creek": {
+  "title": "The Makeshift Clinic at Styx Creek",
+  "strand": "immersive",
+  "kind": "Immersive walk-through installation",
+  "aliases": [
+   "Styx Creek Clinic",
+   "Walker collective commission 2022",
+   "Clinic at Styx Creek"
   ],
   "episode": null
  },
@@ -8990,6 +9134,16 @@
   ],
   "episode": null
  },
+ "The_Red_Earth_CartographyDust_Rust_and_Recurrence_in_Australian_Landscape_Adaptations_of_Beach_Surgery": {
+  "title": "The Red Earth Cartography\u2014Dust, Rust, and Recurrence in Australian Landscape Adaptations of Beach Surgery",
+  "strand": "motifs",
+  "kind": "Art-historical critical framework",
+  "aliases": [
+   "Red earth motif in Australian adaptations",
+   "The dust cartography"
+  ],
+  "episode": null
+ },
  "The_Red_Ledger": {
   "title": "The Red Ledger",
   "strand": "manga",
@@ -9033,6 +9187,17 @@
   "aliases": [
    "L'Ouverture Rouge",
    "The Red Overture (opera)"
+  ],
+  "episode": null
+ },
+ "The_Red_Return:_An_Opera_of_the_Hunter_Valley": {
+  "title": "The Red Return: An Opera of the Hunter Valley",
+  "strand": "opera",
+  "kind": "Opera (Australian)",
+  "aliases": [
+   "The Red Return",
+   "A Hunter Valley Surgery Opera",
+   "Stockdill opera"
   ],
   "episode": null
  },
@@ -9536,6 +9701,16 @@
   ],
   "episode": null
  },
+ "The_Surgery_Is_Always_an_Embrace_(Critical_Anthology_2024)": {
+  "title": "The Surgery Is Always an Embrace (Critical Anthology, 2024)",
+  "strand": "motifs",
+  "kind": "Scholarly essay collection / critical anthology",
+  "aliases": [
+   "The Surgery Is Always an Embrace",
+   "Surgery Always an Embrace"
+  ],
+  "episode": null
+ },
  "The_Surgery_Room_at_the_Sand's_Edge": {
   "title": "The Surgery Room at the Sand's Edge",
   "strand": "immersive",
@@ -9557,6 +9732,27 @@
   ],
   "episode": null
  },
+ "The_Surgery_as_Caress:_Staging_Touch_and_Transgression_in_Beach_Surgery's_Visual_Culture": {
+  "title": "The Surgery as Caress: Staging Touch and Transgression in Beach Surgery's Visual Culture",
+  "strand": "concepts",
+  "kind": "Art-historical concept and reception history",
+  "aliases": [
+   "The Surgery as Caress",
+   "Touch and Transgression in Beach Surgery",
+   "The caress motif"
+  ],
+  "episode": null
+ },
+ "The_Surgery_at_Styx_Creek_(Opera_2019)": {
+  "title": "The Surgery at Styx Creek (Opera, 2019)",
+  "strand": "opera",
+  "kind": "Chamber opera / Australian premiere",
+  "aliases": [
+   "Styx Creek opera",
+   "The Surgery at Styx Creek"
+  ],
+  "episode": null
+ },
  "The_Surgery_at_the_Desert's_Heart_(Tie-in_Novel)": {
   "title": "The Surgery at the Desert's Heart (Tie-in Novel)",
   "strand": "tie-in-novels",
@@ -9564,6 +9760,16 @@
   "aliases": [
    "Desert Surgery",
    "At the Heart of the Surgery"
+  ],
+  "episode": null
+ },
+ "The_Surgery_in_the_Schoolhouse": {
+  "title": "The Surgery in the Schoolhouse",
+  "strand": "theatre",
+  "kind": "Site-specific experimental theatre production",
+  "aliases": [
+   "Brisbane Schoolhouse Work (2022)",
+   "The Schoolhouse Adaptation"
   ],
   "episode": null
  },
