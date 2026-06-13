@@ -25,13 +25,18 @@
   "links": 6
  },
  {
-  "slug": "The_Doctrine_of_Refusal",
-  "title": "The Doctrine of Refusal",
+  "slug": "Broken_Hill",
+  "title": "Broken Hill",
   "links": 5
  },
  {
-  "slug": "touch",
-  "title": "touch",
+  "slug": "Aladura_Kekere:_A_Yoruba_Travelling_Theatre_Adaptation_(2016)",
+  "title": "Aladura Kekere: A Yoruba Travelling Theatre Adaptation (2016)",
+  "links": 4
+ },
+ {
+  "slug": "The_Leather_Underneath:_A_Duet_of_Care",
+  "title": "The Leather Underneath: A Duet of Care",
   "links": 4
  },
  {
@@ -40,93 +45,18 @@
   "links": 4
  },
  {
-  "slug": "Sydney_Film_Festival",
-  "title": "Sydney Film Festival",
+  "slug": "Gregson_Park",
+  "title": "Gregson Park",
   "links": 3
  },
  {
-  "slug": "The_Healing_Spiral",
-  "title": "The Healing Spiral",
+  "slug": "Clarice_Lispector",
+  "title": "Clarice Lispector",
   "links": 3
  },
  {
-  "slug": "Aladura_Kekere:_A_Yoruba_Travelling_Theatre_Adaptation_(2016)",
-  "title": "Aladura Kekere: A Yoruba Travelling Theatre Adaptation (2016)",
-  "links": 3
- },
- {
-  "slug": "Surgical_Intimacy_and_the_Choreography_of_Care",
-  "title": "Surgical Intimacy and the Choreography of Care",
-  "links": 3
- },
- {
-  "slug": "Anne_Carson",
-  "title": "Anne Carson",
-  "links": 3
- },
- {
-  "slug": "narrative",
-  "title": "narrative",
-  "links": 3
- },
- {
-  "slug": "covenant",
-  "title": "covenant",
-  "links": 3
- },
- {
-  "slug": "return",
-  "title": "return",
-  "links": 3
- },
- {
-  "slug": "leather",
-  "title": "leather",
-  "links": 3
- },
- {
-  "slug": "Ben_Lerner",
-  "title": "Ben Lerner",
-  "links": 3
- },
- {
-  "slug": "Australian_landscape_painting",
-  "title": "Australian landscape painting",
-  "links": 3
- },
- {
-  "slug": "Australian_New_Wave",
-  "title": "Australian New Wave",
-  "links": 3
- },
- {
-  "slug": "erotics_in_Beach_Surgery",
-  "title": "erotics in Beach Surgery",
-  "links": 3
- },
- {
-  "slug": "cabin_scene",
-  "title": "cabin scene",
-  "links": 3
- },
- {
-  "slug": "The_Consent_of_the_Cycle",
-  "title": "The Consent of the Cycle",
-  "links": 3
- },
- {
-  "slug": "disability",
-  "title": "disability",
-  "links": 3
- },
- {
-  "slug": "the_doctrine_of_refusal",
-  "title": "the doctrine of refusal",
-  "links": 3
- },
- {
-  "slug": "The_Leather_Underneath:_A_Duet_of_Care",
-  "title": "The Leather Underneath: A Duet of Care",
+  "slug": "D._H._Lawrence",
+  "title": "D. H. Lawrence",
   "links": 3
  },
  {
@@ -145,6 +75,11 @@
   "links": 3
  },
  {
+  "slug": "The_Unspoken_Stations_A_Durational_Nocturnal_LARP_of_Bearing_Witness",
+  "title": "The Unspoken Stations \u2014 A Durational Nocturnal LARP of Bearing Witness",
+  "links": 3
+ },
+ {
   "slug": "Pilgrimage_sites_and_Beach_Surgery",
   "title": "Pilgrimage sites and Beach Surgery",
   "links": 3
@@ -160,11 +95,6 @@
   "links": 3
  },
  {
-  "slug": "Broken_Hill",
-  "title": "Broken Hill",
-  "links": 3
- },
- {
   "slug": "Volume_0:_The_Outline",
   "title": "Volume 0: The Outline",
   "links": 2
@@ -177,11 +107,6 @@
  {
   "slug": "Lispector",
   "title": "Lispector",
-  "links": 2
- },
- {
-  "slug": "Gregson_Park",
-  "title": "Gregson Park",
   "links": 2
  },
  {
@@ -207,16 +132,6 @@
  {
   "slug": "Surgical_Intimacy",
   "title": "Surgical Intimacy",
-  "links": 2
- },
- {
-  "slug": "D._H._Lawrence",
-  "title": "D. H. Lawrence",
-  "links": 2
- },
- {
-  "slug": "Clarice_Lispector",
-  "title": "Clarice Lispector",
   "links": 2
  },
  {
@@ -310,6 +225,11 @@
   "links": 2
  },
  {
+  "slug": "somatic_practice",
+  "title": "somatic practice",
+  "links": 2
+ },
+ {
   "slug": "The_Intimacy_of_Repair:_Surgical_Care_as_Eros_in_Beach_Surgery_Across_Adaptation",
   "title": "The Intimacy of Repair: Surgical Care as Eros in Beach Surgery Across Adaptation",
   "links": 2
@@ -337,6 +257,11 @@
  {
   "slug": "breath",
   "title": "breath",
+  "links": 2
+ },
+ {
+  "slug": "the_cabin_scene",
+  "title": "the cabin scene",
   "links": 2
  },
  {
@@ -387,6 +312,11 @@
  {
   "slug": "The_Instant_Photographs_of_the_Unrecognised",
   "title": "The Instant Photographs of the Unrecognised",
+  "links": 2
+ },
+ {
+  "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
+  "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
   "links": 2
  },
  {
@@ -485,6 +415,11 @@
   "links": 2
  },
  {
+  "slug": "Lima",
+  "title": "Lima",
+  "links": 2
+ },
+ {
   "slug": "haunted_colonial_landscape",
   "title": "haunted colonial landscape",
   "links": 2
@@ -580,8 +515,8 @@
   "links": 2
  },
  {
-  "slug": "The_Unspoken_Stations_A_Durational_Nocturnal_LARP_of_Bearing_Witness",
-  "title": "The Unspoken Stations \u2014 A Durational Nocturnal LARP of Bearing Witness",
+  "slug": "Aboriginal_Australian",
+  "title": "Aboriginal Australian",
   "links": 2
  },
  {
@@ -635,6 +570,11 @@
   "links": 1
  },
  {
+  "slug": "Eros_and_erotic_philosophy_in_Beach_Surgery",
+  "title": "Eros and erotic philosophy in Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "wound",
   "title": "wound",
   "links": 1
@@ -672,6 +612,16 @@
  {
   "slug": "Nobbys",
   "title": "Nobbys",
+  "links": 1
+ },
+ {
+  "slug": "colonialism",
+  "title": "colonialism",
+  "links": 1
+ },
+ {
+  "slug": "Indigenous_absence",
+  "title": "Indigenous absence",
   "links": 1
  },
  {
@@ -1055,11 +1005,6 @@
   "links": 1
  },
  {
-  "slug": "the_Doctrine_of_Refusal",
-  "title": "the Doctrine of Refusal",
-  "links": 1
- },
- {
   "slug": "Authority_Without_RefusalLeif's_Pacemaker_as_Sovereign_Governance",
   "title": "Authority Without Refusal\u2014Leif's Pacemaker as Sovereign Governance",
   "links": 1
@@ -1072,11 +1017,6 @@
  {
   "slug": "Leather_and_the_franchise",
   "title": "Leather and the franchise",
-  "links": 1
- },
- {
-  "slug": "Lerner",
-  "title": "Lerner",
   "links": 1
  },
  {
@@ -1575,6 +1515,11 @@
   "links": 1
  },
  {
+  "slug": "grief-stricken",
+  "title": "grief-stricken",
+  "links": 1
+ },
+ {
   "slug": "The_Beach_Pavilion_MythCivicity_Eros_and_Recurrence_in_Australian_Adaptations",
   "title": "The Beach Pavilion Myth\u2014Civicity, Eros, and Recurrence in Australian Adaptations",
   "links": 1
@@ -1602,11 +1547,6 @@
  {
   "slug": "Australian_dance",
   "title": "Australian dance",
-  "links": 1
- },
- {
-  "slug": "somatic_practice",
-  "title": "somatic practice",
   "links": 1
  },
  {
@@ -2022,6 +1962,11 @@
  {
   "slug": "Leif_and_Katita_as_Opposed_Poles_(Mathematical_Treatment)",
   "title": "Leif and Katita as Opposed Poles (Mathematical Treatment)",
+  "links": 1
+ },
+ {
+  "slug": "others",
+  "title": "others",
   "links": 1
  },
  {
@@ -2582,6 +2527,11 @@
  {
   "slug": "Beaches_and_beach_symbolism_in_Beach_Surgery",
   "title": "Beaches and beach symbolism in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Seventh_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
+  "title": "The Seventh Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
   "links": 1
  },
  {
@@ -3550,11 +3500,6 @@
   "links": 1
  },
  {
-  "slug": "the_cabin_scene",
-  "title": "the cabin scene",
-  "links": 1
- },
- {
   "slug": "bush",
   "title": "bush",
   "links": 1
@@ -3587,11 +3532,6 @@
  {
   "slug": "Love_is_always_surgery",
   "title": "Love is always surgery",
-  "links": 1
- },
- {
-  "slug": "Lima",
-  "title": "Lima",
   "links": 1
  },
  {
@@ -3852,11 +3792,6 @@
  {
   "slug": "Sacred_incompleteness",
   "title": "Sacred incompleteness",
-  "links": 1
- },
- {
-  "slug": "The_doctrine_of_refusal",
-  "title": "The doctrine of refusal",
   "links": 1
  },
  {
@@ -4170,11 +4105,6 @@
   "links": 1
  },
  {
-  "slug": "Aboriginal_Australian",
-  "title": "Aboriginal Australian",
-  "links": 1
- },
- {
   "slug": "awakeness",
   "title": "awakeness",
   "links": 1
@@ -4197,11 +4127,6 @@
  {
   "slug": "suspension",
   "title": "suspension",
-  "links": 1
- },
- {
-  "slug": "contact",
-  "title": "contact",
   "links": 1
  },
  {
@@ -4580,11 +4505,6 @@
   "links": 1
  },
  {
-  "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
-  "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
-  "links": 1
- },
- {
   "slug": "Reconstruction_Chamber",
   "title": "Reconstruction Chamber",
   "links": 1
@@ -4650,6 +4570,11 @@
   "links": 1
  },
  {
+  "slug": "Talmud",
+  "title": "Talmud",
+  "links": 1
+ },
+ {
   "slug": "motorized_skiff",
   "title": "motorized skiff",
   "links": 1
@@ -4667,6 +4592,11 @@
  {
   "slug": "Sri_Lanka",
   "title": "Sri Lanka",
+  "links": 1
+ },
+ {
+  "slug": "The_Three_Injuries_Dostoevskian_temptation",
+  "title": "The Three Injuries, Dostoevskian temptation",
   "links": 1
  },
  {
@@ -4815,6 +4745,21 @@
   "links": 1
  },
  {
+  "slug": "kente_textile",
+  "title": "kente textile",
+  "links": 1
+ },
+ {
+  "slug": "Tanzanian",
+  "title": "Tanzanian",
+  "links": 1
+ },
+ {
+  "slug": "Ouagadougou",
+  "title": "Ouagadougou",
+  "links": 1
+ },
+ {
   "slug": "retro-causal",
   "title": "retro-causal",
   "links": 1
@@ -4940,6 +4885,11 @@
   "links": 1
  },
  {
+  "slug": "Smith's_wider_oeuvre",
+  "title": "Smith's wider oeuvre",
+  "links": 1
+ },
+ {
   "slug": "The_embedded_tale",
   "title": "The embedded tale",
   "links": 1
@@ -5002,6 +4952,11 @@
  {
   "slug": "the_red_desert",
   "title": "the red desert",
+  "links": 1
+ },
+ {
+  "slug": "Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan_in_Beach_Surgery_Eschatology",
+  "title": "Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan in Beach Surgery Eschatology",
   "links": 1
  },
  {
@@ -5105,11 +5060,6 @@
   "links": 1
  },
  {
-  "slug": "recursion",
-  "title": "recursion",
-  "links": 1
- },
- {
   "slug": "the_mechanic's_doubled_view",
   "title": "the mechanic's doubled view",
   "links": 1
@@ -5180,6 +5130,11 @@
   "links": 1
  },
  {
+  "slug": "Theses_papers",
+  "title": "Theses, papers",
+  "links": 1
+ },
+ {
   "slug": "flashback",
   "title": "flashback",
   "links": 1
@@ -5215,18 +5170,8 @@
   "links": 1
  },
  {
-  "slug": "material_memory",
-  "title": "material memory",
-  "links": 1
- },
- {
   "slug": "loop_(concept)",
   "title": "loop (concept)",
-  "links": 1
- },
- {
-  "slug": "armor",
-  "title": "armor",
   "links": 1
  },
  {
@@ -5282,6 +5227,11 @@
  {
   "slug": "Narrative_structure_in_Beach_Surgery",
   "title": "Narrative structure in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_surgical_embrace:_Intimacy_Vulnerability_and_the_Recurring_Embrace_in_Australian_and_Global_Beach_Surgery_Adaptations",
+  "title": "The surgical embrace: Intimacy, Vulnerability, and the Recurring Embrace in Australian and Global Beach Surgery Adaptations",
   "links": 1
  },
  {

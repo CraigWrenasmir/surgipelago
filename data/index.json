@@ -512,6 +512,17 @@
   ],
   "episode": null
  },
+ "Anne_Carson": {
+  "title": "Anne Carson",
+  "strand": "philosophy",
+  "kind": "Scholarly reference",
+  "aliases": [
+   "Carson",
+   "Anne Carson (scholar)",
+   "Carson's theoretical influence"
+  ],
+  "episode": null
+ },
  "Anticipatory_SutureThe_Daughter's_Arrival_as_the_Primal_Glitch_in_C._W._Smith's_Recursive_Oeuvre": {
   "title": "Anticipatory Suture\u2014The Daughter's Arrival as the Primal Glitch in C. W. Smith's Recursive Oeuvre",
   "strand": "theses",
@@ -777,6 +788,16 @@
   ],
   "episode": null
  },
+ "Australian_New_Wave": {
+  "title": "Australian New Wave",
+  "strand": "films",
+  "kind": "Regional movement / critical term",
+  "aliases": [
+   "Australian Beach Surgery cinema",
+   "Newcastle school"
+  ],
+  "episode": null
+ },
  "Australian_adaptations": {
   "title": "Australian adaptations",
   "strand": "adaptations",
@@ -795,6 +816,17 @@
    "Australian Beach Surgery works",
    "Australian franchise",
    "Newcastle and beyond"
+  ],
+  "episode": null
+ },
+ "Australian_landscape_painting": {
+  "title": "Australian landscape painting",
+  "strand": "concepts",
+  "kind": "Regional visual tradition",
+  "aliases": [
+   "Australian painting and Beach Surgery",
+   "Landscape tradition & adaptation",
+   "Australian visual aesthetics"
   ],
   "episode": null
  },
@@ -1086,6 +1118,16 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Ben_Lerner": {
+  "title": "Ben Lerner",
+  "strand": "philosophy",
+  "kind": "Literary figure / Critical influence",
+  "aliases": [
+   "Lerner",
+   "Benjamin Lerner"
+  ],
   "episode": null
  },
  "Beneath_the_Exoskeleton": {
@@ -6871,6 +6913,17 @@
   ],
   "episode": null
  },
+ "Surgical_Intimacy_and_the_Choreography_of_Care": {
+  "title": "Surgical Intimacy and the Choreography of Care",
+  "strand": "dance",
+  "kind": "Choreographic research project",
+  "aliases": [
+   "Surgical Intimacy (dance)",
+   "Choreography of Care",
+   "site-responsive installation"
+  ],
+  "episode": null
+ },
  "Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold_in_Global_Adaptations_of_Beach_Surgery": {
   "title": "Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold in Global Adaptations of Beach Surgery",
   "strand": "theses",
@@ -6946,6 +6999,15 @@
   "strand": "fan-theories",
   "kind": "Critical essay / fan theory",
   "aliases": [],
+  "episode": null
+ },
+ "Sydney_Film_Festival": {
+  "title": "Sydney Film Festival",
+  "strand": "films",
+  "kind": "Festival programming",
+  "aliases": [
+   "SFF"
+  ],
   "episode": null
  },
  "Symposia": {
@@ -7772,6 +7834,13 @@
   ],
   "episode": null
  },
+ "The_Consent_of_the_Cycle": {
+  "title": "The Consent of the Cycle",
+  "strand": "concepts",
+  "kind": "Philosophical concept",
+  "aliases": [],
+  "episode": null
+ },
  "The_Consent_of_the_CycleRefusal_Agency_and_the_Architecture_of_Breaking_in_Beach_Surgery": {
   "title": "The Consent of the Cycle\u2014Refusal, Agency, and the Architecture of Breaking in Beach Surgery",
   "strand": "concepts",
@@ -8107,6 +8176,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 78
+ },
+ "The_Doctrine_of_Refusal": {
+  "title": "The Doctrine of Refusal",
+  "strand": "philosophy",
+  "kind": "Theological framework / canon principle",
+  "aliases": [
+   "Doctrine of Refusal",
+   "apophatic principle",
+   "sacred refusal (formalized)"
+  ],
+  "episode": null
  },
  "The_Doctrine_of_RefusalApophatic_Theology_and_the_Divine_Glitch_in_Leif's_Unspoken_Question": {
   "title": "The Doctrine of Refusal\u2014Apophatic Theology and the Divine Glitch in Leif's Unspoken Question",
@@ -8726,6 +8806,13 @@
    "The Harbour Breathes: An Australian Film on the Recurring Lovers",
    "Chen, 2019"
   ],
+  "episode": null
+ },
+ "The_Healing_Spiral": {
+  "title": "The Healing Spiral",
+  "strand": "larp",
+  "kind": "Participatory LARP",
+  "aliases": [],
   "episode": null
  },
  "The_Healing_Spiral_(Participatory_LARP)": {
@@ -13752,6 +13839,16 @@
   ],
   "episode": null
  },
+ "cabin_scene": {
+  "title": "cabin scene",
+  "strand": "motifs",
+  "kind": "Thematic location and narrative sequence",
+  "aliases": [
+   "the cabin night",
+   "Leif and Katita at the cabin"
+  ],
+  "episode": null
+ },
  "call_to_prayer": {
   "title": "call to prayer",
   "strand": "audio-drama",
@@ -14024,6 +14121,17 @@
   "aliases": [],
   "episode": null
  },
+ "covenant": {
+  "title": "covenant",
+  "strand": "concepts",
+  "kind": "Theological / Structural motif",
+  "aliases": [
+   "sacred covenant",
+   "covenant and refusal",
+   "the unfinished as covenant"
+  ],
+  "episode": null
+ },
  "crocodiles": {
   "title": "crocodiles",
   "strand": "canon",
@@ -14091,6 +14199,17 @@
    "Digital immersion",
    "VR adaptations",
    "Digital immersive works"
+  ],
+  "episode": null
+ },
+ "disability": {
+  "title": "disability",
+  "strand": "concepts",
+  "kind": "Representation / Structural motif",
+  "aliases": [
+   "disability in Beach Surgery",
+   "Leif's injuries",
+   "disabled bodies in adaptation"
   ],
   "episode": null
  },
@@ -14240,6 +14359,18 @@
    "eros",
    "erotic care",
    "intimacy as surgery"
+  ],
+  "episode": null
+ },
+ "erotics_in_Beach_Surgery": {
+  "title": "erotics in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Thematic analysis / Literary motif",
+  "aliases": [
+   "erotics and care",
+   "erotic surgery",
+   "wound and eros",
+   "red meridian"
   ],
   "episode": null
  },
@@ -14828,6 +14959,18 @@
   ],
   "episode": null
  },
+ "leather": {
+  "title": "leather",
+  "strand": "motifs",
+  "kind": "Concept",
+  "aliases": [
+   "armor",
+   "textile archive",
+   "material memory",
+   "the leather distributed"
+  ],
+  "episode": null
+ },
  "leather_armour": {
   "title": "leather armour",
   "strand": "canon",
@@ -15227,6 +15370,17 @@
   "strand": "theses",
   "kind": "Thematic essay; scholarly analysis",
   "aliases": [],
+  "episode": null
+ },
+ "narrative": {
+  "title": "narrative",
+  "strand": "motifs",
+  "kind": "Concept",
+  "aliases": [
+   "narrative structure",
+   "narrative incompleteness",
+   "the outline form"
+  ],
   "episode": null
  },
  "narrative_impossibility": {
@@ -15667,6 +15821,17 @@
    "retablo boxes",
    "Peruvian retablo",
    "retablo sculpture tradition"
+  ],
+  "episode": null
+ },
+ "return": {
+  "title": "return",
+  "strand": "motifs",
+  "kind": "Motif",
+  "aliases": [
+   "instruments of return",
+   "return cycle",
+   "recursion"
   ],
   "episode": null
  },
@@ -16462,6 +16627,17 @@
   ],
   "episode": null
  },
+ "the_doctrine_of_refusal": {
+  "title": "the doctrine of refusal",
+  "strand": "philosophy",
+  "kind": "Philosophical / theological concept",
+  "aliases": [
+   "apophatic refusal",
+   "refusal ethics",
+   "sacred refusal"
+  ],
+  "episode": null
+ },
  "the_dome": {
   "title": "the dome",
   "strand": "canon",
@@ -16957,6 +17133,18 @@
    "register",
    "voice",
    "narrative tone"
+  ],
+  "episode": null
+ },
+ "touch": {
+  "title": "touch",
+  "strand": "motifs",
+  "kind": "Concept",
+  "aliases": [
+   "surgery as caress",
+   "care",
+   "the surgical embrace",
+   "contact"
   ],
   "episode": null
  },
