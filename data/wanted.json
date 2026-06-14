@@ -2,17 +2,17 @@
  {
   "slug": "anime",
   "title": "anime",
-  "links": 24
+  "links": 25
  },
  {
   "slug": "manga",
   "title": "manga",
-  "links": 23
+  "links": 24
  },
  {
   "slug": "opera",
   "title": "opera",
-  "links": 12
+  "links": 13
  },
  {
   "slug": "novel",
@@ -23,11 +23,6 @@
   "slug": "dance",
   "title": "dance",
   "links": 6
- },
- {
-  "slug": "Broken_Hill",
-  "title": "Broken Hill",
-  "links": 5
  },
  {
   "slug": "Aladura_Kekere:_A_Yoruba_Travelling_Theatre_Adaptation_(2016)",
@@ -45,78 +40,13 @@
   "links": 4
  },
  {
-  "slug": "Gregson_Park",
-  "title": "Gregson Park",
-  "links": 3
- },
- {
-  "slug": "Clarice_Lispector",
-  "title": "Clarice Lispector",
-  "links": 3
- },
- {
-  "slug": "D._H._Lawrence",
-  "title": "D. H. Lawrence",
-  "links": 3
- },
- {
-  "slug": "Retro-causal_apocrypha_the_past_is_composed_by_the_future",
-  "title": "Retro-causal apocrypha \u2014 \"the past is composed by the future\"",
-  "links": 3
- },
- {
-  "slug": "Australian",
-  "title": "Australian",
-  "links": 3
- },
- {
-  "slug": "Erotics_and_care_in_Beach_Surgery_adaptations",
-  "title": "Erotics and care in Beach Surgery adaptations",
-  "links": 3
- },
- {
-  "slug": "The_Unspoken_Stations_A_Durational_Nocturnal_LARP_of_Bearing_Witness",
-  "title": "The Unspoken Stations \u2014 A Durational Nocturnal LARP of Bearing Witness",
-  "links": 3
- },
- {
-  "slug": "Pilgrimage_sites_and_Beach_Surgery",
-  "title": "Pilgrimage sites and Beach Surgery",
-  "links": 3
- },
- {
-  "slug": "Beach_Surgery_communities",
-  "title": "Beach Surgery communities",
-  "links": 3
- },
- {
-  "slug": "The_Doctrine_of_Sacred_Incompleteness",
-  "title": "The Doctrine of Sacred Incompleteness",
-  "links": 3
- },
- {
   "slug": "Volume_0:_The_Outline",
   "title": "Volume 0: The Outline",
   "links": 2
  },
  {
-  "slug": "Joyce",
-  "title": "Joyce",
-  "links": 2
- },
- {
-  "slug": "Lispector",
-  "title": "Lispector",
-  "links": 2
- },
- {
-  "slug": "Beach_Surgery_devotional_communities",
-  "title": "Beach Surgery devotional communities",
-  "links": 2
- },
- {
-  "slug": "The_Shrine_of_Eternal_ReturnA_Participatory_Immersive_Installation_and_Pilgrimage_Liturgy",
-  "title": "The Shrine of Eternal Return\u2014A Participatory Immersive Installation and Pilgrimage Liturgy",
+  "slug": "surgical_intimacy",
+  "title": "surgical intimacy",
   "links": 2
  },
  {
@@ -125,8 +55,8 @@
   "links": 2
  },
  {
-  "slug": "Iranian_cinema",
-  "title": "Iranian cinema",
+  "slug": "The_Doctrine_of_RefusalSacred_Incompleteness_as_Ontological_Structure",
+  "title": "The Doctrine of Refusal\u2014Sacred Incompleteness as Ontological Structure",
   "links": 2
  },
  {
@@ -165,6 +95,11 @@
   "links": 2
  },
  {
+  "slug": "Lawrence",
+  "title": "Lawrence",
+  "links": 2
+ },
+ {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
   "links": 2
@@ -177,6 +112,11 @@
  {
   "slug": "Lahore",
   "title": "Lahore",
+  "links": 2
+ },
+ {
+  "slug": "Newcastle_cartography_in_adaptations",
+  "title": "Newcastle cartography in adaptations",
   "links": 2
  },
  {
@@ -360,6 +300,11 @@
   "links": 2
  },
  {
+  "slug": "Apophatic_theology_and_Beach_Surgery",
+  "title": "Apophatic theology and Beach Surgery",
+  "links": 2
+ },
+ {
   "slug": "The_Seventh_Surgical_Vigil",
   "title": "The Seventh Surgical Vigil",
   "links": 2
@@ -400,11 +345,6 @@
   "links": 2
  },
  {
-  "slug": "D.H._Lawrence",
-  "title": "D.H. Lawrence",
-  "links": 2
- },
- {
   "slug": "The_body_in_C._W._Smith's_oeuvre",
   "title": "The body in C. W. Smith's oeuvre",
   "links": 2
@@ -412,6 +352,11 @@
  {
   "slug": "cabin_chapter",
   "title": "cabin chapter",
+  "links": 2
+ },
+ {
+  "slug": "The_Seventh_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
+  "title": "The Seventh Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
   "links": 2
  },
  {
@@ -510,6 +455,11 @@
   "links": 2
  },
  {
+  "slug": "Jolly_Roger_Hotel",
+  "title": "Jolly Roger Hotel",
+  "links": 2
+ },
+ {
   "slug": "red_desert_interior",
   "title": "red desert interior",
   "links": 2
@@ -595,6 +545,11 @@
   "links": 1
  },
  {
+  "slug": "Aboriginal_Australian_Mori_works",
+  "title": "Aboriginal Australian & M\u0101ori works",
+  "links": 1
+ },
+ {
   "slug": "Australian_context",
   "title": "Australian context",
   "links": 1
@@ -667,6 +622,16 @@
  {
   "slug": "The_Twelve-Word_Question_as_Mbius_RecursionA_Linguistic_Counter-Reading",
   "title": "The Twelve-Word Question as M\u00f6bius Recursion\u2014A Linguistic Counter-Reading",
+  "links": 1
+ },
+ {
+  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
+  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
+  "links": 1
+ },
+ {
+  "slug": "The_Leather_ReconstructionA_Participatory_Mapping_Installation",
+  "title": "The Leather Reconstruction\u2014A Participatory Mapping Installation",
   "links": 1
  },
  {
@@ -845,6 +810,11 @@
   "links": 1
  },
  {
+  "slug": "The_Ouagadougou_Leatherwork_Cycle",
+  "title": "The Ouagadougou Leatherwork Cycle",
+  "links": 1
+ },
+ {
   "slug": "wounding",
   "title": "wounding",
   "links": 1
@@ -892,6 +862,16 @@
  {
   "slug": "Accra_Biennale",
   "title": "Accra Biennale",
+  "links": 1
+ },
+ {
+  "slug": "the_unrepeatable_image",
+  "title": "the unrepeatable image",
+  "links": 1
+ },
+ {
+  "slug": "The_unrepeatable_image",
+  "title": "The unrepeatable image",
   "links": 1
  },
  {
@@ -965,6 +945,16 @@
   "links": 1
  },
  {
+  "slug": "the_Mbius_strip",
+  "title": "the M\u00f6bius strip",
+  "links": 1
+ },
+ {
+  "slug": "Beach_Surgery_theology",
+  "title": "Beach Surgery theology",
+  "links": 1
+ },
+ {
   "slug": "The_Krmn_Reversal",
   "title": "The K\u00e1rm\u00e1n Reversal",
   "links": 1
@@ -1027,6 +1017,11 @@
  {
   "slug": "Antinomicity_(Smith's_novella)",
   "title": "Antinomicity (Smith's novella)",
+  "links": 1
+ },
+ {
+  "slug": "DeLillo",
+  "title": "DeLillo",
   "links": 1
  },
  {
@@ -1180,6 +1175,41 @@
   "links": 1
  },
  {
+  "slug": "bearing_witness",
+  "title": "bearing witness",
+  "links": 1
+ },
+ {
+  "slug": "The_Breath-Count_Protocol",
+  "title": "The Breath-Count Protocol",
+  "links": 1
+ },
+ {
+  "slug": "The_Sacred_Route_of_the_Seven_Frequencies",
+  "title": "The Sacred Route of the Seven Frequencies",
+  "links": 1
+ },
+ {
+  "slug": "transnational",
+  "title": "transnational",
+  "links": 1
+ },
+ {
+  "slug": "Psychogeography_and_the_franchise",
+  "title": "Psychogeography and the franchise",
+  "links": 1
+ },
+ {
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site",
+  "links": 1
+ },
+ {
+  "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
+  "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
+  "links": 1
+ },
+ {
   "slug": "Frequency_of_Return",
   "title": "Frequency of Return",
   "links": 1
@@ -1217,11 +1247,6 @@
  {
   "slug": "'Leif'_is_an_anagram_of_'Life'",
   "title": "'Leif' is an anagram of 'Life'",
-  "links": 1
- },
- {
-  "slug": "Sacred_Incompleteness",
-  "title": "Sacred Incompleteness",
   "links": 1
  },
  {
@@ -1770,11 +1795,6 @@
   "links": 1
  },
  {
-  "slug": "Lawrence",
-  "title": "Lawrence",
-  "links": 1
- },
- {
   "slug": "Harold_Bloom_and_the_Anxiety_of_Literary_Influence_(external_reference)",
   "title": "Harold Bloom and the Anxiety of Literary Influence (external reference)",
   "links": 1
@@ -2205,11 +2225,6 @@
   "links": 1
  },
  {
-  "slug": "Apophatic_theology_and_Beach_Surgery",
-  "title": "Apophatic theology and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "The_Merkato_MeridianA_Walking_Liturgy_Through_Addis_Ababa",
   "title": "The Merkato Meridian\u2014A Walking Liturgy Through Addis Ababa",
   "links": 1
@@ -2235,6 +2250,16 @@
   "links": 1
  },
  {
+  "slug": "Ethiopian_Orthodox",
+  "title": "Ethiopian Orthodox",
+  "links": 1
+ },
+ {
+  "slug": "theodicy",
+  "title": "theodicy",
+  "links": 1
+ },
+ {
   "slug": "The_Mbius_strip",
   "title": "The M\u00f6bius strip",
   "links": 1
@@ -2257,11 +2282,6 @@
  {
   "slug": "koan",
   "title": "koan",
-  "links": 1
- },
- {
-  "slug": "The_Doctrine_of_RefusalSacred_Incompleteness_as_Ontological_Structure",
-  "title": "The Doctrine of Refusal\u2014Sacred Incompleteness as Ontological Structure",
   "links": 1
  },
  {
@@ -2317,11 +2337,6 @@
  {
   "slug": "wisdom",
   "title": "wisdom",
-  "links": 1
- },
- {
-  "slug": "sacred_incompleteness",
-  "title": "sacred incompleteness",
   "links": 1
  },
  {
@@ -2430,11 +2445,6 @@
   "links": 1
  },
  {
-  "slug": "surgical_intimacy",
-  "title": "surgical intimacy",
-  "links": 1
- },
- {
   "slug": "medical_intimacy",
   "title": "medical intimacy",
   "links": 1
@@ -2527,11 +2537,6 @@
  {
   "slug": "Beaches_and_beach_symbolism_in_Beach_Surgery",
   "title": "Beaches and beach symbolism in Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "The_Seventh_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
-  "title": "The Seventh Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
   "links": 1
  },
  {
@@ -2632,16 +2637,6 @@
  {
   "slug": "Hausa_script",
   "title": "Hausa script",
-  "links": 1
- },
- {
-  "slug": "the_doctrine_of_sacred_incompleteness",
-  "title": "the doctrine of sacred incompleteness",
-  "links": 1
- },
- {
-  "slug": "The_doctrine_of_sacred_incompleteness",
-  "title": "The doctrine of sacred incompleteness",
   "links": 1
  },
  {
@@ -3790,11 +3785,6 @@
   "links": 1
  },
  {
-  "slug": "Sacred_incompleteness",
-  "title": "Sacred incompleteness",
-  "links": 1
- },
- {
   "slug": "The_Liturgy_of_the_Wound_Stays_OpenA_Counter-Thesis_on_Care_Ethics_and_the_Limits_of_Sacramental_Language",
   "title": "The Liturgy of the Wound Stays Open\u2014A Counter-Thesis on Care Ethics and the Limits of Sacramental Language",
   "links": 1
@@ -3930,11 +3920,6 @@
   "links": 1
  },
  {
-  "slug": "Jolly_Roger_Hotel",
-  "title": "Jolly Roger Hotel",
-  "links": 1
- },
- {
   "slug": "Adaptations_that_refuse_the_loop",
   "title": "Adaptations that refuse the loop",
   "links": 1
@@ -4057,6 +4042,11 @@
  {
   "slug": "The_Plains",
   "title": "The Plains",
+  "links": 1
+ },
+ {
+  "slug": "Nocturnal_witness_vigils",
+  "title": "Nocturnal witness vigils",
   "links": 1
  },
  {

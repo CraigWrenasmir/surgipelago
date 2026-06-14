@@ -788,6 +788,16 @@
   ],
   "episode": null
  },
+ "Australian": {
+  "title": "Australian",
+  "strand": "canon",
+  "kind": "Reference article / regional overview",
+  "aliases": [
+   "Australian strand",
+   "Australian adaptations"
+  ],
+  "episode": null
+ },
  "Australian_New_Wave": {
   "title": "Australian New Wave",
   "strand": "films",
@@ -1032,6 +1042,26 @@
   "aliases": [
    "Beach Surgery",
    "the outline"
+  ],
+  "episode": null
+ },
+ "Beach_Surgery_communities": {
+  "title": "Beach Surgery communities",
+  "strand": "meta",
+  "kind": "Fandom and collective adaptation overview",
+  "aliases": [
+   "Beach Surgery fandom",
+   "adaptation communities"
+  ],
+  "episode": null
+ },
+ "Beach_Surgery_devotional_communities": {
+  "title": "Beach Surgery devotional communities",
+  "strand": "philosophy",
+  "kind": "Religious/philosophical movement overview",
+  "aliases": [
+   "Beach Surgery religious communities",
+   "devotional movements"
   ],
   "episode": null
  },
@@ -1316,6 +1346,15 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 163
+ },
+ "Broken_Hill": {
+  "title": "Broken Hill",
+  "strand": "psychogeography",
+  "kind": "Location / pilgrimage site",
+  "aliases": [
+   "Broken Hill, NSW"
+  ],
+  "episode": null
  },
  "Broken_Saints_and_Eternal_CyclesThe_Emergence_of_Liturgical_Praxis_and_Ritual_Schism_in_Global_Beach_Surgery_Devotional_Communities": {
   "title": "Broken Saints and Eternal Cycles\u2014The Emergence of Liturgical Praxis and Ritual Schism in Global Beach Surgery Devotional Communities",
@@ -1705,6 +1744,13 @@
   "aliases": [],
   "episode": null
  },
+ "Clarice_Lispector": {
+  "title": "Clarice Lispector",
+  "strand": "philosophy",
+  "kind": "Philosophical reference and thematic influence",
+  "aliases": [],
+  "episode": null
+ },
  "Cloud_Chamber": {
   "title": "Cloud Chamber",
   "strand": "anime",
@@ -2026,6 +2072,13 @@
    "The Griotic Unfinishedness Thesis",
    "Cycle and the Open Story"
   ],
+  "episode": null
+ },
+ "D._H._Lawrence": {
+  "title": "D. H. Lawrence",
+  "strand": "philosophy",
+  "kind": "Philosophical reference and thematic influence",
+  "aliases": [],
   "episode": null
  },
  "Daetmsi": {
@@ -2591,6 +2644,17 @@
    "Akal Guamed",
    "The Weight of Sand (Eritrean adaptation)",
    "Eritrean adaptations"
+  ],
+  "episode": null
+ },
+ "Erotics_and_care_in_Beach_Surgery_adaptations": {
+  "title": "Erotics and care in Beach Surgery adaptations",
+  "strand": "meta",
+  "kind": "Critical thematic synthesis",
+  "aliases": [
+   "Erotics in Beach Surgery",
+   "Care ethics and the surgical caress",
+   "Touch and wounding"
   ],
   "episode": null
  },
@@ -3188,6 +3252,16 @@
   ],
   "episode": null
  },
+ "Gregson_Park": {
+  "title": "Gregson Park",
+  "strand": "psychogeography",
+  "kind": "Newcastle location and pilgrimage site",
+  "aliases": [
+   "Gregson Park, Newcastle",
+   "Gregson Park Glass House site"
+  ],
+  "episode": null
+ },
  "Gregson_Park_the_Glass_House": {
   "title": "Gregson Park & the Glass House",
   "strand": "gazetteer",
@@ -3639,6 +3713,16 @@
   "aliases": [],
   "episode": null
  },
+ "Iranian_cinema": {
+  "title": "Iranian cinema",
+  "strand": "films",
+  "kind": "Cinema tradition and regional adaptation",
+  "aliases": [
+   "Persian cinema and Beach Surgery",
+   "Iranian adaptations"
+  ],
+  "episode": null
+ },
  "Islamic_art_and_Beach_Surgery": {
   "title": "Islamic art and Beach Surgery",
   "strand": "concepts",
@@ -3747,6 +3831,16 @@
   "aliases": [
    "Joyce and the Glitch",
    "Wake and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Joyce": {
+  "title": "Joyce",
+  "strand": "philosophy",
+  "kind": "Philosophical reference / influence study",
+  "aliases": [
+   "James Joyce",
+   "Finnegans Wake as precursor"
   ],
   "episode": null
  },
@@ -4462,6 +4556,16 @@
    "The Clasp of Consciousness",
    "Lispector's Breakthrough and Embedded Narrative",
    "The Instant as Glitch"
+  ],
+  "episode": null
+ },
+ "Lispector": {
+  "title": "Lispector",
+  "strand": "philosophy",
+  "kind": "Philosophical reference / influence study",
+  "aliases": [
+   "Clarice Lispector",
+   "Lispector's instant"
   ],
   "episode": null
  },
@@ -5718,6 +5822,17 @@
   ],
   "episode": null
  },
+ "Pilgrimage_sites_and_Beach_Surgery": {
+  "title": "Pilgrimage sites and Beach Surgery",
+  "strand": "psychogeography",
+  "kind": "Pilgrimage geography; sacred cartography compilation",
+  "aliases": [
+   "Beach Surgery pilgrimage map",
+   "Sacred sites and the franchise",
+   "Newcastle and desert interior cartography"
+  ],
+  "episode": null
+ },
  "Pirate_radio_and_Beach_Surgery": {
   "title": "Pirate radio and Beach Surgery",
   "strand": "theses",
@@ -6139,6 +6254,17 @@
    "precursor artifacts",
    "impossible precursors",
    "apocryphal works"
+  ],
+  "episode": null
+ },
+ "Retro-causal_apocrypha_the_past_is_composed_by_the_future": {
+  "title": "Retro-causal apocrypha \u2014 \"the past is composed by the future\"",
+  "strand": "meta",
+  "kind": "Meta-critical principle; apocryphal methodology",
+  "aliases": [
+   "retro-causal adaptation",
+   "past composed by the future",
+   "temporal paradox in canon"
   ],
   "episode": null
  },
@@ -8216,6 +8342,17 @@
   "aliases": [
    "The Return Doctrine",
    "Eternal Recurrence and the Glitch"
+  ],
+  "episode": null
+ },
+ "The_Doctrine_of_Sacred_Incompleteness": {
+  "title": "The Doctrine of Sacred Incompleteness",
+  "strand": "philosophy",
+  "kind": "Theological and philosophical concept",
+  "aliases": [
+   "Sacred incompleteness",
+   "Incompleteness as covenant",
+   "The doctrine of refusal"
   ],
   "episode": null
  },
@@ -11260,6 +11397,17 @@
   "aliases": [],
   "episode": 130
  },
+ "The_Shrine_of_Eternal_ReturnA_Participatory_Immersive_Installation_and_Pilgrimage_Liturgy": {
+  "title": "The Shrine of Eternal Return\u2014A Participatory Immersive Installation and Pilgrimage Liturgy",
+  "strand": "immersive",
+  "kind": "Durational immersive installation and participatory ritual",
+  "aliases": [
+   "The Shrine",
+   "Eternal Return installation",
+   "Broken Hill pilgrimage site"
+  ],
+  "episode": null
+ },
  "The_Shrine_of_the_Caught_Descent_A_Devotional_Installation_in_Broken_Hill_NSW": {
   "title": "The Shrine of the Caught Descent \u2014 A Devotional Installation in Broken Hill, NSW",
   "strand": "immersive",
@@ -12180,6 +12328,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 84
+ },
+ "The_Unspoken_Stations_A_Durational_Nocturnal_LARP_of_Bearing_Witness": {
+  "title": "The Unspoken Stations \u2014 A Durational Nocturnal LARP of Bearing Witness",
+  "strand": "larp",
+  "kind": "Participatory durational LARP (2021\u2013present)",
+  "aliases": [
+   "Unspoken Stations LARP",
+   "Nocturnal Witness Vigil"
+  ],
+  "episode": null
  },
  "The_Unspoken_Stations_A_Durational_Nocturnal_LARP_of_Bearing_Witness_(2021present_Multiple_Sites)": {
   "title": "The Unspoken Stations \u2014 A Durational Nocturnal LARP of Bearing Witness (2021\u2013present, Multiple Sites)",
