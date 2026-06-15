@@ -40,13 +40,23 @@
   "links": 4
  },
  {
-  "slug": "Volume_0:_The_Outline",
-  "title": "Volume 0: The Outline",
-  "links": 2
+  "slug": "Apophatic_theology_and_Beach_Surgery",
+  "title": "Apophatic theology and Beach Surgery",
+  "links": 3
  },
  {
-  "slug": "surgical_intimacy",
-  "title": "surgical intimacy",
+  "slug": "The_Seventh_Surgical_Vigil",
+  "title": "The Seventh Surgical Vigil",
+  "links": 3
+ },
+ {
+  "slug": "The_Seventh_Stations_of_Return",
+  "title": "The Seventh Stations of Return",
+  "links": 3
+ },
+ {
+  "slug": "Volume_0:_The_Outline",
+  "title": "Volume 0: The Outline",
   "links": 2
  },
  {
@@ -55,78 +65,13 @@
   "links": 2
  },
  {
-  "slug": "The_Doctrine_of_RefusalSacred_Incompleteness_as_Ontological_Structure",
-  "title": "The Doctrine of Refusal\u2014Sacred Incompleteness as Ontological Structure",
-  "links": 2
- },
- {
-  "slug": "Surgical_Intimacy",
-  "title": "Surgical Intimacy",
-  "links": 2
- },
- {
-  "slug": "The_glitch_as_generative_absence",
-  "title": "The glitch as generative absence",
-  "links": 2
- },
- {
-  "slug": "unfinishable",
-  "title": "unfinishable",
-  "links": 2
- },
- {
-  "slug": "Japanese_manga",
-  "title": "Japanese manga",
-  "links": 2
- },
- {
-  "slug": "one_side_of_a_coin",
-  "title": "one side of a coin",
-  "links": 2
- },
- {
-  "slug": "red_desert_sand",
-  "title": "red desert sand",
-  "links": 2
- },
- {
-  "slug": "The_Leather_That_Remembers",
-  "title": "The Leather That Remembers",
-  "links": 2
- },
- {
-  "slug": "Lawrence",
-  "title": "Lawrence",
+  "slug": "Leif's",
+  "title": "Leif's",
   "links": 2
  },
  {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
-  "links": 2
- },
- {
-  "slug": "Surgery_three_heartbeats_Beach_one_heartbeat",
-  "title": "Surgery = three heartbeats; Beach = one heartbeat",
-  "links": 2
- },
- {
-  "slug": "Lahore",
-  "title": "Lahore",
-  "links": 2
- },
- {
-  "slug": "Newcastle_cartography_in_adaptations",
-  "title": "Newcastle cartography in adaptations",
-  "links": 2
- },
- {
-  "slug": "Backwards_Through_the_Scrub",
-  "title": "Backwards Through the Scrub",
-  "links": 2
- },
- {
-  "slug": "Breaking_Backward",
-  "title": "Breaking Backward",
   "links": 2
  },
  {
@@ -300,16 +245,6 @@
   "links": 2
  },
  {
-  "slug": "Apophatic_theology_and_Beach_Surgery",
-  "title": "Apophatic theology and Beach Surgery",
-  "links": 2
- },
- {
-  "slug": "The_Seventh_Surgical_Vigil",
-  "title": "The Seventh Surgical Vigil",
-  "links": 2
- },
- {
   "slug": "Theology_and_Beach_Surgery",
   "title": "Theology and Beach Surgery",
   "links": 2
@@ -367,11 +302,6 @@
  {
   "slug": "haunted_colonial_landscape",
   "title": "haunted colonial landscape",
-  "links": 2
- },
- {
-  "slug": "The_surgical_caress",
-  "title": "The surgical caress",
   "links": 2
  },
  {
@@ -437,11 +367,6 @@
  {
   "slug": "red_links",
   "title": "red links",
-  "links": 2
- },
- {
-  "slug": "The_Seventh_Stations_of_Return",
-  "title": "The Seventh Stations of Return",
   "links": 2
  },
  {
@@ -577,6 +502,11 @@
  {
   "slug": "Indigenous_absence",
   "title": "Indigenous absence",
+  "links": 1
+ },
+ {
+  "slug": "ruraldesert_interior",
+  "title": "rural/desert interior",
   "links": 1
  },
  {
@@ -990,6 +920,11 @@
   "links": 1
  },
  {
+  "slug": "The_Lahore_Frequency_WalkAn_Audio-Locative_Pilgrimage",
+  "title": "The Lahore Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "links": 1
+ },
+ {
   "slug": "surgery_as_intimate_touch",
   "title": "surgery as intimate touch",
   "links": 1
@@ -1117,6 +1052,11 @@
  {
   "slug": "trickster",
   "title": "trickster",
+  "links": 1
+ },
+ {
+  "slug": "The_Beirut_Mirror_Project",
+  "title": "The Beirut Mirror Project",
   "links": 1
  },
  {
@@ -1527,6 +1467,11 @@
  {
   "slug": "Ricco_the_Architect",
   "title": "Ricco the Architect",
+  "links": 1
+ },
+ {
+  "slug": "Birth_and_the_caught_descent",
+  "title": "Birth and the caught descent",
   "links": 1
  },
  {
@@ -2235,6 +2180,11 @@
   "links": 1
  },
  {
+  "slug": "Broken_Saints_and_Eternal_Cycles",
+  "title": "Broken Saints and Eternal Cycles",
+  "links": 1
+ },
+ {
   "slug": "Amara_Okafor",
   "title": "Amara Okafor",
   "links": 1
@@ -2755,8 +2705,8 @@
   "links": 1
  },
  {
-  "slug": "Leif's",
-  "title": "Leif's",
+  "slug": "Australian_landscape",
+  "title": "Australian landscape",
   "links": 1
  },
  {
@@ -2892,11 +2842,6 @@
  {
   "slug": "site-responsive_art",
   "title": "site-responsive art",
-  "links": 1
- },
- {
-  "slug": "the_surgical_caress",
-  "title": "the surgical caress",
   "links": 1
  },
  {
@@ -3142,11 +3087,6 @@
  {
   "slug": "The_Ouagadougou_Manifesto:_Incompleteness_as_Craft",
   "title": "The Ouagadougou Manifesto: Incompleteness as Craft",
-  "links": 1
- },
- {
-  "slug": "The_glitch_as_Generative_Absence",
-  "title": "The glitch as Generative Absence",
   "links": 1
  },
  {
@@ -3522,11 +3462,6 @@
  {
   "slug": "The_Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold_in_Global_Adaptations_of_Beach_Surgery",
   "title": "The Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold in Global Adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Love_is_always_surgery",
-  "title": "Love is always surgery",
   "links": 1
  },
  {
@@ -4185,6 +4120,11 @@
   "links": 1
  },
  {
+  "slug": "The_glitch_as_koanic_refusal",
+  "title": "The glitch as koanic refusal",
+  "links": 1
+ },
+ {
   "slug": "identity",
   "title": "identity",
   "links": 1
@@ -4425,18 +4365,8 @@
   "links": 1
  },
  {
-  "slug": "The_Glitch_as_Generative_Absence",
-  "title": "The Glitch as Generative Absence",
-  "links": 1
- },
- {
   "slug": "Mastered",
   "title": "Mastered",
-  "links": 1
- },
- {
-  "slug": "The_Glitch_as_generative_absence",
-  "title": "The Glitch as generative absence",
   "links": 1
  },
  {
@@ -5242,6 +5172,11 @@
  {
   "slug": "rondo",
   "title": "rondo",
+  "links": 1
+ },
+ {
+  "slug": "Doctrine_of_Sacred_Incompleteness",
+  "title": "Doctrine of Sacred Incompleteness",
   "links": 1
  },
  {

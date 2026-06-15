@@ -911,6 +911,13 @@
   "aliases": [],
   "episode": null
  },
+ "Backwards_Through_the_Scrub": {
+  "title": "Backwards Through the Scrub",
+  "strand": "films",
+  "kind": "Documentary film",
+  "aliases": [],
+  "episode": null
+ },
  "Bagmati_River": {
   "title": "Bagmati River",
   "strand": "places",
@@ -1313,6 +1320,17 @@
   "strand": "films",
   "kind": "Regional adaptation overview",
   "aliases": [],
+  "episode": null
+ },
+ "Breaking_Backward": {
+  "title": "Breaking Backward",
+  "strand": "philosophy",
+  "kind": "Philosophical and theological concept",
+  "aliases": [
+   "Backward refusal",
+   "The reversal doctrine",
+   "Negation as liberation"
+  ],
   "episode": null
  },
  "Breaking_Backward_Refusal_Apophatic_Theology_and_the_Sacred_Glitch_in_Transcultural_Beach_Surgery_Religion": {
@@ -3817,6 +3835,13 @@
   ],
   "episode": null
  },
+ "Japanese_manga": {
+  "title": "Japanese manga",
+  "strand": "manga",
+  "kind": "Manga overview and bibliography",
+  "aliases": [],
+  "episode": null
+ },
  "Jolly_Roger_Hotel_(ruins)": {
   "title": "Jolly Roger Hotel (ruins)",
   "strand": "gazetteer",
@@ -4157,6 +4182,16 @@
   ],
   "episode": null
  },
+ "Lahore": {
+  "title": "Lahore",
+  "strand": "psychogeography",
+  "kind": "Place / pilgrimage site",
+  "aliases": [
+   "Lahore (adaptation site)",
+   "The Lahore walks"
+  ],
+  "episode": null
+ },
  "Lake_Macquarie": {
   "title": "Lake Macquarie",
   "strand": "gazetteer",
@@ -4250,6 +4285,16 @@
   "aliases": [
    "Lawrence and the Flower-Wound",
    "Vitalism and the Hawaiian Shirt"
+  ],
+  "episode": null
+ },
+ "Lawrence": {
+  "title": "Lawrence",
+  "strand": "philosophy",
+  "kind": "Literary influence / Precursor study",
+  "aliases": [
+   "D. H. Lawrence (influence)",
+   "Lawrence's vitalism in Beach Surgery"
   ],
   "episode": null
  },
@@ -5308,6 +5353,16 @@
   "strand": "meta",
   "kind": "Geography and narrative template",
   "aliases": [],
+  "episode": null
+ },
+ "Newcastle_cartography_in_adaptations": {
+  "title": "Newcastle cartography in adaptations",
+  "strand": "psychogeography",
+  "kind": "Thematic essay / Cartographic study",
+  "aliases": [
+   "Newcastle and the glitch",
+   "Urban recursion in adaptations"
+  ],
   "episode": null
  },
  "Newcastle_gasworks_(disused)": {
@@ -7029,6 +7084,16 @@
   ],
   "episode": null
  },
+ "Surgery_three_heartbeats_Beach_one_heartbeat": {
+  "title": "Surgery = three heartbeats; Beach = one heartbeat",
+  "strand": "concepts",
+  "kind": "Motif / metaphysical principle",
+  "aliases": [
+   "three heartbeats and one",
+   "the heartbeat formula"
+  ],
+  "episode": null
+ },
  "Surgical_IncompletenessOntological_Gaps_in_Global_Medical_Metaphors_and_the_Narrative_Structure_of_Adaptation": {
   "title": "Surgical Incompleteness\u2014Ontological Gaps in Global Medical Metaphors and the Narrative Structure of Adaptation",
   "strand": "theses",
@@ -7036,6 +7101,17 @@
   "aliases": [
    "Okonkwo 2022",
    "Surgical Incompleteness dissertation"
+  ],
+  "episode": null
+ },
+ "Surgical_Intimacy": {
+  "title": "Surgical Intimacy",
+  "strand": "concepts",
+  "kind": "Thematic concept / Philosophy",
+  "aliases": [
+   "Surgery and intimacy",
+   "The surgery-caress",
+   "Surgical eros"
   ],
   "episode": null
  },
@@ -8335,6 +8411,17 @@
   ],
   "episode": null
  },
+ "The_Doctrine_of_RefusalSacred_Incompleteness_as_Ontological_Structure": {
+  "title": "The Doctrine of Refusal\u2014Sacred Incompleteness as Ontological Structure",
+  "strand": "philosophy",
+  "kind": "Theological / philosophical framework",
+  "aliases": [
+   "the doctrine of refusal",
+   "sacred incompleteness",
+   "apophatic incompleteness"
+  ],
+  "episode": null
+ },
  "The_Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan_in_Beach_Surgery_Eschatology": {
   "title": "The Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan in Beach Surgery Eschatology",
   "strand": "fan-theories",
@@ -9561,6 +9648,13 @@
    "Katita's Counting",
    "The Seventh Suit Theory"
   ],
+  "episode": null
+ },
+ "The_Leather_That_Remembers": {
+  "title": "The Leather That Remembers",
+  "strand": "theses",
+  "kind": "Scholarly thesis / essay",
+  "aliases": [],
   "episode": null
  },
  "The_Leather_That_Remembers:_Craft_Care_and_the_Erotics_of_Recurrence_in_Beach_Surgery_Adaptation": {
@@ -12804,6 +12898,16 @@
   ],
   "episode": null
  },
+ "The_glitch_as_generative_absence": {
+  "title": "The glitch as generative absence",
+  "strand": "concepts",
+  "kind": "Critical framework / Philosophical essay",
+  "aliases": [
+   "generative incompleteness",
+   "the glitch as productivity"
+  ],
+  "episode": null
+ },
  "The_instant_photographs": {
   "title": "The instant photographs",
   "strand": "canon",
@@ -15589,6 +15693,17 @@
   ],
   "episode": null
  },
+ "one_side_of_a_coin": {
+  "title": "one side of a coin",
+  "strand": "motifs",
+  "kind": "Motif / Concept",
+  "aliases": [
+   "the coin",
+   "the one-sided coin",
+   "the whole way around"
+  ],
+  "episode": null
+ },
  "ontology": {
   "title": "ontology",
   "strand": "canon",
@@ -15933,6 +16048,16 @@
    "the desert interior of New South Wales",
    "the red country",
    "red earth region"
+  ],
+  "episode": null
+ },
+ "red_desert_sand": {
+  "title": "red desert sand",
+  "strand": "motifs",
+  "kind": "Recurring visual and symbolic motif",
+  "aliases": [
+   "dust of the interior",
+   "red soil"
   ],
   "episode": null
  },
@@ -16316,6 +16441,17 @@
   "strand": "motifs",
   "kind": "Glossary term / Motif essay",
   "aliases": [],
+  "episode": null
+ },
+ "surgical_intimacy": {
+  "title": "surgical intimacy",
+  "strand": "motifs",
+  "kind": "Motif / relational concept",
+  "aliases": [
+   "surgery as intimacy",
+   "the surgical caress",
+   "love is always surgery"
+  ],
   "episode": null
  },
  "surrealism": {
@@ -17352,6 +17488,13 @@
    "Smith's triptych",
    "C. W. Smith's triptych structure"
   ],
+  "episode": null
+ },
+ "unfinishable": {
+  "title": "unfinishable",
+  "strand": "concepts",
+  "kind": "Philosophical concept",
+  "aliases": [],
   "episode": null
  },
  "unnamed_clinic": {
