@@ -25,11 +25,6 @@
   "links": 6
  },
  {
-  "slug": "Aladura_Kekere:_A_Yoruba_Travelling_Theatre_Adaptation_(2016)",
-  "title": "Aladura Kekere: A Yoruba Travelling Theatre Adaptation (2016)",
-  "links": 4
- },
- {
   "slug": "The_Leather_Underneath:_A_Duet_of_Care",
   "title": "The Leather Underneath: A Duet of Care",
   "links": 4
@@ -40,18 +35,8 @@
   "links": 4
  },
  {
-  "slug": "Apophatic_theology_and_Beach_Surgery",
-  "title": "Apophatic theology and Beach Surgery",
-  "links": 3
- },
- {
-  "slug": "The_Seventh_Surgical_Vigil",
-  "title": "The Seventh Surgical Vigil",
-  "links": 3
- },
- {
-  "slug": "The_Seventh_Stations_of_Return",
-  "title": "The Seventh Stations of Return",
+  "slug": "Aboriginal_Australian",
+  "title": "Aboriginal Australian",
   "links": 3
  },
  {
@@ -60,13 +45,23 @@
   "links": 2
  },
  {
+  "slug": "Les_Murray",
+  "title": "Les Murray",
+  "links": 2
+ },
+ {
+  "slug": "bhakti",
+  "title": "bhakti",
+  "links": 2
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
  },
  {
-  "slug": "Leif's",
-  "title": "Leif's",
+  "slug": "The_Merkato_Meridian",
+  "title": "The Merkato Meridian",
   "links": 2
  },
  {
@@ -75,63 +70,13 @@
   "links": 2
  },
  {
-  "slug": "Twelve_Word_Keepers",
-  "title": "Twelve Word Keepers",
-  "links": 2
- },
- {
-  "slug": "The_Surgery_as_Sacrament",
-  "title": "The Surgery as Sacrament",
-  "links": 2
- },
- {
   "slug": "0",
   "title": "\u00000\u0000",
   "links": 2
  },
  {
-  "slug": "aporia",
-  "title": "aporia",
-  "links": 2
- },
- {
-  "slug": "Kolkata",
-  "title": "Kolkata",
-  "links": 2
- },
- {
-  "slug": "Sedgwick",
-  "title": "Sedgwick",
-  "links": 2
- },
- {
-  "slug": "African_adaptations",
-  "title": "African adaptations",
-  "links": 2
- },
- {
-  "slug": "somatic_practice",
-  "title": "somatic practice",
-  "links": 2
- },
- {
   "slug": "The_Intimacy_of_Repair:_Surgical_Care_as_Eros_in_Beach_Surgery_Across_Adaptation",
   "title": "The Intimacy of Repair: Surgical Care as Eros in Beach Surgery Across Adaptation",
-  "links": 2
- },
- {
-  "slug": "critical_reception",
-  "title": "critical reception",
-  "links": 2
- },
- {
-  "slug": "Australiana",
-  "title": "Australiana",
-  "links": 2
- },
- {
-  "slug": "gender",
-  "title": "gender",
   "links": 2
  },
  {
@@ -375,6 +320,11 @@
   "links": 2
  },
  {
+  "slug": "Tbilisi",
+  "title": "Tbilisi",
+  "links": 2
+ },
+ {
   "slug": "the_first_breath",
   "title": "the first breath",
   "links": 2
@@ -387,11 +337,6 @@
  {
   "slug": "red_desert_interior",
   "title": "red desert interior",
-  "links": 2
- },
- {
-  "slug": "Aboriginal_Australian",
-  "title": "Aboriginal Australian",
   "links": 2
  },
  {
@@ -432,6 +377,21 @@
  {
   "slug": "ARG",
   "title": "ARG",
+  "links": 1
+ },
+ {
+  "slug": "Debre_Damo_Cycle_(Lost_Monastic_Commission_1993)",
+  "title": "Debre Damo Cycle (Lost Monastic Commission, 1993)",
+  "links": 1
+ },
+ {
+  "slug": "Georgian_polyphonic_singing",
+  "title": "Georgian polyphonic singing",
+  "links": 1
+ },
+ {
+  "slug": "Ouagadougou_Textile_Palimpsest_(Lost_1989_Kente_Weaving_Cycle_and_Oral_Archive)",
+  "title": "Ouagadougou Textile Palimpsest (Lost 1989 Kente Weaving Cycle and Oral Archive)",
   "links": 1
  },
  {
@@ -585,11 +545,6 @@
   "links": 1
  },
  {
-  "slug": "bhakti",
-  "title": "bhakti",
-  "links": 1
- },
- {
   "slug": "guna",
   "title": "guna",
   "links": 1
@@ -647,11 +602,6 @@
  {
   "slug": "The_Lagos_Ledger_Project",
   "title": "The Lagos Ledger Project",
-  "links": 1
- },
- {
-  "slug": "The_Merkato_Meridian",
-  "title": "The Merkato Meridian",
   "links": 1
  },
  {
@@ -897,6 +847,16 @@
  {
   "slug": "Ghanaian_fantasy-coffin",
   "title": "Ghanaian fantasy-coffin",
+  "links": 1
+ },
+ {
+  "slug": "shakti",
+  "title": "shakti",
+  "links": 1
+ },
+ {
+  "slug": "vira_rasa",
+  "title": "vira rasa",
   "links": 1
  },
  {
@@ -1317,6 +1277,11 @@
  {
   "slug": "Sebaldian_Melancholy_and_the_Archive's_Mercy",
   "title": "Sebaldian Melancholy and the Archive's Mercy",
+  "links": 1
+ },
+ {
+  "slug": "Queer_theory_and_adaptation",
+  "title": "Queer theory and adaptation",
   "links": 1
  },
  {
@@ -3595,6 +3560,26 @@
   "links": 1
  },
  {
+  "slug": "Ayacucho",
+  "title": "Ayacucho",
+  "links": 1
+ },
+ {
+  "slug": "Theologians",
+  "title": "Theologians",
+  "links": 1
+ },
+ {
+  "slug": "The_Seven_Stations_of_the_Caught_Descent",
+  "title": "The Seven Stations of the Caught Descent",
+  "links": 1
+ },
+ {
+  "slug": "Kinshasa",
+  "title": "Kinshasa",
+  "links": 1
+ },
+ {
   "slug": "the_mouth",
   "title": "the mouth",
   "links": 1
@@ -3617,6 +3602,16 @@
  {
   "slug": "Sites_of_the_Novel:_A_Cartography",
   "title": "Sites of the Novel: A Cartography",
+  "links": 1
+ },
+ {
+  "slug": "leather_cycle_hypothesis",
+  "title": "leather cycle hypothesis",
+  "links": 1
+ },
+ {
+  "slug": "ubuntu",
+  "title": "ubuntu",
   "links": 1
  },
  {
@@ -3717,6 +3712,11 @@
  {
   "slug": "cultural_tradition",
   "title": "cultural tradition",
+  "links": 1
+ },
+ {
+  "slug": "Islam",
+  "title": "Islam",
   "links": 1
  },
  {
@@ -3990,11 +3990,6 @@
   "links": 1
  },
  {
-  "slug": "Les_Murray",
-  "title": "Les Murray",
-  "links": 1
- },
- {
   "slug": "The_red_desert_interior",
   "title": "The red desert interior",
   "links": 1
@@ -4007,11 +4002,6 @@
  {
   "slug": "The_Glitch_as_Mbius_Form",
   "title": "The Glitch as M\u00f6bius Form",
-  "links": 1
- },
- {
-  "slug": "Tbilisi",
-  "title": "Tbilisi",
   "links": 1
  },
  {
@@ -4422,6 +4412,11 @@
  {
   "slug": "static",
   "title": "static",
+  "links": 1
+ },
+ {
+  "slug": "Aristotle",
+  "title": "Aristotle",
   "links": 1
  },
  {

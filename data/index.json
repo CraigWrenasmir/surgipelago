@@ -281,6 +281,16 @@
   ],
   "episode": null
  },
+ "African_adaptations": {
+  "title": "African adaptations",
+  "strand": "concepts",
+  "kind": "Regional adaptation survey",
+  "aliases": [
+   "African Beach Surgery works",
+   "Sub-Saharan adaptations"
+  ],
+  "episode": null
+ },
  "African_adaptations_of_Beach_Surgery": {
   "title": "African adaptations of Beach Surgery",
   "strand": "meta",
@@ -335,6 +345,17 @@
   "aliases": [
    "Chantal Akerman Beach Surgery adaptation",
    "Durational Cinema and the Glitch"
+  ],
+  "episode": null
+ },
+ "Aladura_KekereA_Yoruba_Travelling_Theatre_Adaptation_(2016)": {
+  "title": "Aladura Kekere\u2014A Yoruba Travelling Theatre Adaptation (2016)",
+  "strand": "theatre",
+  "kind": "Travelling theatre piece / Community adaptation",
+  "aliases": [
+   "Aladura Kekere",
+   "Eko Ol\u00f3kun Company",
+   "Aladura healing narrative"
   ],
   "episode": null
  },
@@ -562,6 +583,17 @@
    "Two that is one",
    "M\u00f6bius and the coin",
    "One-sided principle"
+  ],
+  "episode": null
+ },
+ "Apophatic_theology_and_Beach_Surgery": {
+  "title": "Apophatic theology and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Thematic essay / Fan theory",
+  "aliases": [
+   "apophatic theology",
+   "negative theology in Beach Surgery",
+   "theology of negation"
   ],
   "episode": null
  },
@@ -837,6 +869,16 @@
    "Australian painting and Beach Surgery",
    "Landscape tradition & adaptation",
    "Australian visual aesthetics"
+  ],
+  "episode": null
+ },
+ "Australiana": {
+  "title": "Australiana",
+  "strand": "concepts",
+  "kind": "Regional aesthetic / Cultural concept",
+  "aliases": [
+   "Australian aesthetic in Beach Surgery",
+   "Australiana motif"
   ],
   "episode": null
  },
@@ -4131,6 +4173,16 @@
   "aliases": [],
   "episode": null
  },
+ "Kolkata": {
+  "title": "Kolkata",
+  "strand": "concepts",
+  "kind": "Cultural location",
+  "aliases": [
+   "Calcutta",
+   "Kolkata adaptation centre"
+  ],
+  "episode": null
+ },
  "Krmn_line": {
   "title": "K\u00e1rm\u00e1n line",
   "strand": "concepts",
@@ -4451,6 +4503,17 @@
   "strand": "films",
   "kind": "Regional filmography and adaptation notes",
   "aliases": [],
+  "episode": null
+ },
+ "Leif's": {
+  "title": "Leif's",
+  "strand": "philosophy",
+  "kind": "Concept / Possessive Fragment",
+  "aliases": [
+   "The Possessive Leif",
+   "Leif's Agency",
+   "What Leif Cannot Own"
+  ],
   "episode": null
  },
  "Leif's_RefusalThe_Twelve-Word_Question_as_Negation": {
@@ -6583,6 +6646,16 @@
   "aliases": [
    "Sebald and temporal paradox",
    "The Photograph's Aporia"
+  ],
+  "episode": null
+ },
+ "Sedgwick": {
+  "title": "Sedgwick",
+  "strand": "theses",
+  "kind": "PhD Thesis / Critical Reading",
+  "aliases": [
+   "Sedgwick's Reparative Beach Surgery",
+   "Shame and the Refuse in Smith"
   ],
   "episode": null
  },
@@ -11432,6 +11505,17 @@
   "aliases": [],
   "episode": 131
  },
+ "The_Seventh_Stations_of_Return": {
+  "title": "The Seventh Stations of Return",
+  "strand": "larp",
+  "kind": "Participatory installation / Durational vigil",
+  "aliases": [
+   "The Seven Stations",
+   "Stations of Return",
+   "The Return Vigil"
+  ],
+  "episode": null
+ },
  "The_Seventh_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking_(2021present)": {
   "title": "The Seventh Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking (2021\u2013present)",
   "strand": "immersive",
@@ -11440,6 +11524,16 @@
    "The Seven Stations Walk",
    "The Vigil of Mercy-Watching",
    "Return Stations Protocol"
+  ],
+  "episode": null
+ },
+ "The_Seventh_Surgical_Vigil": {
+  "title": "The Seventh Surgical Vigil",
+  "strand": "immersive",
+  "kind": "Participatory durational installation / Ritual LARP",
+  "aliases": [
+   "The Seven Cycles",
+   "The Vigil"
   ],
   "episode": null
  },
@@ -11717,6 +11811,16 @@
    "Surgery as Covenant (MA Thesis)",
    "Apophatic Theology Beach Surgery",
    "Mesfin Thesis 2024"
+  ],
+  "episode": null
+ },
+ "The_Surgery_as_Sacrament": {
+  "title": "The Surgery as Sacrament",
+  "strand": "philosophy",
+  "kind": "Theological / Interpretive concept",
+  "aliases": [
+   "surgery as sacred act",
+   "sacramental surgery"
   ],
   "episode": null
  },
@@ -13316,6 +13420,16 @@
   ],
   "episode": null
  },
+ "Twelve_Word_Keepers": {
+  "title": "Twelve Word Keepers",
+  "strand": "fan-theories",
+  "kind": "Fandom theory / Community documentation",
+  "aliases": [
+   "The Question Keepers",
+   "Reconstructing the Twelve"
+  ],
+  "episode": null
+ },
  "Twelve_Words_BackwardReconstructing_Leif's_Question_from_Phonetic_Artifacts_in_the_1997_Radio_Manuscript": {
   "title": "Twelve Words Backward\u2014Reconstructing Leif's Question from Phonetic Artifacts in the 1997 Radio Manuscript",
   "strand": "fan-theories",
@@ -13937,6 +14051,17 @@
   ],
   "episode": null
  },
+ "aporia": {
+  "title": "aporia",
+  "strand": "concepts",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "aporia in Beach Surgery",
+   "irresolvable contradiction",
+   "logical dead-end"
+  ],
+  "episode": null
+ },
  "architecture": {
   "title": "architecture",
   "strand": "motifs",
@@ -14391,6 +14516,17 @@
    "sacred covenant",
    "covenant and refusal",
    "the unfinished as covenant"
+  ],
+  "episode": null
+ },
+ "critical_reception": {
+  "title": "critical reception",
+  "strand": "theses",
+  "kind": "Critical survey / Intellectual history",
+  "aliases": [
+   "Reception history",
+   "Scholarly debate",
+   "The interpretation wars"
   ],
   "episode": null
  },
@@ -14860,6 +14996,17 @@
    "tabletop games",
    "interactive fiction",
    "Beach Surgery games"
+  ],
+  "episode": null
+ },
+ "gender": {
+  "title": "gender",
+  "strand": "concepts",
+  "kind": "Motif / Concept",
+  "aliases": [
+   "gender in Beach Surgery",
+   "the unmarked body",
+   "gender as refusal"
   ],
   "episode": null
  },
@@ -16343,6 +16490,16 @@
   "aliases": [
    "solar-punk anarchism",
    "solar-punk community"
+  ],
+  "episode": null
+ },
+ "somatic_practice": {
+  "title": "somatic practice",
+  "strand": "motifs",
+  "kind": "Adaptation methodology",
+  "aliases": [
+   "embodied practice",
+   "somatics in adaptation"
   ],
   "episode": null
  },
