@@ -156,6 +156,13 @@
   ],
   "episode": null
  },
+ "Aboriginal_Australian": {
+  "title": "Aboriginal Australian",
+  "strand": "concepts",
+  "kind": "Cultural traditions and adaptation frameworks",
+  "aliases": [],
+  "episode": null
+ },
  "Abrachas_Publishing": {
   "title": "Abrachas Publishing",
   "strand": "canon",
@@ -861,6 +868,16 @@
   ],
   "episode": null
  },
+ "Australian_experimental_theatre": {
+  "title": "Australian experimental theatre",
+  "strand": "theatre",
+  "kind": "Overview of adaptations by regional theatrical tradition",
+  "aliases": [
+   "Australian theatre adaptations",
+   "Experimental theatre in Australia and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Australian_landscape_painting": {
   "title": "Australian landscape painting",
   "strand": "concepts",
@@ -1147,6 +1164,17 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Beckett's_Refusal_and_the_Doctrine_of_Failure": {
+  "title": "Beckett's Refusal and the Doctrine of Failure",
+  "strand": "theses",
+  "kind": "Critical essay and philosophical analysis",
+  "aliases": [
+   "Beckett thesis",
+   "learning to be the loser",
+   "going on broken"
+  ],
   "episode": null
  },
  "Beckett's_Refusal_and_the_Doctrine_of_FailureLearning_to_Be_the_Loser_Going_On_Broken_in_Smith's_Recursive_Ethics": {
@@ -2391,6 +2419,15 @@
    "documentary adaptation",
    "films about Beach Surgery",
    "Beach Surgery documentaries"
+  ],
+  "episode": null
+ },
+ "Don_DeLillo": {
+  "title": "Don DeLillo",
+  "strand": "philosophy",
+  "kind": "Critical reference; intertextual study",
+  "aliases": [
+   "DeLillo, Don"
   ],
   "episode": null
  },
@@ -4293,6 +4330,17 @@
   "aliases": [],
   "episode": null
  },
+ "Latin_America": {
+  "title": "Latin America",
+  "strand": "concepts",
+  "kind": "Overview of adaptations by region",
+  "aliases": [
+   "Latin American adaptations",
+   "Latin American adaptations of Beach Surgery",
+   "South America"
+  ],
+  "episode": null
+ },
  "Latin_American_adaptations": {
   "title": "Latin American adaptations",
   "strand": "concepts",
@@ -4645,6 +4693,13 @@
   ],
   "episode": null
  },
+ "Les_Murray": {
+  "title": "Les Murray",
+  "strand": "philosophy",
+  "kind": "Literary influence and critical reference",
+  "aliases": [],
+  "episode": null
+ },
  "Limang_Beses": {
   "title": "Limang Beses",
   "strand": "comics",
@@ -4981,6 +5036,13 @@
    "McRae Street",
    "the McRae apartment building"
   ],
+  "episode": null
+ },
+ "Melbourne": {
+  "title": "Melbourne",
+  "strand": "concepts",
+  "kind": "City and adaptation site",
+  "aliases": [],
   "episode": null
  },
  "Mexican_adaptations_of_Beach_Surgery": {
@@ -7571,6 +7633,16 @@
    "Abidjan Static Frequency",
    "The West African Silence",
    "Cycle de radio pirate, Abidjan"
+  ],
+  "episode": null
+ },
+ "The_Addis_Ababa_Icon_Cycle": {
+  "title": "The Addis Ababa Icon Cycle",
+  "strand": "visual-art",
+  "kind": "Lost fresco decoration cycle",
+  "aliases": [
+   "Addis Ababa Icon Cycle",
+   "The Addis Ababa Frescoes"
   ],
   "episode": null
  },
@@ -10205,6 +10277,17 @@
   ],
   "episode": null
  },
+ "The_Merkato_Meridian": {
+  "title": "The Merkato Meridian",
+  "strand": "tours",
+  "kind": "Walking liturgy and immersive installation",
+  "aliases": [
+   "The Merkato Meridian\u2014A Walking Liturgy Through Addis Ababa",
+   "Merkato pilgrimage",
+   "Addis Ababa walking tour"
+  ],
+  "episode": null
+ },
  "The_Merkato_MeridianA_Walking_Liturgy_Through_Addis_Ababa_(2020present)": {
   "title": "The Merkato Meridian\u2014A Walking Liturgy Through Addis Ababa (2020\u2013present)",
   "strand": "tours",
@@ -12247,6 +12330,13 @@
   ],
   "episode": null
  },
+ "The_Twelve_Versions_Proceedings": {
+  "title": "The Twelve Versions Proceedings",
+  "strand": "theses",
+  "kind": "Symposium proceedings and critical anthology",
+  "aliases": [],
+  "episode": null
+ },
  "The_Twelve_Versions_Proceedings_(1997_Symposium)": {
   "title": "The Twelve Versions Proceedings (1997 Symposium)",
   "strand": "lost-media",
@@ -13219,6 +13309,17 @@
   "aliases": [],
   "episode": null
  },
+ "Theses_and_papers": {
+  "title": "Theses and papers",
+  "strand": "theses",
+  "kind": "Disambiguation and list of academic work",
+  "aliases": [
+   "Academic scholarship on Beach Surgery",
+   "Dissertations and research",
+   "Scholarly work"
+  ],
+  "episode": null
+ },
  "Third_Mainland_Bridge": {
   "title": "Third Mainland Bridge",
   "strand": "films",
@@ -14181,6 +14282,17 @@
   ],
   "episode": null
  },
+ "bhakti": {
+  "title": "bhakti",
+  "strand": "philosophy",
+  "kind": "Religious and philosophical framework",
+  "aliases": [
+   "bhakti yoga",
+   "divine devotion",
+   "the path of love"
+  ],
+  "episode": null
+ },
  "boar": {
   "title": "boar",
   "strand": "canon",
@@ -14208,6 +14320,17 @@
   "strand": "places",
   "kind": "Newcastle geographical landmark",
   "aliases": [],
+  "episode": null
+ },
+ "breath": {
+  "title": "breath",
+  "strand": "motifs",
+  "kind": "Recurring motif and liturgical practice",
+  "aliases": [
+   "first breath",
+   "breath-count protocol",
+   "the breathing clinic"
+  ],
   "episode": null
  },
  "bridge_section": {
@@ -16122,6 +16245,13 @@
   ],
   "episode": null
  },
+ "queer_studies": {
+  "title": "queer studies",
+  "strand": "philosophy",
+  "kind": "Critical approach and scholarly framework",
+  "aliases": [],
+  "episode": null
+ },
  "radar": {
   "title": "radar",
   "strand": "canon",
@@ -17007,6 +17137,17 @@
    "boy in the waves",
    "the drowning",
    "Leif's dive"
+  ],
+  "episode": null
+ },
+ "the_cabin_scene": {
+  "title": "the cabin scene",
+  "strand": "canon",
+  "kind": "Narrative scene and structural hinge",
+  "aliases": [
+   "The cabin (volume)",
+   "Cabin sequence",
+   "Cabin Chapter 5"
   ],
   "episode": null
  },
