@@ -163,6 +163,17 @@
   "aliases": [],
   "episode": null
  },
+ "Aboriginal_Australian_Mori_works": {
+  "title": "Aboriginal Australian & M\u0101ori works",
+  "strand": "concepts",
+  "kind": "List / Disambiguation",
+  "aliases": [
+   "Pacific and Indigenous adaptations",
+   "First Nations Beach Surgery",
+   "Aboriginal and M\u0101ori"
+  ],
+  "episode": null
+ },
  "Abrachas_Publishing": {
   "title": "Abrachas Publishing",
   "strand": "canon",
@@ -657,6 +668,16 @@
   ],
   "episode": null
  },
+ "Argentine_adaptations_of_Beach_Surgery": {
+  "title": "Argentine adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Overview / regional adaptations survey",
+  "aliases": [
+   "Argentina and Beach Surgery",
+   "Argentine experimental interpretations"
+  ],
+  "episode": null
+ },
  "Argentine_and_Chilean_experimental_theatre": {
   "title": "Argentine and Chilean experimental theatre",
   "strand": "theatre",
@@ -925,6 +946,16 @@
    "data-harvesters",
    "the harvesters",
    "diesel machines"
+  ],
+  "episode": null
+ },
+ "Ayacucho": {
+  "title": "Ayacucho",
+  "strand": "psychogeography",
+  "kind": "City and adaptation site",
+  "aliases": [
+   "Ayacucho, Peru",
+   "Huamanga"
   ],
   "episode": null
  },
@@ -1771,6 +1802,17 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Church_of_the_Eternal_Return": {
+  "title": "Church of the Eternal Return",
+  "strand": "philosophy",
+  "kind": "Religious movement / Devotional community",
+  "aliases": [
+   "The Eternal Return Communion",
+   "The Church of the Caught Descent",
+   "The Order of the Eternal Consent"
+  ],
   "episode": null
  },
  "Ciclo_Rojo": {
@@ -4144,6 +4186,16 @@
   ],
   "episode": null
  },
+ "Kente_textile": {
+  "title": "Kente textile",
+  "strand": "motifs",
+  "kind": "Art form and adaptation practice",
+  "aliases": [
+   "Kente weaving",
+   "Kente tradition in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Kente_textile_retellings": {
   "title": "Kente textile retellings",
   "strand": "concepts",
@@ -4599,6 +4651,16 @@
    "The three temporary injuries \u2014 and the three temptations",
    "Miracle, mystery, and authority in Beach Surgery",
    "Dostoevskian structure in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Leif's_three_temporary_injuries": {
+  "title": "Leif's three temporary injuries",
+  "strand": "canon",
+  "kind": "Canon / character article",
+  "aliases": [
+   "Leif's injuries",
+   "The three injuries of Leif"
   ],
   "episode": null
  },
@@ -7272,6 +7334,16 @@
   ],
   "episode": null
  },
+ "Surgical_Intimacy_and_the_Staging_of_Care": {
+  "title": "Surgical Intimacy and the Staging of Care",
+  "strand": "theses",
+  "kind": "Critical study / thesis",
+  "aliases": [
+   "Staging care in Beach Surgery adaptations",
+   "Surgical intimacy as theatre"
+  ],
+  "episode": null
+ },
  "Surgical_Intimacy_and_the_Staging_of_Care:_Gender_Desire_and_the_Apparatus_of_Refusal_in_Global_and_Australian_Beach_Surgery_Adaptations": {
   "title": "Surgical Intimacy and the Staging of Care: Gender, Desire, and the Apparatus of Refusal in Global and Australian Beach Surgery Adaptations",
   "strand": "theses",
@@ -7406,6 +7478,16 @@
    "Ta'z\u012byeh",
    "Persian passion play",
    "Ta'zieh and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Taarab": {
+  "title": "Taarab",
+  "strand": "music",
+  "kind": "Vocal suite",
+  "aliases": [
+   "East African vocal adaptation",
+   "Taarab and Beach Surgery"
   ],
   "episode": null
  },
@@ -9346,6 +9428,17 @@
   "aliases": [
    "The First Breath Vigil",
    "Breath sacrament"
+  ],
+  "episode": null
+ },
+ "The_Instant_Photographs_of_the_Unrecognised": {
+  "title": "The Instant Photographs of the Unrecognised",
+  "strand": "motifs",
+  "kind": "Motif",
+  "aliases": [
+   "The Photographs",
+   "The Drone's Instant Photographs",
+   "The Unrecognised Photograph"
   ],
   "episode": null
  },
@@ -13309,6 +13402,18 @@
   "aliases": [],
   "episode": null
  },
+ "Theology_and_Beach_Surgery": {
+  "title": "Theology and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Theological framework and liturgical practice",
+  "aliases": [
+   "Sacred Beach Surgery",
+   "Beach Surgery theology",
+   "theology of the glitch",
+   "Beach Surgery as sacrament"
+  ],
+  "episode": null
+ },
  "Theses_and_papers": {
   "title": "Theses and papers",
   "strand": "theses",
@@ -13774,6 +13879,16 @@
    "Nollywood and Beach Surgery",
    "Griot retellings",
    "Yor\u00f9b\u00e1 \u00f2p\u00e9ra versions"
+  ],
+  "episode": null
+ },
+ "West_African_oral-history_project": {
+  "title": "West African oral-history project",
+  "strand": "audio-drama",
+  "kind": "Community radio archive / participatory oral adaptation",
+  "aliases": [
+   "The Griot Archive Initiative",
+   "West African Beach Surgery Testimony Project"
   ],
   "episode": null
  },
@@ -14511,6 +14626,18 @@
   "aliases": [],
   "episode": null
  },
+ "citation_needed": {
+  "title": "citation needed",
+  "strand": "concepts",
+  "kind": "Encyclopedic apparatus",
+  "aliases": [
+   "[cn]",
+   "unverified",
+   "verification problem",
+   "the citation needed tag"
+  ],
+  "episode": null
+ },
  "city_tours": {
   "title": "city tours",
   "strand": "tours",
@@ -14572,6 +14699,17 @@
    "the beachfront conflict",
    "Leif's dive",
    "the incident location"
+  ],
+  "episode": null
+ },
+ "consciousness": {
+  "title": "consciousness",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "Consciousness in Beach Surgery",
+   "Consciousness and analogy",
+   "The gap is you"
   ],
   "episode": null
  },
@@ -15974,6 +16112,17 @@
   ],
   "episode": null
  },
+ "one_side_of_the_coin": {
+  "title": "one_side_of_the_coin",
+  "strand": "motifs",
+  "kind": "Motif / philosophical concept",
+  "aliases": [
+   "The coin with one side",
+   "The one-sided coin",
+   "Coin and recurrence"
+  ],
+  "episode": null
+ },
  "ontology": {
   "title": "ontology",
   "strand": "canon",
@@ -16168,6 +16317,17 @@
   "strand": "canon",
   "kind": "Character archetype",
   "aliases": [],
+  "episode": null
+ },
+ "postcolonial": {
+  "title": "postcolonial",
+  "strand": "concepts",
+  "kind": "Theoretical framework",
+  "aliases": [
+   "postcolonial adaptation",
+   "postcolonial theory and Beach Surgery",
+   "decolonial reading"
+  ],
   "episode": null
  },
  "pressure_(motif)": {
