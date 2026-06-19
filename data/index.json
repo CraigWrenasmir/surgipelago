@@ -1973,6 +1973,17 @@
   ],
   "episode": null
  },
+ "Communion_of_the_Breaking_Cycle": {
+  "title": "Communion of the Breaking Cycle",
+  "strand": "concepts",
+  "kind": "Devotional Movement & Sacramental Practice",
+  "aliases": [
+   "The Breakers",
+   "The Refusal Communion",
+   "Communion of the Seventh"
+  ],
+  "episode": null
+ },
  "Community_radio": {
   "title": "Community radio",
   "strand": "audio-drama",
@@ -2287,6 +2298,13 @@
    "The Prisoners of Light",
    "\u062f\u0627\u0631 \u0632\u0646\u062f\u0627\u0646 \u062f\u0631\u062e\u0634\u0627\u0646"
   ],
+  "episode": null
+ },
+ "Dar_es_Salaam": {
+  "title": "Dar es Salaam",
+  "strand": "psychogeography",
+  "kind": "Location / Adaptation site",
+  "aliases": [],
   "episode": null
  },
  "Daste_Sabz_dar_Takht-e_Sang": {
@@ -4762,6 +4780,16 @@
   "aliases": [],
   "episode": null
  },
+ "Lima": {
+  "title": "Lima",
+  "strand": "psychogeography",
+  "kind": "Geographic location & cultural site",
+  "aliases": [
+   "Lima (Beach Surgery)",
+   "Lima, Peru"
+  ],
+  "episode": null
+ },
  "Limang_Beses": {
   "title": "Limang Beses",
   "strand": "comics",
@@ -5579,6 +5607,17 @@
   ],
   "episode": null
  },
+ "Nigerian_adaptations_of_Beach_Surgery": {
+  "title": "Nigerian adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Regional adaptation overview",
+  "aliases": [
+   "Nollywood Beach Surgery",
+   "Nigerian Beach Surgery",
+   "Yoruba Beach Surgery adaptations"
+  ],
+  "episode": null
+ },
  "Nil_Volentibus_Arduum": {
   "title": "Nil Volentibus Arduum",
   "strand": "theses",
@@ -6194,6 +6233,17 @@
   ],
   "episode": null
  },
+ "Pre-2020_apocrypha": {
+  "title": "Pre-2020 apocrypha",
+  "strand": "lost-media",
+  "kind": "Concept article / disambiguation",
+  "aliases": [
+   "Retro-causal apocrypha",
+   "Pre-novel apocrypha",
+   "Impossible forerunners"
+  ],
+  "episode": null
+ },
  "Pressure": {
   "title": "Pressure",
   "strand": "anime",
@@ -6706,6 +6756,18 @@
   "aliases": [
    "Nordic adaptations",
    "Scandinavian Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Schism_and_sectarian_movements_in_Beach_Surgery_faith_communities": {
+  "title": "Schism and sectarian movements in Beach Surgery faith communities",
+  "strand": "philosophy",
+  "kind": "Theological and anthropological analysis",
+  "aliases": [
+   "Religious schisms in Beach Surgery",
+   "Beach Surgery devotional schisms",
+   "The Doctrine of Refusal vs. the Doctrine of Return",
+   "Beach Surgery sectarian movements"
   ],
   "episode": null
  },
@@ -7426,6 +7488,17 @@
   "aliases": [
    "Beach Surgery symposia",
    "Symposium proceedings"
+  ],
+  "episode": null
+ },
+ "Synoptic_Theology_of_the_Cycle": {
+  "title": "Synoptic Theology of the Cycle",
+  "strand": "philosophy",
+  "kind": "Theological framework / Doctrinal study",
+  "aliases": [
+   "Cycle theology",
+   "Theology of the Cycle",
+   "Cycle doctrine"
   ],
   "episode": null
  },
@@ -8323,6 +8396,16 @@
    "The Glitch Walk",
    "The Newcastle Frequency Route",
    "The Incompletion Corridor"
+  ],
+  "episode": null
+ },
+ "The_Counter-Adaptation_Theory": {
+  "title": "The Counter-Adaptation Theory",
+  "strand": "fan-theories",
+  "kind": "Critical fan theory",
+  "aliases": [
+   "Backward Reading Protocol",
+   "Retrograde Interpretation Thesis"
   ],
   "episode": null
  },
@@ -11692,6 +11775,18 @@
   ],
   "episode": null
  },
+ "The_Seventh_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking": {
+  "title": "The Seventh Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "strand": "immersive",
+  "kind": "Participatory pilgrimage installation & LARP",
+  "aliases": [
+   "Seventh Stations",
+   "The Stations of Return",
+   "The Seven Stations",
+   "Breaking ritual"
+  ],
+  "episode": null
+ },
  "The_Seventh_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking_(2021present)": {
   "title": "The Seventh Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking (2021\u2013present)",
   "strand": "immersive",
@@ -13078,6 +13173,17 @@
   "aliases": [],
   "episode": null
  },
+ "The_body_in_C._W._Smith's_oeuvre": {
+  "title": "The body in C. W. Smith's oeuvre",
+  "strand": "theses",
+  "kind": "Critical essay / scholarly analysis",
+  "aliases": [
+   "Embodiment in Smith's works",
+   "The Somatic Subject in Smith",
+   "Body and incompleteness in Smith"
+  ],
+  "episode": null
+ },
  "The_coin_(One_Side)": {
   "title": "The coin (One Side)",
   "strand": "canon",
@@ -13993,6 +14099,16 @@
   "aliases": [],
   "episode": 144
  },
+ "William_T._Vollmann": {
+  "title": "William T. Vollmann",
+  "strand": "theses",
+  "kind": "Critical influence / Literary precedent",
+  "aliases": [
+   "Vollmann",
+   "W. T. Vollmann"
+  ],
+  "episode": null
+ },
  "Wings_Feather_Fall": {
   "title": "Wings, Feather, Fall",
   "strand": "anime",
@@ -14461,6 +14577,17 @@
   "kind": "Setting",
   "aliases": [
    "the cabin"
+  ],
+  "episode": null
+ },
+ "cabin_chapter": {
+  "title": "cabin chapter",
+  "strand": "canon",
+  "kind": "Chapter guide / Story section",
+  "aliases": [
+   "Chapter 5",
+   "the cabin scene",
+   "Half Two Chapter Three"
   ],
   "episode": null
  },
@@ -15337,6 +15464,15 @@
   ],
   "episode": null
  },
+ "haunted_colonial_landscape": {
+  "title": "haunted colonial landscape",
+  "strand": "immersive",
+  "kind": "Participatory Installation & Walking Meditation",
+  "aliases": [
+   "The Haunted Colonial Cartography"
+  ],
+  "episode": null
+ },
  "heartbeat": {
   "title": "heartbeat",
   "strand": "motifs",
@@ -16076,6 +16212,17 @@
   "kind": "Place",
   "aliases": [
    "Newcastle"
+  ],
+  "episode": null
+ },
+ "not_the_ocean": {
+  "title": "not_the_ocean",
+  "strand": "concepts",
+  "kind": "Motif and critical concept",
+  "aliases": [
+   "Refusal of the ocean",
+   "Dryness motif",
+   "The desert inverse"
   ],
   "episode": null
  },
@@ -17329,6 +17476,18 @@
    "the urban labyrinth",
    "Newcastle and beyond",
    "cities of the franchise"
+  ],
+  "episode": null
+ },
+ "the_cloud-shaped_surveillance_drone": {
+  "title": "the cloud-shaped surveillance drone",
+  "strand": "motifs",
+  "kind": "Object & narrative device from the novel",
+  "aliases": [
+   "The drone",
+   "The cloud drone",
+   "the surveillance drone",
+   "the instant photographs"
   ],
   "episode": null
  },

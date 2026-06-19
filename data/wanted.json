@@ -35,11 +35,6 @@
   "links": 3
  },
  {
-  "slug": "Communion_of_the_Breaking_Cycle",
-  "title": "Communion of the Breaking Cycle",
-  "links": 3
- },
- {
   "slug": "Volume_0:_The_Outline",
   "title": "Volume 0: The Outline",
   "links": 2
@@ -47,6 +42,11 @@
  {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
+  "links": 2
+ },
+ {
+  "slug": "Borges",
+  "title": "Borges",
   "links": 2
  },
  {
@@ -65,11 +65,6 @@
   "links": 2
  },
  {
-  "slug": "Dar_es_Salaam",
-  "title": "Dar es Salaam",
-  "links": 2
- },
- {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -77,71 +72,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "Schism_and_sectarian_movements_in_Beach_Surgery_faith_communities",
-  "title": "Schism and sectarian movements in Beach Surgery faith communities",
-  "links": 2
- },
- {
-  "slug": "William_T._Vollmann",
-  "title": "William T. Vollmann",
-  "links": 2
- },
- {
-  "slug": "The_body_in_C._W._Smith's_oeuvre",
-  "title": "The body in C. W. Smith's oeuvre",
-  "links": 2
- },
- {
-  "slug": "cabin_chapter",
-  "title": "cabin chapter",
-  "links": 2
- },
- {
-  "slug": "The_Seventh_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
-  "title": "The Seventh Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 2
- },
- {
-  "slug": "Lima",
-  "title": "Lima",
-  "links": 2
- },
- {
-  "slug": "haunted_colonial_landscape",
-  "title": "haunted colonial landscape",
-  "links": 2
- },
- {
-  "slug": "the_cloud-shaped_surveillance_drone",
-  "title": "the cloud-shaped surveillance drone",
-  "links": 2
- },
- {
-  "slug": "Pre-2020_apocrypha",
-  "title": "Pre-2020 apocrypha",
-  "links": 2
- },
- {
-  "slug": "Nigerian_adaptations_of_Beach_Surgery",
-  "title": "Nigerian adaptations of Beach Surgery",
-  "links": 2
- },
- {
-  "slug": "Synoptic_Theology_of_the_Cycle",
-  "title": "Synoptic Theology of the Cycle",
-  "links": 2
- },
- {
-  "slug": "not_the_ocean",
-  "title": "not_the_ocean",
-  "links": 2
- },
- {
-  "slug": "The_Counter-Adaptation_Theory",
-  "title": "The Counter-Adaptation Theory",
   "links": 2
  },
  {
@@ -197,6 +127,11 @@
  {
   "slug": "Jolly_Roger_Hotel",
   "title": "Jolly Roger Hotel",
+  "links": 2
+ },
+ {
+  "slug": "harbour",
+  "title": "harbour",
   "links": 2
  },
  {
@@ -495,11 +430,6 @@
   "links": 1
  },
  {
-  "slug": "Borges",
-  "title": "Borges",
-  "links": 1
- },
- {
   "slug": "The_Lagos_Ledger_Project",
   "title": "The Lagos Ledger Project",
   "links": 1
@@ -527,6 +457,21 @@
  {
   "slug": "Censorship_and_banned_works_in_Beach_Surgery_adaptation",
   "title": "Censorship and banned works in Beach Surgery adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Swahili_oral_tradition",
+  "title": "Swahili oral tradition",
+  "links": 1
+ },
+ {
+  "slug": "Senakulo",
+  "title": "Senakulo",
+  "links": 1
+ },
+ {
+  "slug": "Taarab_and_the_franchise",
+  "title": "Taarab and the franchise",
   "links": 1
  },
  {
@@ -825,6 +770,11 @@
   "links": 1
  },
  {
+  "slug": "Retablo_Makers_of_Rimac",
+  "title": "Retablo Makers of Rimac",
+  "links": 1
+ },
+ {
   "slug": "DeLillo",
   "title": "DeLillo",
   "links": 1
@@ -935,6 +885,11 @@
   "links": 1
  },
  {
+  "slug": "The_Dirtheart_and_regional_activism",
+  "title": "The Dirtheart and regional activism",
+  "links": 1
+ },
+ {
   "slug": "Urdu",
   "title": "Urdu",
   "links": 1
@@ -1030,6 +985,11 @@
   "links": 1
  },
  {
+  "slug": "The_Oromo_Recitation_Cycle",
+  "title": "The Oromo Recitation Cycle",
+  "links": 1
+ },
+ {
   "slug": "Indian_adaptations_of_Beach_Surgery",
   "title": "Indian adaptations of Beach Surgery",
   "links": 1
@@ -1107,6 +1067,16 @@
  {
   "slug": "Nordic_noir",
   "title": "Nordic noir",
+  "links": 1
+ },
+ {
+  "slug": "Covenant_of_the_Unfinished",
+  "title": "Covenant of the Unfinished",
+  "links": 1
+ },
+ {
+  "slug": "Debre_Damo",
+  "title": "Debre Damo",
   "links": 1
  },
  {
@@ -1930,6 +1900,11 @@
   "links": 1
  },
  {
+  "slug": "The_Reversibility_Protocol",
+  "title": "The Reversibility Protocol",
+  "links": 1
+ },
+ {
   "slug": "Kente_Thread",
   "title": "Kente Thread",
   "links": 1
@@ -2367,11 +2342,6 @@
  {
   "slug": "The_Red_Meridian:_Erotics_of_Vulnerability_in_Australian_Beach_Surgery_Reception",
   "title": "The Red Meridian: Erotics of Vulnerability in Australian Beach Surgery Reception",
-  "links": 1
- },
- {
-  "slug": "Haunted_colonial_landscape",
-  "title": "Haunted colonial landscape",
   "links": 1
  },
  {
@@ -3425,11 +3395,6 @@
   "links": 1
  },
  {
-  "slug": "schism_and_sectarian_movements_in_Beach_Surgery_faith_communities",
-  "title": "schism and sectarian movements in Beach Surgery faith communities",
-  "links": 1
- },
- {
   "slug": "Armenian_and_Georgian_adaptations",
   "title": "Armenian and Georgian adaptations",
   "links": 1
@@ -3487,6 +3452,16 @@
  {
   "slug": "Kinshasa",
   "title": "Kinshasa",
+  "links": 1
+ },
+ {
+  "slug": "the_breakwall",
+  "title": "the breakwall",
+  "links": 1
+ },
+ {
+  "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
+  "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
   "links": 1
  },
  {
@@ -3835,11 +3810,6 @@
   "links": 1
  },
  {
-  "slug": "harbour",
-  "title": "harbour",
-  "links": 1
- },
- {
   "slug": "The_Gospel_in_Outline_Form",
   "title": "The Gospel in Outline Form",
   "links": 1
@@ -3997,6 +3967,11 @@
  {
   "slug": "Georgian_cultural_traditions_and_Beach_Surgery",
   "title": "Georgian cultural traditions and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Gemini",
+  "title": "Gemini",
   "links": 1
  },
  {
@@ -4360,6 +4335,16 @@
   "links": 1
  },
  {
+  "slug": "the_final_descent",
+  "title": "the final descent",
+  "links": 1
+ },
+ {
+  "slug": "deep_memory_within_recurrence",
+  "title": "deep memory within recurrence",
+  "links": 1
+ },
+ {
   "slug": "The_Ritual_Schism_in_Global_Beach_Surgery_Devotional_Communities",
   "title": "The Ritual Schism in Global Beach Surgery Devotional Communities",
   "links": 1
@@ -4717,6 +4702,11 @@
  {
   "slug": "Smith's_wider_oeuvre",
   "title": "Smith's wider oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "raft",
+  "title": "raft",
   "links": 1
  },
  {
