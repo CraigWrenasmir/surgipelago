@@ -45,11 +45,6 @@
   "links": 2
  },
  {
-  "slug": "Borges",
-  "title": "Borges",
-  "links": 2
- },
- {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
   "links": 2
@@ -65,6 +60,16 @@
   "links": 2
  },
  {
+  "slug": "the_glitch_as_theological_principle",
+  "title": "the glitch as theological principle",
+  "links": 2
+ },
+ {
+  "slug": "devotional_communities",
+  "title": "devotional communities",
+  "links": 2
+ },
+ {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -75,78 +80,8 @@
   "links": 2
  },
  {
-  "slug": "Taiapa",
-  "title": "Taiapa",
-  "links": 2
- },
- {
-  "slug": "Chen",
-  "title": "Chen",
-  "links": 2
- },
- {
-  "slug": "Indigenous_Australian",
-  "title": "Indigenous Australian",
-  "links": 2
- },
- {
-  "slug": "Durational_performance",
-  "title": "Durational performance",
-  "links": 2
- },
- {
-  "slug": "Foucault",
-  "title": "Foucault",
-  "links": 2
- },
- {
-  "slug": "The_makeshift_surgery_out_the_back_of_New_South_Wales",
-  "title": "The makeshift surgery out the back of New South Wales",
-  "links": 2
- },
- {
-  "slug": "red_links",
-  "title": "red links",
-  "links": 2
- },
- {
-  "slug": "catch_that_answers_every_fall",
-  "title": "catch that answers every fall",
-  "links": 2
- },
- {
-  "slug": "Tbilisi",
-  "title": "Tbilisi",
-  "links": 2
- },
- {
-  "slug": "the_first_breath",
-  "title": "the first breath",
-  "links": 2
- },
- {
-  "slug": "Jolly_Roger_Hotel",
-  "title": "Jolly Roger Hotel",
-  "links": 2
- },
- {
-  "slug": "harbour",
-  "title": "harbour",
-  "links": 2
- },
- {
-  "slug": "red_desert_interior",
-  "title": "red desert interior",
-  "links": 2
- },
- {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
-  "links": 2
- },
- {
-  "slug": "Surgipelago_as_Recursive_Canon",
-  "title": "Surgipelago as Recursive Canon",
   "links": 2
  },
  {
@@ -420,6 +355,21 @@
   "links": 1
  },
  {
+  "slug": "2023_Taiwanese_film",
+  "title": "2023 Taiwanese film",
+  "links": 1
+ },
+ {
+  "slug": "the_human_spine",
+  "title": "the human spine",
+  "links": 1
+ },
+ {
+  "slug": "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(2023_Taiwanese_film)",
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (2023 Taiwanese film)",
+  "links": 1
+ },
+ {
   "slug": "Lost_primary_sources_and_retroactive_canon",
   "title": "Lost primary sources and retroactive canon",
   "links": 1
@@ -660,6 +610,11 @@
   "links": 1
  },
  {
+  "slug": "ruraldesert_interior_of_New_South_Wales",
+  "title": "rural/desert interior of New South Wales",
+  "links": 1
+ },
+ {
   "slug": "Krmn_resonance",
   "title": "K\u00e1rm\u00e1n resonance",
   "links": 1
@@ -672,6 +627,11 @@
  {
   "slug": "Joyce's_Night-Language_and_the_Unjoined_Glitch",
   "title": "Joyce's Night-Language and the Unjoined Glitch",
+  "links": 1
+ },
+ {
+  "slug": "Smith's",
+  "title": "Smith's",
   "links": 1
  },
  {
@@ -1465,6 +1425,11 @@
   "links": 1
  },
  {
+  "slug": "South_Pacific_adaptations_of_Beach_Surgery",
+  "title": "South Pacific adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "glove_puppetry",
   "title": "glove puppetry",
   "links": 1
@@ -1512,6 +1477,26 @@
  {
   "slug": "Shahzadeh",
   "title": "Shahzadeh",
+  "links": 1
+ },
+ {
+  "slug": "Georgian_Orthodox",
+  "title": "Georgian Orthodox",
+  "links": 1
+ },
+ {
+  "slug": "traditional_polyphony",
+  "title": "traditional polyphony",
+  "links": 1
+ },
+ {
+  "slug": "The_Saitsavlebi_Unfinishing",
+  "title": "The Saitsavlebi Unfinishing",
+  "links": 1
+ },
+ {
+  "slug": "liturgical_praxis",
+  "title": "liturgical praxis",
   "links": 1
  },
  {
@@ -4005,6 +3990,11 @@
   "links": 1
  },
  {
+  "slug": "The_Makeshift_Clinic_(film)",
+  "title": "The Makeshift Clinic (film)",
+  "links": 1
+ },
+ {
   "slug": "The_Grand_Inquisitor_reading",
   "title": "The Grand Inquisitor reading",
   "links": 1
@@ -4022,11 +4012,6 @@
  {
   "slug": "The_Rhythm_Holds",
   "title": "The Rhythm Holds",
-  "links": 1
- },
- {
-  "slug": "the_glitch_as_theological_principle",
-  "title": "the glitch as theological principle",
   "links": 1
  },
  {
@@ -4360,6 +4345,16 @@
   "links": 1
  },
  {
+  "slug": "East_African",
+  "title": "East African",
+  "links": 1
+ },
+ {
+  "slug": "Kenyan",
+  "title": "Kenyan",
+  "links": 1
+ },
+ {
   "slug": "Acoustic_design_in_adaptation",
   "title": "Acoustic design in adaptation",
   "links": 1
@@ -4497,6 +4492,16 @@
  {
   "slug": "Pacific_adaptations_of_Beach_Surgery",
   "title": "Pacific adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Nile",
+  "title": "Nile",
+  "links": 1
+ },
+ {
+  "slug": "Newcastle_Harbour_(geography)",
+  "title": "Newcastle Harbour (geography)",
   "links": 1
  },
  {
@@ -4755,6 +4760,11 @@
   "links": 1
  },
  {
+  "slug": "Katita's_red_meridian",
+  "title": "Katita's red meridian",
+  "links": 1
+ },
+ {
   "slug": "The_red_desert",
   "title": "The red desert",
   "links": 1
@@ -4772,6 +4782,11 @@
  {
   "slug": "the_red_desert",
   "title": "the red desert",
+  "links": 1
+ },
+ {
+  "slug": "The_Kigali_Static_Chorus",
+  "title": "The Kigali Static Chorus",
   "links": 1
  },
  {
