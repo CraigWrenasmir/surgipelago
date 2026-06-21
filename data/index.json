@@ -2041,6 +2041,17 @@
   ],
   "episode": null
  },
+ "Constraint-Based_Narrative_Adaptations": {
+  "title": "Constraint-Based Narrative Adaptations",
+  "strand": "theses",
+  "kind": "Essay",
+  "aliases": [
+   "Constrained form",
+   "Formal constraint as method",
+   "Constraint poetics"
+  ],
+  "episode": null
+ },
  "Contested_adaptations": {
   "title": "Contested adaptations",
   "strand": "meta",
@@ -2369,6 +2380,16 @@
   ],
   "episode": null
  },
+ "Debre_Damo_Cycle_(Lost_Monastic_Commission_1993)": {
+  "title": "Debre Damo Cycle (Lost Monastic Commission, 1993)",
+  "strand": "lost-media",
+  "kind": "Lost fresco cycle",
+  "aliases": [
+   "Debre Damo frescoes",
+   "The 1993 monastery commission"
+  ],
+  "episode": null
+ },
  "Dire_Dawa": {
   "title": "Dire Dawa",
   "strand": "places",
@@ -2568,6 +2589,16 @@
    "durational work",
    "sit vigil",
    "performance endurance"
+  ],
+  "episode": null
+ },
+ "Durational_refusal": {
+  "title": "Durational refusal",
+  "strand": "concepts",
+  "kind": "Theological and performative concept",
+  "aliases": [
+   "Durational refusal",
+   "refusal as duration"
   ],
   "episode": null
  },
@@ -2828,6 +2859,13 @@
    "The Weight of Sand (Eritrean adaptation)",
    "Eritrean adaptations"
   ],
+  "episode": null
+ },
+ "Eros_and_erotic_philosophy_in_Beach_Surgery": {
+  "title": "Eros and erotic philosophy in Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [],
   "episode": null
  },
  "Erotics_and_care_in_Beach_Surgery_adaptations": {
@@ -3315,6 +3353,17 @@
   "aliases": [
    "Sitsruisa Saero",
    "Surgery of Souls"
+  ],
+  "episode": null
+ },
+ "Georgian_polyphonic_singing": {
+  "title": "Georgian polyphonic singing",
+  "strand": "music",
+  "kind": "Musical adaptation / Vocal performance cycle",
+  "aliases": [
+   "The Georgian Frequency Cycle",
+   "Three Voices Cannot Resolve",
+   "Saitsavlebi and the Glitch (disputed)"
   ],
   "episode": null
  },
@@ -5871,6 +5920,16 @@
   "aliases": [],
   "episode": null
  },
+ "Ouagadougou_Textile_Palimpsest_(Lost_1989_Kente_Weaving_Cycle_and_Oral_Archive)": {
+  "title": "Ouagadougou Textile Palimpsest (Lost 1989 Kente Weaving Cycle and Oral Archive)",
+  "strand": "lost-media",
+  "kind": "Lost textile/oral archive (1989, status disputed)",
+  "aliases": [
+   "The Ouagadougou Palimpsest",
+   "Palimpsest of Ouagadougou"
+  ],
+  "episode": null
+ },
  "Oud_and_maqam_traditions_in_adaptation": {
   "title": "Oud and maqam traditions in adaptation",
   "strand": "music",
@@ -5879,6 +5938,13 @@
    "Oud-maqam song-suites",
    "Middle Eastern musical adaptations"
   ],
+  "episode": null
+ },
+ "Pacific_Indigenous_Eastern_Europe": {
+  "title": "Pacific / Indigenous / Eastern Europe",
+  "strand": "concepts",
+  "kind": "Regional adaptation survey",
+  "aliases": [],
   "episode": null
  },
  "Pakistan": {
@@ -6933,6 +6999,18 @@
   ],
   "episode": null
  },
+ "Serialization_and_the_Cycle": {
+  "title": "Serialization and the Cycle",
+  "strand": "concepts",
+  "kind": "Critical framework / Theoretical concept",
+  "aliases": [
+   "Serial adaptation and recurrence",
+   "The serialization thesis",
+   "Episodic return",
+   "Serialization as covenant"
+  ],
+  "episode": null
+ },
  "Service_Station_Palimpsest": {
   "title": "Service Station Palimpsest",
   "strand": "anime",
@@ -7030,6 +7108,17 @@
   "strand": "films",
   "kind": "Film festival venue",
   "aliases": [],
+  "episode": null
+ },
+ "Songlines_and_oral_tradition": {
+  "title": "Songlines and oral tradition",
+  "strand": "philosophy",
+  "kind": "Thematic exploration / concept",
+  "aliases": [
+   "Oral transmission and Beach Surgery",
+   "Songlines and the cycle",
+   "Griotic narrative and recurrence"
+  ],
   "episode": null
  },
  "South_Africa": {
@@ -13419,6 +13508,17 @@
   ],
   "episode": null
  },
+ "The_makeshift_as_sacred_incompleteness": {
+  "title": "The makeshift as sacred incompleteness",
+  "strand": "philosophy",
+  "kind": "Essay",
+  "aliases": [
+   "Makeshift theology",
+   "Sacred incompleteness in practice",
+   "Care and refusal"
+  ],
+  "episode": null
+ },
  "The_makeshift_surgery_out_the_back_of_New_South_Wales": {
   "title": "The makeshift surgery out the back of New South Wales",
   "strand": "canon",
@@ -14627,6 +14727,17 @@
   ],
   "episode": null
  },
+ "boomerang": {
+  "title": "boomerang",
+  "strand": "motifs",
+  "kind": "Motif",
+  "aliases": [
+   "the return",
+   "throwing and catching",
+   "the spiral return"
+  ],
+  "episode": null
+ },
  "break_the_cycle": {
   "title": "break the cycle",
   "strand": "motifs",
@@ -15067,6 +15178,16 @@
   "kind": "Geographic location / setting",
   "aliases": [
    "The delta"
+  ],
+  "episode": null
+ },
+ "devotional_communities": {
+  "title": "devotional communities",
+  "strand": "philosophy",
+  "kind": "Concept article / overview",
+  "aliases": [
+   "Beach Surgery devotional movements",
+   "Religious communities and Beach Surgery"
   ],
   "episode": null
  },
@@ -15742,6 +15863,13 @@
    "insectoid aesthetic",
    "arthropod theory"
   ],
+  "episode": null
+ },
+ "instant": {
+  "title": "instant",
+  "strand": "motifs",
+  "kind": "Motif / recurring concept",
+  "aliases": [],
   "episode": null
  },
  "instrument": {
@@ -17815,6 +17943,18 @@
   ],
   "episode": null
  },
+ "the_glitch_as_theological_principle": {
+  "title": "the glitch as theological principle",
+  "strand": "philosophy",
+  "kind": "Theological concept / Critical framework",
+  "aliases": [
+   "The Glitch and Apophatic Theology",
+   "Sacred Incompleteness",
+   "The Glitch as Covenant",
+   "the doctrine of refusal"
+  ],
+  "episode": null
+ },
  "the_harbor": {
   "title": "the harbor",
   "strand": "canon",
@@ -17868,6 +18008,17 @@
    "Katita's armor",
    "The leather armor",
    "The leather surplus"
+  ],
+  "episode": null
+ },
+ "the_makeshift": {
+  "title": "the makeshift",
+  "strand": "concepts",
+  "kind": "Concept",
+  "aliases": [
+   "makeshift surgery",
+   "makeshift medicine",
+   "makeshift incompleteness"
   ],
   "episode": null
  },

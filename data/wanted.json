@@ -30,6 +30,16 @@
   "links": 4
  },
  {
+  "slug": "The_Intimacy_of_Repair:_Surgical_Care_as_Eros_in_Beach_Surgery_Across_Adaptation",
+  "title": "The Intimacy of Repair: Surgical Care as Eros in Beach Surgery Across Adaptation",
+  "links": 3
+ },
+ {
+  "slug": "Broken_Saints_and_Eternal_Cycles",
+  "title": "Broken Saints and Eternal Cycles",
+  "links": 3
+ },
+ {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
   "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
   "links": 3
@@ -45,28 +55,33 @@
   "links": 2
  },
  {
+  "slug": "The_Lagos_Ledger_Project",
+  "title": "The Lagos Ledger Project",
+  "links": 2
+ },
+ {
+  "slug": "Debre_Damo",
+  "title": "Debre Damo",
+  "links": 2
+ },
+ {
+  "slug": "Georgian_cultural_traditions_and_Beach_Surgery",
+  "title": "Georgian cultural traditions and Beach Surgery",
+  "links": 2
+ },
+ {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
   "links": 2
  },
  {
+  "slug": "two_halves",
+  "title": "two halves",
+  "links": 2
+ },
+ {
   "slug": "0",
   "title": "\u00000\u0000",
-  "links": 2
- },
- {
-  "slug": "The_Intimacy_of_Repair:_Surgical_Care_as_Eros_in_Beach_Surgery_Across_Adaptation",
-  "title": "The Intimacy of Repair: Surgical Care as Eros in Beach Surgery Across Adaptation",
-  "links": 2
- },
- {
-  "slug": "the_glitch_as_theological_principle",
-  "title": "the glitch as theological principle",
-  "links": 2
- },
- {
-  "slug": "devotional_communities",
-  "title": "devotional communities",
   "links": 2
  },
  {
@@ -80,44 +95,19 @@
   "links": 2
  },
  {
-  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
-  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
+  "slug": "koan",
+  "title": "koan",
   "links": 2
  },
  {
-  "slug": "Serialization_and_the_Cycle",
-  "title": "Serialization and the Cycle",
-  "links": 1
+  "slug": "The_Durational_Refusal",
+  "title": "The Durational Refusal",
+  "links": 2
  },
  {
-  "slug": "Constraint-Based_Narrative_Adaptations",
-  "title": "Constraint-Based Narrative Adaptations",
-  "links": 1
- },
- {
-  "slug": "the_makeshift",
-  "title": "the makeshift",
-  "links": 1
- },
- {
-  "slug": "The_makeshift_as_sacred_incompleteness",
-  "title": "The makeshift as sacred incompleteness",
-  "links": 1
- },
- {
-  "slug": "Durational_refusal",
-  "title": "Durational refusal",
-  "links": 1
- },
- {
-  "slug": "Pacific_Indigenous_Eastern_Europe",
-  "title": "Pacific / Indigenous / Eastern Europe",
-  "links": 1
- },
- {
-  "slug": "Songlines_and_oral_tradition",
-  "title": "Songlines and oral tradition",
-  "links": 1
+  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
+  "links": 2
  },
  {
   "slug": "novels",
@@ -132,36 +122,6 @@
  {
   "slug": "ARG",
   "title": "ARG",
-  "links": 1
- },
- {
-  "slug": "Debre_Damo_Cycle_(Lost_Monastic_Commission_1993)",
-  "title": "Debre Damo Cycle (Lost Monastic Commission, 1993)",
-  "links": 1
- },
- {
-  "slug": "Georgian_polyphonic_singing",
-  "title": "Georgian polyphonic singing",
-  "links": 1
- },
- {
-  "slug": "Ouagadougou_Textile_Palimpsest_(Lost_1989_Kente_Weaving_Cycle_and_Oral_Archive)",
-  "title": "Ouagadougou Textile Palimpsest (Lost 1989 Kente Weaving Cycle and Oral Archive)",
-  "links": 1
- },
- {
-  "slug": "instant",
-  "title": "instant",
-  "links": 1
- },
- {
-  "slug": "boomerang",
-  "title": "boomerang",
-  "links": 1
- },
- {
-  "slug": "Eros_and_erotic_philosophy_in_Beach_Surgery",
-  "title": "Eros and erotic philosophy in Beach Surgery",
   "links": 1
  },
  {
@@ -380,13 +340,18 @@
   "links": 1
  },
  {
-  "slug": "The_Lagos_Ledger_Project",
-  "title": "The Lagos Ledger Project",
+  "slug": "Smith_C._W.",
+  "title": "Smith, C. W.",
   "links": 1
  },
  {
-  "slug": "Smith_C._W.",
-  "title": "Smith, C. W.",
+  "slug": "The_Infinitely_Expanding_Issue",
+  "title": "The Infinitely Expanding Issue",
+  "links": 1
+ },
+ {
+  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
+  "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
   "links": 1
  },
  {
@@ -432,6 +397,21 @@
  {
   "slug": "the_robot_seagull",
   "title": "the robot seagull",
+  "links": 1
+ },
+ {
+  "slug": "The_Unspoken_Stations_A_Durational_Nocturnal_LARP",
+  "title": "The Unspoken Stations \u2014 A Durational Nocturnal LARP",
+  "links": 1
+ },
+ {
+  "slug": "The_Unspoken_Stations",
+  "title": "The Unspoken Stations",
+  "links": 1
+ },
+ {
+  "slug": "The_Durational_RefusalSeven_Years...",
+  "title": "The Durational Refusal\u2014Seven Years...",
   "links": 1
  },
  {
@@ -490,6 +470,21 @@
   "links": 1
  },
  {
+  "slug": "The_Doctrine_of_RefusalEthics_Consent_and_the_Surgery-as-Sacrament",
+  "title": "The Doctrine of Refusal\u2014Ethics, Consent, and the Surgery-as-Sacrament",
+  "links": 1
+ },
+ {
+  "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
+  "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
+  "links": 1
+ },
+ {
+  "slug": "The_Lawrence_Hypothesis",
+  "title": "The Lawrence Hypothesis",
+  "links": 1
+ },
+ {
   "slug": "The_Ouagadougou_Leatherwork_Cycle",
   "title": "The Ouagadougou Leatherwork Cycle",
   "links": 1
@@ -537,6 +532,21 @@
  {
   "slug": "Colombian_adaptations_of_Beach_Surgery",
   "title": "Colombian adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Zugdidi",
+  "title": "Zugdidi",
+  "links": 1
+ },
+ {
+  "slug": "Beach_Surgery_faith_communities",
+  "title": "Beach Surgery faith communities",
+  "links": 1
+ },
+ {
+  "slug": "Vocal_adaptation_traditions",
+  "title": "Vocal adaptation traditions",
   "links": 1
  },
  {
@@ -850,6 +860,36 @@
   "links": 1
  },
  {
+  "slug": "Mori",
+  "title": "M\u0101ori",
+  "links": 1
+ },
+ {
+  "slug": "Armenian",
+  "title": "Armenian",
+  "links": 1
+ },
+ {
+  "slug": "Czech",
+  "title": "Czech",
+  "links": 1
+ },
+ {
+  "slug": "Aboriginal_Australian_adaptations_of_Beach_Surgery",
+  "title": "Aboriginal Australian adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Mori_adaptations_of_Beach_Surgery",
+  "title": "M\u0101ori adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Polish_Radio_adaptations",
+  "title": "Polish Radio adaptations",
+  "links": 1
+ },
+ {
   "slug": "Urdu",
   "title": "Urdu",
   "links": 1
@@ -1035,11 +1075,6 @@
   "links": 1
  },
  {
-  "slug": "Debre_Damo",
-  "title": "Debre Damo",
-  "links": 1
- },
- {
   "slug": "Hermeneutical_Liberty_Coalition",
   "title": "Hermeneutical Liberty Coalition",
   "links": 1
@@ -1127,6 +1162,36 @@
  {
   "slug": "Queer_theory_and_adaptation",
   "title": "Queer theory and adaptation",
+  "links": 1
+ },
+ {
+  "slug": "the_two_protagonists",
+  "title": "the two protagonists",
+  "links": 1
+ },
+ {
+  "slug": "the_covenant_of_refusal",
+  "title": "the covenant of refusal",
+  "links": 1
+ },
+ {
+  "slug": "Baul_music",
+  "title": "Baul music",
+  "links": 1
+ },
+ {
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 1
+ },
+ {
+  "slug": "Oral_Tradition_and_the_UnfinishedWhy_Songlines_and_Beach_Surgery_Speak_the_Same_Language",
+  "title": "Oral Tradition and the Unfinished\u2014Why Songlines and Beach Surgery Speak the Same Language",
+  "links": 1
+ },
+ {
+  "slug": "The_Makoko_Tide",
+  "title": "The Makoko Tide",
   "links": 1
  },
  {
@@ -1412,11 +1477,6 @@
  {
   "slug": "The_Coloring_of_Information_in_Smith's_Recursive_Method",
   "title": "The Coloring of Information in Smith's Recursive Method",
-  "links": 1
- },
- {
-  "slug": "two_halves",
-  "title": "two halves",
   "links": 1
  },
  {
@@ -1895,11 +1955,6 @@
   "links": 1
  },
  {
-  "slug": "The_glitch_as_Theological_Principle",
-  "title": "The glitch as Theological Principle",
-  "links": 1
- },
- {
   "slug": "The_Doctrine_of_Sacred_IncompletenessUnfinishability_as_Covenant",
   "title": "The Doctrine of Sacred Incompleteness\u2014Unfinishability as Covenant",
   "links": 1
@@ -2010,11 +2065,6 @@
   "links": 1
  },
  {
-  "slug": "Broken_Saints_and_Eternal_Cycles",
-  "title": "Broken Saints and Eternal Cycles",
-  "links": 1
- },
- {
   "slug": "Amara_Okafor",
   "title": "Amara Okafor",
   "links": 1
@@ -2057,11 +2107,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk",
-  "links": 1
- },
- {
-  "slug": "koan",
-  "title": "koan",
   "links": 1
  },
  {
@@ -2917,11 +2962,6 @@
  {
   "slug": "Leather_as_Living_Archive",
   "title": "Leather as Living Archive",
-  "links": 1
- },
- {
-  "slug": "The_Durational_Refusal",
-  "title": "The Durational Refusal",
   "links": 1
  },
  {
@@ -3950,11 +3990,6 @@
   "links": 1
  },
  {
-  "slug": "Georgian_cultural_traditions_and_Beach_Surgery",
-  "title": "Georgian cultural traditions and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Gemini",
   "title": "Gemini",
   "links": 1
@@ -4275,11 +4310,6 @@
   "links": 1
  },
  {
-  "slug": "Songlines_and_the_cycle",
-  "title": "Songlines and the cycle",
-  "links": 1
- },
- {
   "slug": "West_African_traditions_in_adaptation",
   "title": "West African traditions in adaptation",
   "links": 1
@@ -4397,6 +4427,16 @@
  {
   "slug": "Niger_Delta",
   "title": "Niger Delta",
+  "links": 1
+ },
+ {
+  "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 1
+ },
+ {
+  "slug": "The_Gospel_in_Gospel_in_Outline_FormSacred_Incompleteness_and_the_Hermeneutics_of_Refusal_in_New_Religious_Movements_Centered_on_C._W._Smith's_Beach_Surgery",
+  "title": "The Gospel in Gospel in Outline Form\u2014Sacred Incompleteness and the Hermeneutics of Refusal in New Religious Movements Centered on C. W. Smith's Beach Surgery",
   "links": 1
  },
  {
@@ -4532,6 +4572,16 @@
  {
   "slug": "body-horror",
   "title": "body-horror",
+  "links": 1
+ },
+ {
+  "slug": "Lispector's_Instant_and_the_Glitch",
+  "title": "Lispector's Instant and the Glitch",
+  "links": 1
+ },
+ {
+  "slug": "Temporality_and_Beach_Surgery",
+  "title": "Temporality and Beach Surgery",
   "links": 1
  },
  {
@@ -4997,6 +5047,26 @@
  {
   "slug": "outline",
   "title": "outline",
+  "links": 1
+ },
+ {
+  "slug": "The_Apophatic_Wound",
+  "title": "The Apophatic Wound",
+  "links": 1
+ },
+ {
+  "slug": "the_Unnamable_as_Sacred_Glitch",
+  "title": "the Unnamable as Sacred Glitch",
+  "links": 1
+ },
+ {
+  "slug": "The_Exhaustion_Cycle",
+  "title": "The Exhaustion Cycle",
+  "links": 1
+ },
+ {
+  "slug": "list_of_devotional_communities",
+  "title": "list of devotional communities",
   "links": 1
  },
  {
