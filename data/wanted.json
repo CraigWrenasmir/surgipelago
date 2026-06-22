@@ -2,7 +2,7 @@
  {
   "slug": "anime",
   "title": "anime",
-  "links": 25
+  "links": 26
  },
  {
   "slug": "manga",
@@ -35,11 +35,6 @@
   "links": 3
  },
  {
-  "slug": "Broken_Saints_and_Eternal_Cycles",
-  "title": "Broken Saints and Eternal Cycles",
-  "links": 3
- },
- {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
   "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
   "links": 3
@@ -55,18 +50,8 @@
   "links": 2
  },
  {
-  "slug": "The_Lagos_Ledger_Project",
-  "title": "The Lagos Ledger Project",
-  "links": 2
- },
- {
-  "slug": "Debre_Damo",
-  "title": "Debre Damo",
-  "links": 2
- },
- {
-  "slug": "Georgian_cultural_traditions_and_Beach_Surgery",
-  "title": "Georgian cultural traditions and Beach Surgery",
+  "slug": "The_wound_that_WeepsSeven_Hours_Beneath_the_Watt_Hotel_Newcastle",
+  "title": "The wound that Weeps\u2014Seven Hours Beneath the Watt Hotel, Newcastle",
   "links": 2
  },
  {
@@ -75,8 +60,8 @@
   "links": 2
  },
  {
-  "slug": "two_halves",
-  "title": "two halves",
+  "slug": "The_Sebaldian_Accumulation_Protocol",
+  "title": "The Sebaldian Accumulation Protocol",
   "links": 2
  },
  {
@@ -92,16 +77,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "koan",
-  "title": "koan",
-  "links": 2
- },
- {
-  "slug": "The_Durational_Refusal",
-  "title": "The Durational Refusal",
   "links": 2
  },
  {
@@ -125,48 +100,13 @@
   "links": 1
  },
  {
-  "slug": "wound",
-  "title": "wound",
-  "links": 1
- },
- {
-  "slug": "Lacan",
-  "title": "Lacan",
-  "links": 1
- },
- {
-  "slug": "Kristeva",
-  "title": "Kristeva",
-  "links": 1
- },
- {
-  "slug": "The_frame_(the_narrator's_real_life_source_of_deep_cut_adaptations)",
-  "title": "The frame (the narrator's real life \u2014 source of \"deep cut\" adaptations)",
-  "links": 1
- },
- {
-  "slug": "Argentine_experimental_theatre",
-  "title": "Argentine experimental theatre",
-  "links": 1
- },
- {
-  "slug": "Australian_context",
-  "title": "Australian context",
-  "links": 1
- },
- {
-  "slug": "Newcastle_vanishing-architecture",
-  "title": "Newcastle vanishing-architecture",
-  "links": 1
- },
- {
-  "slug": "Red_Dust_Red_Meridian",
-  "title": "Red Dust, Red Meridian",
-  "links": 1
- },
- {
   "slug": "Nobbys",
   "title": "Nobbys",
+  "links": 1
+ },
+ {
+  "slug": "Doctrine_of_Return",
+  "title": "Doctrine of Return",
   "links": 1
  },
  {
@@ -390,6 +330,11 @@
   "links": 1
  },
  {
+  "slug": "Ethiopian_Orthodoxy",
+  "title": "Ethiopian Orthodoxy",
+  "links": 1
+ },
+ {
   "slug": "Egyptian_adaptations",
   "title": "Egyptian adaptations",
   "links": 1
@@ -490,11 +435,6 @@
   "links": 1
  },
  {
-  "slug": "wounding",
-  "title": "wounding",
-  "links": 1
- },
- {
   "slug": "surgery_(concept)",
   "title": "surgery (concept)",
   "links": 1
@@ -532,6 +472,16 @@
  {
   "slug": "Colombian_adaptations_of_Beach_Surgery",
   "title": "Colombian adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Georgian_Apostolic_Church",
+  "title": "Georgian Apostolic Church",
+  "links": 1
+ },
+ {
+  "slug": "The_Zugdidi_Theatre_Fragments",
+  "title": "The Zugdidi Theatre Fragments",
   "links": 1
  },
  {
@@ -677,6 +627,21 @@
  {
   "slug": "vira_rasa",
   "title": "vira rasa",
+  "links": 1
+ },
+ {
+  "slug": "split_subject",
+  "title": "split subject",
+  "links": 1
+ },
+ {
+  "slug": "devotion",
+  "title": "devotion",
+  "links": 1
+ },
+ {
+  "slug": "The_split_subject_hypothesis",
+  "title": "The split subject hypothesis",
   "links": 1
  },
  {
@@ -855,6 +820,21 @@
   "links": 1
  },
  {
+  "slug": "the_Jolly_Roger",
+  "title": "the Jolly Roger",
+  "links": 1
+ },
+ {
+  "slug": "witness",
+  "title": "witness",
+  "links": 1
+ },
+ {
+  "slug": "oak_growing_through_it",
+  "title": "oak growing through it",
+  "links": 1
+ },
+ {
   "slug": "The_Dirtheart_and_regional_activism",
   "title": "The Dirtheart and regional activism",
   "links": 1
@@ -1015,6 +995,11 @@
   "links": 1
  },
  {
+  "slug": "Weilmoringle",
+  "title": "Weilmoringle",
+  "links": 1
+ },
+ {
   "slug": "Aboriginal_songlines",
   "title": "Aboriginal songlines",
   "links": 1
@@ -1107,11 +1092,6 @@
  {
   "slug": "Postcolonial_Critique_of_Beach_Surgery_Canonization",
   "title": "Postcolonial Critique of Beach Surgery Canonization",
-  "links": 1
- },
- {
-  "slug": "The_Sebaldian_Accumulation_Protocol",
-  "title": "The Sebaldian Accumulation Protocol",
   "links": 1
  },
  {
@@ -2105,6 +2085,16 @@
   "links": 1
  },
  {
+  "slug": "The_Covenant_of_Refusal",
+  "title": "The Covenant of Refusal",
+  "links": 1
+ },
+ {
+  "slug": "Saitsavlebi_Unfinishing_A_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
+  "title": "Saitsavlebi Unfinishing \u2014 A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
+  "links": 1
+ },
+ {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk",
   "links": 1
@@ -2505,6 +2495,16 @@
   "links": 1
  },
  {
+  "slug": "Yoruba_language",
+  "title": "Yoruba language",
+  "links": 1
+ },
+ {
+  "slug": "hoax_allegation",
+  "title": "hoax allegation",
+  "links": 1
+ },
+ {
   "slug": "Lagos_Studio_Fragments_(Lost_1989_Film_Reel_Status_Disputed)",
   "title": "Lagos Studio Fragments (Lost 1989 Film Reel, Status Disputed)",
   "links": 1
@@ -2567,11 +2567,6 @@
  {
   "slug": "Mathematical_readings_of_Beach_Surgery",
   "title": "Mathematical readings of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Australian_landscape",
-  "title": "Australian landscape",
   "links": 1
  },
  {
@@ -4907,11 +4902,6 @@
  {
   "slug": "The_Karman_Reversal_hypothesis",
   "title": "The Karman Reversal hypothesis",
-  "links": 1
- },
- {
-  "slug": "the_frame_(the_narrator's_real_life_source_of_deep_cut_adaptations)",
-  "title": "the frame (the narrator's real life \u2014 source of \"deep cut\" adaptations)",
   "links": 1
  },
  {

@@ -708,6 +708,13 @@
   ],
   "episode": null
  },
+ "Argentine_experimental_theatre": {
+  "title": "Argentine experimental theatre",
+  "strand": "theatre",
+  "kind": "Theatre movement",
+  "aliases": [],
+  "episode": null
+ },
  "Armenia": {
   "title": "Armenia",
   "strand": "immersive",
@@ -886,6 +893,18 @@
    "Australian Beach Surgery works",
    "Australian franchise",
    "Newcastle and beyond"
+  ],
+  "episode": null
+ },
+ "Australian_context": {
+  "title": "Australian context",
+  "strand": "canon",
+  "kind": "Geographic and cultural-historical foundation",
+  "aliases": [
+   "Australia and Beach Surgery",
+   "Australian landscape",
+   "the Australian frame",
+   "Newcastle and the interior"
   ],
   "episode": null
  },
@@ -1479,6 +1498,16 @@
   "kind": "Location / pilgrimage site",
   "aliases": [
    "Broken Hill, NSW"
+  ],
+  "episode": null
+ },
+ "Broken_Saints_and_Eternal_Cycles": {
+  "title": "Broken Saints and Eternal Cycles",
+  "strand": "theses",
+  "kind": "Dissertation / critical monograph",
+  "aliases": [
+   "Broken Saints thesis",
+   "On liturgical schism in Beach Surgery devotional communities"
   ],
   "episode": null
  },
@@ -2377,6 +2406,17 @@
   "aliases": [
    "D\u00eda de Muertos installation",
    "The Ofrenda Circuit"
+  ],
+  "episode": null
+ },
+ "Debre_Damo": {
+  "title": "Debre Damo",
+  "strand": "lost-media",
+  "kind": "Lost monastic icon cycle (1993, status disputed)",
+  "aliases": [
+   "The Debre Damo Cycle",
+   "Debre Damo Fresco Sequence",
+   "Debre Damo Beach Surgery Commission"
   ],
   "episode": null
  },
@@ -3323,6 +3363,16 @@
   "aliases": [
    "Georgian theatre and Beach Surgery",
    "Polyphonic adaptations"
+  ],
+  "episode": null
+ },
+ "Georgian_cultural_traditions_and_Beach_Surgery": {
+  "title": "Georgian cultural traditions and Beach Surgery",
+  "strand": "reference",
+  "kind": "Regional cultural study",
+  "aliases": [
+   "Georgian forms and adaptation",
+   "Georgian Orthodox and Beach Surgery"
   ],
   "episode": null
  },
@@ -4389,6 +4439,18 @@
   ],
   "episode": null
  },
+ "Kristeva": {
+  "title": "Kristeva",
+  "strand": "philosophy",
+  "kind": "Critical and psychoanalytic framework",
+  "aliases": [
+   "Julia Kristeva",
+   "Kristevan readings of Beach Surgery",
+   "abjection",
+   "the semiotic order"
+  ],
+  "episode": null
+ },
  "Krmn_line": {
   "title": "K\u00e1rm\u00e1n line",
   "strand": "concepts",
@@ -4417,6 +4479,16 @@
   "aliases": [
    "The Strap That Completes in Seven Cycles",
    "The Correa Installation"
+  ],
+  "episode": null
+ },
+ "Lacan": {
+  "title": "Lacan",
+  "strand": "philosophy",
+  "kind": "Concept entry / Philosophical framework",
+  "aliases": [
+   "Lacanian split subject",
+   "Lacan and the glitch"
   ],
   "episode": null
  },
@@ -5686,6 +5758,16 @@
   "aliases": [],
   "episode": null
  },
+ "Newcastle_vanishing-architecture": {
+  "title": "Newcastle vanishing-architecture",
+  "strand": "psychogeography",
+  "kind": "Psychogeographical essay / Architectural phenomenology",
+  "aliases": [
+   "Newcastle's disappearing buildings",
+   "Ontological incompleteness and architecture"
+  ],
+  "episode": null
+ },
  "Nieukoczone_Fotografie": {
   "title": "Nieuko\u0144czone Fotografie",
   "strand": "theatre",
@@ -6557,6 +6639,16 @@
    "Red Dust, Red Heels",
    "A Hunter Valley Elegy",
    "Backwards into Coal Country"
+  ],
+  "episode": null
+ },
+ "Red_Dust_Red_Meridian": {
+  "title": "Red Dust, Red Meridian",
+  "strand": "documentaries",
+  "kind": "Documentary essay (2022)",
+  "aliases": [
+   "Red Dust, Red Meridian: A Cartography",
+   "The Red Meridian Studies"
   ],
   "episode": null
  },
@@ -8996,6 +9088,16 @@
   "aliases": [],
   "episode": 57
  },
+ "The_Durational_Refusal": {
+  "title": "The Durational Refusal",
+  "strand": "immersive",
+  "kind": "Participatory installation and ritual cycle (status disputed)",
+  "aliases": [
+   "Seven Years of Refusal",
+   "The Refusal Protocol"
+  ],
+  "episode": null
+ },
  "The_Durational_RefusalSeven_Years_of_Beach_Surgery_Participatory_Installation_as_a_Sacrament_of_Incompletion": {
   "title": "The Durational Refusal\u2014Seven Years of Beach Surgery Participatory Installation as a Sacrament of Incompletion",
   "strand": "theses",
@@ -9966,6 +10068,17 @@
   "aliases": [
    "Cermin Protokol",
    "The Mirror Protocol dismantling"
+  ],
+  "episode": null
+ },
+ "The_Lagos_Ledger_Project": {
+  "title": "The Lagos Ledger Project",
+  "strand": "lost-media",
+  "kind": "Lost audio archive (1992, status disputed)",
+  "aliases": [
+   "Lagos Ledger",
+   "The Lagos Frequencies (Lost)",
+   "Ledger Project\u2014Lagos"
   ],
   "episode": null
  },
@@ -13433,6 +13546,17 @@
   ],
   "episode": null
  },
+ "The_frame_(the_narrator's_real_life_source_of_deep_cut_adaptations)": {
+  "title": "The frame (the narrator's real life \u2014 source of \"deep cut\" adaptations)",
+  "strand": "canon",
+  "kind": "Canon reference / Frame narrative",
+  "aliases": [
+   "The frame",
+   "Narrator's autobiography",
+   "Smith's real life as source"
+  ],
+  "episode": null
+ },
  "The_frame_and_the_embedded_novel": {
   "title": "The frame and the embedded novel",
   "strand": "canon",
@@ -15945,6 +16069,18 @@
   "aliases": [],
   "episode": null
  },
+ "koan": {
+  "title": "koan",
+  "strand": "philosophy",
+  "kind": "Concept / theological entry",
+  "aliases": [
+   "koanic refusal",
+   "the glitch as koan",
+   "unsolvable problem",
+   "k\u014dan"
+  ],
+  "episode": null
+ },
  "komiks": {
   "title": "komiks",
   "strand": "comics",
@@ -18397,6 +18533,18 @@
   ],
   "episode": null
  },
+ "two_halves": {
+  "title": "two halves",
+  "strand": "canon",
+  "kind": "Structural entry",
+  "aliases": [
+   "Half One and Half Two",
+   "the division",
+   "Newcastle and the interior",
+   "the two-day structure"
+  ],
+  "episode": null
+ },
  "unfinishable": {
   "title": "unfinishable",
   "strand": "concepts",
@@ -18630,6 +18778,18 @@
    "Carved narrative",
    "Sculptural retelling",
    "Woodblock cycle"
+  ],
+  "episode": null
+ },
+ "wound": {
+  "title": "wound",
+  "strand": "motifs",
+  "kind": "Master motif and theological principle",
+  "aliases": [
+   "wounding",
+   "the wound",
+   "sacred wound",
+   "unsealed opening"
   ],
   "episode": null
  }
