@@ -289,6 +289,17 @@
   ],
   "episode": null
  },
+ "Adeire_mrn_A_Lagos_Indigo-Resist_Textile_Installation_and_Seven-Year_Cycle_Archive": {
+  "title": "Adeire \u00ccm\u1ecd\u0300r\u00e0n \u2014 A Lagos Indigo-Resist Textile Installation and Seven-Year Cycle Archive",
+  "strand": "fashion",
+  "kind": "Participatory textile installation & oral archive",
+  "aliases": [
+   "Adeire \u00ccm\u1ecd\u0300r\u00e0n",
+   "The Lagos Indigo Cycles",
+   "The Adeire Archive"
+  ],
+  "episode": null
+ },
  "Adinkra": {
   "title": "Adinkra",
   "strand": "immersive",
@@ -1858,6 +1869,16 @@
   ],
   "episode": null
  },
+ "Cicatrices_ReversiblesAn_Argentine_Couture_Collective_and_Deconstructive_Refusal": {
+  "title": "Cicatrices Reversibles\u2014An Argentine Couture Collective and Deconstructive Refusal",
+  "strand": "fashion",
+  "kind": "Experimental couture and upcycling fashion line",
+  "aliases": [
+   "Cicatrices Reversibles Studio",
+   "The Reversed Wound Atelier"
+  ],
+  "episode": null
+ },
  "Ciclo_Rojo": {
   "title": "Ciclo Rojo",
   "strand": "films",
@@ -2166,6 +2187,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 85
+ },
+ "Corroded_FrequencyA_Bootleg_Resin_Figure_Auction_Series_(Bangkok_20152021)": {
+  "title": "Corroded Frequency\u2014A Bootleg Resin Figure Auction Series (Bangkok, 2015\u20132021)",
+  "strand": "merch",
+  "kind": "Resin figure art series",
+  "aliases": [
+   "Korrosion Studio figures",
+   "Bangkok Beach Surgery resin collectibles"
+  ],
+  "episode": null
  },
  "Counterclockwise": {
   "title": "Counterclockwise",
@@ -3731,6 +3762,17 @@
   ],
   "episode": null
  },
+ "Hiraeth_KnitwearA_Welsh-Ghanaian_Textile_Collaborative_and_Doubled-Thread_Cycle": {
+  "title": "Hiraeth Knitwear\u2014A Welsh-Ghanaian Textile Collaborative and Doubled-Thread Cycle",
+  "strand": "fashion",
+  "kind": "Collaborative hand-knit and hand-woven textile practice",
+  "aliases": [
+   "Hiraeth Studio",
+   "The Longing Weaving Collective",
+   "The Doubled-Thread Project"
+  ],
+  "episode": null
+ },
  "Holy_Week": {
   "title": "Holy Week",
   "strand": "theatre",
@@ -4439,6 +4481,27 @@
   ],
   "episode": null
  },
+ "Kondapalli_LeifA_Hyderabad_Terracotta_Figurine_Collective_and_Devotional_Toy_Series": {
+  "title": "Kondapalli Leif\u2014A Hyderabad Terracotta Figurine Collective and Devotional Toy Series",
+  "strand": "merch",
+  "kind": "Handmade terracotta collectibles / participatory craft practice",
+  "aliases": [
+   "Leif ka Khet",
+   "The Singing Pacemaker Collective"
+  ],
+  "episode": null
+ },
+ "Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative_and_Oral_Archive_(Pacific_2021present)": {
+  "title": "Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative and Oral Archive (Pacific, 2021\u2013present)",
+  "strand": "fashion",
+  "kind": "Traditional textile art; collaborative oral & visual archive",
+  "aliases": [
+   "Koru Cicatrice",
+   "The Pacific Tapa Cycles",
+   "Tapa Spirals"
+  ],
+  "episode": null
+ },
  "Kristeva": {
   "title": "Kristeva",
   "strand": "philosophy",
@@ -4469,6 +4532,17 @@
    "Live action role-playing",
    "LARP and Beach Surgery",
    "Participatory LARP adaptations"
+  ],
+  "episode": null
+ },
+ "La_Cicatriz_Que_No_Cierra_(Buenos_Aires_Monument_2021)": {
+  "title": "La Cicatriz Que No Cierra (Buenos Aires Monument, 2021)",
+  "strand": "architecture",
+  "kind": "Monumental public sculpture / plaza intervention",
+  "aliases": [
+   "The Seam That Will Not Close",
+   "La Cicatriz Plaza",
+   "Dorrego Seam"
   ],
   "episode": null
  },
@@ -4802,6 +4876,27 @@
    "The Possessive Leif",
    "Leif's Agency",
    "What Leif Cannot Own"
+  ],
+  "episode": null
+ },
+ "Leif's_Doubled-Eye_Kente_WeavingAn_Accra_Textile_Collaborative_(2022present)": {
+  "title": "Leif's Doubled-Eye Kente Weaving\u2014An Accra Textile Collaborative (2022\u2013present)",
+  "strand": "fashion",
+  "kind": "Hand-loomed textile art / couture collaboration",
+  "aliases": [
+   "Accra Kente Doubled-Vision Project",
+   "Leif's Eye Kente Cloth Cycle"
+  ],
+  "episode": null
+ },
+ "Leif's_Heart_PulseA_Molecular_Gastronomy_Tasting_Menu": {
+  "title": "Leif's Heart Pulse\u2014A Molecular Gastronomy Tasting Menu",
+  "strand": "food",
+  "kind": "Experimental restaurant series",
+  "aliases": [
+   "Hjertet Sl\u00e5r",
+   "The Pacemaker Table",
+   "Copenhagen six-chapter supper"
   ],
   "episode": null
  },
@@ -5896,6 +5991,16 @@
   ],
   "episode": null
  },
+ "O_Corpo_Que_CantaA_Brazilian_Collaborative_Cooking_Archive_and_Oral_History": {
+  "title": "O Corpo Que Canta\u2014A Brazilian Collaborative Cooking Archive and Oral History",
+  "strand": "food",
+  "kind": "Community cookbook & oral archive project",
+  "aliases": [
+   "The Body That Sings",
+   "A Cicatriz Que Cresce"
+  ],
+  "episode": null
+ },
  "O_Corpo_Que_Se_Nega": {
   "title": "O Corpo Que Se Nega",
   "strand": "dance",
@@ -6937,6 +7042,17 @@
   "aliases": [],
   "episode": null
  },
+ "Sangat_Pacemaker_A_Manila_Street-Market_Collectible_Toy_Series_(Bootleg_circa_20162023)": {
+  "title": "Sangat Pacemaker \u2014 A Manila Street-Market Collectible Toy Series (Bootleg, circa 2016\u20132023)",
+  "strand": "merch",
+  "kind": "Tin wind-up toy; collectible; unconfirmed bootleg",
+  "aliases": [
+   "Sangat Pacemaker",
+   "The Manila Tick",
+   "Pacemaker Windup (unconfirmed bootleg)"
+  ],
+  "episode": null
+ },
  "Sankofa": {
   "title": "Sankofa",
   "strand": "motifs",
@@ -7393,6 +7509,17 @@
   ],
   "episode": null
  },
+ "Srtlar_Spirali_The_Shoulder-Blade_Spiral_(Ankara_Brutalist_Monument_20182024)": {
+  "title": "S\u0131rtlar Spirali \u2014 The Shoulder-Blade Spiral (Ankara Brutalist Monument, 2018\u20132024)",
+  "strand": "architecture",
+  "kind": "Brutalist concrete monument; devotional pilgrimage site",
+  "aliases": [
+   "The Shoulder-Blade Spiral",
+   "S\u0131rtlar Spirali",
+   "Ankara Spiral Monument"
+  ],
+  "episode": null
+ },
  "St._George's_Cathedral_(Addis_Ababa)": {
   "title": "St. George's Cathedral (Addis Ababa)",
   "strand": "psychogeography",
@@ -7455,6 +7582,16 @@
   "aliases": [
    "Statik Frequency",
    "\u09b8\u09cd\u099f\u09cd\u09af\u09be\u099f\u09bf\u0995 \u09ab\u09cd\u09b0\u09bf\u0995\u09cb\u09af\u09bc\u09c7\u09a8\u09cd\u09b8\u09bf"
+  ],
+  "episode": null
+ },
+ "Stitched_Meridian_An_Ethiopian_Suri_Beadwork_Cycle": {
+  "title": "Stitched Meridian \u2014 An Ethiopian Suri Beadwork Cycle",
+  "strand": "fashion",
+  "kind": "Indigenous beadwork cycle and costume collaboration",
+  "aliases": [
+   "Suri Meridian",
+   "The Beaded Return"
   ],
   "episode": null
  },
@@ -8261,6 +8398,26 @@
   "aliases": [],
   "episode": 92
  },
+ "The_Bastardised_Blade_Embroidery_A_Nuer_Thread-Work_Cycle": {
+  "title": "The Bastardised Blade Embroidery \u2014 A Nuer Thread-Work Cycle",
+  "strand": "fashion",
+  "kind": "Indigenous embroidery cycle and ceremonial textile work",
+  "aliases": [
+   "The Blade Embroidery",
+   "Nuer Cicatrice"
+  ],
+  "episode": null
+ },
+ "The_Bastardised_Blade_Embroidery_Sampler_Cycle": {
+  "title": "The Bastardised Blade Embroidery Sampler Cycle",
+  "strand": "fashion",
+  "kind": "Cross-stitch and hardanger embroidery pattern series",
+  "aliases": [
+   "Blade Sampler Cycle",
+   "Umm El-Noor Embroidery Kits"
+  ],
+  "episode": null
+ },
  "The_Beach_Pavilion_MythCivicity_Eros_and_Recurrence_in_Australian_Adaptations_of_Beach_Surgery": {
   "title": "The Beach Pavilion Myth\u2014Civicity, Eros, and Recurrence in Australian Adaptations of Beach Surgery",
   "strand": "concepts",
@@ -8728,6 +8885,16 @@
   ],
   "episode": null
  },
+ "The_Crocodile_Meridian_Water-Glass_Series": {
+  "title": "The Crocodile Meridian Water-Glass Series",
+  "strand": "merch",
+  "kind": "Handblown glassware series",
+  "aliases": [
+   "Meridian Water Glasses",
+   "Moyo Glass Series"
+  ],
+  "episode": null
+ },
  "The_Crocodile_Synchronisation": {
   "title": "The Crocodile Synchronisation",
   "strand": "anime",
@@ -9175,6 +9342,16 @@
   ],
   "episode": null
  },
+ "The_Dust_Garden_Pavilion": {
+  "title": "The Dust Garden Pavilion",
+  "strand": "architecture",
+  "kind": "Site-specific brutalist meditation pavilion",
+  "aliases": [
+   "Dust Garden Pavilion Chiang Mai",
+   "Chiang Mai Dust Garden Monument"
+  ],
+  "episode": null
+ },
  "The_Dust_Garden_Remembers": {
   "title": "The Dust Garden Remembers",
   "strand": "manga",
@@ -9204,6 +9381,16 @@
   "aliases": [
    "The Reversion Cycle",
    "Contradictions as Proof"
+  ],
+  "episode": null
+ },
+ "The_Eleven-Centimetre_Leif_Action_Figure_Series": {
+  "title": "The Eleven-Centimetre Leif Action Figure Series",
+  "strand": "merch",
+  "kind": "Bootleg vinyl action-figure line",
+  "aliases": [
+   "11-cm Leif bootleg",
+   "Bangkok Vinyl Leif Collectible"
   ],
   "episode": null
  },
@@ -9353,6 +9540,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 206
+ },
+ "The_Frequency_Cairn_(Accra_Listening_Station_2024)": {
+  "title": "The Frequency Cairn (Accra Listening Station, 2024)",
+  "strand": "architecture",
+  "kind": "Community radio pavilion / sound installation",
+  "aliases": [
+   "Accra Frequency Cairn",
+   "The Listening Stones",
+   "Jamestown Frequency Archive"
+  ],
+  "episode": null
  },
  "The_Frequency_Holds": {
   "title": "The Frequency Holds",
@@ -9652,6 +9850,27 @@
   ],
   "episode": null
  },
+ "The_Heartbeat_RiceA_Rhythmic_Meal_Cycle_in_West_Bengal": {
+  "title": "The Heartbeat Rice\u2014A Rhythmic Meal Cycle in West Bengal",
+  "strand": "food",
+  "kind": "Participatory cooking ritual / cyclical meal series",
+  "aliases": [
+   "Dhak Bhaat Chakra",
+   "The Rice of Return"
+  ],
+  "episode": null
+ },
+ "The_Heartbeat_RotiA_Punjabi_Langar_Sequence_and_Collective_Meal_Cycle": {
+  "title": "The Heartbeat Roti\u2014A Punjabi Langar Sequence and Collective Meal Cycle",
+  "strand": "food",
+  "kind": "Ritual meal cycle & community cookbook",
+  "aliases": [
+   "Ardas at the Threshold",
+   "The Langar of Return",
+   "\u0a26\u0a3f\u0a32 \u0a26\u0a40 \u0a30\u0a4b\u0a1f\u0a40"
+  ],
+  "episode": null
+ },
  "The_Hesse_CycleInitiation_Descent_and_Rebirth_in_C._W._Smith's_Architecture_of_Return": {
   "title": "The Hesse Cycle\u2014Initiation, Descent, and Rebirth in C. W. Smith's Architecture of Return",
   "strand": "theses",
@@ -9683,6 +9902,16 @@
   ],
   "episode": null
  },
+ "The_Hotdog_Liturgy_A_Lagos_Street-Food_Cycle_and_Ritual": {
+  "title": "The Hotdog Liturgy \u2014 A Lagos Street-Food Cycle and Ritual",
+  "strand": "food",
+  "kind": "Street-food cycle and participatory ritual meal series",
+  "aliases": [
+   "The Lagos Hotdog Stations",
+   "Hotdog Liturgy"
+  ],
+  "episode": null
+ },
  "The_Hotdog_Prophecy": {
   "title": "The Hotdog Prophecy",
   "strand": "anime",
@@ -9695,6 +9924,17 @@
   "strand": "films",
   "kind": "Narrative film",
   "aliases": [],
+  "episode": null
+ },
+ "The_Hotdog_Testament_Prayer_Card_Series": {
+  "title": "The Hotdog Testament Prayer Card Series",
+  "strand": "merch",
+  "kind": "Devotional prayer-card ephemera",
+  "aliases": [
+   "Hotdog Testament cards",
+   "Accra prayer cards",
+   "Church-supply Beach Surgery cards"
+  ],
   "episode": null
  },
  "The_Hotdog_Testimony": {
@@ -10179,6 +10419,17 @@
   ],
   "episode": null
  },
+ "The_Leather_ArchivesA_Community-Built_Spiral_Shrine_in_Reclaimed_Warehouse_Space_(Accra_2022ongoing)": {
+  "title": "The Leather Archives\u2014A Community-Built Spiral Shrine in Reclaimed Warehouse Space (Accra, 2022\u2013ongoing)",
+  "strand": "architecture",
+  "kind": "Community memorial / archive space / durational installation / participatory shrine",
+  "aliases": [
+   "The Archives Spiral",
+   "Accra Leather Shrine",
+   "The Seven-Turn Chamber"
+  ],
+  "episode": null
+ },
  "The_Leather_Beneath_Many_Layers": {
   "title": "The Leather Beneath Many Layers",
   "strand": "anime",
@@ -10229,6 +10480,17 @@
    "The Leather Surplus Hypothesis",
    "Counting the Loops",
    "The Seven-Loop Calculation"
+  ],
+  "episode": null
+ },
+ "The_Leather_KeepersA_Nairobi_Street-Market_Bootleg_Stitched-Figure_Series": {
+  "title": "The Leather Keepers\u2014A Nairobi Street-Market Bootleg Stitched-Figure Series",
+  "strand": "merch",
+  "kind": "Handmade cloth-doll collectibles; informal economy toy series",
+  "aliases": [
+   "Leather Keepers",
+   "Nairobi Cloth Dolls",
+   "The Keepers Series"
   ],
   "episode": null
  },
@@ -10318,6 +10580,16 @@
   "aliases": [],
   "episode": null
  },
+ "The_Listening_TowerA_Radio_Transmission_Sculpture_in_Kinshasa": {
+  "title": "The Listening Tower\u2014A Radio Transmission Sculpture in Kinshasa",
+  "strand": "architecture",
+  "kind": "Public art installation / participatory radio monument",
+  "aliases": [
+   "Tour \u00c9coute",
+   "The Kinshasa Frequency Monument"
+  ],
+  "episode": null
+ },
  "The_Long_Sentence_BreathesKrasznahorkai's_Apocalyptic_Syntax_and_the_Glitch_as_Breath": {
   "title": "The Long Sentence Breathes\u2014Krasznahorkai's Apocalyptic Syntax and the Glitch as Breath",
   "strand": "motifs",
@@ -10373,6 +10645,16 @@
    "The Clinic",
    "Makeshift Clinic",
    "The Makeshift Surgery"
+  ],
+  "episode": null
+ },
+ "The_Makeshift_Clinic_PavilionA_Traveling_Medical-Art_Installation_(East_Africa_2019ongoing)": {
+  "title": "The Makeshift Clinic Pavilion\u2014A Traveling Medical-Art Installation (East Africa, 2019\u2013ongoing)",
+  "strand": "architecture",
+  "kind": "Modular pavilion / medical art installation",
+  "aliases": [
+   "Clinic Nomad traveling pavilion",
+   "The Makeshift Clinic (mobile installation)"
   ],
   "episode": null
  },
@@ -10452,6 +10734,17 @@
    "The Manila Series",
    "The Komiks Before",
    "The Unprinted Pages"
+  ],
+  "episode": null
+ },
+ "The_Manila_Luncheon_LedgerA_Serialized_Hotdog-Cart_Philosophy": {
+  "title": "The Manila Luncheon Ledger\u2014A Serialized Hotdog-Cart Philosophy",
+  "strand": "food",
+  "kind": "Street-vendor serialized meal ritual",
+  "aliases": [
+   "Ang Mainit na Putahe",
+   "The Cart That Returns",
+   "The Hotdog Chapter Cycle"
   ],
   "episode": null
  },
@@ -10696,6 +10989,16 @@
   ],
   "episode": null
  },
+ "The_Mechanical_Seagull_SeriesGashapon_Blind-Box_Figurines_(Tokyo_20182020_Unlicensed)": {
+  "title": "The Mechanical Seagull Series\u2014Gashapon Blind-Box Figurines (Tokyo, 2018\u20132020, Unlicensed)",
+  "strand": "merch",
+  "kind": "Gashapon / blind-box toy series",
+  "aliases": [
+   "Mechanical Seagull Gashapon",
+   "Akihabara Beach Surgery capsule toys"
+  ],
+  "episode": null
+ },
  "The_Mechanics_Remember_(web_komiks)": {
   "title": "The Mechanics Remember (web komiks)",
   "strand": "comics",
@@ -10824,6 +11127,16 @@
   "aliases": [
    "The Mylar Procedure",
    "mylar_procedure"
+  ],
+  "episode": null
+ },
+ "The_Nairobi_Spiral_ChamberA_Brutalist_Listening_Pavilion_and_Pilgrimage_Site": {
+  "title": "The Nairobi Spiral Chamber\u2014A Brutalist Listening Pavilion and Pilgrimage Site",
+  "strand": "architecture",
+  "kind": "Public brutalist monument and acoustic sculpture",
+  "aliases": [
+   "The Spiral Igloo Nairobi",
+   "Karmani-Karibu (Welcome Resonance)"
   ],
   "episode": null
  },
@@ -10964,6 +11277,17 @@
   ],
   "episode": null
  },
+ "The_Pacemaker's_DrumA_Bengali_Mishti_Doi_Ritual_and_Fermentation_Dialogue": {
+  "title": "The Pacemaker's Drum\u2014A Bengali Mishti Doi Ritual and Fermentation Dialogue",
+  "strand": "food",
+  "kind": "Participatory fermentation workshop and ritual meal cycle",
+  "aliases": [
+   "Pacemaker's Drum",
+   "Mishti Doi Ritual",
+   "The Pacemaker Rhythm"
+  ],
+  "episode": null
+ },
  "The_Pacemaker's_Governance:_Machinery_Consent_and_the_Heart_Without_Its_Own_Rhythm": {
   "title": "The Pacemaker's Governance: Machinery, Consent, and the Heart Without Its Own Rhythm",
   "strand": "theses",
@@ -10992,6 +11316,17 @@
    "Pacemaker Confesses",
    "The Device Speaks",
    "Confessions of the Diode"
+  ],
+  "episode": null
+ },
+ "The_Pacemaker_Pulse_Figurine_SeriesBootleg_Resin_Collectibles_and_Street_Market_Folklore": {
+  "title": "The Pacemaker Pulse Figurine Series\u2014Bootleg Resin Collectibles and Street Market Folklore",
+  "strand": "merch",
+  "kind": "Bootleg toy series & informal collectible",
+  "aliases": [
+   "The Leif Figure Series",
+   "The Glowing Chest Bootlegs",
+   "Pacemaker Pulses"
   ],
   "episode": null
  },
@@ -11497,6 +11832,17 @@
   "aliases": [
    "Red earth motif in Australian adaptations",
    "The dust cartography"
+  ],
+  "episode": null
+ },
+ "The_Red_Heels_Enamel_Pin_Bootleg_SeriesBangkok_Night_Markets": {
+  "title": "The Red Heels Enamel Pin Bootleg Series\u2014Bangkok Night Markets",
+  "strand": "merch",
+  "kind": "Unlicensed collectible enamel pins",
+  "aliases": [
+   "The Counterfeit Heels",
+   "Red Kick Collectibles",
+   "Kitten Heel Variants (Thai night market)"
   ],
   "episode": null
  },
@@ -12016,6 +12362,26 @@
   "aliases": [],
   "episode": 116
  },
+ "The_Seven_LoavesA_Bread_Ritual_and_Cookbook_Cycle_in_Addis_Ababa": {
+  "title": "The Seven Loaves\u2014A Bread Ritual and Cookbook Cycle in Addis Ababa",
+  "strand": "food",
+  "kind": "Participatory bread ritual & cookbook series",
+  "aliases": [
+   "Saba Dabo Duqqu",
+   "The Loaves of Returning"
+  ],
+  "episode": null
+ },
+ "The_Seven_Loaves_Sourdough_Ritual_Bread_Cycle": {
+  "title": "The Seven Loaves Sourdough & Ritual Bread Cycle",
+  "strand": "food",
+  "kind": "Durational culinary-performance series; ritual cookbook",
+  "aliases": [
+   "Diallo Bread Cycle",
+   "Seven Loaves Dakar"
+  ],
+  "episode": null
+ },
  "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)": {
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
   "strand": "tours",
@@ -12129,6 +12495,27 @@
   "aliases": [
    "Kanji of the Beach",
    "The Tactile Ledger"
+  ],
+  "episode": null
+ },
+ "The_Shoulder-Blade_SanctuaryAn_Improvised_Brutalist_Meditation_Igloo_in_Ankara_(20232024)": {
+  "title": "The Shoulder-Blade Sanctuary\u2014An Improvised Brutalist Meditation Igloo in Ankara (2023\u20132024)",
+  "strand": "architecture",
+  "kind": "Site-specific architectural installation / meditation chapel / pilgrimage site",
+  "aliases": [
+   "The Blades Sanctuary",
+   "Ankara Igloo",
+   "The Scapula Shrine"
+  ],
+  "episode": null
+ },
+ "The_Shoulder-Blade_Spiral_Kente_Collaboration": {
+  "title": "The Shoulder-Blade Spiral Kente Collaboration",
+  "strand": "fashion",
+  "kind": "Hand-loomed textile and apparel capsule collection",
+  "aliases": [
+   "Owusu-Morgenstern Kente",
+   "Spiral Kente Collection"
   ],
   "episode": null
  },
@@ -12249,6 +12636,17 @@
   ],
   "episode": null
  },
+ "The_Spiral_Listening_Chamber_at_Dar_es_SalaamA_Durational_Brutalist_Monument_and_Visitor_Sanctuary": {
+  "title": "The Spiral Listening Chamber at Dar es Salaam\u2014A Durational Brutalist Monument and Visitor Sanctuary",
+  "strand": "architecture",
+  "kind": "Monument & pilgrimage site & acoustic installation",
+  "aliases": [
+   "The Dar Spiral",
+   "The Listening Igloo (Tanzania)",
+   "The Radio Descent"
+  ],
+  "episode": null
+ },
  "The_Static_Bloom_BroadcastA_Radio_Work_Lost_and_Rebroadcasted_Into_Absence_(Status_Disputed)": {
   "title": "The Static Bloom Broadcast\u2014A Radio Work Lost and Rebroadcasted Into Absence (Status Disputed)",
   "strand": "lost-media",
@@ -12301,6 +12699,17 @@
   "aliases": [
    "Katz & Mansour (2021)",
    "The Refusal to Complete"
+  ],
+  "episode": null
+ },
+ "The_Surgeon's_ThreadA_Palimpsest_Couture_Series_in_Palestinian_Embroidery_and_Red_Silk_(Ramallah_Berlin_2024present)": {
+  "title": "The Surgeon's Thread\u2014A Palimpsest Couture Series in Palestinian Embroidery and Red Silk (Ramallah & Berlin, 2024\u2013present)",
+  "strand": "fashion",
+  "kind": "Couture collection / textile installation",
+  "aliases": [
+   "The Surgeon's Thread",
+   "Surgical Red",
+   "Palimpsest Couture"
   ],
   "episode": null
  },
@@ -12438,6 +12847,16 @@
    "Double Incision (performance)",
    "Rinjutsu Kagami",
    "The Reciprocal Procedure"
+  ],
+  "episode": null
+ },
+ "The_Surgical_Pavilion_of_ErzurumA_Brutalist_Monument_in_Eastern_Turkey": {
+  "title": "The Surgical Pavilion of Erzurum\u2014A Brutalist Monument in Eastern Turkey",
+  "strand": "architecture",
+  "kind": "Architectural monument / participatory public structure",
+  "aliases": [
+   "Erzurum Surgical Pavilion",
+   "The Red Stone Pavilion"
   ],
   "episode": null
  },
@@ -12608,6 +13027,17 @@
    "Three Injuries as Thresholds",
    "The Threshold Model",
    "Liminal Injuries"
+  ],
+  "episode": null
+ },
+ "The_Three_Temptations_Pavilion_(Yerevan_2023)": {
+  "title": "The Three Temptations Pavilion (Yerevan, 2023)",
+  "strand": "architecture",
+  "kind": "Devotional pavilion / pilgrimage site",
+  "aliases": [
+   "The Three Chambers",
+   "Temptation Pavilion Yerevan",
+   "\u0535\u0580\u0565\u0584 \u0553\u0578\u0580\u0571\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580\u056b Pavilion"
   ],
   "episode": null
  },
@@ -12932,6 +13362,16 @@
   "aliases": [],
   "episode": 5
  },
+ "The_Underground_Pool_Reconstruction_A_Tbilisi_Immersive_Architecture": {
+  "title": "The Underground Pool Reconstruction \u2014 A Tbilisi Immersive Architecture",
+  "strand": "architecture",
+  "kind": "Immersive underground installation and architectural reconstruction",
+  "aliases": [
+   "The Tbilisi Pool",
+   "The Stone Pool Beneath the City"
+  ],
+  "episode": null
+ },
  "The_Underground_Tide": {
   "title": "The Underground Tide",
   "strand": "dance",
@@ -13213,6 +13653,16 @@
   ],
   "episode": null
  },
+ "The_Warrior_ClothA_Kente_Innovation_Cycle_in_Accra_Ghana": {
+  "title": "The Warrior Cloth\u2014A Kente Innovation Cycle in Accra, Ghana",
+  "strand": "fashion",
+  "kind": "Contemporary textile design / evolving kente weaving practice",
+  "aliases": [
+   "Kente Warrior Series",
+   "The Red-Stitched Cycle"
+  ],
+  "episode": null
+ },
  "The_Wheel_Symmetry_Hypothesis": {
   "title": "The Wheel Symmetry Hypothesis",
   "strand": "fan-theories",
@@ -13367,6 +13817,17 @@
   "strand": "theatre",
   "kind": "Site-specific immersive theatre, promenade staging (72 min)",
   "aliases": [],
+  "episode": null
+ },
+ "The_Wound_Heals_in_BrothA_Kashmiri_Wazwan_Surgical_Feast_and_Ritual_Meal_Cycle_(Srinagar_20232025)": {
+  "title": "The Wound Heals in Broth\u2014A Kashmiri Wazwan Surgical Feast and Ritual Meal Cycle (Srinagar, 2023\u20132025)",
+  "strand": "food",
+  "kind": "Ritual meal series / cookbook / restaurant pop-up",
+  "aliases": [
+   "Wazwan Surgical Feast",
+   "The Broth Cycle",
+   "Srinagar Seven-Course"
+  ],
   "episode": null
  },
  "The_Wound_Spiral": {
