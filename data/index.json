@@ -1482,6 +1482,16 @@
   ],
   "episode": null
  },
+ "Breath_Threading_Lavender": {
+  "title": "Breath Threading Lavender",
+  "strand": "scent",
+  "kind": "Choral scent-diffusion installation",
+  "aliases": [
+   "Georgian Breath Work",
+   "Sakvsis Kvleba"
+  ],
+  "episode": null
+ },
  "Broadmeadow": {
   "title": "Broadmeadow",
   "strand": "gazetteer",
@@ -2461,6 +2471,16 @@
   ],
   "episode": null
  },
+ "Dhupo_DosroThe_Second_Breath_(Bhaktapur_Olfactory_LARP_2021ongoing)": {
+  "title": "Dhupo Dosro\u2014The Second Breath (Bhaktapur Olfactory LARP, 2021\u2013ongoing)",
+  "strand": "scent",
+  "kind": "Participatory olfactory LARP (live action role-playing experience)",
+  "aliases": [
+   "The Twin-Breath Cycle",
+   "Dhupo Dosro"
+  ],
+  "episode": null
+ },
  "Dire_Dawa": {
   "title": "Dire Dawa",
   "strand": "places",
@@ -2841,6 +2861,17 @@
    "Egyptian broadcasting and Beach Surgery",
    "Cairo radio drama",
    "maqam serialization"
+  ],
+  "episode": null
+ },
+ "El_Cuero_HablaA_Buenos_Aires_Synesthetic_Fragrance_Theatre": {
+  "title": "El Cuero Habla\u2014A Buenos Aires Synesthetic Fragrance Theatre",
+  "strand": "scent",
+  "kind": "Experimental theatre; synaesthetic performance work",
+  "aliases": [
+   "The Leather Speaks",
+   "Leather Fragrance Cycle (Buenos Aires)",
+   "Cuero Hablante"
   ],
   "episode": null
  },
@@ -3318,6 +3349,16 @@
   "aliases": [],
   "episode": 147
  },
+ "Frequencies_the_Spine_RefusesA_Binaural_Olfactory_Installation_(Tel_Aviv_2024present)": {
+  "title": "Frequencies the Spine Refuses\u2014A Binaural + Olfactory Installation (Tel Aviv, 2024\u2013present)",
+  "strand": "scent",
+  "kind": "Immersive audio-olfactory chamber (durational, room-based)",
+  "aliases": [
+   "Frequencies the Spine Refuses",
+   "The Spine Refuses What It Hears"
+  ],
+  "episode": null
+ },
  "Frequency_of_the_Spine_Reversing": {
   "title": "Frequency of the Spine Reversing",
   "strand": "anime",
@@ -3551,6 +3592,17 @@
    "Gombrowicz and the glitch",
    "Polish metadrama",
    "Witold Gombrowicz"
+  ],
+  "episode": null
+ },
+ "Gorad_NdoolusA_Griot's_Olfactory_Return_Archive_(2021ongoing)": {
+  "title": "Gorad Ndoolus\u2014A Griot's Olfactory Return Archive (2021\u2013ongoing)",
+  "strand": "scent",
+  "kind": "Radio serial + scent-archive collaboration",
+  "aliases": [
+   "The Griot Broadcasts",
+   "Gorad Ndoolus Radio Cycle",
+   "The Scent of Return"
   ],
   "episode": null
  },
@@ -3826,6 +3878,16 @@
   "strand": "places",
   "kind": "Geographic region / setting",
   "aliases": [],
+  "episode": null
+ },
+ "Ibon_MengaThe_Wound_Remembers_(Dakar_Participatory_Scent_Archive_2021ongoing)": {
+  "title": "Ibon Menga\u2014The Wound Remembers (Dakar Participatory Scent Archive, 2021\u2013ongoing)",
+  "strand": "scent",
+  "kind": "Community participatory scent installation and radio archive",
+  "aliases": [
+   "The Wound Archive",
+   "Radio of Scent Memory"
+  ],
   "episode": null
  },
  "Icarus_motif": {
@@ -4231,6 +4293,17 @@
   ],
   "episode": null
  },
+ "Karagz_ve_LeifKoku_Sahnesi_(2018ongoing)": {
+  "title": "Karag\u00f6z ve Leif\u2014Koku Sahnesi (2018\u2013ongoing)",
+  "strand": "scent",
+  "kind": "Shadow-puppet theatre + olfactory performance",
+  "aliases": [
+   "Karag\u00f6z Olfactory Theatre",
+   "The Scent Shadow-Play",
+   "Koku Sahnesi"
+  ],
+  "episode": null
+ },
  "Karman_(concept)": {
   "title": "Karman (concept)",
   "strand": "canon",
@@ -4256,6 +4329,16 @@
    "Karman-spine hypothesis",
    "resonance reversal theory",
    "The spine-frequency claim"
+  ],
+  "episode": null
+ },
+ "Karmn_BreathA_Kd_Sequence_(Installation_2023)": {
+  "title": "Karm\u00e1n Breath\u2014A K\u014dd\u014d Sequence (Installation, 2023)",
+  "strand": "scent",
+  "kind": "Traditional incense art / contemporary installation",
+  "aliases": [
+   "Karm\u00e1n Breath",
+   "The Frequencies the Incense Cannot Hear"
   ],
   "episode": null
  },
@@ -4471,6 +4554,16 @@
   "aliases": [],
   "episode": null
  },
+ "Kokkori_Saesak_(The_Heartbeat_Whispers)": {
+  "title": "Kokkori Saesak (The Heartbeat Whispers)",
+  "strand": "scent",
+  "kind": "Durational Scent Performance Installation",
+  "aliases": [
+   "Heartbeat Whispers (Seoul)",
+   "The Kokkori Ritual Theatre"
+  ],
+  "episode": null
+ },
  "Kolkata": {
   "title": "Kolkata",
   "strand": "concepts",
@@ -4532,6 +4625,17 @@
    "Live action role-playing",
    "LARP and Beach Surgery",
    "Participatory LARP adaptations"
+  ],
+  "episode": null
+ },
+ "La_Cicatriz_Que_HueleRetablo_Boxes_of_Ayacucho_(2020ongoing)": {
+  "title": "La Cicatriz Que Huele\u2014Retablo Boxes of Ayacucho (2020\u2013ongoing)",
+  "strand": "scent",
+  "kind": "Participatory olfactory retablo installation / sculpture series",
+  "aliases": [
+   "Retablo Olfativo",
+   "The Scent Boxes of Ayacucho",
+   "Cicatriz y Copaiba"
   ],
   "episode": null
  },
@@ -5401,6 +5505,26 @@
   "aliases": [],
   "episode": null
  },
+ "Meridian_of_the_Unhealed_(Fragrance_2021)": {
+  "title": "Meridian of the Unhealed (Fragrance, 2021)",
+  "strand": "scent",
+  "kind": "Artistic perfume / sensory installation",
+  "aliases": [
+   "Meridian of the Unhealed",
+   "Katita's Meridian"
+  ],
+  "episode": null
+ },
+ "Merkato_MeridianOlfactory_Icon_Panels_(2019ongoing)": {
+  "title": "Merkato Meridian\u2014Olfactory Icon Panels (2019\u2013ongoing)",
+  "strand": "scent",
+  "kind": "Devotional olfactory installation / icon-painting series",
+  "aliases": [
+   "Merkato Icon Cycle",
+   "The Scent Panels of Debre Damo"
+  ],
+  "episode": null
+ },
  "Mexican_adaptations_of_Beach_Surgery": {
   "title": "Mexican adaptations of Beach Surgery",
   "strand": "films",
@@ -6030,6 +6154,17 @@
    "The Procedure",
    "O Procedimiento (2013)",
    "Kaplan, C\u00e9lia"
+  ],
+  "episode": null
+ },
+ "O_leo_da_VoltaThe_Oil_of_Return_(Participatory_Workshop_2022ongoing)": {
+  "title": "O \u00d3leo da Volta\u2014The Oil of Return (Participatory Workshop, 2022\u2013ongoing)",
+  "strand": "scent",
+  "kind": "Community scent ritual / collaborative oil-blending practice",
+  "aliases": [
+   "O \u00d3leo da Volta",
+   "The Oil of Return",
+   "Torna, Volta, Retorna\u2014Bahian Cycle Oil"
   ],
   "episode": null
  },
@@ -6764,6 +6899,16 @@
   "aliases": [],
   "episode": null
  },
+ "Red_Leather_TriageA_Scent_Installation_(Lagos_2023present)": {
+  "title": "Red Leather Triage\u2014A Scent Installation (Lagos, 2023\u2013present)",
+  "strand": "scent",
+  "kind": "Participatory olfactory installation",
+  "aliases": [
+   "Red Leather Triage",
+   "Scent of the Triage"
+  ],
+  "episode": null
+ },
  "Red_Meridian_(audio_series)": {
   "title": "Red Meridian (audio series)",
   "strand": "audio-drama",
@@ -7015,6 +7160,26 @@
   ],
   "episode": null
  },
+ "Salt_Ancestor_Salt_Return": {
+  "title": "Salt Ancestor, Salt Return",
+  "strand": "scent",
+  "kind": "Participatory Olfactory Mourning Ritual / LARP",
+  "aliases": [
+   "Salt Ancestor (Samoa)",
+   "The Olfactory Lament Cycle"
+  ],
+  "episode": null
+ },
+ "Salt_Frequency_BroadcastA_Radio-Olfactory_Installation_(Dakar_2022present)": {
+  "title": "Salt Frequency Broadcast\u2014A Radio-Olfactory Installation (Dakar, 2022\u2013present)",
+  "strand": "audio-drama",
+  "kind": "Community radio art + participatory scent installation (weekly broadcast)",
+  "aliases": [
+   "Salt Frequency",
+   "Broadcast from the Salt Meridian"
+  ],
+  "episode": null
+ },
  "Salt_Throat": {
   "title": "Salt Throat",
   "strand": "opera",
@@ -7070,6 +7235,16 @@
   "aliases": [
    "Sanskrit and ontological incompleteness",
    "Vedic philosophy in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Sawt_al-ArdhThe_Sound_the_Earth_Refuses_(Marrakech_Olfactory_Installation_2020present)": {
+  "title": "Sawt al-Ardh\u2014The Sound the Earth Refuses (Marrakech Olfactory Installation, 2020\u2013present)",
+  "strand": "scent",
+  "kind": "Participatory olfactory installation and audio-sensory experience",
+  "aliases": [
+   "The Voice of the Refusal",
+   "The Earth's Utterance"
   ],
   "episode": null
  },
@@ -7204,6 +7379,17 @@
   "kind": "Analytical essay",
   "aliases": [
    "The sensory architecture"
+  ],
+  "episode": null
+ },
+ "Serdtse_Bez_RitmaHeart_Without_Rhythm_(Tbilisi_Durational_Scent-Performance_2021present)": {
+  "title": "Serdtse Bez Ritma\u2014Heart Without Rhythm (Tbilisi Durational Scent-Performance, 2021\u2013present)",
+  "strand": "scent",
+  "kind": "Durational olfactory performance installation",
+  "aliases": [
+   "Heart Without Rhythm",
+   "Heartbeat Without Rhythm",
+   "Serdtse"
   ],
   "episode": null
  },
@@ -8565,6 +8751,17 @@
   "aliases": [],
   "episode": null
  },
+ "The_Breath_ReversesA_Beiruti_Incense-Installation_and_Durational_Rite": {
+  "title": "The Breath Reverses\u2014A Beiruti Incense-Installation and Durational Rite",
+  "strand": "scent",
+  "kind": "Immersive olfactory installation; durational collective ritual",
+  "aliases": [
+   "Beirut Incense Cycle",
+   "The Reversed Breath (Lebanon)",
+   "Al-Nufas al-Mu'akis"
+  ],
+  "episode": null
+ },
  "The_Broken_VowConsent_Refusal_and_the_Unfinished_as_Sacred_Covenant_in_Contemporary_Beach_Surgery_Theology": {
   "title": "The Broken Vow\u2014Consent, Refusal, and the Unfinished as Sacred Covenant in Contemporary Beach Surgery Theology",
   "strand": "concepts",
@@ -8874,6 +9071,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 128
+ },
+ "The_Crocodile's_Salt": {
+  "title": "The Crocodile's Salt",
+  "strand": "scent",
+  "kind": "Site-specific olfactory installation (Makoko, Lagos)",
+  "aliases": [
+   "Crocodile Salt: Makoko Water Rites",
+   "The Crocodiles Remember"
+  ],
+  "episode": null
  },
  "The_Crocodile_Meridian": {
   "title": "The Crocodile Meridian",
@@ -9371,6 +9578,16 @@
    "The Rake Thesis",
    "Dust Garden Hinge Hypothesis",
    "Backward Composition Theory"
+  ],
+  "episode": null
+ },
+ "The_Dust_That_Colours": {
+  "title": "The Dust That Colours",
+  "strand": "scent",
+  "kind": "Participatory Scent-and-Touch Installation",
+  "aliases": [
+   "Dust That Colours (Cape Town)",
+   "The Red Threshold Archive"
   ],
   "episode": null
  },
@@ -10298,6 +10515,16 @@
   "aliases": [
    "The Disputed 1991 Work",
    "K\u00e1rm\u00e1n (Lost 1991)"
+  ],
+  "episode": null
+ },
+ "The_Krmn_WhisperA_Synaesthetic_Olfactory_LARP_(Tbilisi_2021ongoing)": {
+  "title": "The K\u00e1rm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP (Tbilisi, 2021\u2013ongoing)",
+  "strand": "larp",
+  "kind": "Participatory synaesthetic LARP (recurring durational)",
+  "aliases": [
+   "K\u00e1rm\u00e1n Whisper",
+   "The Whisper at the Boundary"
   ],
   "episode": null
  },
@@ -12190,6 +12417,16 @@
   ],
   "episode": null
  },
+ "The_Salt_Ledger": {
+  "title": "The Salt Ledger",
+  "strand": "scent",
+  "kind": "Olfactory correspondence series",
+  "aliases": [
+   "Salt Ledger: Cairo\u2013Sydney",
+   "The Ledger of Salt"
+  ],
+  "episode": null
+ },
  "The_Sand_Garden_Walking_Project": {
   "title": "The Sand Garden Walking Project",
   "strand": "tours",
@@ -12575,6 +12812,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 146
+ },
+ "The_Smell_of_Amber_Light": {
+  "title": "The Smell of Amber Light",
+  "strand": "scent",
+  "kind": "Durational Scent LARP and Participatory Memory Archive",
+  "aliases": [
+   "Amber Light (Vilnius)",
+   "The Seven Loops Olfactory Archive"
+  ],
+  "episode": null
  },
  "The_Sound_That_Reverses": {
   "title": "The Sound That Reverses",
@@ -12997,6 +13244,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 11
+ },
+ "The_Three_BreathsA_Synesthetic_LARP_in_Kolkata_(2021ongoing)": {
+  "title": "The Three Breaths\u2014A Synesthetic LARP in Kolkata (2021\u2013ongoing)",
+  "strand": "scent",
+  "kind": "Participatory sensory LARP / durational multi-sensory performance",
+  "aliases": [
+   "The Three Breaths",
+   "T\u012bn \u015av\u0101s (Bengali)",
+   "The Three Injuries as Breath Protocol"
+  ],
+  "episode": null
  },
  "The_Three_Gifts": {
   "title": "The Three Gifts",
@@ -14674,6 +14932,17 @@
    "Beach Surgery walking routes",
    "Empty World tours",
    "Psychogeographic Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Wangi_ng_PiliA_Fragrant_Retablo_from_Manila": {
+  "title": "Wangi ng Pili\u2014A Fragrant Retablo from Manila",
+  "strand": "scent",
+  "kind": "Mixed-media installation-object; olfactory retablo",
+  "aliases": [
+   "Fragrant Retablo (Manila)",
+   "Sampaguita Cycle",
+   "Pig-Scent Retablo"
   ],
   "episode": null
  },
