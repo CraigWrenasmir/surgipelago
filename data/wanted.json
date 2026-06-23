@@ -2,12 +2,12 @@
  {
   "slug": "anime",
   "title": "anime",
-  "links": 26
+  "links": 27
  },
  {
   "slug": "manga",
   "title": "manga",
-  "links": 24
+  "links": 25
  },
  {
   "slug": "opera",
@@ -15,23 +15,18 @@
   "links": 13
  },
  {
+  "slug": "dance",
+  "title": "dance",
+  "links": 7
+ },
+ {
   "slug": "novel",
   "title": "novel",
   "links": 7
  },
  {
-  "slug": "dance",
-  "title": "dance",
-  "links": 6
- },
- {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
-  "links": 4
- },
- {
-  "slug": "Scent_and_olfactory_art_in_Beach_Surgery_adaptation",
-  "title": "Scent and olfactory art in Beach Surgery adaptation",
   "links": 4
  },
  {
@@ -40,33 +35,8 @@
   "links": 4
  },
  {
-  "slug": "Katita's",
-  "title": "Katita's",
-  "links": 3
- },
- {
-  "slug": "Japanese_adaptations_of_Beach_Surgery",
-  "title": "Japanese adaptations of Beach Surgery",
-  "links": 3
- },
- {
   "slug": "The_Intimacy_of_Repair:_Surgical_Care_as_Eros_in_Beach_Surgery_Across_Adaptation",
   "title": "The Intimacy of Repair: Surgical Care as Eros in Beach Surgery Across Adaptation",
-  "links": 3
- },
- {
-  "slug": "antiseptic",
-  "title": "antiseptic",
-  "links": 3
- },
- {
-  "slug": "scent",
-  "title": "scent",
-  "links": 3
- },
- {
-  "slug": "Indian_adaptations_of_Beach_Surgery",
-  "title": "Indian adaptations of Beach Surgery",
   "links": 3
  },
  {
@@ -85,53 +55,8 @@
   "links": 2
  },
  {
-  "slug": "the_diode",
-  "title": "the diode",
-  "links": 2
- },
- {
-  "slug": "the_Karmn_line",
-  "title": "the Karm\u00e1n line",
-  "links": 2
- },
- {
-  "slug": "The_Karmn_line",
-  "title": "The Karm\u00e1n line",
-  "links": 2
- },
- {
-  "slug": "Mori",
-  "title": "M\u0101ori",
-  "links": 2
- },
- {
-  "slug": "The_wound_that_WeepsSeven_Hours_Beneath_the_Watt_Hotel_Newcastle",
-  "title": "The wound that Weeps\u2014Seven Hours Beneath the Watt Hotel, Newcastle",
-  "links": 2
- },
- {
-  "slug": "Adinkra_and_Beach_Surgery",
-  "title": "Adinkra and Beach Surgery",
-  "links": 2
- },
- {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
-  "links": 2
- },
- {
-  "slug": "the_red_desert",
-  "title": "the red desert",
-  "links": 2
- },
- {
-  "slug": "The_Sebaldian_Accumulation_Protocol",
-  "title": "The Sebaldian Accumulation Protocol",
-  "links": 2
- },
- {
-  "slug": "Manila",
-  "title": "Manila",
   "links": 2
  },
  {
@@ -175,6 +100,11 @@
   "links": 2
  },
  {
+  "slug": "theology",
+  "title": "theology",
+  "links": 2
+ },
+ {
   "slug": "Kinshasa",
   "title": "Kinshasa",
   "links": 2
@@ -187,6 +117,11 @@
  {
   "slug": "pilgrimage",
   "title": "pilgrimage",
+  "links": 2
+ },
+ {
+  "slug": "the_spine",
+  "title": "the spine",
   "links": 2
  },
  {
@@ -217,6 +152,11 @@
  {
   "slug": "Adeire",
   "title": "Adeire",
+  "links": 1
+ },
+ {
+  "slug": "West_African_cultural_traditions_and_Beach_Surgery",
+  "title": "West African cultural traditions and Beach Surgery",
   "links": 1
  },
  {
@@ -770,13 +710,28 @@
   "links": 1
  },
  {
-  "slug": "ruraldesert_interior_of_New_South_Wales",
-  "title": "rural/desert interior of New South Wales",
+  "slug": "Temple-mural_cycles",
+  "title": "Temple-mural cycles",
   "links": 1
  },
  {
-  "slug": "Krmn_resonance",
-  "title": "K\u00e1rm\u00e1n resonance",
+  "slug": "woven",
+  "title": "woven",
+  "links": 1
+ },
+ {
+  "slug": "protection",
+  "title": "protection",
+  "links": 1
+ },
+ {
+  "slug": "two",
+  "title": "two",
+  "links": 1
+ },
+ {
+  "slug": "ruraldesert_interior_of_New_South_Wales",
+  "title": "rural/desert interior of New South Wales",
   "links": 1
  },
  {
@@ -787,6 +742,16 @@
  {
   "slug": "Joyce's_Night-Language_and_the_Unjoined_Glitch",
   "title": "Joyce's Night-Language and the Unjoined Glitch",
+  "links": 1
+ },
+ {
+  "slug": "visual_novels",
+  "title": "visual novels",
+  "links": 1
+ },
+ {
+  "slug": "arcade_fighting_game",
+  "title": "arcade fighting game",
   "links": 1
  },
  {
@@ -832,6 +797,16 @@
  {
   "slug": "Cheruthuruthy",
   "title": "Cheruthuruthy",
+  "links": 1
+ },
+ {
+  "slug": "surgery_is_the_birth",
+  "title": "surgery is the birth",
+  "links": 1
+ },
+ {
+  "slug": "The_wings_are_Katita's_tools_hypothesis",
+  "title": "The wings are Katita's tools hypothesis",
   "links": 1
  },
  {
@@ -1030,6 +1005,11 @@
   "links": 1
  },
  {
+  "slug": "Sangat_Pacemaker_A_Manila_Street-Market_Collectible_Toy_Series",
+  "title": "Sangat Pacemaker \u2014 A Manila Street-Market Collectible Toy Series",
+  "links": 1
+ },
+ {
   "slug": "sabar",
   "title": "sabar",
   "links": 1
@@ -1062,6 +1042,21 @@
  {
   "slug": "Timkat",
   "title": "Timkat",
+  "links": 1
+ },
+ {
+  "slug": "whnau",
+  "title": "wh\u0101nau",
+  "links": 1
+ },
+ {
+  "slug": "koru",
+  "title": "koru",
+  "links": 1
+ },
+ {
+  "slug": "tkino",
+  "title": "t\u016bkino",
   "links": 1
  },
  {
@@ -1397,6 +1392,16 @@
  {
   "slug": "Nordic_noir",
   "title": "Nordic noir",
+  "links": 1
+ },
+ {
+  "slug": "Krmn_BreathA_Kd_Sequence_(Installation_2023)",
+  "title": "K\u00e1rm\u00e1n Breath\u2014A K\u014dd\u014d Sequence (Installation, 2023)",
+  "links": 1
+ },
+ {
+  "slug": "List_of_scent_installations_in_Beach_Surgery",
+  "title": "List of scent installations in Beach Surgery",
   "links": 1
  },
  {
@@ -2595,11 +2600,6 @@
   "links": 1
  },
  {
-  "slug": "The_Wound_That_WeepsSeven_Hours_Beneath_the_Watt_Hotel_Newcastle",
-  "title": "The Wound That Weeps\u2014Seven Hours Beneath the Watt Hotel, Newcastle",
-  "links": 1
- },
- {
   "slug": "The_Radio_Igloo_Temporal_Paradox",
   "title": "The Radio Igloo Temporal Paradox",
   "links": 1
@@ -2762,11 +2762,6 @@
  {
   "slug": "exploitative",
   "title": "exploitative",
-  "links": 1
- },
- {
-  "slug": "NSW_interior",
-  "title": "NSW interior",
   "links": 1
  },
  {
@@ -2962,6 +2957,11 @@
  {
   "slug": "Hausa_script",
   "title": "Hausa script",
+  "links": 1
+ },
+ {
+  "slug": "reciprocal",
+  "title": "reciprocal",
   "links": 1
  },
  {
@@ -3560,11 +3560,6 @@
   "links": 1
  },
  {
-  "slug": "diode",
-  "title": "diode",
-  "links": 1
- },
- {
   "slug": "Brazzaville",
   "title": "Brazzaville",
   "links": 1
@@ -3992,11 +3987,6 @@
  {
   "slug": "Authority_(temptation)",
   "title": "Authority (temptation)",
-  "links": 1
- },
- {
-  "slug": "the_spine",
-  "title": "the spine",
   "links": 1
  },
  {
@@ -5045,6 +5035,16 @@
   "links": 1
  },
  {
+  "slug": "rust",
+  "title": "rust",
+  "links": 1
+ },
+ {
+  "slug": "sweat",
+  "title": "sweat",
+  "links": 1
+ },
+ {
   "slug": "Aristotle",
   "title": "Aristotle",
   "links": 1
@@ -5365,11 +5365,6 @@
   "links": 1
  },
  {
-  "slug": "theology",
-  "title": "theology",
-  "links": 1
- },
- {
   "slug": "Mexican_adaptations",
   "title": "Mexican adaptations",
   "links": 1
@@ -5525,11 +5520,6 @@
   "links": 1
  },
  {
-  "slug": "The_red_desert",
-  "title": "The red desert",
-  "links": 1
- },
- {
   "slug": "Canonconcordance",
   "title": "Canon/concordance",
   "links": 1
@@ -5567,6 +5557,11 @@
  {
   "slug": "prayer",
   "title": "prayer",
+  "links": 1
+ },
+ {
+  "slug": "unrepeatable_image",
+  "title": "unrepeatable image",
   "links": 1
  },
  {
@@ -5687,6 +5682,26 @@
  {
   "slug": "The_cycle_and_reversal",
   "title": "The cycle and reversal",
+  "links": 1
+ },
+ {
+  "slug": "Krmn_line_(physics)",
+  "title": "K\u00e1rm\u00e1n line (physics)",
+  "links": 1
+ },
+ {
+  "slug": "the_world_must_reverse",
+  "title": "the world must reverse",
+  "links": 1
+ },
+ {
+  "slug": "human",
+  "title": "human",
+  "links": 1
+ },
+ {
+  "slug": "space",
+  "title": "space",
   "links": 1
  },
  {
@@ -5827,6 +5842,21 @@
  {
   "slug": "Colour_in_adaptation",
   "title": "Colour in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Half_Two_(story)",
+  "title": "Half Two (story)",
+  "links": 1
+ },
+ {
+  "slug": "the_autonomous_diesel_data-harvesters",
+  "title": "the autonomous diesel data-harvesters",
+  "links": 1
+ },
+ {
+  "slug": "Egyptian",
+  "title": "Egyptian",
   "links": 1
  },
  {

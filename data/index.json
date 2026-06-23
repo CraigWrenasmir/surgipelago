@@ -310,6 +310,16 @@
   ],
   "episode": null
  },
+ "Adinkra_and_Beach_Surgery": {
+  "title": "Adinkra and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Cultural philosophy and textile adaptation",
+  "aliases": [
+   "Adinkra symbolism in Beach Surgery",
+   "Akan textile interpretations"
+  ],
+  "episode": null
+ },
  "African_adaptations": {
   "title": "African adaptations",
   "strand": "concepts",
@@ -4027,6 +4037,13 @@
   ],
   "episode": null
  },
+ "Indian_adaptations_of_Beach_Surgery": {
+  "title": "Indian adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Regional adaptations overview",
+  "aliases": [],
+  "episode": null
+ },
  "Indian_experimental_theatre_piece": {
   "title": "Indian experimental theatre piece",
   "strand": "theatre",
@@ -4193,6 +4210,17 @@
    "Japan and Beach Surgery",
    "Japanese interpretations",
    "nihongo adaptations"
+  ],
+  "episode": null
+ },
+ "Japanese_adaptations_of_Beach_Surgery": {
+  "title": "Japanese adaptations of Beach Surgery",
+  "strand": "anime",
+  "kind": "List / Overview article",
+  "aliases": [
+   "Japan",
+   "Japanese forms",
+   "Manga and anime Beach Surgery"
   ],
   "episode": null
  },
@@ -4399,6 +4427,17 @@
    "The Kathmandu Valley Collective",
    "Bhaktapur Circle",
    "The Newar Cycle"
+  ],
+  "episode": null
+ },
+ "Katita's": {
+  "title": "Katita's",
+  "strand": "motifs",
+  "kind": "Character motif and possession cycle",
+  "aliases": [
+   "Katita's belongings",
+   "Katita's territory",
+   "The red heels hypothesis"
   ],
   "episode": null
  },
@@ -5388,6 +5427,16 @@
   ],
   "episode": null
  },
+ "Manila": {
+  "title": "Manila",
+  "strand": "concepts",
+  "kind": "Regional adaptation ecosystem",
+  "aliases": [
+   "Manila adaptation tradition",
+   "Manila Beach Surgery"
+  ],
+  "episode": null
+ },
  "Manuscripts_and_visual_poetry": {
   "title": "Manuscripts and visual poetry",
   "strand": "concepts",
@@ -5621,6 +5670,16 @@
   "strand": "audio-drama",
   "kind": "Audio drama series",
   "aliases": [],
+  "episode": null
+ },
+ "Mori": {
+  "title": "M\u0101ori",
+  "strand": "canon",
+  "kind": "Cultural hub and geographic overview",
+  "aliases": [
+   "M\u0101ori cultural adaptations of Beach Surgery",
+   "M\u0101ori forms and the franchise"
+  ],
   "episode": null
  },
  "Motifs_in_Beach_Surgery": {
@@ -7255,6 +7314,17 @@
   "aliases": [
    "Nordic adaptations",
    "Scandinavian Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Scent_and_olfactory_art_in_Beach_Surgery_adaptation": {
+  "title": "Scent and olfactory art in Beach Surgery adaptation",
+  "strand": "scent",
+  "kind": "Sensory adaptation methodology",
+  "aliases": [
+   "olfactory adaptation",
+   "scent installations in Beach Surgery",
+   "multi-sensory Beach Surgery"
   ],
   "episode": null
  },
@@ -10413,6 +10483,18 @@
   ],
   "episode": null
  },
+ "The_Karmn_line": {
+  "title": "The Karm\u00e1n line",
+  "strand": "motifs",
+  "kind": "Master motif and cosmological boundary",
+  "aliases": [
+   "K\u00e1rm\u00e1n line",
+   "The boundary",
+   "The earth's scream",
+   "The unreachable frontier"
+  ],
+  "episode": null
+ },
  "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis_(MA_Thesis_2024)": {
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis (MA Thesis, 2024)",
   "strand": "theses",
@@ -12560,6 +12642,17 @@
   ],
   "episode": null
  },
+ "The_Sebaldian_Accumulation_Protocol": {
+  "title": "The Sebaldian Accumulation Protocol",
+  "strand": "philosophy",
+  "kind": "Scholarly methodology and archival practice",
+  "aliases": [
+   "Sebaldian method",
+   "Accumulation as witness",
+   "The Sebald Protocol"
+  ],
+  "episode": null
+ },
  "The_Sebaldian_Accumulation_ProtocolPhotographic_Memory_Archive_Fever_and_the_Drone's_Melancholic_Witness_in_Beach_Surgery": {
   "title": "The Sebaldian Accumulation Protocol\u2014Photographic Memory, Archive Fever, and the Drone's Melancholic Witness in Beach Surgery",
   "strand": "theses",
@@ -14526,6 +14619,16 @@
   ],
   "episode": null
  },
+ "The_wound_that_WeepsSeven_Hours_Beneath_the_Watt_Hotel_Newcastle": {
+  "title": "The wound that Weeps\u2014Seven Hours Beneath the Watt Hotel, Newcastle",
+  "strand": "immersive",
+  "kind": "Durational participatory installation and archive excavation",
+  "aliases": [
+   "Seven Hours Under the Watt",
+   "The Wound Beneath the Watt"
+  ],
+  "episode": null
+ },
  "Theatre_adaptations": {
   "title": "Theatre adaptations",
   "strand": "theatre",
@@ -15391,6 +15494,13 @@
   "title": "antinomy",
   "strand": "canon",
   "kind": "Glossary entry / Philosophical concept",
+  "aliases": [],
+  "episode": null
+ },
+ "antiseptic": {
+  "title": "antiseptic",
+  "strand": "motifs",
+  "kind": "Concept / motif",
   "aliases": [],
   "episode": null
  },
@@ -17936,6 +18046,18 @@
   ],
   "episode": null
  },
+ "scent": {
+  "title": "scent",
+  "strand": "motifs",
+  "kind": "Motif / Sensory element",
+  "aliases": [
+   "olfaction",
+   "scent in adaptation",
+   "olfactory adaptation",
+   "smell"
+  ],
+  "episode": null
+ },
  "seagull": {
   "title": "seagull",
   "strand": "canon",
@@ -18448,6 +18570,17 @@
   ],
   "episode": null
  },
+ "the_Karmn_line": {
+  "title": "the Karm\u00e1n line",
+  "strand": "concepts",
+  "kind": "Cosmological motif / sonic boundary",
+  "aliases": [
+   "the sound of the earth rubbing against space",
+   "K\u00e1rm\u00e1n resonance",
+   "the transmission at the boundary"
+  ],
+  "episode": null
+ },
  "the_Krmn_line": {
   "title": "the K\u00e1rm\u00e1n line",
   "strand": "motifs",
@@ -18650,6 +18783,17 @@
    "Autonomous diesel data-harvesters",
    "harvesters",
    "data-harvester"
+  ],
+  "episode": null
+ },
+ "the_diode": {
+  "title": "the diode",
+  "strand": "motifs",
+  "kind": "Object motif and visual symbol",
+  "aliases": [
+   "diode",
+   "the blinking light",
+   "Leif's diode"
   ],
   "episode": null
  },
@@ -18968,6 +19112,17 @@
    "Red motif",
    "Red (concept)",
    "Red meridian"
+  ],
+  "episode": null
+ },
+ "the_red_desert": {
+  "title": "the red desert",
+  "strand": "places",
+  "kind": "Setting / Location",
+  "aliases": [
+   "red desert interior",
+   "the desert",
+   "NSW interior"
   ],
   "episode": null
  },
