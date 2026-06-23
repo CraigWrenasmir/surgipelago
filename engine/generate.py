@@ -23,7 +23,8 @@ CONCORDANCE = open(_cpath, encoding="utf-8").read() if os.path.exists(_cpath) el
 STRAND_KEYS = ["manga","tie-in-novels","light-novels","comics","anime","films",
   "documentaries","theatre","opera","dance","music","audio-drama","games",
   "tabletop","pinball","larp","tours","immersive","theses","fan-theories",
-  "lost-media","concepts","philosophy","psychogeography","motifs","canon","meta"]
+  "lost-media","concepts","philosophy","psychogeography","motifs",
+  "architecture","scent","fashion","food","merch","canon","meta"]
 EDITORS = ["tidal_ward","karman_line","one_side_of_the_coin","dust_garden",
   "not_the_ocean","bee_automaton","rose_house","nullify_a_fireball"]
 
@@ -213,7 +214,10 @@ INVENT_ROTATION = [
 STRAND_LABEL = dict(INVENT_ROTATION)
 STRAND_LABEL.update({"manga":"manga volume","anime":"animated episode",
   "tie-in-novels":"tie-in novel","light-novels":"light novel",
-  "comics":"comic or doujinshi"})
+  "comics":"comic or doujinshi",
+  "architecture":"work of architecture or monument","scent":"perfume or scent work",
+  "fashion":"fashion or textile work","food":"culinary work, dish or recipe",
+  "merch":"piece of merchandise, toy or ephemera"})
 
 def choose_specs(count, index, wanted, focus=None):
     if focus:                                   # all-invent, cycling focus strands
