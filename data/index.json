@@ -289,6 +289,16 @@
   ],
   "episode": null
  },
+ "Adeire": {
+  "title": "Adeire",
+  "strand": "films",
+  "kind": "Nigerian feature film",
+  "aliases": [
+   "Adeire (film)",
+   "Adeire (2021)"
+  ],
+  "episode": null
+ },
  "Adeire_mrn_A_Lagos_Indigo-Resist_Textile_Installation_and_Seven-Year_Cycle_Archive": {
   "title": "Adeire \u00ccm\u1ecd\u0300r\u00e0n \u2014 A Lagos Indigo-Resist Textile Installation and Seven-Year Cycle Archive",
   "strand": "fashion",
@@ -645,6 +655,17 @@
    "Diwani and Thuluth cycles",
    "Islamic manuscript traditions",
    "Arabic manuscript art"
+  ],
+  "episode": null
+ },
+ "Arabic_calligraphy": {
+  "title": "Arabic calligraphy",
+  "strand": "motifs",
+  "kind": "Artistic motif and visual practice",
+  "aliases": [
+   "Arabic script in Beach Surgery",
+   "calligraphic adaptation",
+   "script as wound"
   ],
   "episode": null
  },
@@ -1134,6 +1155,13 @@
    "Baul singers",
    "Baul minstrel"
   ],
+  "episode": null
+ },
+ "Baul_music": {
+  "title": "Baul music",
+  "strand": "music",
+  "kind": "Musical tradition / spiritual practice",
+  "aliases": [],
   "episode": null
  },
  "Baul_music_and_poetry": {
@@ -3744,6 +3772,16 @@
   "aliases": [],
   "episode": null
  },
+ "Harare": {
+  "title": "Harare",
+  "strand": "places",
+  "kind": "City / pilgrimage node",
+  "aliases": [
+   "Harare, Zimbabwe",
+   "Harare (Beach Surgery)"
+  ],
+  "episode": null
+ },
  "Harmonic_Correction": {
   "title": "Harmonic Correction",
   "strand": "anime",
@@ -4593,6 +4631,16 @@
   "aliases": [],
   "episode": null
  },
+ "Kinshasa": {
+  "title": "Kinshasa",
+  "strand": "immersive",
+  "kind": "City / audio-participatory hub",
+  "aliases": [
+   "Kinshasa adaptations",
+   "Kinshasa listening sites"
+  ],
+  "episode": null
+ },
  "Kokkori_Saesak_(The_Heartbeat_Whispers)": {
   "title": "Kokkori Saesak (The Heartbeat Whispers)",
   "strand": "scent",
@@ -4726,6 +4774,17 @@
   "aliases": [
    "Lagos, Nigeria",
    "The Lagos circuit"
+  ],
+  "episode": null
+ },
+ "Lagos_adaptations_of_Beach_Surgery": {
+  "title": "Lagos adaptations of Beach Surgery",
+  "strand": "theatre",
+  "kind": "Regional adaptation survey",
+  "aliases": [
+   "Lagos Beach Surgery works",
+   "Yoruba Beach Surgery adaptations",
+   "Nigerian Lagos adaptations"
   ],
   "episode": null
  },
@@ -6066,6 +6125,16 @@
   ],
   "episode": null
  },
+ "Nigerian": {
+  "title": "Nigerian",
+  "strand": "meta",
+  "kind": "Regional hub / adaptation overview",
+  "aliases": [
+   "Nigeria",
+   "Nigerian adaptations"
+  ],
+  "episode": null
+ },
  "Nigerian_adaptations_of_Beach_Surgery": {
   "title": "Nigerian adaptations of Beach Surgery",
   "strand": "meta",
@@ -6085,6 +6154,17 @@
    "Nothing difficult for the willing",
    "NVA",
    "On the paradox of Leif's refusal"
+  ],
+  "episode": null
+ },
+ "Nobbys": {
+  "title": "Nobbys",
+  "strand": "architecture",
+  "kind": "Newcastle landmark / psychogeographic site",
+  "aliases": [
+   "Nobbys Breakwall",
+   "Nobbys Lighthouse",
+   "Nobbys Point"
   ],
   "episode": null
  },
@@ -6299,6 +6379,16 @@
   "strand": "concepts",
   "kind": "Religious and cultural analysis",
   "aliases": [],
+  "episode": null
+ },
+ "Ouagadougou": {
+  "title": "Ouagadougou",
+  "strand": "immersive",
+  "kind": "City / participatory textile hub",
+  "aliases": [
+   "Ouaga",
+   "Ouagadougou textile project"
+  ],
   "episode": null
  },
  "Ouagadougou_Textile_Palimpsest_(Lost_1989_Kente_Weaving_Cycle_and_Oral_Archive)": {
@@ -7325,6 +7415,18 @@
    "olfactory adaptation",
    "scent installations in Beach Surgery",
    "multi-sensory Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Scent_touch_and_the_non-visual_senses_in_Beach_Surgery": {
+  "title": "Scent, touch, and the non-visual senses in Beach Surgery",
+  "strand": "concepts",
+  "kind": "Thematic study",
+  "aliases": [
+   "Non-visual sensory adaptation",
+   "Synesthetic Beach Surgery",
+   "embodied sense-making",
+   "sensory beyond sight"
   ],
   "episode": null
  },
@@ -15137,6 +15239,17 @@
   ],
   "episode": null
  },
+ "West_African_cultural_traditions_and_Beach_Surgery": {
+  "title": "West African cultural traditions and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Regional cultural analysis",
+  "aliases": [
+   "West Africa and Beach Surgery",
+   "West African adaptation traditions",
+   "Griot and cycle in Beach Surgery"
+  ],
+  "episode": null
+ },
  "West_African_oral-history_project": {
   "title": "West African oral-history project",
   "strand": "audio-drama",
@@ -17633,6 +17746,17 @@
   "aliases": [],
   "episode": null
  },
+ "pilgrimage": {
+  "title": "pilgrimage",
+  "strand": "concepts",
+  "kind": "Concept / devotional practice",
+  "aliases": [
+   "pilgrimage in Beach Surgery",
+   "pilgrimage sites",
+   "devotional walking"
+  ],
+  "episode": null
+ },
  "The_pinball_machine": {
   "title": "The pinball machine",
   "strand": "pinball",
@@ -17879,6 +18003,17 @@
    "Katita's red hair",
    "The red motif",
    "Katita's signature"
+  ],
+  "episode": null
+ },
+ "red_kitten_heels": {
+  "title": "red kitten heels",
+  "strand": "motifs",
+  "kind": "Costume motif",
+  "aliases": [
+   "Katita's heels",
+   "the red heels",
+   "kitten heel"
   ],
   "episode": null
  },
@@ -19158,6 +19293,13 @@
   ],
   "episode": null
  },
+ "the_spine": {
+  "title": "the spine",
+  "strand": "motifs",
+  "kind": "Motif / cosmological resonator",
+  "aliases": [],
+  "episode": null
+ },
  "the_story's": {
   "title": "the story's",
   "strand": "canon",
@@ -19279,6 +19421,17 @@
    "Beach Surgery theatre",
    "Stage adaptations",
    "Theatrical works"
+  ],
+  "episode": null
+ },
+ "theology": {
+  "title": "theology",
+  "strand": "philosophy",
+  "kind": "Conceptual framework and theological principle",
+  "aliases": [
+   "theology in Beach Surgery",
+   "sacred incompleteness as theology",
+   "the doctrine of refusal"
   ],
   "episode": null
  },
