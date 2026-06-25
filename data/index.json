@@ -843,6 +843,18 @@
   "aliases": [],
   "episode": 28
  },
+ "Arpillera": {
+  "title": "Arpillera",
+  "strand": "motifs",
+  "kind": "Textile art form / South American tradition",
+  "aliases": [
+   "Arpilleras",
+   "Textile narrative",
+   "Chilean arpillera",
+   "Peruvian arpillera"
+  ],
+  "episode": null
+ },
  "Art_installations": {
   "title": "Art installations",
   "strand": "immersive",
@@ -1358,6 +1370,17 @@
    "The Ranting Cure",
    "Correction and Recursion",
    "Bernhard's Obsessive Architecture"
+  ],
+  "episode": null
+ },
+ "Bernhard": {
+  "title": "Bernhard",
+  "strand": "philosophy",
+  "kind": "Philosophical influence / writer",
+  "aliases": [
+   "Thomas Bernhard",
+   "Bernhard (influence)",
+   "Bernhardian incompleteness"
   ],
   "episode": null
  },
@@ -2633,6 +2656,13 @@
    "Diwani script in Beach Surgery",
    "Calligraphic manuscript cycles"
   ],
+  "episode": null
+ },
+ "Doctrine_of_Return": {
+  "title": "Doctrine of Return",
+  "strand": "philosophy",
+  "kind": "Theological concept",
+  "aliases": [],
   "episode": null
  },
  "Documentary_approaches_to_Beach_Surgery": {
@@ -4098,6 +4128,16 @@
   "strand": "concepts",
   "kind": "Artistic tradition / Adaptation framework",
   "aliases": [],
+  "episode": null
+ },
+ "Indigenous_absence": {
+  "title": "Indigenous absence",
+  "strand": "theses",
+  "kind": "Critical meta-analysis essay",
+  "aliases": [
+   "Erasure in adaptation",
+   "Decolonial critique of Surgipelago"
+  ],
   "episode": null
  },
  "Indonesian_film": {
@@ -6196,6 +6236,17 @@
   ],
   "episode": null
  },
+ "North_African_adaptations": {
+  "title": "North African adaptations",
+  "strand": "concepts",
+  "kind": "Regional overview and disambiguation",
+  "aliases": [
+   "Maghrebi adaptations",
+   "Egyptian and Levantine Beach Surgery",
+   "North Africa and the cycle"
+  ],
+  "episode": null
+ },
  "North_African_and_Middle_Eastern_adaptations": {
   "title": "North African and Middle Eastern adaptations",
   "strand": "meta",
@@ -7387,6 +7438,13 @@
   ],
   "episode": null
  },
+ "Sawt_al-ArdhThe_Sound_the_Earth_Refuses": {
+  "title": "Sawt al-Ardh\u2014The Sound the Earth Refuses",
+  "strand": "scent",
+  "kind": "Olfactory installation / Immersive work",
+  "aliases": [],
+  "episode": null
+ },
  "Sawt_al-ArdhThe_Sound_the_Earth_Refuses_(Marrakech_Olfactory_Installation_2020present)": {
   "title": "Sawt al-Ardh\u2014The Sound the Earth Refuses (Marrakech Olfactory Installation, 2020\u2013present)",
   "strand": "scent",
@@ -7583,6 +7641,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 187
+ },
+ "Shadow-puppet_traditions": {
+  "title": "Shadow-puppet traditions",
+  "strand": "theatre",
+  "kind": "Medium overview",
+  "aliases": [
+   "Shadow theatre and Beach Surgery",
+   "Wayang and Karag\u00f6z adaptations"
+  ],
+  "episode": null
  },
  "Shadow-puppet_traditions_and_Beach_Surgery": {
   "title": "Shadow-puppet traditions and Beach Surgery",
@@ -13440,6 +13508,17 @@
   "aliases": [],
   "episode": 11
  },
+ "The_Three_BreathsA_Synesthetic_LARP_in_Kolkata": {
+  "title": "The Three Breaths\u2014A Synesthetic LARP in Kolkata",
+  "strand": "larp",
+  "kind": "Synesthetic participatory LARP / ritual",
+  "aliases": [
+   "Three Breaths Kolkata",
+   "Tin-Sansth\u0101n \u015av\u0101s",
+   "The Kolkata Triadic Breath"
+  ],
+  "episode": null
+ },
  "The_Three_BreathsA_Synesthetic_LARP_in_Kolkata_(2021ongoing)": {
   "title": "The Three Breaths\u2014A Synesthetic LARP in Kolkata (2021\u2013ongoing)",
   "strand": "scent",
@@ -13896,6 +13975,17 @@
   "aliases": [
    "The Unmending (2016)",
    "Rozwi\u0105zanie (original title)"
+  ],
+  "episode": null
+ },
+ "The_Unnamable_as_Sacred_Glitch": {
+  "title": "The Unnamable as Sacred Glitch",
+  "strand": "philosophy",
+  "kind": "Critical concept / apophatic theology",
+  "aliases": [
+   "Beckett and the glitch",
+   "Unnamability as theology",
+   "Beckett-Smith parallelism"
   ],
   "episode": null
  },
@@ -14576,6 +14666,17 @@
    "the mechanic",
    "the dual mechanic",
    "the service-station mechanic"
+  ],
+  "episode": null
+ },
+ "The_mechanic_as_narrative_splice": {
+  "title": "The mechanic as narrative splice",
+  "strand": "canon",
+  "kind": "Character analysis / narrative principle",
+  "aliases": [
+   "the mechanic's doubling",
+   "identity slippage and the glitch",
+   "the mechanic (character)"
   ],
   "episode": null
  },
@@ -15684,6 +15785,17 @@
   ],
   "episode": null
  },
+ "arpilleras": {
+  "title": "arpilleras",
+  "strand": "immersive",
+  "kind": "Textile adaptation movement / participatory installation",
+  "aliases": [
+   "arpillera adaptations",
+   "Andean textile Beach Surgery",
+   "cicatrices de tela"
+  ],
+  "episode": null
+ },
  "art_cinema": {
   "title": "art cinema",
   "strand": "films",
@@ -16084,6 +16196,17 @@
   "aliases": [
    "Newcastle Coal Loader",
    "the coal loader structure"
+  ],
+  "episode": null
+ },
+ "colonialism": {
+  "title": "colonialism",
+  "strand": "philosophy",
+  "kind": "Critical essay / Thematic analysis",
+  "aliases": [
+   "postcolonial Beach Surgery",
+   "decolonial adaptation",
+   "colonial violence in the franchise"
   ],
   "episode": null
  },
@@ -17579,6 +17702,17 @@
   ],
   "episode": null
  },
+ "olfactory": {
+  "title": "olfactory",
+  "strand": "scent",
+  "kind": "Motif / adaptation strategy",
+  "aliases": [
+   "olfactory adaptation",
+   "scent in Beach Surgery",
+   "smell and memory"
+  ],
+  "episode": null
+ },
  "one_side_of_a_coin": {
   "title": "one side of a coin",
   "strand": "motifs",
@@ -18137,6 +18271,19 @@
    "The rooftop descent",
    "Parkour toward the beach",
    "Newcastle rooftops"
+  ],
+  "episode": null
+ },
+ "ruraldesert_interior": {
+  "title": "rural/desert interior",
+  "strand": "places",
+  "kind": "Setting / Geographical location",
+  "aliases": [
+   "the interior",
+   "Half Two",
+   "the desert interior",
+   "NSW interior",
+   "the outback setting"
   ],
   "episode": null
  },
@@ -19588,6 +19735,17 @@
   "strand": "concepts",
   "kind": "Philosophical concept",
   "aliases": [],
+  "episode": null
+ },
+ "unfinished": {
+  "title": "unfinished",
+  "strand": "concepts",
+  "kind": "Concept / glossary entry",
+  "aliases": [
+   "The unfinishable",
+   "Sacred incompleteness",
+   "The doctrine of the incomplete"
+  ],
   "episode": null
  },
  "unnamed_clinic": {

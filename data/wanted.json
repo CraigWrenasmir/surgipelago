@@ -30,11 +30,6 @@
   "links": 4
  },
  {
-  "slug": "olfactory",
-  "title": "olfactory",
-  "links": 4
- },
- {
   "slug": "The_Leather_Underneath:_A_Duet_of_Care",
   "title": "The Leather Underneath: A Duet of Care",
   "links": 4
@@ -55,13 +50,13 @@
   "links": 2
  },
  {
-  "slug": "Sawt_al-ArdhThe_Sound_the_Earth_Refuses",
-  "title": "Sawt al-Ardh\u2014The Sound the Earth Refuses",
+  "slug": "Play_Newcastle:_Gregson_Park",
+  "title": "Play Newcastle: Gregson Park",
   "links": 2
  },
  {
-  "slug": "Play_Newcastle:_Gregson_Park",
-  "title": "Play Newcastle: Gregson Park",
+  "slug": "Nietzsche",
+  "title": "Nietzsche",
   "links": 2
  },
  {
@@ -75,6 +70,11 @@
   "links": 2
  },
  {
+  "slug": "Tal-Nori_Daerak",
+  "title": "Tal-Nori Daerak",
+  "links": 2
+ },
+ {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -82,11 +82,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "unfinished",
-  "title": "unfinished",
   "links": 2
  },
  {
@@ -105,63 +100,13 @@
   "links": 1
  },
  {
-  "slug": "North_African_adaptations",
-  "title": "North African adaptations",
+  "slug": "La_Cicatriz_Que_HueleRetablo_Boxes_of_Ayacucho",
+  "title": "La Cicatriz Que Huele\u2014Retablo Boxes of Ayacucho",
   "links": 1
  },
  {
-  "slug": "Doctrine_of_Return",
-  "title": "Doctrine of Return",
-  "links": 1
- },
- {
-  "slug": "colonialism",
-  "title": "colonialism",
-  "links": 1
- },
- {
-  "slug": "Indigenous_absence",
-  "title": "Indigenous absence",
-  "links": 1
- },
- {
-  "slug": "arpilleras",
-  "title": "arpilleras",
-  "links": 1
- },
- {
-  "slug": "Arpillera",
-  "title": "Arpillera",
-  "links": 1
- },
- {
-  "slug": "ruraldesert_interior",
-  "title": "rural/desert interior",
-  "links": 1
- },
- {
-  "slug": "The_Three_BreathsA_Synesthetic_LARP_in_Kolkata",
-  "title": "The Three Breaths\u2014A Synesthetic LARP in Kolkata",
-  "links": 1
- },
- {
-  "slug": "The_mechanic_as_narrative_splice",
-  "title": "The mechanic as narrative splice",
-  "links": 1
- },
- {
-  "slug": "Shadow-puppet_traditions",
-  "title": "Shadow-puppet traditions",
-  "links": 1
- },
- {
-  "slug": "The_Unnamable_as_Sacred_Glitch",
-  "title": "The Unnamable as Sacred Glitch",
-  "links": 1
- },
- {
-  "slug": "Bernhard",
-  "title": "Bernhard",
+  "slug": "Bernhard's_CorrectionThe_Monologue_as_Surgical_Revision",
+  "title": "Bernhard's Correction\u2014The Monologue as Surgical Revision",
   "links": 1
  },
  {
@@ -700,6 +645,21 @@
   "links": 1
  },
  {
+  "slug": "Postcolonial_adaptations",
+  "title": "Postcolonial adaptations",
+  "links": 1
+ },
+ {
+  "slug": "decolonial",
+  "title": "decolonial",
+  "links": 1
+ },
+ {
+  "slug": "Gender_in_Beach_Surgery_adaptations",
+  "title": "Gender in Beach Surgery adaptations",
+  "links": 1
+ },
+ {
   "slug": "multivalent",
   "title": "multivalent",
   "links": 1
@@ -1095,6 +1055,31 @@
   "links": 1
  },
  {
+  "slug": "Arabic_language",
+  "title": "Arabic language",
+  "links": 1
+ },
+ {
+  "slug": "Berber",
+  "title": "Berber",
+  "links": 1
+ },
+ {
+  "slug": "Persian_language",
+  "title": "Persian language",
+  "links": 1
+ },
+ {
+  "slug": "Middle_Eastern_adaptations_and_adaptations",
+  "title": "Middle Eastern adaptations and adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Retablo_tradition",
+  "title": "Retablo tradition",
+  "links": 1
+ },
+ {
   "slug": "Salvador_Bahia",
   "title": "Salvador, Bahia",
   "links": 1
@@ -1360,6 +1345,21 @@
   "links": 1
  },
  {
+  "slug": "Tawqt_al-asra",
+  "title": "Tawq\u012bt al-\u1e24asra",
+  "links": 1
+ },
+ {
+  "slug": "North_African_adaptations_of_Beach_Surgery",
+  "title": "North African adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Marrakech",
+  "title": "Marrakech",
+  "links": 1
+ },
+ {
   "slug": "Nordic_noir",
   "title": "Nordic noir",
   "links": 1
@@ -1482,6 +1482,16 @@
  {
   "slug": "the_covenant_of_refusal",
   "title": "the covenant of refusal",
+  "links": 1
+ },
+ {
+  "slug": "Korean",
+  "title": "Korean",
+  "links": 1
+ },
+ {
+  "slug": "Tal-Nori",
+  "title": "Tal-Nori",
   "links": 1
  },
  {
@@ -4365,6 +4375,16 @@
   "links": 1
  },
  {
+  "slug": "Kalighat",
+  "title": "Kalighat",
+  "links": 1
+ },
+ {
+  "slug": "Kalighat_Temple",
+  "title": "Kalighat Temple",
+  "links": 1
+ },
+ {
   "slug": "Kolkata_Sensory_Archive",
   "title": "Kolkata Sensory Archive",
   "links": 1
@@ -4690,6 +4710,11 @@
   "links": 1
  },
  {
+  "slug": "Instruments_of_ReturnLeif_Katita_and_the_Architecture_of_Recursion_Across_C._W._Smith's_Oeuvre",
+  "title": "Instruments of Return\u2014Leif, Katita, and the Architecture of Recursion Across C. W. Smith's Oeuvre",
+  "links": 1
+ },
+ {
   "slug": "The_Grand_Inquisitor_reading",
   "title": "The Grand Inquisitor reading",
   "links": 1
@@ -4697,11 +4722,6 @@
  {
   "slug": "Dandelion_seed-heads",
   "title": "Dandelion seed-heads",
-  "links": 1
- },
- {
-  "slug": "Tal-Nori_Daerak",
-  "title": "Tal-Nori Daerak",
   "links": 1
  },
  {
@@ -5045,6 +5065,11 @@
   "links": 1
  },
  {
+  "slug": "Arpilleras_del_Ciclo",
+  "title": "Arpilleras del Ciclo",
+  "links": 1
+ },
+ {
   "slug": "Kiarostami",
   "title": "Kiarostami",
   "links": 1
@@ -5112,6 +5137,36 @@
  {
   "slug": "Quechua_adaptations_of_Beach_Surgery",
   "title": "Quechua adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Stridentists",
+  "title": "Stridentists",
+  "links": 1
+ },
+ {
+  "slug": "Cannibalists",
+  "title": "Cannibalists",
+  "links": 1
+ },
+ {
+  "slug": "ngritude",
+  "title": "n\u00e9gritude",
+  "links": 1
+ },
+ {
+  "slug": "Jindyworobak",
+  "title": "Jindyworobak",
+  "links": 1
+ },
+ {
+  "slug": "Vorticists",
+  "title": "Vorticists",
+  "links": 1
+ },
+ {
+  "slug": "UN_workshop",
+  "title": "UN workshop",
   "links": 1
  },
  {
@@ -5555,6 +5610,11 @@
   "links": 1
  },
  {
+  "slug": "Structure_plot_of_Beach_Surgery",
+  "title": "Structure & plot of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "religion",
   "title": "religion",
   "links": 1
@@ -5780,11 +5840,6 @@
   "links": 1
  },
  {
-  "slug": "the_Unnamable_as_Sacred_Glitch",
-  "title": "the Unnamable as Sacred Glitch",
-  "links": 1
- },
- {
   "slug": "The_Exhaustion_Cycle",
   "title": "The Exhaustion Cycle",
   "links": 1
@@ -5907,6 +5962,11 @@
  {
   "slug": "Doctrine_of_Sacred_Incompleteness",
   "title": "Doctrine of Sacred Incompleteness",
+  "links": 1
+ },
+ {
+  "slug": "wound-care",
+  "title": "wound-care",
   "links": 1
  },
  {
