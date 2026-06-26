@@ -55,8 +55,8 @@
   "links": 2
  },
  {
-  "slug": "Nietzsche",
-  "title": "Nietzsche",
+  "slug": "Cusco",
+  "title": "Cusco",
   "links": 2
  },
  {
@@ -65,13 +65,23 @@
   "links": 2
  },
  {
+  "slug": "Armenian",
+  "title": "Armenian",
+  "links": 2
+ },
+ {
+  "slug": "interpretation",
+  "title": "interpretation",
+  "links": 2
+ },
+ {
   "slug": "0",
   "title": "\u00000\u0000",
   "links": 2
  },
  {
-  "slug": "Tal-Nori_Daerak",
-  "title": "Tal-Nori Daerak",
+  "slug": "Korean_adaptations_of_Beach_Surgery",
+  "title": "Korean adaptations of Beach Surgery",
   "links": 2
  },
  {
@@ -100,78 +110,13 @@
   "links": 1
  },
  {
-  "slug": "La_Cicatriz_Que_HueleRetablo_Boxes_of_Ayacucho",
-  "title": "La Cicatriz Que Huele\u2014Retablo Boxes of Ayacucho",
-  "links": 1
- },
- {
-  "slug": "Bernhard's_CorrectionThe_Monologue_as_Surgical_Revision",
-  "title": "Bernhard's Correction\u2014The Monologue as Surgical Revision",
-  "links": 1
- },
- {
-  "slug": "Repetition_(motif)",
-  "title": "Repetition (motif)",
-  "links": 1
- },
- {
-  "slug": "berimbau",
-  "title": "berimbau",
-  "links": 1
- },
- {
-  "slug": "Fundao_Palmares",
-  "title": "Funda\u00e7\u00e3o Palmares",
-  "links": 1
- },
- {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
  },
  {
-  "slug": "The_Twelve_Words_as_Apophatic_Refusal_(Apophatic_Reading_of_Leif's_Question)",
-  "title": "The Twelve Words as Apophatic Refusal (Apophatic Reading of Leif's Question)",
-  "links": 1
- },
- {
-  "slug": "The_Twelve-Word_Question_as_Mbius_RecursionA_Linguistic_Counter-Reading",
-  "title": "The Twelve-Word Question as M\u00f6bius Recursion\u2014A Linguistic Counter-Reading",
-  "links": 1
- },
- {
-  "slug": "polyphonic_singing",
-  "title": "polyphonic singing",
-  "links": 1
- },
- {
-  "slug": "Multisensory_and_synaesthetic_adaptations",
-  "title": "Multisensory and synaesthetic adaptations",
-  "links": 1
- },
- {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
-  "links": 1
- },
- {
-  "slug": "The_Leather_ReconstructionA_Participatory_Mapping_Installation",
-  "title": "The Leather Reconstruction\u2014A Participatory Mapping Installation",
-  "links": 1
- },
- {
-  "slug": "Religious_movements_and_Beach_Surgery",
-  "title": "Religious movements and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Apophatic_theology_and_the_glitch",
-  "title": "Apophatic theology and the glitch",
-  "links": 1
- },
- {
-  "slug": "The_Leather_Sisterhood_of_the_Seventh_Loop",
-  "title": "The Leather Sisterhood of the Seventh Loop",
   "links": 1
  },
  {
@@ -485,6 +430,21 @@
   "links": 1
  },
  {
+  "slug": "griotic",
+  "title": "griotic",
+  "links": 1
+ },
+ {
+  "slug": "Yoruba",
+  "title": "Yoruba",
+  "links": 1
+ },
+ {
+  "slug": "Afro-Brazilian_adaptations",
+  "title": "Afro-Brazilian adaptations",
+  "links": 1
+ },
+ {
   "slug": "Colombian_adaptations_of_Beach_Surgery",
   "title": "Colombian adaptations of Beach Surgery",
   "links": 1
@@ -772,6 +732,11 @@
  {
   "slug": "Mori_and_indigenous_adaptations",
   "title": "M\u0101ori and indigenous adaptations",
+  "links": 1
+ },
+ {
+  "slug": "textile",
+  "title": "textile",
   "links": 1
  },
  {
@@ -1100,11 +1065,6 @@
   "links": 1
  },
  {
-  "slug": "Armenian",
-  "title": "Armenian",
-  "links": 1
- },
- {
   "slug": "Czech",
   "title": "Czech",
   "links": 1
@@ -1167,11 +1127,6 @@
  {
   "slug": "Oh_Sunny_Danger_Time",
   "title": "Oh Sunny Danger Time",
-  "links": 1
- },
- {
-  "slug": "Cusco",
-  "title": "Cusco",
   "links": 1
  },
  {
@@ -1267,6 +1222,26 @@
  {
   "slug": "Aboriginal_songlines",
   "title": "Aboriginal songlines",
+  "links": 1
+ },
+ {
+  "slug": "the_scar",
+  "title": "the scar",
+  "links": 1
+ },
+ {
+  "slug": "durational_vigils",
+  "title": "durational vigils",
+  "links": 1
+ },
+ {
+  "slug": "textile-stitching_liturgies",
+  "title": "textile-stitching liturgies",
+  "links": 1
+ },
+ {
+  "slug": "Covenant_of_RefusalSacred_Incompleteness_as_Ontological_Structure",
+  "title": "Covenant of Refusal\u2014Sacred Incompleteness as Ontological Structure",
   "links": 1
  },
  {
@@ -1855,8 +1830,13 @@
   "links": 1
  },
  {
-  "slug": "Korean_adaptations_of_Beach_Surgery",
-  "title": "Korean adaptations of Beach Surgery",
+  "slug": "talchum",
+  "title": "talchum",
+  "links": 1
+ },
+ {
+  "slug": "pungmul",
+  "title": "pungmul",
   "links": 1
  },
  {
@@ -3102,6 +3082,21 @@
  {
   "slug": "Informal_economy_and_adaptation",
   "title": "Informal economy and adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Sahel_region",
+  "title": "Sahel region",
+  "links": 1
+ },
+ {
+  "slug": "The_Seventh_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking_(2021present_Multiple_Sites)",
+  "title": "The Seventh Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking (2021\u2013present, Multiple Sites)",
+  "links": 1
+ },
+ {
+  "slug": "The_Leather_ArchivesA_Community-Built_Spiral_Shrine",
+  "title": "The Leather Archives\u2014A Community-Built Spiral Shrine",
   "links": 1
  },
  {
@@ -4465,6 +4460,26 @@
   "links": 1
  },
  {
+  "slug": "Can_we_break_the_cycle",
+  "title": "Can we break the cycle?",
+  "links": 1
+ },
+ {
+  "slug": "Do_you_love_me",
+  "title": "Do you love me?",
+  "links": 1
+ },
+ {
+  "slug": "The_Twelve-Word_Question_as_Apophatic_Refusal",
+  "title": "The Twelve-Word Question as Apophatic Refusal",
+  "links": 1
+ },
+ {
+  "slug": "ethics_of_exhaustion",
+  "title": "ethics of exhaustion",
+  "links": 1
+ },
+ {
   "slug": "Katalin_Molnr",
   "title": "Katalin Moln\u00e1r",
   "links": 1
@@ -4862,11 +4877,6 @@
  {
   "slug": "Present-tense_adaptations_of_Beach_Surgery",
   "title": "Present-tense adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "interpretation",
-  "title": "interpretation",
   "links": 1
  },
  {

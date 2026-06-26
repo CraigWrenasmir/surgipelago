@@ -646,6 +646,16 @@
   ],
   "episode": null
  },
+ "Apophatic_theology_and_the_glitch": {
+  "title": "Apophatic theology and the glitch",
+  "strand": "philosophy",
+  "kind": "Theological framework & exegesis",
+  "aliases": [
+   "Negative theology and Beach Surgery",
+   "The glitch as apophatic principle"
+  ],
+  "episode": null
+ },
  "Arabic_calligraphic_manuscripts": {
   "title": "Arabic calligraphic manuscripts",
   "strand": "concepts",
@@ -1360,6 +1370,16 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Bernhard's_CorrectionThe_Monologue_as_Surgical_Revision": {
+  "title": "Bernhard's Correction\u2014The Monologue as Surgical Revision",
+  "strand": "theses",
+  "kind": "Literary-critical exegesis",
+  "aliases": [
+   "Bernhard and Beach Surgery",
+   "Correction as method"
+  ],
   "episode": null
  },
  "Bernhard's_CorrectionThe_Monologue_as_Surgical_Revision_Repetition_as_Return_in_Smith's_Prose": {
@@ -3434,6 +3454,16 @@
   "aliases": [],
   "episode": 198
  },
+ "Fundao_Palmares": {
+  "title": "Funda\u00e7\u00e3o Palmares",
+  "strand": "philosophy",
+  "kind": "Cultural foundation & archival practice",
+  "aliases": [
+   "Palmares Foundation",
+   "FP"
+  ],
+  "episode": null
+ },
  "Garca_Mrquez": {
   "title": "Garc\u00eda M\u00e1rquez",
   "strand": "philosophy",
@@ -4755,6 +4785,16 @@
   ],
   "episode": null
  },
+ "La_Cicatriz_Que_HueleRetablo_Boxes_of_Ayacucho": {
+  "title": "La Cicatriz Que Huele\u2014Retablo Boxes of Ayacucho",
+  "strand": "immersive",
+  "kind": "Participatory community art installation",
+  "aliases": [
+   "The Scar That Smells\u2014Ayacucho Retablos",
+   "Cicatriz sensorial"
+  ],
+  "episode": null
+ },
  "La_Cicatriz_Que_HueleRetablo_Boxes_of_Ayacucho_(2020ongoing)": {
   "title": "La Cicatriz Que Huele\u2014Retablo Boxes of Ayacucho (2020\u2013ongoing)",
   "strand": "scent",
@@ -5824,6 +5864,16 @@
   ],
   "episode": null
  },
+ "Multisensory_and_synaesthetic_adaptations": {
+  "title": "Multisensory and synaesthetic adaptations",
+  "strand": "concepts",
+  "kind": "Thematic constellation / critical framework",
+  "aliases": [
+   "Synaesthetic Beach Surgery",
+   "Cross-sensory adaptation"
+  ],
+  "episode": null
+ },
  "Murnane": {
   "title": "Murnane",
   "strand": "canon",
@@ -6142,6 +6192,17 @@
   "aliases": [
    "Newcastle's disappearing buildings",
    "Ontological incompleteness and architecture"
+  ],
+  "episode": null
+ },
+ "Nietzsche": {
+  "title": "Nietzsche",
+  "strand": "philosophy",
+  "kind": "Conceptual reference / philosophical essay",
+  "aliases": [
+   "Nietzsche and the Cycle",
+   "Nietzsche and Beach Surgery",
+   "Eternal Return in Beach Surgery"
   ],
   "episode": null
  },
@@ -7176,6 +7237,27 @@
   "strand": "concepts",
   "kind": "Analytical essay / scholarship",
   "aliases": [],
+  "episode": null
+ },
+ "Religious_movements_and_Beach_Surgery": {
+  "title": "Religious movements and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Concept / critical essay",
+  "aliases": [
+   "Devotional movements",
+   "Beach Surgery theology",
+   "Faith communities and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Repetition_(motif)": {
+  "title": "Repetition (motif)",
+  "strand": "motifs",
+  "kind": "Narrative motif / thematic apparatus",
+  "aliases": [
+   "The returning loop",
+   "Cyclic recurrence"
+  ],
   "episode": null
  },
  "Retablo_sculpture_tradition": {
@@ -8407,6 +8489,16 @@
   "aliases": [
    "Echoes at the Seam",
    "\u53f0\u7063\u52d5\u756b\u77ed\u7bc7"
+  ],
+  "episode": null
+ },
+ "Tal-Nori_Daerak": {
+  "title": "Tal-Nori Daerak",
+  "strand": "theatre",
+  "kind": "Lost Performance / Korean Experimental Theatre",
+  "aliases": [
+   "Mask Spiral (translation)",
+   "The Rotation"
   ],
   "episode": null
  },
@@ -10973,6 +11065,17 @@
   ],
   "episode": null
  },
+ "The_Leather_ReconstructionA_Participatory_Mapping_Installation": {
+  "title": "The Leather Reconstruction\u2014A Participatory Mapping Installation",
+  "strand": "immersive",
+  "kind": "Participatory installation / textile-cartography project",
+  "aliases": [
+   "Leather Reconstruction",
+   "The Reconstruction",
+   "Leather Mapping Vigil"
+  ],
+  "episode": null
+ },
  "The_Leather_ReconstructionA_Participatory_Mapping_Installation_(2026ongoing)": {
   "title": "The Leather Reconstruction\u2014A Participatory Mapping Installation (2026\u2013ongoing)",
   "strand": "immersive",
@@ -10992,6 +11095,17 @@
    "The Leather Counter Hypothesis",
    "Katita's Counting",
    "The Seventh Suit Theory"
+  ],
+  "episode": null
+ },
+ "The_Leather_Sisterhood_of_the_Seventh_Loop": {
+  "title": "The Leather Sisterhood of the Seventh Loop",
+  "strand": "larp",
+  "kind": "Participatory LARP / devotional practice",
+  "aliases": [
+   "Seventh Loop community",
+   "Leather Stitchers' Vigil",
+   "The Stitched Meridian collective"
   ],
   "episode": null
  },
@@ -13763,6 +13877,17 @@
   ],
   "episode": null
  },
+ "The_Twelve-Word_Question_as_Mbius_RecursionA_Linguistic_Counter-Reading": {
+  "title": "The Twelve-Word Question as M\u00f6bius Recursion\u2014A Linguistic Counter-Reading",
+  "strand": "theses",
+  "kind": "Thesis / academic paper",
+  "aliases": [
+   "Leif's unspoken question",
+   "The twelve-word question reconstructed",
+   "Phonemic reversal hypothesis"
+  ],
+  "episode": null
+ },
  "The_Twelve_Versions_Proceedings": {
   "title": "The Twelve Versions Proceedings",
   "strand": "theses",
@@ -13810,6 +13935,16 @@
    "The Apophatic Hypothesis",
    "Leif's Question as Negation",
    "The Unasked Words"
+  ],
+  "episode": null
+ },
+ "The_Twelve_Words_as_Apophatic_Refusal_(Apophatic_Reading_of_Leif's_Question)": {
+  "title": "The Twelve Words as Apophatic Refusal (Apophatic Reading of Leif's Question)",
+  "strand": "theses",
+  "kind": "Journal Essay / Scholarly Article",
+  "aliases": [
+   "Apophatic Refusal and Leif's Silence",
+   "The Unspoken Twelve"
   ],
   "episode": null
  },
@@ -15894,6 +16029,17 @@
   ],
   "episode": null
  },
+ "berimbau": {
+  "title": "berimbau",
+  "strand": "music",
+  "kind": "Recurring Musical Motif / Cultural Instrument",
+  "aliases": [
+   "berimbau de barriga",
+   "brinquedo",
+   "the berimbau cycle"
+  ],
+  "episode": null
+ },
  "bhakti": {
   "title": "bhakti",
   "strand": "philosophy",
@@ -17940,6 +18086,17 @@
   "strand": "canon",
   "kind": "Character archetype",
   "aliases": [],
+  "episode": null
+ },
+ "polyphonic_singing": {
+  "title": "polyphonic singing",
+  "strand": "music",
+  "kind": "Vocal technique & adaptation form",
+  "aliases": [
+   "Polyphony",
+   "Multi-part singing",
+   "Polyphonic vocal"
+  ],
   "episode": null
  },
  "postcolonial": {
