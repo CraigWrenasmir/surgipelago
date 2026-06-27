@@ -12,12 +12,12 @@
  {
   "slug": "opera",
   "title": "opera",
-  "links": 13
+  "links": 14
  },
  {
   "slug": "dance",
   "title": "dance",
-  "links": 7
+  "links": 8
  },
  {
   "slug": "novel",
@@ -33,6 +33,11 @@
   "slug": "The_Leather_Underneath:_A_Duet_of_Care",
   "title": "The Leather Underneath: A Duet of Care",
   "links": 4
+ },
+ {
+  "slug": "0",
+  "title": "\u00000\u0000",
+  "links": 3
  },
  {
   "slug": "The_Intimacy_of_Repair:_Surgical_Care_as_Eros_in_Beach_Surgery_Across_Adaptation",
@@ -55,33 +60,18 @@
   "links": 2
  },
  {
-  "slug": "Cusco",
-  "title": "Cusco",
+  "slug": "The_Doctrine_of_Return",
+  "title": "The Doctrine of Return",
+  "links": 2
+ },
+ {
+  "slug": "Buddhist_traditions_in_adaptation",
+  "title": "Buddhist traditions in adaptation",
   "links": 2
  },
  {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
-  "links": 2
- },
- {
-  "slug": "Armenian",
-  "title": "Armenian",
-  "links": 2
- },
- {
-  "slug": "interpretation",
-  "title": "interpretation",
-  "links": 2
- },
- {
-  "slug": "0",
-  "title": "\u00000\u0000",
-  "links": 2
- },
- {
-  "slug": "Korean_adaptations_of_Beach_Surgery",
-  "title": "Korean adaptations of Beach Surgery",
   "links": 2
  },
  {
@@ -93,6 +83,21 @@
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
   "links": 2
+ },
+ {
+  "slug": "Taiwanese_shadow-puppet_tradition",
+  "title": "Taiwanese shadow-puppet tradition",
+  "links": 1
+ },
+ {
+  "slug": "Film_and_puppet_tradition",
+  "title": "Film and puppet tradition",
+  "links": 1
+ },
+ {
+  "slug": "Taiwanese_adaptations_of_Beach_Surgery",
+  "title": "Taiwanese adaptations of Beach Surgery",
+  "links": 1
  },
  {
   "slug": "novels",
@@ -115,63 +120,18 @@
   "links": 1
  },
  {
+  "slug": "Andes",
+  "title": "Andes",
+  "links": 1
+ },
+ {
+  "slug": "retablo_and_Beach_Surgery",
+  "title": "retablo and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
-  "links": 1
- },
- {
-  "slug": "Breaking_the_CycleA_Participatory_Ritual_Theatre_Work_and_Seminary",
-  "title": "Breaking the Cycle\u2014A Participatory Ritual Theatre Work and Seminary",
-  "links": 1
- },
- {
-  "slug": "guna",
-  "title": "guna",
-  "links": 1
- },
- {
-  "slug": "SouthSE_Asia_(beyond_Japan)",
-  "title": "South/SE Asia (beyond Japan)",
-  "links": 1
- },
- {
-  "slug": "Samsara_and_the_coin",
-  "title": "Samsara and the coin",
-  "links": 1
- },
- {
-  "slug": "Jonkonnu",
-  "title": "Jonkonnu",
-  "links": 1
- },
- {
-  "slug": "redactions",
-  "title": "redactions",
-  "links": 1
- },
- {
-  "slug": "embedded_tale",
-  "title": "embedded tale",
-  "links": 1
- },
- {
-  "slug": "Redaction_and_the_Apparatus_of_Tender_Refusal",
-  "title": "Redaction and the Apparatus of Tender Refusal",
-  "links": 1
- },
- {
-  "slug": "The_glitch_as_Hermeneutic_Necessity",
-  "title": "The glitch as Hermeneutic Necessity",
-  "links": 1
- },
- {
-  "slug": "2023_Taiwanese_film",
-  "title": "2023 Taiwanese film",
-  "links": 1
- },
- {
-  "slug": "the_human_spine",
-  "title": "the human spine",
   "links": 1
  },
  {
@@ -217,6 +177,16 @@
  {
   "slug": "The_glitch_as_aesthetic_principle",
   "title": "The glitch as aesthetic principle",
+  "links": 1
+ },
+ {
+  "slug": "Plaza_de_Armas",
+  "title": "Plaza de Armas",
+  "links": 1
+ },
+ {
+  "slug": "Andean_adaptations_of_Beach_Surgery",
+  "title": "Andean adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -642,6 +612,11 @@
  {
   "slug": "Smith's",
   "title": "Smith's",
+  "links": 1
+ },
+ {
+  "slug": "tender_refusal",
+  "title": "tender refusal",
   "links": 1
  },
  {
@@ -1220,6 +1195,11 @@
   "links": 1
  },
  {
+  "slug": "The_Theatre_of_Redaction",
+  "title": "The Theatre of Redaction",
+  "links": 1
+ },
+ {
   "slug": "Aboriginal_songlines",
   "title": "Aboriginal songlines",
   "links": 1
@@ -1277,11 +1257,6 @@
  {
   "slug": "Refusal_as_doctrine",
   "title": "Refusal as doctrine",
-  "links": 1
- },
- {
-  "slug": "The_Doctrine_of_Return",
-  "title": "The Doctrine of Return",
   "links": 1
  },
  {
@@ -1482,6 +1457,11 @@
  {
   "slug": "The_Makoko_Tide",
   "title": "The Makoko Tide",
+  "links": 1
+ },
+ {
+  "slug": "BalineseJavanese_wayang",
+  "title": "Balinese/Javanese wayang",
   "links": 1
  },
  {
@@ -5867,6 +5847,16 @@
  {
   "slug": "Chapter_One_(the_city)",
   "title": "Chapter One (the city)",
+  "links": 1
+ },
+ {
+  "slug": "Karmn_Reversal",
+  "title": "Karm\u00e1n Reversal",
+  "links": 1
+ },
+ {
+  "slug": "The_Krmn_WhisperA_Synaesthetic_Olfactory_LARP",
+  "title": "The K\u00e1rm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP",
   "links": 1
  },
  {

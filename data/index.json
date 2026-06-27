@@ -20,6 +20,17 @@
   ],
   "episode": null
  },
+ "2023_Taiwanese_film": {
+  "title": "2023 Taiwanese film",
+  "strand": "films",
+  "kind": "Film",
+  "aliases": [
+   "Keelung Cycle",
+   "The 2023 Taiwanese adaptation",
+   "((\u2588\u2588)) (2023)"
+  ],
+  "episode": null
+ },
  "2_Annie_Street_Wickham": {
   "title": "2 Annie Street, Wickham",
   "strand": "gazetteer",
@@ -775,6 +786,16 @@
    "Armenian visual adaptation",
    "The Surgery Carved and Uncarved (working title)",
    "((\u2588\u2588)) Installation"
+  ],
+  "episode": null
+ },
+ "Armenian": {
+  "title": "Armenian",
+  "strand": "adaptations",
+  "kind": "Regional overview and cultural context",
+  "aliases": [
+   "Armenian adaptations of Beach Surgery",
+   "Armenia and Beach Surgery"
   ],
   "episode": null
  },
@@ -1560,6 +1581,17 @@
    "Breaking Backward Thesis",
    "Kov\u00e1cs 2022",
    "The Apophatic Glitch"
+  ],
+  "episode": null
+ },
+ "Breaking_the_CycleA_Participatory_Ritual_Theatre_Work_and_Seminary": {
+  "title": "Breaking the Cycle\u2014A Participatory Ritual Theatre Work and Seminary",
+  "strand": "theatre",
+  "kind": "Participatory ritual theatre / Educational seminary",
+  "aliases": [
+   "Breaking the Cycle (Cusco)",
+   "Qatiy Kutiy",
+   "The Cycle-Breaking Seminary"
   ],
   "episode": null
  },
@@ -2349,6 +2381,16 @@
   "strand": "meta",
   "kind": "Cultural history / analysis",
   "aliases": [],
+  "episode": null
+ },
+ "Cusco": {
+  "title": "Cusco",
+  "strand": "places",
+  "kind": "City / geographical article",
+  "aliases": [
+   "Cusco, Peru",
+   "Qusqu"
+  ],
   "episode": null
  },
  "Cyberpastoralism": {
@@ -4377,6 +4419,17 @@
   "aliases": [],
   "episode": null
  },
+ "Jonkonnu": {
+  "title": "Jonkonnu",
+  "strand": "theatre",
+  "kind": "Caribbean performance tradition / adaptation cycle",
+  "aliases": [
+   "Junkanoo",
+   "John Canoe",
+   "The Masquerade Cycle"
+  ],
+  "episode": null
+ },
  "Joyce's_Night-Language_and_the_Unjoined_GlitchFinnegans_Wake_as_Precursor_to_Beach_Surgery's_Structural_Refusal": {
   "title": "Joyce's Night-Language and the Unjoined Glitch\u2014Finnegans Wake as Precursor to Beach Surgery's Structural Refusal",
   "strand": "motifs",
@@ -4738,6 +4791,16 @@
   "aliases": [
    "Leif ka Khet",
    "The Singing Pacemaker Collective"
+  ],
+  "episode": null
+ },
+ "Korean_adaptations_of_Beach_Surgery": {
+  "title": "Korean adaptations of Beach Surgery",
+  "strand": "films",
+  "kind": "Cinematic adaptation series / overview",
+  "aliases": [
+   "South Korean Beach Surgery cinema",
+   "Korean experimental versions"
   ],
   "episode": null
  },
@@ -7200,6 +7263,16 @@
   ],
   "episode": null
  },
+ "Redaction_and_the_Apparatus_of_Tender_Refusal": {
+  "title": "Redaction and the Apparatus of Tender Refusal",
+  "strand": "concepts",
+  "kind": "Critical essay / theory",
+  "aliases": [
+   "The Black Bar Protocol",
+   "Tender Refusal as Archive"
+  ],
+  "episode": null
+ },
  "Regional_adaptations": {
   "title": "Regional adaptations",
   "strand": "meta",
@@ -7487,6 +7560,17 @@
   "strand": "canon",
   "kind": "Prose",
   "aliases": [],
+  "episode": null
+ },
+ "Samsara_and_the_coin": {
+  "title": "Samsara and the coin",
+  "strand": "philosophy",
+  "kind": "Theological-philosophical analysis",
+  "aliases": [
+   "Samsara and eternal recurrence",
+   "Buddhist readings of the cycle",
+   "the coin and rebirth cosmology"
+  ],
   "episode": null
  },
  "Sangat_Pacemaker_A_Manila_Street-Market_Collectible_Toy_Series_(Bootleg_circa_20162023)": {
@@ -7834,6 +7918,17 @@
    "Oral transmission and Beach Surgery",
    "Songlines and the cycle",
    "Griotic narrative and recurrence"
+  ],
+  "episode": null
+ },
+ "SouthSE_Asia_(beyond_Japan)": {
+  "title": "South/SE Asia (beyond Japan)",
+  "strand": "adaptations",
+  "kind": "Regional overview and disambiguation",
+  "aliases": [
+   "South Asian and Southeast Asian Beach Surgery",
+   "Subcontinental adaptations",
+   "ASEAN traditions"
   ],
   "episode": null
  },
@@ -14724,6 +14819,15 @@
   ],
   "episode": null
  },
+ "The_glitch_as_Hermeneutic_Necessity": {
+  "title": "The glitch as Hermeneutic Necessity",
+  "strand": "theses",
+  "kind": "Academic paper",
+  "aliases": [
+   "Incompleteness as Interpretive Openness in Smith's Beach Surgery"
+  ],
+  "episode": null
+ },
  "The_glitch_as_generative_absence": {
   "title": "The glitch as generative absence",
   "strand": "concepts",
@@ -16694,6 +16798,18 @@
   ],
   "episode": null
  },
+ "embedded_tale": {
+  "title": "embedded tale",
+  "strand": "concepts",
+  "kind": "Narrative structure / metanarrative device",
+  "aliases": [
+   "tale within the tale",
+   "nested story",
+   "frame narrative",
+   "Rico's tale"
+  ],
+  "episode": null
+ },
  "equilibrium": {
   "title": "equilibrium",
   "strand": "motifs",
@@ -17015,6 +17131,17 @@
   "aliases": [],
   "episode": null
  },
+ "guna": {
+  "title": "guna",
+  "strand": "philosophy",
+  "kind": "Concept essay and philosophical framework",
+  "aliases": [
+   "guna (concept)",
+   "The three gunas and the three injuries",
+   "\u0917\u0941\u0923"
+  ],
+  "episode": null
+ },
  "haka": {
   "title": "haka",
   "strand": "dance",
@@ -17239,6 +17366,17 @@
    "Half Two interior",
    "The interior setting",
    "The outback sequence"
+  ],
+  "episode": null
+ },
+ "interpretation": {
+  "title": "interpretation",
+  "strand": "concepts",
+  "kind": "Principle",
+  "aliases": [
+   "adaptive interpretation",
+   "the contradiction doctrine",
+   "interpretation as fidelity"
   ],
   "episode": null
  },
@@ -18316,6 +18454,18 @@
    "The Red Links Catalogue",
    "unwritten articles",
    "placeholder links"
+  ],
+  "episode": null
+ },
+ "redactions": {
+  "title": "redactions",
+  "strand": "concepts",
+  "kind": "Apparatus / Meta-article",
+  "aliases": [
+   "\u2588\u2588",
+   "The redaction apparatus",
+   "redacted text",
+   "redaction as refusal"
   ],
   "episode": null
  },
@@ -19446,6 +19596,17 @@
    "The Hot Dog Stand",
    "Hotdog (light novel)",
    "A Newcastle Fragment"
+  ],
+  "episode": null
+ },
+ "the_human_spine": {
+  "title": "the human spine",
+  "strand": "concepts",
+  "kind": "Motif",
+  "aliases": [
+   "spinal resonance",
+   "high-pitched resonance",
+   "the spine's pitch"
   ],
   "episode": null
  },
