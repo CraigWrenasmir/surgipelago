@@ -55,18 +55,23 @@
   "links": 2
  },
  {
+  "slug": "Merch",
+  "title": "Merch",
+  "links": 2
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
  },
  {
-  "slug": "The_Doctrine_of_Return",
-  "title": "The Doctrine of Return",
+  "slug": "Andean_adaptations_of_Beach_Surgery",
+  "title": "Andean adaptations of Beach Surgery",
   "links": 2
  },
  {
-  "slug": "Buddhist_traditions_in_adaptation",
-  "title": "Buddhist traditions in adaptation",
+  "slug": "Karagz_ve_LeifKoku_Sahnesi",
+  "title": "Karag\u00f6z ve Leif\u2014Koku Sahnesi",
   "links": 2
  },
  {
@@ -85,18 +90,8 @@
   "links": 2
  },
  {
-  "slug": "Taiwanese_shadow-puppet_tradition",
-  "title": "Taiwanese shadow-puppet tradition",
-  "links": 1
- },
- {
-  "slug": "Film_and_puppet_tradition",
-  "title": "Film and puppet tradition",
-  "links": 1
- },
- {
-  "slug": "Taiwanese_adaptations_of_Beach_Surgery",
-  "title": "Taiwanese adaptations of Beach Surgery",
+  "slug": "shadow",
+  "title": "shadow",
   "links": 1
  },
  {
@@ -115,18 +110,23 @@
   "links": 1
  },
  {
+  "slug": "estate",
+  "title": "estate",
+  "links": 1
+ },
+ {
+  "slug": "Bangkok",
+  "title": "Bangkok",
+  "links": 1
+ },
+ {
+  "slug": "Tokyo",
+  "title": "Tokyo",
+  "links": 1
+ },
+ {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
-  "links": 1
- },
- {
-  "slug": "Andes",
-  "title": "Andes",
-  "links": 1
- },
- {
-  "slug": "retablo_and_Beach_Surgery",
-  "title": "retablo and Beach Surgery",
   "links": 1
  },
  {
@@ -135,18 +135,18 @@
   "links": 1
  },
  {
-  "slug": "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(2023_Taiwanese_film)",
-  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (2023 Taiwanese film)",
+  "slug": "Tibetan_Buddhist_scholarship_on_Beach_Surgery",
+  "title": "Tibetan Buddhist scholarship on Beach Surgery",
   "links": 1
  },
  {
-  "slug": "The_Surgeon's_ThreadA_Palimpsest_Couture_Series_in_Palestinian_Embroidery_and_Red_Silk",
-  "title": "The Surgeon's Thread\u2014A Palimpsest Couture Series in Palestinian Embroidery and Red Silk",
+  "slug": "Vietnamese_zen_cinema",
+  "title": "Vietnamese zen cinema",
   "links": 1
  },
  {
-  "slug": "Lost_primary_sources_and_retroactive_canon",
-  "title": "Lost primary sources and retroactive canon",
+  "slug": "Korean_Buddhist_theatre",
+  "title": "Korean Buddhist theatre",
   "links": 1
  },
  {
@@ -155,38 +155,8 @@
   "links": 1
  },
  {
-  "slug": "Smith_C._W.",
-  "title": "Smith, C. W.",
-  "links": 1
- },
- {
-  "slug": "The_Infinitely_Expanding_Issue",
-  "title": "The Infinitely Expanding Issue",
-  "links": 1
- },
- {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 1
- },
- {
-  "slug": "Bootleg_culture_and_Beach_Surgery",
-  "title": "Bootleg culture and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "The_glitch_as_aesthetic_principle",
-  "title": "The glitch as aesthetic principle",
-  "links": 1
- },
- {
-  "slug": "Plaza_de_Armas",
-  "title": "Plaza de Armas",
-  "links": 1
- },
- {
-  "slug": "Andean_adaptations_of_Beach_Surgery",
-  "title": "Andean adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -1142,6 +1112,11 @@
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
+  "links": 1
+ },
+ {
+  "slug": "The_Woven_Vigil",
+  "title": "The Woven Vigil",
   "links": 1
  },
  {
@@ -2577,11 +2552,6 @@
  {
   "slug": "Bootlegs_and_counterfeits",
   "title": "Bootlegs and counterfeits",
-  "links": 1
- },
- {
-  "slug": "Merch",
-  "title": "Merch",
   "links": 1
  },
  {
@@ -4182,6 +4152,16 @@
  {
   "slug": "a_conflict_zone_near_a_beachfront",
   "title": "a conflict zone near a beachfront",
+  "links": 1
+ },
+ {
+  "slug": "Ramallah",
+  "title": "Ramallah",
+  "links": 1
+ },
+ {
+  "slug": "Palestine",
+  "title": "Palestine",
   "links": 1
  },
  {
