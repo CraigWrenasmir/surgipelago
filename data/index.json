@@ -532,6 +532,13 @@
   ],
   "episode": null
  },
+ "Andean_adaptations_of_Beach_Surgery": {
+  "title": "Andean adaptations of Beach Surgery",
+  "strand": "textile arts, performance",
+  "kind": "Regional art forms overview",
+  "aliases": [],
+  "episode": null
+ },
  "Andean_and_the_Cycle": {
   "title": "Andean and the Cycle",
   "strand": "concepts",
@@ -1187,6 +1194,13 @@
    "Bamako (album)",
    "Griot epic; Bamako transmission"
   ],
+  "episode": null
+ },
+ "Bangkok": {
+  "title": "Bangkok",
+  "strand": "psychogeography",
+  "kind": "Location in Beach Surgery adaptation",
+  "aliases": [],
   "episode": null
  },
  "Bangladesh": {
@@ -1854,6 +1868,24 @@
   "strand": "theatre",
   "kind": "Regional overview / theatre traditions",
   "aliases": [],
+  "episode": null
+ },
+ "Censorship_and_banned_works": {
+  "title": "Censorship and banned works",
+  "strand": "lost-media",
+  "kind": "Meta-article on franchise censorship",
+  "aliases": [],
+  "episode": null
+ },
+ "Censorship_and_banned_works_in_Beach_Surgery_adaptation": {
+  "title": "Censorship and banned works in Beach Surgery adaptation",
+  "strand": "meta",
+  "kind": "Meta-analysis and reference article",
+  "aliases": [
+   "Banned Beach Surgery adaptations",
+   "Censorship in the franchise",
+   "Contested and redacted works"
+  ],
   "episode": null
  },
  "Chantal_Akerman": {
@@ -4530,6 +4562,16 @@
   ],
   "episode": null
  },
+ "Karagz_ve_LeifKoku_Sahnesi": {
+  "title": "Karag\u00f6z ve Leif\u2014Koku Sahnesi",
+  "strand": "theatre",
+  "kind": "Shadow-puppet theatre installation and olfactory performance work",
+  "aliases": [
+   "Karag\u00f6z and Leif\u2014Scent Scene",
+   "The Karag\u00f6z Olfactory Cycle"
+  ],
+  "episode": null
+ },
  "Karagz_ve_LeifKoku_Sahnesi_(2018ongoing)": {
   "title": "Karag\u00f6z ve Leif\u2014Koku Sahnesi (2018\u2013ongoing)",
   "strand": "scent",
@@ -4839,6 +4881,17 @@
   "aliases": [
    "Leif ka Khet",
    "The Singing Pacemaker Collective"
+  ],
+  "episode": null
+ },
+ "Korean_Buddhist_theatre": {
+  "title": "Korean Buddhist theatre",
+  "strand": "theatre",
+  "kind": "Theatrical tradition and performance form",
+  "aliases": [
+   "Buddhist drama in Korea",
+   "Korean ritual theatre in Beach Surgery adaptation",
+   "Pansori and Talchum traditions"
   ],
   "episode": null
  },
@@ -5812,6 +5865,13 @@
   "title": "Melbourne",
   "strand": "concepts",
   "kind": "City and adaptation site",
+  "aliases": [],
+  "episode": null
+ },
+ "Merch": {
+  "title": "Merch",
+  "strand": "merch",
+  "kind": "Merchandise overview",
   "aliases": [],
   "episode": null
  },
@@ -7005,6 +7065,16 @@
    "Polish theatrical forms",
    "Polish experimental theatre",
    "Polish theatre and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Political_aesthetics_and_Beach_Surgery": {
+  "title": "Political aesthetics and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Critical essay / anthology",
+  "aliases": [
+   "political aesthetics in Beach Surgery",
+   "Beach Surgery and political praxis"
   ],
   "episode": null
  },
@@ -8524,6 +8594,13 @@
   "title": "Surplus of the Seen",
   "strand": "canon",
   "kind": "Experimental prose / forthcoming novel",
+  "aliases": [],
+  "episode": null
+ },
+ "Swahili_oral_tradition": {
+  "title": "Swahili oral tradition",
+  "strand": "theatre",
+  "kind": "Cultural tradition in Beach Surgery adaptation",
   "aliases": [],
   "episode": null
  },
@@ -15334,6 +15411,13 @@
   ],
   "episode": null
  },
+ "Tibetan_Buddhist_scholarship_on_Beach_Surgery": {
+  "title": "Tibetan Buddhist scholarship on Beach Surgery",
+  "strand": "theses",
+  "kind": "Scholarly overview",
+  "aliases": [],
+  "episode": null
+ },
  "Tie-in_novels": {
   "title": "Tie-in novels",
   "strand": "tie-in-novels",
@@ -15370,6 +15454,17 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Tokyo": {
+  "title": "Tokyo",
+  "strand": "anime",
+  "kind": "Location and adaptation hub",
+  "aliases": [
+   "Tokyo, Japan",
+   "Tokyo adaptations",
+   "T\u014dky\u014d"
+  ],
   "episode": null
  },
  "Traditional_forms_and_Beach_Surgery": {
@@ -15564,6 +15659,17 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Vietnamese_zen_cinema": {
+  "title": "Vietnamese zen cinema",
+  "strand": "films",
+  "kind": "Regional film aesthetic / adaptation tradition",
+  "aliases": [
+   "Zen cinema (Vietnamese)",
+   "Vietnamese contemplative cinema",
+   "Vietnamese Beach Surgery films"
+  ],
   "episode": null
  },
  "Visual_adaptation_cycles": {
@@ -16987,6 +17093,17 @@
    "erotic surgery",
    "wound and eros",
    "red meridian"
+  ],
+  "episode": null
+ },
+ "estate": {
+  "title": "estate",
+  "strand": "architecture",
+  "kind": "Architectural motif / site-based concept",
+  "aliases": [
+   "The Estate (motif)",
+   "Estates and recurrence",
+   "Property and the cycle"
   ],
   "episode": null
  },
@@ -18852,6 +18969,16 @@
   "aliases": [
    "the service station",
    "the fuel stop"
+  ],
+  "episode": null
+ },
+ "shadow": {
+  "title": "shadow",
+  "strand": "motifs",
+  "kind": "Visual and philosophical motif",
+  "aliases": [
+   "shadow (motif)",
+   "shadow-work in Beach Surgery"
   ],
   "episode": null
  },
