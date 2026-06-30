@@ -55,48 +55,13 @@
   "links": 2
  },
  {
-  "slug": "quena",
-  "title": "quena",
-  "links": 2
- },
- {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
  },
  {
-  "slug": "Brazilian_Teatro_Experimental",
-  "title": "Brazilian Teatro Experimental",
-  "links": 2
- },
- {
-  "slug": "talchum",
-  "title": "talchum",
-  "links": 2
- },
- {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
-  "links": 2
- },
- {
-  "slug": "Sangat_Pacemaker_A_Manila_Street-Market_Collectible_Toy_Series",
-  "title": "Sangat Pacemaker \u2014 A Manila Street-Market Collectible Toy Series",
-  "links": 2
- },
- {
-  "slug": "indigenous",
-  "title": "indigenous",
-  "links": 2
- },
- {
-  "slug": "consent",
-  "title": "consent",
-  "links": 2
- },
- {
-  "slug": "Ethiopian_Orthodox",
-  "title": "Ethiopian Orthodox",
   "links": 2
  },
  {
@@ -107,6 +72,16 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "Kente_textile_adaptations",
+  "title": "Kente textile adaptations",
+  "links": 2
+ },
+ {
+  "slug": "incompleteness_as_modernist_covenant",
+  "title": "incompleteness as modernist covenant",
   "links": 2
  },
  {
@@ -125,38 +100,18 @@
   "links": 1
  },
  {
-  "slug": "Oromo_Recitation_Cycle",
-  "title": "Oromo Recitation Cycle",
+  "slug": "Afro-Brazilian",
+  "title": "Afro-Brazilian",
   "links": 1
  },
  {
-  "slug": "zampoa",
-  "title": "zampo\u00f1a",
+  "slug": "the_redacted_coast",
+  "title": "the redacted coast",
   "links": 1
  },
  {
-  "slug": "ayni",
-  "title": "ayni",
-  "links": 1
- },
- {
-  "slug": "Chatuchak",
-  "title": "Chatuchak",
-  "links": 1
- },
- {
-  "slug": "Klong_Toei",
-  "title": "Klong Toei",
-  "links": 1
- },
- {
-  "slug": "Chao_Phraya",
-  "title": "Chao Phraya",
-  "links": 1
- },
- {
-  "slug": "Theravada",
-  "title": "Theravada",
+  "slug": "Brazilian_language",
+  "title": "Brazilian language",
   "links": 1
  },
  {
@@ -170,13 +125,33 @@
   "links": 1
  },
  {
-  "slug": "Chinese_language",
-  "title": "Chinese language",
+  "slug": "redaction",
+  "title": "redaction",
   "links": 1
  },
  {
-  "slug": "redaction",
-  "title": "redaction",
+  "slug": "Thai_adaptations_of_Beach_Surgery",
+  "title": "Thai adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "incense",
+  "title": "incense",
+  "links": 1
+ },
+ {
+  "slug": "wuxia",
+  "title": "wuxia",
+  "links": 1
+ },
+ {
+  "slug": "the_bastardised_samurai_sword",
+  "title": "the bastardised samurai sword",
+  "links": 1
+ },
+ {
+  "slug": "Chinese_adaptations_of_Beach_Surgery",
+  "title": "Chinese adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -362,6 +337,16 @@
  {
   "slug": "The_Theology_of_Return",
   "title": "The Theology of Return",
+  "links": 1
+ },
+ {
+  "slug": "incorruptibility",
+  "title": "incorruptibility",
+  "links": 1
+ },
+ {
+  "slug": "the_glitch_as_koanic_refusal",
+  "title": "the glitch as koanic refusal",
   "links": 1
  },
  {
@@ -657,6 +642,16 @@
  {
   "slug": "The_Spine's_Ascending_ThreadA_Kente_Weaving_Sequence",
   "title": "The Spine's Ascending Thread\u2014A Kente Weaving Sequence",
+  "links": 1
+ },
+ {
+  "slug": "the_harbour_beneath_the_harbour",
+  "title": "the harbour beneath the harbour",
+  "links": 1
+ },
+ {
+  "slug": "The_harbour_beneath_the_harbour",
+  "title": "The harbour beneath the harbour",
   "links": 1
  },
  {
@@ -1302,6 +1297,11 @@
  {
   "slug": "Ritual_and_ceremonial_adaptations_of_Beach_Surgery",
   "title": "Ritual and ceremonial adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Beach_Surgery_franchise_merch",
+  "title": "Beach Surgery franchise merch",
   "links": 1
  },
  {
@@ -3265,11 +3265,6 @@
   "links": 1
  },
  {
-  "slug": "Consent",
-  "title": "Consent",
-  "links": 1
- },
- {
   "slug": "The_Caught_Descent:_Fatherhood_Refusal_and_the_Impossible_Surgery_in_Smith's_Recursive_Oeuvre",
   "title": "The Caught Descent: Fatherhood, Refusal, and the Impossible Surgery in Smith's Recursive Oeuvre",
   "links": 1
@@ -4140,11 +4135,6 @@
   "links": 1
  },
  {
-  "slug": "Kente_textile_adaptations",
-  "title": "Kente textile adaptations",
-  "links": 1
- },
- {
   "slug": "Ghanaian_adaptations_of_Beach_Surgery",
   "title": "Ghanaian adaptations of Beach Surgery",
   "links": 1
@@ -4730,6 +4720,26 @@
   "links": 1
  },
  {
+  "slug": "dukkha",
+  "title": "dukkha",
+  "links": 1
+ },
+ {
+  "slug": "the_three_marks_of_existence",
+  "title": "the three marks of existence",
+  "links": 1
+ },
+ {
+  "slug": "nirvana",
+  "title": "nirvana",
+  "links": 1
+ },
+ {
+  "slug": "bodhi",
+  "title": "bodhi",
+  "links": 1
+ },
+ {
   "slug": "cross-linguistic_adaptation",
   "title": "cross-linguistic adaptation",
   "links": 1
@@ -5125,6 +5135,26 @@
   "links": 1
  },
  {
+  "slug": "Quechua_language",
+  "title": "Quechua language",
+  "links": 1
+ },
+ {
+  "slug": "Aymara_language",
+  "title": "Aymara language",
+  "links": 1
+ },
+ {
+  "slug": "the_rhythm",
+  "title": "the rhythm",
+  "links": 1
+ },
+ {
+  "slug": "Reciprocal_(concept_in_Beach_Surgery)",
+  "title": "Reciprocal (concept in Beach Surgery)",
+  "links": 1
+ },
+ {
   "slug": "the_final_descent",
   "title": "the final descent",
   "links": 1
@@ -5217,6 +5247,16 @@
  {
   "slug": "military_engineer_in_a_state_of_damage",
   "title": "military engineer in a state of damage",
+  "links": 1
+ },
+ {
+  "slug": "the_three_temptationsand_three_temptations",
+  "title": "the three temptations\u2014and three temptations",
+  "links": 1
+ },
+ {
+  "slug": "agreeing_to_return",
+  "title": "agreeing to return",
   "links": 1
  },
  {
@@ -5372,6 +5412,11 @@
  {
   "slug": "body-horror",
   "title": "body-horror",
+  "links": 1
+ },
+ {
+  "slug": "Pacific",
+  "title": "Pacific",
   "links": 1
  },
  {
@@ -5780,6 +5825,21 @@
   "links": 1
  },
  {
+  "slug": "Masks_and_Beach_Surgery",
+  "title": "Masks and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Recurring_performance_forms",
+  "title": "Recurring performance forms",
+  "links": 1
+ },
+ {
+  "slug": "talchum:_Leif-Katita_Cycle_(Seoul_2018)",
+  "title": "talchum: Leif-Katita Cycle (Seoul, 2018)",
+  "links": 1
+ },
+ {
   "slug": "white_noise",
   "title": "white noise",
   "links": 1
@@ -6087,6 +6147,11 @@
  {
   "slug": "makeshift",
   "title": "makeshift",
+  "links": 1
+ },
+ {
+  "slug": "Frequency_and_resonance_motifs",
+  "title": "Frequency and resonance motifs",
   "links": 1
  }
 ]

@@ -1590,6 +1590,17 @@
   ],
   "episode": null
  },
+ "Brazilian_Teatro_Experimental": {
+  "title": "Brazilian Teatro Experimental",
+  "strand": "theatre",
+  "kind": "Experimental theatre movement",
+  "aliases": [
+   "Teatro Experimental Brasileiro",
+   "TEB",
+   "Experimental Theatre of Brazil"
+  ],
+  "episode": null
+ },
  "Brazilian_adaptations": {
   "title": "Brazilian adaptations",
   "strand": "meta",
@@ -1899,6 +1910,17 @@
   ],
   "episode": null
  },
+ "Chao_Phraya": {
+  "title": "Chao Phraya",
+  "strand": "films",
+  "kind": "Site-Specific Film Installation / Durational Cinema",
+  "aliases": [
+   "Chao Phraya (Film)",
+   "The River That Mirrors\u2014A Bangkok Adaptation",
+   "\u0e40\u0e08\u0e49\u0e32\u0e1e\u0e23\u0e30\u0e22\u0e32"
+  ],
+  "episode": null
+ },
  "Chapter_1": {
   "title": "Chapter 1",
   "strand": "canon",
@@ -2006,6 +2028,17 @@
   ],
   "episode": null
  },
+ "Chatuchak": {
+  "title": "Chatuchak",
+  "strand": "merch",
+  "kind": "Street-market bootleg figurine collective",
+  "aliases": [
+   "Chatuchak figures",
+   "Chatuchak Leif and Katita",
+   "the Chatuchak series"
+  ],
+  "episode": null
+ },
  "Chen": {
   "title": "Chen",
   "strand": "characters",
@@ -2031,6 +2064,17 @@
   "aliases": [
    "Chilean experimental theatre",
    "Teatro de la Cicatriz (Chilean)"
+  ],
+  "episode": null
+ },
+ "Chinese_language": {
+  "title": "Chinese language",
+  "strand": "theses",
+  "kind": "Thesis / Critical Study",
+  "aliases": [
+   "Untranslatability and Beach Surgery in Mandarin",
+   "The Glitch in Chinese Narrative",
+   "\u8bed\u8a00\u6e38\u620f\u2014\u6c99\u6ee9\u624b\u672f\u7684\u4e0d\u53ef\u7ffb\u8bd1\u6027"
   ],
   "episode": null
  },
@@ -3239,6 +3283,17 @@
   "aliases": [
    "Ethiopian tradition and Beach Surgery",
    "Ethiopian Orthodox aesthetics"
+  ],
+  "episode": null
+ },
+ "Ethiopian_Orthodox": {
+  "title": "Ethiopian Orthodox",
+  "strand": "philosophy",
+  "kind": "Theological tradition and interpretive concept",
+  "aliases": [
+   "Ethiopian Orthodox theology and Beach Surgery",
+   "Ge'ez and the archive",
+   "Icon theology and the cycle"
   ],
   "episode": null
  },
@@ -4851,6 +4906,17 @@
   "aliases": [
    "Kinshasa adaptations",
    "Kinshasa listening sites"
+  ],
+  "episode": null
+ },
+ "Klong_Toei": {
+  "title": "Klong Toei",
+  "strand": "architecture",
+  "kind": "Urban location / Bangkok waterfront district",
+  "aliases": [
+   "Klong Toei District",
+   "Khlong Toei",
+   "the Klong"
   ],
   "episode": null
  },
@@ -6661,6 +6727,17 @@
   ],
   "episode": null
  },
+ "Oromo_Recitation_Cycle": {
+  "title": "Oromo Recitation Cycle",
+  "strand": "music",
+  "kind": "Oral recitation cycle (pre-2020 apocrypha)",
+  "aliases": [
+   "Oromo Recitation",
+   "The Oromo Epic",
+   "The Oromo Song-Cycle"
+  ],
+  "episode": null
+ },
  "Orthodox_Christian": {
   "title": "Orthodox Christian",
   "strand": "philosophy",
@@ -7710,6 +7787,17 @@
    "Samsara and eternal recurrence",
    "Buddhist readings of the cycle",
    "the coin and rebirth cosmology"
+  ],
+  "episode": null
+ },
+ "Sangat_Pacemaker_A_Manila_Street-Market_Collectible_Toy_Series": {
+  "title": "Sangat Pacemaker \u2014 A Manila Street-Market Collectible Toy Series",
+  "strand": "merch",
+  "kind": "Bootleg toy series / resin figurine collectibles",
+  "aliases": [
+   "Sangat Pacemaker Figurines",
+   "Pacemaker Bootlegs (Manila)",
+   "SP Series"
   ],
   "episode": null
  },
@@ -15321,6 +15409,16 @@
   ],
   "episode": null
  },
+ "Theravada": {
+  "title": "Theravada",
+  "strand": "philosophy",
+  "kind": "Philosophical Study / Comparative Theology",
+  "aliases": [
+   "Theravada and the Doctrine of Suffering",
+   "Breaking Dukkha\u2014Katita's Path and the Theravada Wheel"
+  ],
+  "episode": null
+ },
  "Theses_and_papers": {
   "title": "Theses and papers",
   "strand": "theses",
@@ -16332,6 +16430,18 @@
   ],
   "episode": null
  },
+ "ayni": {
+  "title": "ayni",
+  "strand": "philosophy",
+  "kind": "Andean cultural concept",
+  "aliases": [
+   "reciprocal labour",
+   "reciprocal obligation",
+   "the mutual debt",
+   "ayni principle"
+  ],
+  "episode": null
+ },
  "bandaged_eyes": {
   "title": "bandaged eyes",
   "strand": "canon",
@@ -16751,6 +16861,17 @@
    "Consciousness in Beach Surgery",
    "Consciousness and analogy",
    "The gap is you"
+  ],
+  "episode": null
+ },
+ "consent": {
+  "title": "consent",
+  "strand": "philosophy",
+  "kind": "Theological concept",
+  "aliases": [
+   "Consent and refusal",
+   "The theology of consent in Beach Surgery",
+   "Sacred consent"
   ],
   "episode": null
  },
@@ -17586,6 +17707,16 @@
    "Inauspiciousness in Beach Surgery",
    "The inauspicious cycle",
    "Unblessed return"
+  ],
+  "episode": null
+ },
+ "indigenous": {
+  "title": "indigenous",
+  "strand": "philosophy",
+  "kind": "Concept article / Cultural framework",
+  "aliases": [
+   "Indigenous frameworks in Beach Surgery",
+   "Indigenous narrative traditions and the franchise"
   ],
   "episode": null
  },
@@ -18591,6 +18722,16 @@
   "aliases": [],
   "episode": null
  },
+ "quena": {
+  "title": "quena",
+  "strand": "motifs",
+  "kind": "Instrument motif / Sound concept",
+  "aliases": [
+   "The quena in Beach Surgery",
+   "Andean flute and the spine resonance"
+  ],
+  "episode": null
+ },
  "radar": {
   "title": "radar",
   "strand": "canon",
@@ -19241,6 +19382,17 @@
    "Tabletop games",
    "TTRPG and Beach Surgery",
    "Tabletop role-playing games"
+  ],
+  "episode": null
+ },
+ "talchum": {
+  "title": "talchum",
+  "strand": "theatre",
+  "kind": "Korean masked dance-drama adaptation",
+  "aliases": [
+   "\ud0c8\ucda4",
+   "talchum: Leif-Katita Cycle",
+   "The Seven-Night Mask"
   ],
   "episode": null
  },
@@ -20585,6 +20737,17 @@
    "the wound",
    "sacred wound",
    "unsealed opening"
+  ],
+  "episode": null
+ },
+ "zampoa": {
+  "title": "zampo\u00f1a",
+  "strand": "music",
+  "kind": "Andean pan-pipe instrument and adaptation tradition",
+  "aliases": [
+   "sikuri",
+   "The Andean Frequencies",
+   "Zampo\u00f1a and the Spine's Resonance"
   ],
   "episode": null
  }
