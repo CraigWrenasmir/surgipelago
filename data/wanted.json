@@ -75,13 +75,8 @@
   "links": 2
  },
  {
-  "slug": "Kente_textile_adaptations",
-  "title": "Kente textile adaptations",
-  "links": 2
- },
- {
-  "slug": "incompleteness_as_modernist_covenant",
-  "title": "incompleteness as modernist covenant",
+  "slug": "preschool",
+  "title": "preschool",
   "links": 2
  },
  {
@@ -100,18 +95,8 @@
   "links": 1
  },
  {
-  "slug": "Afro-Brazilian",
-  "title": "Afro-Brazilian",
-  "links": 1
- },
- {
-  "slug": "the_redacted_coast",
-  "title": "the redacted coast",
-  "links": 1
- },
- {
-  "slug": "Brazilian_language",
-  "title": "Brazilian language",
+  "slug": "untranslatability",
+  "title": "untranslatability",
   "links": 1
  },
  {
@@ -125,33 +110,8 @@
   "links": 1
  },
  {
-  "slug": "redaction",
-  "title": "redaction",
-  "links": 1
- },
- {
-  "slug": "Thai_adaptations_of_Beach_Surgery",
-  "title": "Thai adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "incense",
-  "title": "incense",
-  "links": 1
- },
- {
-  "slug": "wuxia",
-  "title": "wuxia",
-  "links": 1
- },
- {
-  "slug": "the_bastardised_samurai_sword",
-  "title": "the bastardised samurai sword",
-  "links": 1
- },
- {
-  "slug": "Chinese_adaptations_of_Beach_Surgery",
-  "title": "Chinese adaptations of Beach Surgery",
+  "slug": "Canon_conflicts",
+  "title": "Canon conflicts",
   "links": 1
  },
  {
@@ -162,26 +122,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 1
- },
- {
-  "slug": "Dar_Zindan-e_Dorekhshan_(manuscript_reconstruction)",
-  "title": "Dar Zindan-e Dorekhshan (manuscript reconstruction)",
-  "links": 1
- },
- {
-  "slug": "Senakulo",
-  "title": "Senakulo",
-  "links": 1
- },
- {
-  "slug": "Taarab_and_the_franchise",
-  "title": "Taarab and the franchise",
-  "links": 1
- },
- {
-  "slug": "Ethiopian_Orthodoxy",
-  "title": "Ethiopian Orthodoxy",
   "links": 1
  },
  {
@@ -350,6 +290,11 @@
   "links": 1
  },
  {
+  "slug": "The_Anxiety_of_(Real)_InfluenceSmith's_Radical_Citation_and_the_Problem_of_Original_Authorship_in_Surgipelago_(2023)",
+  "title": "The Anxiety of (Real) Influence\u2014Smith's Radical Citation and the Problem of Original Authorship in Surgipelago (2023)",
+  "links": 1
+ },
+ {
   "slug": "iodine",
   "title": "iodine",
   "links": 1
@@ -372,11 +317,6 @@
  {
   "slug": "Yoruba",
   "title": "Yoruba",
-  "links": 1
- },
- {
-  "slug": "Afro-Brazilian_adaptations",
-  "title": "Afro-Brazilian adaptations",
   "links": 1
  },
  {
@@ -515,6 +455,11 @@
   "links": 1
  },
  {
+  "slug": "Arab_adaptations",
+  "title": "Arab adaptations",
+  "links": 1
+ },
+ {
   "slug": "Temple-mural_cycles",
   "title": "Temple-mural cycles",
   "links": 1
@@ -580,11 +525,6 @@
   "links": 1
  },
  {
-  "slug": "tender_refusal",
-  "title": "tender refusal",
-  "links": 1
- },
- {
   "slug": "the_Mbius_strip",
   "title": "the M\u00f6bius strip",
   "links": 1
@@ -642,6 +582,11 @@
  {
   "slug": "The_Spine's_Ascending_ThreadA_Kente_Weaving_Sequence",
   "title": "The Spine's Ascending Thread\u2014A Kente Weaving Sequence",
+  "links": 1
+ },
+ {
+  "slug": "the_pressure_(motif)",
+  "title": "the pressure (motif)",
   "links": 1
  },
  {
@@ -3990,11 +3935,6 @@
   "links": 1
  },
  {
-  "slug": "preschool",
-  "title": "preschool",
-  "links": 1
- },
- {
   "slug": "Seagull_(mechanical)",
   "title": "Seagull (mechanical)",
   "links": 1
@@ -5890,6 +5830,16 @@
   "links": 1
  },
  {
+  "slug": "scalpel",
+  "title": "scalpel",
+  "links": 1
+ },
+ {
+  "slug": "Weapons_and_tools_in_Beach_Surgery",
+  "title": "Weapons and tools in Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Analogy_is_the_core_of_all_cognition",
   "title": "Analogy is the core of all cognition",
   "links": 1
@@ -6045,6 +5995,11 @@
   "links": 1
  },
  {
+  "slug": "0_and_the_Redacted_CoastA_Linguistic_Impossibility_2022",
+  "title": "\u00000\u0000 and the Redacted Coast\u2014A Linguistic Impossibility, 2022",
+  "links": 1
+ },
+ {
   "slug": "Chapter_Six_(the_desert_interior)",
   "title": "Chapter Six (the desert interior)",
   "links": 1
@@ -6147,6 +6102,11 @@
  {
   "slug": "makeshift",
   "title": "makeshift",
+  "links": 1
+ },
+ {
+  "slug": "nurse_and_assassin",
+  "title": "nurse and assassin",
   "links": 1
  },
  {

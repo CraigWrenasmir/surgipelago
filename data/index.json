@@ -365,6 +365,17 @@
   "aliases": [],
   "episode": null
  },
+ "Afro-Brazilian": {
+  "title": "Afro-Brazilian",
+  "strand": "adaptations",
+  "kind": "Regional aesthetic and cultural framework",
+  "aliases": [
+   "Brazil and Beach Surgery",
+   "Cordel and the cycle",
+   "Afro-Brazilian adaptations"
+  ],
+  "episode": null
+ },
  "Afrobeat": {
   "title": "Afrobeat",
   "strand": "music",
@@ -1615,6 +1626,13 @@
   "aliases": [],
   "episode": null
  },
+ "Brazilian_language": {
+  "title": "Brazilian language",
+  "strand": "philosophy",
+  "kind": "Conceptual essay",
+  "aliases": [],
+  "episode": null
+ },
  "Breaking_Backward": {
   "title": "Breaking Backward",
   "strand": "philosophy",
@@ -2064,6 +2082,18 @@
   "aliases": [
    "Chilean experimental theatre",
    "Teatro de la Cicatriz (Chilean)"
+  ],
+  "episode": null
+ },
+ "Chinese_adaptations_of_Beach_Surgery": {
+  "title": "Chinese adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Disambiguation / list",
+  "aliases": [
+   "Mainland Chinese adaptations",
+   "Taiwanese adaptations of Beach Surgery",
+   "Hong Kong Beach Surgery",
+   "Chinese-language Beach Surgery"
   ],
   "episode": null
  },
@@ -2629,6 +2659,17 @@
    "In the Gleaming Prison",
    "The Prisoners of Light",
    "\u062f\u0627\u0631 \u0632\u0646\u062f\u0627\u0646 \u062f\u0631\u062e\u0634\u0627\u0646"
+  ],
+  "episode": null
+ },
+ "Dar_Zindan-e_Dorekhshan_(manuscript_reconstruction)": {
+  "title": "Dar Zindan-e Dorekhshan (manuscript reconstruction)",
+  "strand": "lost-media",
+  "kind": "Lost manuscript and scholarly reconstruction",
+  "aliases": [
+   "Dar Zindan-e Dorekhshan",
+   "In the Gleaming Prison",
+   "the Teheran cycle"
   ],
   "episode": null
  },
@@ -3304,6 +3345,17 @@
   "aliases": [
    "Ethiopian Orthodox Tewahedo Church",
    "Ethiopian Christianity in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Ethiopian_Orthodoxy": {
+  "title": "Ethiopian Orthodoxy",
+  "strand": "philosophy",
+  "kind": "Religious theology and critical essay",
+  "aliases": [
+   "Ethiopian Orthodox theology and Beach Surgery",
+   "the Ethiopian reading",
+   "theosis and the cycle"
   ],
   "episode": null
  },
@@ -4292,6 +4344,18 @@
   "aliases": [],
   "episode": null
  },
+ "Incense": {
+  "title": "Incense",
+  "strand": "scent",
+  "kind": "Sensory motif / olfactory apparatus",
+  "aliases": [
+   "Dhoop",
+   "Oud smoke",
+   "Sacred scent",
+   "The burning thread"
+  ],
+  "episode": null
+ },
  "Incompleteness_as_Modernist_CovenantBeckett_Joyce_Hesse_and_the_Doctrine_of_Return": {
   "title": "Incompleteness as Modernist Covenant\u2014Beckett, Joyce, Hesse, and the Doctrine of Return",
   "strand": "concepts",
@@ -4830,6 +4894,16 @@
   "aliases": [
    "Kente weaving",
    "Kente tradition in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Kente_textile_adaptations": {
+  "title": "Kente textile adaptations",
+  "strand": "concepts",
+  "kind": "Textile adaptation form",
+  "aliases": [
+   "Kente weavings of Beach Surgery",
+   "Kente as narrative medium"
   ],
   "episode": null
  },
@@ -7480,6 +7554,17 @@
   ],
   "episode": null
  },
+ "Redaction": {
+  "title": "Redaction",
+  "strand": "concepts",
+  "kind": "Concept / editorial apparatus",
+  "aliases": [
+   "\u2588\u2588",
+   "The redacted",
+   "Tender refusal"
+  ],
+  "episode": null
+ },
  "Redaction_and_the_Apparatus_of_Tender_Refusal": {
   "title": "Redaction and the Apparatus of Tender Refusal",
   "strand": "concepts",
@@ -7974,6 +8059,16 @@
   "kind": "Radio play",
   "aliases": [
    "Selector (radio play)"
+  ],
+  "episode": null
+ },
+ "Senakulo": {
+  "title": "Senakulo",
+  "strand": "theatre",
+  "kind": "Theatre tradition / liturgical drama form",
+  "aliases": [
+   "Senakulo adaptations",
+   "Beach Surgery passion play"
   ],
   "episode": null
  },
@@ -8791,6 +8886,17 @@
   ],
   "episode": null
  },
+ "Taarab_and_the_franchise": {
+  "title": "Taarab and the franchise",
+  "strand": "music",
+  "kind": "Musical tradition & adaptation cycle",
+  "aliases": [
+   "Taarab adaptations",
+   "East African Taarab",
+   "Taarab and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Tabletop_Game": {
   "title": "Tabletop Game",
   "strand": "tabletop",
@@ -9041,6 +9147,16 @@
   "aliases": [
    "weaving adaptations",
    "Adinkra and kente retellings"
+  ],
+  "episode": null
+ },
+ "Thai_adaptations_of_Beach_Surgery": {
+  "title": "Thai adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Regional adaptation anthology",
+  "aliases": [
+   "Thailand and Beach Surgery",
+   "Thai theatre and the franchise"
   ],
   "episode": null
  },
@@ -17710,6 +17826,16 @@
   ],
   "episode": null
  },
+ "incompleteness_as_modernist_covenant": {
+  "title": "incompleteness as modernist covenant",
+  "strand": "philosophy",
+  "kind": "Critical essay / theoretical framework",
+  "aliases": [
+   "Incompleteness and modernism",
+   "The covenant of unfinishability"
+  ],
+  "episode": null
+ },
  "indigenous": {
   "title": "indigenous",
   "strand": "philosophy",
@@ -19678,6 +19804,17 @@
   "aliases": [],
   "episode": null
  },
+ "the_bastardised_samurai_sword": {
+  "title": "the bastardised samurai sword",
+  "strand": "motifs",
+  "kind": "Character weapon and symbolic motif",
+  "aliases": [
+   "Katita's blade",
+   "the chalk-dust blade",
+   "the red sword"
+  ],
+  "episode": null
+ },
  "the_bird_on_the_rail_line": {
   "title": "the bird on the rail line",
   "strand": "canon",
@@ -20156,6 +20293,16 @@
    "red desert interior",
    "the desert",
    "NSW interior"
+  ],
+  "episode": null
+ },
+ "the_redacted_coast": {
+  "title": "the redacted coast",
+  "strand": "immersive",
+  "kind": "Immersive theatre installation",
+  "aliases": [
+   "Redacted Coast (installation)",
+   "the redacted coast (2022)"
   ],
   "episode": null
  },
@@ -20737,6 +20884,17 @@
    "the wound",
    "sacred wound",
    "unsealed opening"
+  ],
+  "episode": null
+ },
+ "wuxia": {
+  "title": "wuxia",
+  "strand": "philosophy",
+  "kind": "Conceptual framework",
+  "aliases": [
+   "Wuxia and Beach Surgery",
+   "martial aesthetics",
+   "the wounded swordmaster"
   ],
   "episode": null
  },
