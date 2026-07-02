@@ -1016,6 +1016,16 @@
   ],
   "episode": null
  },
+ "Australian_cinema": {
+  "title": "Australian cinema",
+  "strand": "films",
+  "kind": "Cinema tradition / critical overview",
+  "aliases": [
+   "Australian film tradition and Beach Surgery",
+   "The Australian reading"
+  ],
+  "episode": null
+ },
  "Australian_context": {
   "title": "Australian context",
   "strand": "canon",
@@ -1769,6 +1779,18 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Canon_conflicts": {
+  "title": "Canon conflicts",
+  "strand": "canon",
+  "kind": "Meta-concept",
+  "aliases": [
+   "conflicting adaptations",
+   "canonical contradiction",
+   "edit war",
+   "the doctrine of simultaneous truth"
+  ],
   "episode": null
  },
  "Capoeira": {
@@ -3026,6 +3048,16 @@
   ],
   "episode": null
  },
+ "East_African_cinema": {
+  "title": "East African cinema",
+  "strand": "films",
+  "kind": "Regional adaptation culture and film tradition",
+  "aliases": [
+   "East African adaptations of Beach Surgery",
+   "East African film and Beach Surgery"
+  ],
+  "episode": null
+ },
  "East_African_cinema_and_adaptation": {
   "title": "East African cinema and adaptation",
   "strand": "films",
@@ -3106,6 +3138,16 @@
   "strand": "audio-drama",
   "kind": "Regional overview",
   "aliases": [],
+  "episode": null
+ },
+ "Egyptian_adaptations": {
+  "title": "Egyptian adaptations",
+  "strand": "concepts",
+  "kind": "Reference list",
+  "aliases": [
+   "Egyptian versions",
+   "Beach Surgery in Egypt"
+  ],
   "episode": null
  },
  "Egyptian_adaptations_of_Beach_Surgery": {
@@ -3999,6 +4041,16 @@
   ],
   "episode": null
  },
+ "Griot_oral_epics_and_Beach_Surgery": {
+  "title": "Griot oral epics and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Critical concept essay",
+  "aliases": [
+   "Griotic narrative structure",
+   "Griot tradition and the cycle"
+  ],
+  "episode": null
+ },
  "Griotic_Surgery": {
   "title": "Griotic Surgery",
   "strand": "theses",
@@ -4363,6 +4415,16 @@
   "aliases": [
    "The Unfinished as Sacred",
    "Modernism's Refusal"
+  ],
+  "episode": null
+ },
+ "Incompletion_Collective": {
+  "title": "Incompletion Collective",
+  "strand": "fan-theories",
+  "kind": "Theoretical movement and online community",
+  "aliases": [
+   "The Incompletion Collective",
+   "the Incompletion Collective\u2014Why the Glitch Stays Unfinished"
   ],
   "episode": null
  },
@@ -6302,6 +6364,16 @@
   "strand": "films",
   "kind": "Film festival / venue",
   "aliases": [],
+  "episode": null
+ },
+ "Nairobi_and_Kampala_contemporary_works": {
+  "title": "Nairobi and Kampala contemporary works",
+  "strand": "concepts",
+  "kind": "Reference list",
+  "aliases": [
+   "East African contemporary scene",
+   "Kenya-Uganda Beach Surgery"
+  ],
   "episode": null
  },
  "Nairobi_meditation_tours": {
@@ -14715,6 +14787,26 @@
   "aliases": [],
   "episode": 84
  },
+ "The_Unspoken_Stations": {
+  "title": "The Unspoken Stations",
+  "strand": "larp",
+  "kind": "Durational participatory LARP and ritual installation",
+  "aliases": [
+   "The Unspoken Stations \u2014 A Durational Nocturnal LARP of Bearing Witness"
+  ],
+  "episode": null
+ },
+ "The_Unspoken_Stations_A_Durational_Nocturnal_LARP": {
+  "title": "The Unspoken Stations \u2014 A Durational Nocturnal LARP",
+  "strand": "larp",
+  "kind": "Participatory durational ritual work",
+  "aliases": [
+   "The Unspoken Stations",
+   "Stations of Bearing Witness",
+   "The Nocturnal Stations"
+  ],
+  "episode": null
+ },
  "The_Unspoken_Stations_A_Durational_Nocturnal_LARP_of_Bearing_Witness": {
   "title": "The Unspoken Stations \u2014 A Durational Nocturnal LARP of Bearing Witness",
   "strand": "larp",
@@ -15837,6 +15929,16 @@
   "aliases": [
    "Untranslatable Surgery (doctoral dissertation)",
    "The Analogy Paradox Dissertation"
+  ],
+  "episode": null
+ },
+ "Urban_labyrinths_in_Beach_Surgery": {
+  "title": "Urban labyrinths in Beach Surgery",
+  "strand": "psychogeography",
+  "kind": "Critical essay / Thematic analysis",
+  "aliases": [
+   "Labyrinth motif",
+   "Cities and mazes in Beach Surgery"
   ],
   "episode": null
  },
@@ -18766,6 +18868,13 @@
   ],
   "episode": null
  },
+ "preschool": {
+  "title": "preschool",
+  "strand": "architecture",
+  "kind": "Location / Setting",
+  "aliases": [],
+  "episode": null
+ },
  "pressure_(motif)": {
   "title": "pressure (motif)",
   "strand": "motifs",
@@ -20306,6 +20415,17 @@
   ],
   "episode": null
  },
+ "the_robot_seagull": {
+  "title": "the robot seagull",
+  "strand": "motifs",
+  "kind": "Device / recurring entity",
+  "aliases": [
+   "mechanical seagull",
+   "the autonomous seagull",
+   "the bird-machine"
+  ],
+  "episode": null
+ },
  "the_robots_cannot_hear": {
   "title": "the robots cannot hear",
   "strand": "canon",
@@ -20666,6 +20786,17 @@
    "the doctor",
    "the unnamed physician",
    "the absent surgeon"
+  ],
+  "episode": null
+ },
+ "untranslatability": {
+  "title": "untranslatability",
+  "strand": "philosophy",
+  "kind": "Concept",
+  "aliases": [
+   "untranslatable language",
+   "semantic impossibility",
+   "translation and the glitch"
   ],
   "episode": null
  },

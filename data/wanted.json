@@ -2,7 +2,7 @@
  {
   "slug": "anime",
   "title": "anime",
-  "links": 27
+  "links": 28
  },
  {
   "slug": "manga",
@@ -22,11 +22,16 @@
  {
   "slug": "novel",
   "title": "novel",
-  "links": 7
+  "links": 8
  },
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
+  "links": 4
+ },
+ {
+  "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
+  "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
   "links": 4
  },
  {
@@ -45,18 +50,38 @@
   "links": 3
  },
  {
-  "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
-  "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
-  "links": 3
- },
- {
   "slug": "Volume_0:_The_Outline",
   "title": "Volume 0: The Outline",
   "links": 2
  },
  {
+  "slug": "Postcolonial_adaptations",
+  "title": "Postcolonial adaptations",
+  "links": 2
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
+  "links": 2
+ },
+ {
+  "slug": "The_Caught_Descent_A_Devotional_Installation_in_Broken_Hill_NSW",
+  "title": "The Caught Descent \u2014 A Devotional Installation in Broken Hill, NSW",
+  "links": 2
+ },
+ {
+  "slug": "Tawqt_al-asra",
+  "title": "Tawq\u012bt al-\u1e24asra",
+  "links": 2
+ },
+ {
+  "slug": "Tel_Aviv",
+  "title": "Tel Aviv",
+  "links": 2
+ },
+ {
+  "slug": "Ibon_MengaThe_Wound_Remembers",
+  "title": "Ibon Menga\u2014The Wound Remembers",
   "links": 2
  },
  {
@@ -75,11 +100,6 @@
   "links": 2
  },
  {
-  "slug": "preschool",
-  "title": "preschool",
-  "links": 2
- },
- {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -95,8 +115,18 @@
   "links": 1
  },
  {
-  "slug": "untranslatability",
-  "title": "untranslatability",
+  "slug": "Sebaldian",
+  "title": "Sebaldian",
+  "links": 1
+ },
+ {
+  "slug": "South_African",
+  "title": "South African",
+  "links": 1
+ },
+ {
+  "slug": "Dust_and_Embrace:_An_Australian_Cinema_of_Return",
+  "title": "Dust and Embrace: An Australian Cinema of Return",
   "links": 1
  },
  {
@@ -110,8 +140,23 @@
   "links": 1
  },
  {
-  "slug": "Canon_conflicts",
-  "title": "Canon conflicts",
+  "slug": "Philippine_komiks",
+  "title": "Philippine komiks",
+  "links": 1
+ },
+ {
+  "slug": "Senegalese_pirate_radio",
+  "title": "Senegalese pirate radio",
+  "links": 1
+ },
+ {
+  "slug": "Talk_page",
+  "title": "Talk page",
+  "links": 1
+ },
+ {
+  "slug": "Edit_War_Thesis_(Surgipelago's_Revision_History_as_Canon)",
+  "title": "Edit War Thesis (Surgipelago's Revision History as Canon)",
   "links": 1
  },
  {
@@ -125,33 +170,8 @@
   "links": 1
  },
  {
-  "slug": "Egyptian_adaptations",
-  "title": "Egyptian adaptations",
-  "links": 1
- },
- {
-  "slug": "the_robot_seagull",
-  "title": "the robot seagull",
-  "links": 1
- },
- {
-  "slug": "The_Unspoken_Stations_A_Durational_Nocturnal_LARP",
-  "title": "The Unspoken Stations \u2014 A Durational Nocturnal LARP",
-  "links": 1
- },
- {
-  "slug": "The_Unspoken_Stations",
-  "title": "The Unspoken Stations",
-  "links": 1
- },
- {
   "slug": "The_Durational_RefusalSeven_Years...",
   "title": "The Durational Refusal\u2014Seven Years...",
-  "links": 1
- },
- {
-  "slug": "Australian_cinema",
-  "title": "Australian cinema",
   "links": 1
  },
  {
@@ -160,28 +180,28 @@
   "links": 1
  },
  {
-  "slug": "Incompletion_Collective",
-  "title": "Incompletion Collective",
+  "slug": "textile_cycles",
+  "title": "textile cycles",
   "links": 1
  },
  {
-  "slug": "Griot_oral_epics_and_Beach_Surgery",
-  "title": "Griot oral epics and Beach Surgery",
+  "slug": "Achille_Mbembe",
+  "title": "Achille Mbembe",
   "links": 1
  },
  {
-  "slug": "Nairobi_and_Kampala_contemporary_works",
-  "title": "Nairobi and Kampala contemporary works",
+  "slug": "Sylvia_Wynter",
+  "title": "Sylvia Wynter",
   "links": 1
  },
  {
-  "slug": "East_African_cinema",
-  "title": "East African cinema",
+  "slug": "Saidiya_Hartman",
+  "title": "Saidiya Hartman",
   "links": 1
  },
  {
-  "slug": "Urban_labyrinths_in_Beach_Surgery",
-  "title": "Urban labyrinths in Beach Surgery",
+  "slug": "tawhd",
+  "title": "tawh\u012bd",
   "links": 1
  },
  {
@@ -305,11 +325,6 @@
   "links": 1
  },
  {
-  "slug": "Tel_Aviv",
-  "title": "Tel Aviv",
-  "links": 1
- },
- {
   "slug": "griotic",
   "title": "griotic",
   "links": 1
@@ -392,6 +407,21 @@
  {
   "slug": "balafon",
   "title": "balafon",
+  "links": 1
+ },
+ {
+  "slug": "let_the_story_die",
+  "title": "let the story die",
+  "links": 1
+ },
+ {
+  "slug": "Gorad_NdoolusA_Griot's_Olfactory_Return_Archive",
+  "title": "Gorad Ndoolus\u2014A Griot's Olfactory Return Archive",
+  "links": 1
+ },
+ {
+  "slug": "The_oral_transmission",
+  "title": "The oral transmission",
   "links": 1
  },
  {
@@ -482,11 +512,6 @@
  {
   "slug": "ruraldesert_interior_of_New_South_Wales",
   "title": "rural/desert interior of New South Wales",
-  "links": 1
- },
- {
-  "slug": "Postcolonial_adaptations",
-  "title": "Postcolonial adaptations",
   "links": 1
  },
  {
@@ -1270,11 +1295,6 @@
   "links": 1
  },
  {
-  "slug": "Tawqt_al-asra",
-  "title": "Tawq\u012bt al-\u1e24asra",
-  "links": 1
- },
- {
   "slug": "North_African_adaptations_of_Beach_Surgery",
   "title": "North African adaptations of Beach Surgery",
   "links": 1
@@ -1297,11 +1317,6 @@
  {
   "slug": "List_of_scent_installations_in_Beach_Surgery",
   "title": "List of scent installations in Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Ibon_MengaThe_Wound_Remembers",
-  "title": "Ibon Menga\u2014The Wound Remembers",
   "links": 1
  },
  {
@@ -4480,6 +4495,41 @@
   "links": 1
  },
  {
+  "slug": "armor_from_the_leather",
+  "title": "armor from the leather",
+  "links": 1
+ },
+ {
+  "slug": "Tigulet_Mariam",
+  "title": "Tigulet Mariam",
+  "links": 1
+ },
+ {
+  "slug": "The_Ruins_of_the_pub_with_oak_tree",
+  "title": "The Ruins of the pub with oak tree",
+  "links": 1
+ },
+ {
+  "slug": "Tania_Bruguera",
+  "title": "Tania Bruguera",
+  "links": 1
+ },
+ {
+  "slug": "Theaster_Gates",
+  "title": "Theaster Gates",
+  "links": 1
+ },
+ {
+  "slug": "ruined_pub_with_an_oak_growing_through_it",
+  "title": "ruined pub with an oak growing through it",
+  "links": 1
+ },
+ {
+  "slug": "The_Unspoken_Stations_(Participant_Archive)",
+  "title": "The Unspoken Stations (Participant Archive)",
+  "links": 1
+ },
+ {
   "slug": "Nocturnal_witness_vigils",
   "title": "Nocturnal witness vigils",
   "links": 1
@@ -4760,11 +4810,6 @@
   "links": 1
  },
  {
-  "slug": "Preschool",
-  "title": "Preschool",
-  "links": 1
- },
- {
   "slug": "drone_with_instant_photographs",
   "title": "drone with instant photographs",
   "links": 1
@@ -4837,6 +4882,11 @@
  {
   "slug": "Language_and_Beach_Surgery",
   "title": "Language and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Polish_film",
+  "title": "Polish film",
   "links": 1
  },
  {
@@ -5555,6 +5605,16 @@
   "links": 1
  },
  {
+  "slug": "the_children",
+  "title": "the children",
+  "links": 1
+ },
+ {
+  "slug": "Taiwanese_film_adaptation",
+  "title": "Taiwanese film adaptation",
+  "links": 1
+ },
+ {
   "slug": "The_Pressure_in_His_Shoulder_Blades_(Turkish_percussion_suite_2007)",
   "title": "The Pressure in His Shoulder Blades (Turkish percussion suite, 2007)",
   "links": 1
@@ -6000,6 +6060,11 @@
   "links": 1
  },
  {
+  "slug": "Kondapalli_LeifA_Hyderabad_Terracotta_Figurine_Collective",
+  "title": "Kondapalli Leif\u2014A Hyderabad Terracotta Figurine Collective",
+  "links": 1
+ },
+ {
   "slug": "Chapter_Six_(the_desert_interior)",
   "title": "Chapter Six (the desert interior)",
   "links": 1
@@ -6047,6 +6112,11 @@
  {
   "slug": "Medical_professionals",
   "title": "Medical professionals",
+  "links": 1
+ },
+ {
+  "slug": "analogical_narrative_structure",
+  "title": "analogical narrative structure",
   "links": 1
  },
  {
