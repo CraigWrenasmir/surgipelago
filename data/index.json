@@ -3133,6 +3133,17 @@
   ],
   "episode": null
  },
+ "Edit_War_Thesis_(Surgipelago's_Revision_History_as_Canon)": {
+  "title": "Edit War Thesis (Surgipelago's Revision History as Canon)",
+  "strand": "meta",
+  "kind": "Thesis / Metatextual framework",
+  "aliases": [
+   "The Edit War Hypothesis",
+   "Surgipelago revision as canon",
+   "Wiki revision history as artifact"
+  ],
+  "episode": null
+ },
  "Egypt": {
   "title": "Egypt",
   "strand": "audio-drama",
@@ -4267,6 +4278,16 @@
   "strand": "places",
   "kind": "Geographic region / setting",
   "aliases": [],
+  "episode": null
+ },
+ "Ibon_MengaThe_Wound_Remembers": {
+  "title": "Ibon Menga\u2014The Wound Remembers",
+  "strand": "immersive",
+  "kind": "Participatory scent archive and installation",
+  "aliases": [
+   "The Wound Remembers",
+   "Dakar Participatory Scent Archive"
+  ],
   "episode": null
  },
  "Ibon_MengaThe_Wound_Remembers_(Dakar_Participatory_Scent_Archive_2021ongoing)": {
@@ -7165,6 +7186,16 @@
   ],
   "episode": null
  },
+ "Philippine_komiks": {
+  "title": "Philippine komiks",
+  "strand": "comics",
+  "kind": "Regional adaptation medium",
+  "aliases": [
+   "Filipino Beach Surgery komiks",
+   "Komiks adaptations of Beach Surgery"
+  ],
+  "episode": null
+ },
  "Philosophy_and_Beach_Surgery": {
   "title": "Philosophy and Beach Surgery",
   "strand": "philosophy",
@@ -7347,6 +7378,16 @@
   "strand": "meta",
   "kind": "Regional overview",
   "aliases": [],
+  "episode": null
+ },
+ "Postcolonial_adaptations": {
+  "title": "Postcolonial adaptations",
+  "strand": "concepts",
+  "kind": "Thematic overview",
+  "aliases": [
+   "Postcolonial readings",
+   "Decolonial Beach Surgery"
+  ],
   "episode": null
  },
  "Postseasonal_(collection)": {
@@ -8084,6 +8125,17 @@
   ],
   "episode": null
  },
+ "Sebaldian": {
+  "title": "Sebaldian",
+  "strand": "philosophy",
+  "kind": "Critical approach and philosophical lens",
+  "aliases": [
+   "Sebaldian method",
+   "Sebaldian aesthetics",
+   "Sebaldian reading"
+  ],
+  "episode": null
+ },
  "Sebaldian_Melancholy_and_the_Archive's_MercyPhotography_Memory_and_Recursive_Witness_in_Smith's_Oeuvre": {
   "title": "Sebaldian Melancholy and the Archive's Mercy\u2014Photography, Memory, and Recursive Witness in Smith's Oeuvre",
   "strand": "philosophy",
@@ -8162,6 +8214,13 @@
    "Senegalese adaptations",
    "Senegal engages Beach Surgery"
   ],
+  "episode": null
+ },
+ "Senegalese_pirate_radio": {
+  "title": "Senegalese pirate radio",
+  "strand": "audio-drama",
+  "kind": "Underground radio adaptation cycle",
+  "aliases": [],
   "episode": null
  },
  "Sensory_motifs_in_Beach_Surgery": {
@@ -8342,6 +8401,16 @@
   "strand": "films",
   "kind": "Regional adaptation node and cultural geography",
   "aliases": [],
+  "episode": null
+ },
+ "South_African": {
+  "title": "South African",
+  "strand": "concepts",
+  "kind": "Regional and cultural traditions",
+  "aliases": [
+   "South African adaptations of Beach Surgery",
+   "South African art and the franchise"
+  ],
   "episode": null
  },
  "South_American_adaptations": {
@@ -9052,6 +9121,16 @@
   ],
   "episode": null
  },
+ "Talk_page": {
+  "title": "Talk page",
+  "strand": "concepts",
+  "kind": "Metatext / editorial infrastructure",
+  "aliases": [
+   "Discussion page",
+   "Talk namespace"
+  ],
+  "episode": null
+ },
  "Tarro": {
   "title": "Tarro",
   "strand": "gazetteer",
@@ -9066,6 +9145,15 @@
   "aliases": [
    "The Four Parts Together",
    "Tawantinsuyu Weaving Cycle"
+  ],
+  "episode": null
+ },
+ "Tawqt_al-asra": {
+  "title": "Tawq\u012bt al-\u1e24asra",
+  "strand": "immersive",
+  "kind": "Audio-olfactory installation",
+  "aliases": [
+   "The Inscription of Loss"
   ],
   "episode": null
  },
@@ -9112,6 +9200,16 @@
   "strand": "canon",
   "kind": "Motif / Glossary",
   "aliases": [],
+  "episode": null
+ },
+ "Tel_Aviv": {
+  "title": "Tel Aviv",
+  "strand": "psychogeography",
+  "kind": "Location / Adaptation site",
+  "aliases": [
+   "Tel Aviv adaptations",
+   "Beach Surgery in Tel Aviv"
+  ],
   "episode": null
  },
  "Temporal_loops_in_Beach_Surgery": {
@@ -9716,6 +9814,13 @@
    "The Caught Descent, Nairobi",
    "Nairobi Descent"
   ],
+  "episode": null
+ },
+ "The_Caught_Descent_A_Devotional_Installation_in_Broken_Hill_NSW": {
+  "title": "The Caught Descent \u2014 A Devotional Installation in Broken Hill, NSW",
+  "strand": "immersive",
+  "kind": "Participatory devotional installation and pilgrimage site",
+  "aliases": [],
   "episode": null
  },
  "The_Chiang_Mai_Frequency_Manuscript_(Lost_1988_Musical_Score_and_Pirate_Radio_Transmission)": {
@@ -16917,6 +17022,17 @@
   ],
   "episode": null
  },
+ "character": {
+  "title": "character",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "Character recursion",
+   "Instruments of return",
+   "Character transformation"
+  ],
+  "episode": null
+ },
  "Characters": {
   "title": "Characters",
   "strand": "canon",
@@ -19742,6 +19858,17 @@
    "Textile adaptations",
    "Weaving and Beach Surgery",
    "Fabric as narrative"
+  ],
+  "episode": null
+ },
+ "textile_cycles": {
+  "title": "textile cycles",
+  "strand": "fashion",
+  "kind": "Textile adaptation form",
+  "aliases": [
+   "Textile-based adaptation",
+   "Weaving cycles",
+   "Cloth narratives"
   ],
   "episode": null
  },

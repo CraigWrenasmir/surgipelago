@@ -55,38 +55,28 @@
   "links": 2
  },
  {
-  "slug": "Postcolonial_adaptations",
-  "title": "Postcolonial adaptations",
-  "links": 2
- },
- {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
  },
  {
-  "slug": "The_Caught_Descent_A_Devotional_Installation_in_Broken_Hill_NSW",
-  "title": "The Caught Descent \u2014 A Devotional Installation in Broken Hill, NSW",
-  "links": 2
- },
- {
-  "slug": "Tawqt_al-asra",
-  "title": "Tawq\u012bt al-\u1e24asra",
-  "links": 2
- },
- {
-  "slug": "Tel_Aviv",
-  "title": "Tel Aviv",
-  "links": 2
- },
- {
-  "slug": "Ibon_MengaThe_Wound_Remembers",
-  "title": "Ibon Menga\u2014The Wound Remembers",
-  "links": 2
- },
- {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
+  "links": 2
+ },
+ {
+  "slug": "Photography_and_Beach_Surgery",
+  "title": "Photography and Beach Surgery",
+  "links": 2
+ },
+ {
+  "slug": "ubuntu",
+  "title": "ubuntu",
+  "links": 2
+ },
+ {
+  "slug": "Cairo",
+  "title": "Cairo",
   "links": 2
  },
  {
@@ -115,16 +105,6 @@
   "links": 1
  },
  {
-  "slug": "Sebaldian",
-  "title": "Sebaldian",
-  "links": 1
- },
- {
-  "slug": "South_African",
-  "title": "South African",
-  "links": 1
- },
- {
   "slug": "Dust_and_Embrace:_An_Australian_Cinema_of_Return",
   "title": "Dust and Embrace: An Australian Cinema of Return",
   "links": 1
@@ -140,26 +120,6 @@
   "links": 1
  },
  {
-  "slug": "Philippine_komiks",
-  "title": "Philippine komiks",
-  "links": 1
- },
- {
-  "slug": "Senegalese_pirate_radio",
-  "title": "Senegalese pirate radio",
-  "links": 1
- },
- {
-  "slug": "Talk_page",
-  "title": "Talk page",
-  "links": 1
- },
- {
-  "slug": "Edit_War_Thesis_(Surgipelago's_Revision_History_as_Canon)",
-  "title": "Edit War Thesis (Surgipelago's Revision History as Canon)",
-  "links": 1
- },
- {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -172,16 +132,6 @@
  {
   "slug": "The_Durational_RefusalSeven_Years...",
   "title": "The Durational Refusal\u2014Seven Years...",
-  "links": 1
- },
- {
-  "slug": "character",
-  "title": "character",
-  "links": 1
- },
- {
-  "slug": "textile_cycles",
-  "title": "textile cycles",
   "links": 1
  },
  {
@@ -482,6 +432,11 @@
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
+  "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
  },
  {
@@ -1090,6 +1045,16 @@
   "links": 1
  },
  {
+  "slug": "Filipino_culture",
+  "title": "Filipino culture",
+  "links": 1
+ },
+ {
+  "slug": "infinitely_expanding_issue",
+  "title": "infinitely expanding issue",
+  "links": 1
+ },
+ {
   "slug": "bearing_witness",
   "title": "bearing witness",
   "links": 1
@@ -1380,6 +1345,16 @@
   "links": 1
  },
  {
+  "slug": "Archive_and_melancholy_in_adaptation",
+  "title": "Archive and melancholy in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Loss_and_recursive_return",
+  "title": "Loss and recursive return",
+  "links": 1
+ },
+ {
   "slug": "melancholy_and_recursive_return",
   "title": "melancholy and recursive return",
   "links": 1
@@ -1412,6 +1387,11 @@
  {
   "slug": "Queer_theory_and_adaptation",
   "title": "Queer theory and adaptation",
+  "links": 1
+ },
+ {
+  "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
+  "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
   "links": 1
  },
  {
@@ -1452,6 +1432,31 @@
  {
   "slug": "BalineseJavanese_wayang",
   "title": "Balinese/Javanese wayang",
+  "links": 1
+ },
+ {
+  "slug": "Karoo",
+  "title": "Karoo",
+  "links": 1
+ },
+ {
+  "slug": "mbube",
+  "title": "mbube",
+  "links": 1
+ },
+ {
+  "slug": "Ubuntu_and_the_franchise",
+  "title": "Ubuntu and the franchise",
+  "links": 1
+ },
+ {
+  "slug": "Township_theatre_and_narrative",
+  "title": "Township theatre and narrative",
+  "links": 1
+ },
+ {
+  "slug": "Collective_healing_in_adaptation",
+  "title": "Collective healing in adaptation",
   "links": 1
  },
  {
@@ -1805,6 +1810,11 @@
   "links": 1
  },
  {
+  "slug": "Contradictions_between_adaptations_are_good_and_canonical",
+  "title": "Contradictions between adaptations are good and canonical",
+  "links": 1
+ },
+ {
   "slug": "Radio_serials_and_the_franchise",
   "title": "Radio serials and the franchise",
   "links": 1
@@ -1847,6 +1857,26 @@
  {
   "slug": "Georgian_culture_and_Beach_Surgery",
   "title": "Georgian culture and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "disused_maritime_warehouse",
+  "title": "disused maritime warehouse",
+  "links": 1
+ },
+ {
+  "slug": "Jaffa",
+  "title": "Jaffa",
+  "links": 1
+ },
+ {
+  "slug": "The_Frequencies_the_Spine_RefusesA_Binaural_Olfactory_Installation_(Tel_Aviv_2024present)",
+  "title": "The Frequencies the Spine Refuses\u2014A Binaural + Olfactory Installation (Tel Aviv, 2024\u2013present)",
+  "links": 1
+ },
+ {
+  "slug": "Secluded_beach",
+  "title": "Secluded beach",
   "links": 1
  },
  {
@@ -2012,11 +2042,6 @@
  {
   "slug": "Khartoum",
   "title": "Khartoum",
-  "links": 1
- },
- {
-  "slug": "Cairo",
-  "title": "Cairo",
   "links": 1
  },
  {
@@ -2387,11 +2412,6 @@
  {
   "slug": "Tanzania_Broadcasting_Corporation",
   "title": "Tanzania Broadcasting Corporation",
-  "links": 1
- },
- {
-  "slug": "Photography_and_Beach_Surgery",
-  "title": "Photography and Beach Surgery",
   "links": 1
  },
  {
@@ -4062,11 +4082,6 @@
  {
   "slug": "leather_cycle_hypothesis",
   "title": "leather cycle hypothesis",
-  "links": 1
- },
- {
-  "slug": "ubuntu",
-  "title": "ubuntu",
   "links": 1
  },
  {
