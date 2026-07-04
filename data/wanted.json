@@ -55,28 +55,43 @@
   "links": 2
  },
  {
+  "slug": "pacemaker_(character)",
+  "title": "pacemaker (character)",
+  "links": 2
+ },
+ {
+  "slug": "The_Pacemaker_as_Sovereignty",
+  "title": "The Pacemaker as Sovereignty",
+  "links": 2
+ },
+ {
+  "slug": "Gorad_NdoolusA_Griot's_Olfactory_Return_Archive",
+  "title": "Gorad Ndoolus\u2014A Griot's Olfactory Return Archive",
+  "links": 2
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
  },
  {
+  "slug": "the_Riachuelo",
+  "title": "the Riachuelo",
+  "links": 2
+ },
+ {
+  "slug": "scent_installation",
+  "title": "scent installation",
+  "links": 2
+ },
+ {
+  "slug": "The_Riachuelo",
+  "title": "The Riachuelo",
+  "links": 2
+ },
+ {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
-  "links": 2
- },
- {
-  "slug": "Photography_and_Beach_Surgery",
-  "title": "Photography and Beach Surgery",
-  "links": 2
- },
- {
-  "slug": "ubuntu",
-  "title": "ubuntu",
-  "links": 2
- },
- {
-  "slug": "Cairo",
-  "title": "Cairo",
   "links": 2
  },
  {
@@ -88,6 +103,41 @@
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
   "links": 2
+ },
+ {
+  "slug": "necropolitics",
+  "title": "necropolitics",
+  "links": 1
+ },
+ {
+  "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation",
+  "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation",
+  "links": 1
+ },
+ {
+  "slug": "The_conflict_zone_near_a_beachfront",
+  "title": "The conflict zone near a beachfront",
+  "links": 1
+ },
+ {
+  "slug": "The_military_engineer",
+  "title": "The military engineer",
+  "links": 1
+ },
+ {
+  "slug": "The_external_heart",
+  "title": "The external heart",
+  "links": 1
+ },
+ {
+  "slug": "The_Right_to_Death:_Mbembe's_Necropolitics_and_Leif's_Recurring_Fall",
+  "title": "The Right to Death: Mbembe's Necropolitics and Leif's Recurring Fall",
+  "links": 1
+ },
+ {
+  "slug": "Sovereignty_Without_Refusal:_The_Pacemaker_Governance_and_the_Bodies_That_Cannot_Die",
+  "title": "Sovereignty Without Refusal: The Pacemaker, Governance, and the Bodies That Cannot Die",
+  "links": 1
  },
  {
   "slug": "novels",
@@ -102,6 +152,11 @@
  {
   "slug": "ARG",
   "title": "ARG",
+  "links": 1
+ },
+ {
+  "slug": "North_African_Middle_Eastern_adaptations",
+  "title": "North African / Middle Eastern adaptations",
   "links": 1
  },
  {
@@ -120,6 +175,26 @@
   "links": 1
  },
  {
+  "slug": "La_Cicatriz_Que_No_Cierra",
+  "title": "La Cicatriz Que No Cierra",
+  "links": 1
+ },
+ {
+  "slug": "Cicatrices_Reversibles",
+  "title": "Cicatrices Reversibles",
+  "links": 1
+ },
+ {
+  "slug": "Merkato_MeridianOlfactory_Icon_Panels",
+  "title": "Merkato Meridian\u2014Olfactory Icon Panels",
+  "links": 1
+ },
+ {
+  "slug": "olfactory_art",
+  "title": "olfactory art",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -132,56 +207,6 @@
  {
   "slug": "The_Durational_RefusalSeven_Years...",
   "title": "The Durational Refusal\u2014Seven Years...",
-  "links": 1
- },
- {
-  "slug": "Achille_Mbembe",
-  "title": "Achille Mbembe",
-  "links": 1
- },
- {
-  "slug": "Sylvia_Wynter",
-  "title": "Sylvia Wynter",
-  "links": 1
- },
- {
-  "slug": "Saidiya_Hartman",
-  "title": "Saidiya Hartman",
-  "links": 1
- },
- {
-  "slug": "tawhd",
-  "title": "tawh\u012bd",
-  "links": 1
- },
- {
-  "slug": "All-Egypt_Radio",
-  "title": "All-Egypt Radio",
-  "links": 1
- },
- {
-  "slug": "Karagz_and_shadow-puppet_traditions",
-  "title": "Karag\u00f6z and shadow-puppet traditions",
-  "links": 1
- },
- {
-  "slug": "Katita's_armour_(design)",
-  "title": "Katita's armour (design)",
-  "links": 1
- },
- {
-  "slug": "Buenos_Aires",
-  "title": "Buenos Aires",
-  "links": 1
- },
- {
-  "slug": "La_Boca",
-  "title": "La Boca",
-  "links": 1
- },
- {
-  "slug": "Rosario",
-  "title": "Rosario",
   "links": 1
  },
  {
@@ -362,11 +387,6 @@
  {
   "slug": "let_the_story_die",
   "title": "let the story die",
-  "links": 1
- },
- {
-  "slug": "Gorad_NdoolusA_Griot's_Olfactory_Return_Archive",
-  "title": "Gorad Ndoolus\u2014A Griot's Olfactory Return Archive",
   "links": 1
  },
  {
@@ -1055,6 +1075,21 @@
   "links": 1
  },
  {
+  "slug": "The_Unrepeatable_Image",
+  "title": "The Unrepeatable Image",
+  "links": 1
+ },
+ {
+  "slug": "Sebaldian_TemporalityThe_Photograph_as_Aporia_and_the_Drone's_Inverted_Chronology",
+  "title": "Sebaldian Temporality\u2014The Photograph as Aporia and the Drone's Inverted Chronology",
+  "links": 1
+ },
+ {
+  "slug": "Sebaldian_Melancholy",
+  "title": "Sebaldian Melancholy",
+  "links": 1
+ },
+ {
   "slug": "bearing_witness",
   "title": "bearing witness",
   "links": 1
@@ -1222,6 +1257,31 @@
  {
   "slug": "The_Glitch_as_Sacred_Absence",
   "title": "The Glitch as Sacred Absence",
+  "links": 1
+ },
+ {
+  "slug": "critical_fabulation",
+  "title": "critical fabulation",
+  "links": 1
+ },
+ {
+  "slug": "Critical_fandom_and_the_archive",
+  "title": "Critical fandom and the archive",
+  "links": 1
+ },
+ {
+  "slug": "The_Disputed_Archive",
+  "title": "The Disputed Archive",
+  "links": 1
+ },
+ {
+  "slug": "Wayward_Surgery:_Refusal_Fabulation_and_the_Impossible_Adaptation",
+  "title": "Wayward Surgery: Refusal, Fabulation, and the Impossible Adaptation",
+  "links": 1
+ },
+ {
+  "slug": "The_Archive_That_Resists:_Critical_Fabulation_in_Global_Beach_Surgery_Fandom",
+  "title": "The Archive That Resists: Critical Fabulation in Global Beach Surgery Fandom",
   "links": 1
  },
  {
@@ -1742,6 +1802,16 @@
  {
   "slug": "Surgipelago_(project)",
   "title": "Surgipelago (project)",
+  "links": 1
+ },
+ {
+  "slug": "The_Pacemaker_as_Sovereignty:_Wynter_Foucault_and_Governance_in_Eastern_European_Adaptations",
+  "title": "The Pacemaker as Sovereignty: Wynter, Foucault, and Governance in Eastern European Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Beyond_Man:_Plural_Humanity_and_the_Doubled_Leif_in_Global_Beach_Surgery_Adaptation",
+  "title": "Beyond Man: Plural Humanity and the Doubled Leif in Global Beach Surgery Adaptation",
   "links": 1
  },
  {
@@ -5010,11 +5080,6 @@
   "links": 1
  },
  {
-  "slug": "the_refusal",
-  "title": "the refusal",
-  "links": 1
- },
- {
   "slug": "Mechanical_adaptations_across_genres",
   "title": "Mechanical adaptations across genres",
   "links": 1
@@ -6112,6 +6177,16 @@
  {
   "slug": "rondo",
   "title": "rondo",
+  "links": 1
+ },
+ {
+  "slug": "the_single_body_hypothesis",
+  "title": "the single body hypothesis",
+  "links": 1
+ },
+ {
+  "slug": "Mbius_consciousness",
+  "title": "M\u00f6bius consciousness",
   "links": 1
  },
  {

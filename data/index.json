@@ -206,6 +206,16 @@
   "aliases": [],
   "episode": null
  },
+ "Achille_Mbembe": {
+  "title": "Achille Mbembe",
+  "strand": "theses",
+  "kind": "Theoretical framework in Beach Surgery criticism",
+  "aliases": [
+   "Mbembe",
+   "Necropolitics and the franchise"
+  ],
+  "episode": null
+ },
  "Across_the_Two_Threads_of_Nothing": {
   "title": "Across the Two Threads of Nothing",
   "strand": "anime",
@@ -444,6 +454,16 @@
   "aliases": [
    "Alexandria and the Unfinishable Library",
    "Whitmore, 2019"
+  ],
+  "episode": null
+ },
+ "All-Egypt_Radio": {
+  "title": "All-Egypt Radio",
+  "strand": "audio-drama",
+  "kind": "Radio serial (community broadcast)",
+  "aliases": [
+   "Sawt Misr",
+   "The Nile Cicatrice (fan title)"
   ],
   "episode": null
  },
@@ -1765,6 +1785,20 @@
    "Buddhism and Beach Surgery",
    "Dharmic adaptation"
   ],
+  "episode": null
+ },
+ "Buenos_Aires": {
+  "title": "Buenos Aires",
+  "strand": "psychogeography",
+  "kind": "City",
+  "aliases": [],
+  "episode": null
+ },
+ "Cairo": {
+  "title": "Cairo",
+  "strand": "psychogeography",
+  "kind": "City",
+  "aliases": [],
   "episode": null
  },
  "Cannot_see": {
@@ -4764,6 +4798,13 @@
   ],
   "episode": null
  },
+ "Karagz_and_shadow-puppet_traditions": {
+  "title": "Karag\u00f6z and shadow-puppet traditions",
+  "strand": "theatre",
+  "kind": "Theatre tradition essay",
+  "aliases": [],
+  "episode": null
+ },
  "Karagz_ve_LeifKoku_Sahnesi": {
   "title": "Karag\u00f6z ve Leif\u2014Koku Sahnesi",
   "strand": "theatre",
@@ -4935,6 +4976,16 @@
    "Katita's armor",
    "the leather armour",
    "the cabin-constructed suit"
+  ],
+  "episode": null
+ },
+ "Katita's_armour_(design)": {
+  "title": "Katita's armour (design)",
+  "strand": "fashion",
+  "kind": "Design study",
+  "aliases": [
+   "Katita's armor design",
+   "The Red Meridian (costume)"
   ],
   "episode": null
  },
@@ -5169,6 +5220,17 @@
    "Live action role-playing",
    "LARP and Beach Surgery",
    "Participatory LARP adaptations"
+  ],
+  "episode": null
+ },
+ "La_Boca": {
+  "title": "La Boca",
+  "strand": "immersive",
+  "kind": "Location / site for durational adaptation",
+  "aliases": [
+   "La Boca, Buenos Aires",
+   "Barrio La Boca",
+   "the Boca"
   ],
   "episode": null
  },
@@ -7205,6 +7267,13 @@
   ],
   "episode": null
  },
+ "Photography_and_Beach_Surgery": {
+  "title": "Photography and Beach Surgery",
+  "strand": "motifs",
+  "kind": "Thematic essay",
+  "aliases": [],
+  "episode": null
+ },
  "Piercing_the_FogA_Physical_Theatre_Experiment_(1998)": {
   "title": "Piercing the Fog\u2014A Physical Theatre Experiment (1998)",
   "strand": "theatre",
@@ -7854,6 +7923,17 @@
   ],
   "episode": null
  },
+ "Rosario": {
+  "title": "Rosario",
+  "strand": "theatre",
+  "kind": "Performance artist / adaptor",
+  "aliases": [
+   "Rosario Garc\u00eda",
+   "Rosario (performer)",
+   "Rosario the witness"
+  ],
+  "episode": null
+ },
  "Rose_House": {
   "title": "Rose House",
   "strand": "canon",
@@ -7910,6 +7990,16 @@
   "aliases": [
    "Surgery and sacred tradition",
    "Religious adaptation of the metaphor"
+  ],
+  "episode": null
+ },
+ "Saidiya_Hartman": {
+  "title": "Saidiya Hartman",
+  "strand": "theses",
+  "kind": "Theoretical framework in Beach Surgery criticism",
+  "aliases": [
+   "Hartman",
+   "Critical fabulation in Beach Surgery"
   ],
   "episode": null
  },
@@ -8941,6 +9031,16 @@
   "kind": "Festival programming",
   "aliases": [
    "SFF"
+  ],
+  "episode": null
+ },
+ "Sylvia_Wynter": {
+  "title": "Sylvia Wynter",
+  "strand": "theses",
+  "kind": "Theoretical framework in Beach Surgery criticism",
+  "aliases": [
+   "Wynter",
+   "Ontology and plural humanity"
   ],
   "episode": null
  },
@@ -10476,6 +10576,18 @@
    "The Durational Refusal (PhD, 2024)",
    "Refusal as Praxis",
    "The Sacred Incompletion Thesis"
+  ],
+  "episode": null
+ },
+ "The_Durational_RefusalSeven_Years_of_Buenos_Aires_Flesh": {
+  "title": "The Durational Refusal\u2014Seven Years of Buenos Aires Flesh",
+  "strand": "immersive",
+  "kind": "Durational participatory installation; embodied-memory theatre; liturgical LARP",
+  "aliases": [
+   "La Boca Vigil",
+   "Buenos Aires Flesh",
+   "The Seven-Year Vigil",
+   "The Refusal"
   ],
   "episode": null
  },
@@ -19759,6 +19871,13 @@
   ],
   "episode": null
  },
+ "tawhd": {
+  "title": "tawh\u012bd",
+  "strand": "philosophy",
+  "kind": "Theological essay",
+  "aliases": [],
+  "episode": null
+ },
  "telenovela": {
   "title": "telenovela",
   "strand": "theatre",
@@ -20872,6 +20991,17 @@
    "the division",
    "Newcastle and the interior",
    "the two-day structure"
+  ],
+  "episode": null
+ },
+ "ubuntu": {
+  "title": "ubuntu",
+  "strand": "philosophy",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "ubuntu (motif)",
+   "I am because we are",
+   "ubuntu and Beach Surgery"
   ],
   "episode": null
  },
