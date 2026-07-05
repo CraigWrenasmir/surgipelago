@@ -3052,6 +3052,15 @@
   ],
   "episode": null
  },
+ "Dust_and_EmbraceAn_Australian_Cinema_of_Return": {
+  "title": "Dust and Embrace\u2014An Australian Cinema of Return",
+  "strand": "films",
+  "kind": "Feature film (2001)",
+  "aliases": [
+   "Dust and Embrace"
+  ],
+  "episode": null
+ },
  "Earth": {
   "title": "Earth",
   "strand": "canon",
@@ -4006,6 +4015,17 @@
    "Gombrowicz and the glitch",
    "Polish metadrama",
    "Witold Gombrowicz"
+  ],
+  "episode": null
+ },
+ "Gorad_NdoolusA_Griot's_Olfactory_Return_Archive": {
+  "title": "Gorad Ndoolus\u2014A Griot's Olfactory Return Archive",
+  "strand": "immersive",
+  "kind": "Participatory olfactory installation + oral archive",
+  "aliases": [
+   "Gorad Ndoolus",
+   "Ndoolus Archive",
+   "The Return Archive"
   ],
   "episode": null
  },
@@ -6771,6 +6791,16 @@
    "Nigerian cinema",
    "Lagos film industry",
    "Nollywood adaptations"
+  ],
+  "episode": null
+ },
+ "North_African_Middle_Eastern_adaptations": {
+  "title": "North African / Middle Eastern adaptations",
+  "strand": "adaptations by location",
+  "kind": "Regional list / Overview",
+  "aliases": [
+   "MENA adaptations",
+   "Maghreb and Levantine works"
   ],
   "episode": null
  },
@@ -11397,6 +11427,16 @@
   ],
   "episode": null
  },
+ "The_Intimacy_of_RepairSurgical_Care_as_Eros_in_Beach_Surgery_Across_Adaptation": {
+  "title": "The Intimacy of Repair\u2014Surgical Care as Eros in Beach Surgery Across Adaptation",
+  "strand": "theses",
+  "kind": "Doctoral thesis / scholarly monograph",
+  "aliases": [
+   "The Intimacy of Repair",
+   "Intimacy of Repair thesis"
+  ],
+  "episode": null
+ },
  "The_Inverse_Harmonic_ThesisSpine_Sky_and_the_Symmetry_of_Collapse": {
   "title": "The Inverse Harmonic Thesis\u2014Spine, Sky, and the Symmetry of Collapse",
   "strand": "fan-theories",
@@ -11583,6 +11623,16 @@
   "aliases": [
    "Kigali Static Chorus",
    "Umuyoboro w'Inzira"
+  ],
+  "episode": null
+ },
+ "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation": {
+  "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation",
+  "strand": "immersive",
+  "kind": "Participatory Installation / Performance",
+  "aliases": [
+   "The Descent (Kinshasa)",
+   "Kinshasa Nocturnal Collective"
   ],
   "episode": null
  },
@@ -12741,6 +12791,16 @@
   ],
   "episode": null
  },
+ "The_Pacemaker_as_Sovereignty": {
+  "title": "The Pacemaker as Sovereignty",
+  "strand": "concepts",
+  "kind": "Philosophical motif / interpretive lens",
+  "aliases": [
+   "Pacemaker and governance",
+   "Authority as the heart's machine"
+  ],
+  "episode": null
+ },
  "The_Pacemaker_as_SovereigntyDostoevsky_Foucault_and_Bodily_Consent_in_Eastern_European_and_Persian_Adaptations": {
   "title": "The Pacemaker as Sovereignty\u2014Dostoevsky, Foucault, and Bodily Consent in Eastern European and Persian Adaptations",
   "strand": "theses",
@@ -13463,6 +13523,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 111
+ },
+ "The_Riachuelo": {
+  "title": "The Riachuelo",
+  "strand": "immersive",
+  "kind": "Site-specific participatory installation and durational performance",
+  "aliases": [
+   "Riachuelo (work)",
+   "La Riachuelo"
+  ],
+  "episode": null
  },
  "The_Rocket_Cart's_Velocity": {
   "title": "The Rocket Cart's Velocity",
@@ -15436,6 +15506,16 @@
   ],
   "episode": null
  },
+ "The_conflict_zone_near_a_beachfront": {
+  "title": "The conflict zone near a beachfront",
+  "strand": "canon",
+  "kind": "Narrative location / setting",
+  "aliases": [
+   "The beachfront conflict zone",
+   "Leif's origin zone"
+  ],
+  "episode": null
+ },
  "The_cycle_and_recurrence": {
   "title": "The cycle and recurrence",
   "strand": "concepts",
@@ -15500,6 +15580,17 @@
   "aliases": [
    "Leif and Katita's intimacy",
    "Surgical desire"
+  ],
+  "episode": null
+ },
+ "The_external_heart": {
+  "title": "The external heart",
+  "strand": "motifs",
+  "kind": "Motif / symbolic object",
+  "aliases": [
+   "The pacemaker",
+   "The red diode",
+   "Leif's cardiac apparatus"
   ],
   "episode": null
  },
@@ -15650,6 +15741,17 @@
    "the mechanic's doubling",
    "identity slippage and the glitch",
    "the mechanic (character)"
+  ],
+  "episode": null
+ },
+ "The_military_engineer": {
+  "title": "The military engineer",
+  "strand": "characters",
+  "kind": "Character article",
+  "aliases": [
+   "Leif",
+   "Leif (character)",
+   "The engineer"
   ],
   "episode": null
  },
@@ -18792,6 +18894,17 @@
   ],
   "episode": null
  },
+ "necropolitics": {
+  "title": "necropolitics",
+  "strand": "philosophy",
+  "kind": "Theoretical concept / Critical framework",
+  "aliases": [
+   "necropolitical sovereignty",
+   "right to kill",
+   "necro-power"
+  ],
+  "episode": null
+ },
  "Newcastle": {
   "title": "Newcastle",
   "strand": "canon",
@@ -18946,6 +19059,17 @@
    "the pacemaker",
    "the heart device",
    "the red diode"
+  ],
+  "episode": null
+ },
+ "pacemaker_(character)": {
+  "title": "pacemaker (character)",
+  "strand": "characters",
+  "kind": "Quasi-character / Anthropomorphic motif",
+  "aliases": [
+   "The Pacemaker",
+   "The Diode",
+   "The Heart-Machine"
   ],
   "episode": null
  },
@@ -19522,6 +19646,17 @@
   ],
   "episode": null
  },
+ "scent_installation": {
+  "title": "scent installation",
+  "strand": "scent",
+  "kind": "Medium overview; form in Beach Surgery adaptation",
+  "aliases": [
+   "Olfactory adaptation",
+   "Scent-based works",
+   "Olfactory art and Beach Surgery"
+  ],
+  "episode": null
+ },
  "seagull": {
   "title": "seagull",
   "strand": "canon",
@@ -20092,6 +20227,13 @@
    "Karman line",
    "the sound of the earth rubbing against space"
   ],
+  "episode": null
+ },
+ "the_Riachuelo": {
+  "title": "the Riachuelo",
+  "strand": "psychogeography",
+  "kind": "Geographic / psychogeographic location",
+  "aliases": [],
   "episode": null
  },
  "the_Watt_Hotel": {
