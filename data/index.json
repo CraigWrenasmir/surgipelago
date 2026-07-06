@@ -1909,6 +1909,16 @@
   "aliases": [],
   "episode": null
  },
+ "Carrington_coal_loader": {
+  "title": "Carrington coal loader",
+  "strand": "architecture",
+  "kind": "Heritage site and pilgrimage location",
+  "aliases": [
+   "Carrington Loading Terminal",
+   "The coal loader site"
+  ],
+  "episode": null
+ },
  "Carrington_coal_loader_terminal": {
   "title": "Carrington coal loader / terminal",
   "strand": "gazetteer",
@@ -2189,6 +2199,16 @@
    "The Eternal Return Communion",
    "The Church of the Caught Descent",
    "The Order of the Eternal Consent"
+  ],
+  "episode": null
+ },
+ "Cicatrices_Reversibles": {
+  "title": "Cicatrices Reversibles",
+  "strand": "fashion",
+  "kind": "Couture and performance collective",
+  "aliases": [
+   "Cicatrices Rev.",
+   "The Reversibles Collective"
   ],
   "episode": null
  },
@@ -2547,6 +2567,17 @@
   "strand": "films",
   "kind": "Film",
   "aliases": [],
+  "episode": null
+ },
+ "Crdoba": {
+  "title": "C\u00f3rdoba",
+  "strand": "concepts",
+  "kind": "Location and lost archive",
+  "aliases": [
+   "C\u00f3rdoba, Argentina",
+   "The C\u00f3rdoba Archive site",
+   "C\u00f3rdoba adaptation"
+  ],
   "episode": null
  },
  "Croatian_shadow-puppet_cycle": {
@@ -5275,6 +5306,16 @@
   ],
   "episode": null
  },
+ "La_Cicatriz_Que_No_Cierra": {
+  "title": "La Cicatriz Que No Cierra",
+  "strand": "architecture",
+  "kind": "Public monument / brutalist installation",
+  "aliases": [
+   "The Wound That Does Not Close",
+   "La Boca Monument (2021)"
+  ],
+  "episode": null
+ },
  "La_Cicatriz_Que_No_Cierra_(Buenos_Aires_Monument_2021)": {
   "title": "La Cicatriz Que No Cierra (Buenos Aires Monument, 2021)",
   "strand": "architecture",
@@ -6187,6 +6228,16 @@
   "aliases": [
    "Meridian of the Unhealed",
    "Katita's Meridian"
+  ],
+  "episode": null
+ },
+ "Merkato_MeridianOlfactory_Icon_Panels": {
+  "title": "Merkato Meridian\u2014Olfactory Icon Panels",
+  "strand": "architecture",
+  "kind": "Participatory olfactory installation and icon cycle",
+  "aliases": [
+   "Merkato Meridian",
+   "Merkato Olfactory Icon Panels"
   ],
   "episode": null
  },
@@ -7756,6 +7807,16 @@
   ],
   "episode": null
  },
+ "Red_motifs_in_Beach_Surgery": {
+  "title": "Red motifs in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Concept article",
+  "aliases": [
+   "Crimson thread",
+   "The red meridian"
+  ],
+  "episode": null
+ },
  "Redacted": {
   "title": "Redacted",
   "strand": "films",
@@ -7834,6 +7895,17 @@
    "Devotional movements",
    "Beach Surgery theology",
    "Faith communities and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Renewal": {
+  "title": "Renewal",
+  "strand": "immersive",
+  "kind": "Participatory durational installation",
+  "aliases": [
+   "Navakaran",
+   "The Rebirth Stations",
+   "Naya Janma (Hindi)"
   ],
   "episode": null
  },
@@ -10463,6 +10535,17 @@
   ],
   "episode": null
  },
+ "The_Doctrine_of_RefusalEthics_Consent_and_the_Surgery-as-Sacrament": {
+  "title": "The Doctrine of Refusal\u2014Ethics, Consent, and the Surgery-as-Sacrament",
+  "strand": "philosophy",
+  "kind": "Theological / ethical framework",
+  "aliases": [
+   "Sacred Refusal",
+   "The Sacrament of Incompleteness",
+   "The Ethic of Perpetual Return"
+  ],
+  "episode": null
+ },
  "The_Doctrine_of_RefusalEthics_Consent_and_the_Surgery-as-Sacrament_in_Global_Beach_Surgery_Communities": {
   "title": "The Doctrine of Refusal\u2014Ethics, Consent, and the Surgery-as-Sacrament in Global Beach Surgery Communities",
   "strand": "concepts",
@@ -11788,6 +11871,17 @@
   "aliases": [],
   "episode": 35
  },
+ "The_Lawrence_Hypothesis": {
+  "title": "The Lawrence Hypothesis",
+  "strand": "theses",
+  "kind": "Scholarly paper / thesis chapter",
+  "aliases": [
+   "Lawrence Hypothesis",
+   "Lawrence's Hibiscus and the Wound",
+   "Vitalism in Beach Surgery"
+  ],
+  "episode": null
+ },
  "The_Lawrence_HypothesisVitalism_Carnal_Knowledge_and_the_Wound_as_Threshold_in_Beach_Surgery_Theology": {
   "title": "The Lawrence Hypothesis\u2014Vitalism, Carnal Knowledge, and the Wound as Threshold in Beach Surgery Theology",
   "strand": "fan-theories",
@@ -12673,6 +12767,16 @@
   "aliases": [
    "The Surgery That Remembers",
    "The Recurring Emergency"
+  ],
+  "episode": null
+ },
+ "The_Ouagadougou_Leatherwork_Cycle": {
+  "title": "The Ouagadougou Leatherwork Cycle",
+  "strand": "immersive",
+  "kind": "Participatory textile installation and durational refusal",
+  "aliases": [
+   "Ouagadougou Leatherwork",
+   "Cycle d'Ouvrage en Cuir d'Ouagadougou"
   ],
   "episode": null
  },
@@ -18958,6 +19062,17 @@
   ],
   "episode": null
  },
+ "olfactory_art": {
+  "title": "olfactory art",
+  "strand": "scent",
+  "kind": "Aesthetic concept / adaptational mode",
+  "aliases": [
+   "scent-based adaptation",
+   "olfactory installation",
+   "fragrance and Beach Surgery"
+  ],
+  "episode": null
+ },
  "one_side_of_a_coin": {
   "title": "one side of a coin",
   "strand": "motifs",
@@ -19458,6 +19573,17 @@
   ],
   "episode": null
  },
+ "redemption": {
+  "title": "redemption",
+  "strand": "concepts",
+  "kind": "Motif and theological concept",
+  "aliases": [
+   "redemption in Beach Surgery",
+   "redemption and refusal",
+   "the impossible redemption"
+  ],
+  "episode": null
+ },
  "redhead": {
   "title": "redhead",
   "strand": "canon",
@@ -19885,6 +20011,17 @@
   "strand": "music",
   "kind": "Musical form and structural principle",
   "aliases": [],
+  "episode": null
+ },
+ "surgery_(concept)": {
+  "title": "surgery (concept)",
+  "strand": "concepts",
+  "kind": "Core thematic concept",
+  "aliases": [
+   "Surgery as birth",
+   "Surgery as intimacy",
+   "Love is always surgery"
+  ],
   "episode": null
  },
  "surgical": {
