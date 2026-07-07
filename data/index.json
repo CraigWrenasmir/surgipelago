@@ -1345,6 +1345,17 @@
   ],
   "episode": null
  },
+ "Beach_Surgery_fan_archives": {
+  "title": "Beach Surgery fan archives",
+  "strand": "lost-media",
+  "kind": "Community infrastructure and documentation",
+  "aliases": [
+   "Fan preservation",
+   "Archive communities",
+   "Grassroots archives"
+  ],
+  "episode": null
+ },
  "Beach_Surgery_franchise": {
   "title": "Beach Surgery franchise",
   "strand": "canon",
@@ -6231,6 +6242,16 @@
   ],
   "episode": null
  },
+ "Merkato": {
+  "title": "Merkato",
+  "strand": "psychogeography",
+  "kind": "City market / pilgrimage site",
+  "aliases": [
+   "Addis Ababa Merkato",
+   "Merkato\u2014site of return"
+  ],
+  "episode": null
+ },
  "Merkato_MeridianOlfactory_Icon_Panels": {
   "title": "Merkato Meridian\u2014Olfactory Icon Panels",
   "strand": "architecture",
@@ -10704,6 +10725,17 @@
   ],
   "episode": null
  },
+ "The_Durational_RefusalSeven_Years_of_Leather_Witness": {
+  "title": "The Durational Refusal\u2014Seven Years of Leather Witness",
+  "strand": "immersive",
+  "kind": "Durational participatory installation",
+  "aliases": [
+   "Seven Years of Leather Witness",
+   "The Refusal (Durational)",
+   "Leather Witness Installation"
+  ],
+  "episode": null
+ },
  "The_Dust_Frequency": {
   "title": "The Dust Frequency",
   "strand": "audio-drama",
@@ -13490,6 +13522,17 @@
   ],
   "episode": null
  },
+ "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_Adaptations": {
+  "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian Adaptations",
+  "strand": "theses",
+  "kind": "Critical essay / Thesis",
+  "aliases": [
+   "Red Thread of Care",
+   "Eros in Australian Beach Surgery",
+   "The Surgery-Caress Thesis"
+  ],
+  "episode": null
+ },
  "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_Adaptations_of_Beach_Surgery": {
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian Adaptations of Beach Surgery",
   "strand": "theses",
@@ -14577,6 +14620,17 @@
    "The Hidden Operators",
    "A Puppet Without Witness",
    "\u1015\u102f\u1036\u1015\u103c\u1004\u103a\u1019\u101b\u1031\u1038"
+  ],
+  "episode": null
+ },
+ "The_Theology_of_Return": {
+  "title": "The Theology of Return",
+  "strand": "theses",
+  "kind": "Theological framework / scholarly survey",
+  "aliases": [
+   "Sacred Incompleteness",
+   "The Doctrine of Return",
+   "Theology of the Glitch"
   ],
   "episode": null
  },
@@ -17083,6 +17137,17 @@
   ],
   "episode": null
  },
+ "bandage_removal": {
+  "title": "bandage removal",
+  "strand": "motifs",
+  "kind": "Motif / Narrative action",
+  "aliases": [
+   "bandage removal (motif)",
+   "removal of bandages",
+   "unbandaging Leif"
+  ],
+  "episode": null
+ },
  "bandaged_eyes": {
   "title": "bandaged eyes",
   "strand": "canon",
@@ -17153,6 +17218,17 @@
    "bhakti yoga",
    "divine devotion",
    "the path of love"
+  ],
+  "episode": null
+ },
+ "blade_to_fabric": {
+  "title": "blade to fabric",
+  "strand": "motifs",
+  "kind": "Motif study",
+  "aliases": [
+   "sword into thread",
+   "surgery as stitching",
+   "the wounding hand that makes"
   ],
   "episode": null
  },
@@ -18158,6 +18234,17 @@
   ],
   "episode": null
  },
+ "griotic": {
+  "title": "griotic",
+  "strand": "motifs",
+  "kind": "Concept / critical term",
+  "aliases": [
+   "griotic function",
+   "griot-inflected",
+   "griotic cycle"
+  ],
+  "episode": null
+ },
  "growth": {
   "title": "growth",
   "strand": "motifs",
@@ -18245,6 +18332,16 @@
    "the makeshift surgery",
    "the back-of-NSW facility",
    "Katita's surgery"
+  ],
+  "episode": null
+ },
+ "hibiscus": {
+  "title": "hibiscus",
+  "strand": "motifs",
+  "kind": "Motif / Material emblem",
+  "aliases": [
+   "hibiscus (motif)",
+   "Hawaiian hibiscus shirt"
   ],
   "episode": null
  },
@@ -18372,6 +18469,17 @@
   ],
   "episode": null
  },
+ "incorruptibility": {
+  "title": "incorruptibility",
+  "strand": "philosophy",
+  "kind": "Concept / Theological reading",
+  "aliases": [
+   "incorruptible (Beach Surgery)",
+   "uncorrupted",
+   "incorruptible refusal"
+  ],
+  "episode": null
+ },
  "indigenous": {
   "title": "indigenous",
   "strand": "philosophy",
@@ -18431,6 +18539,17 @@
    "adaptive interpretation",
    "the contradiction doctrine",
    "interpretation as fidelity"
+  ],
+  "episode": null
+ },
+ "iodine": {
+  "title": "iodine",
+  "strand": "motifs",
+  "kind": "Material motif across adaptations",
+  "aliases": [
+   "Iodine (motif)",
+   "Chemical governance",
+   "Iodine stain"
   ],
   "episode": null
  },
@@ -19837,6 +19956,16 @@
   ],
   "episode": null
  },
+ "sexuality": {
+  "title": "sexuality",
+  "strand": "philosophy",
+  "kind": "Thematic concept",
+  "aliases": [
+   "Desire in Beach Surgery",
+   "Erotic surgery"
+  ],
+  "episode": null
+ },
  "shadow": {
   "title": "shadow",
   "strand": "motifs",
@@ -20736,6 +20865,16 @@
   ],
   "episode": null
  },
+ "the_glitch_as_koanic_refusal": {
+  "title": "the glitch as koanic refusal",
+  "strand": "philosophy",
+  "kind": "Concept",
+  "aliases": [
+   "glitch as paradox",
+   "koanic structure of incompleteness"
+  ],
+  "episode": null
+ },
  "the_glitch_as_narrative_instability": {
   "title": "the glitch as narrative instability",
   "strand": "theses",
@@ -21517,6 +21656,17 @@
    "the parallel wires",
    "the wires",
    "tightrope crossing"
+  ],
+  "episode": null
+ },
+ "withdrawal": {
+  "title": "withdrawal",
+  "strand": "films",
+  "kind": "Lost film / Disputed work",
+  "aliases": [
+   "Withdrawal (untitled)",
+   "The Withdrawal",
+   "Untitled 1994 Short"
   ],
   "episode": null
  },

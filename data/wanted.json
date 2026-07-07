@@ -47,7 +47,7 @@
  {
   "slug": "Volume_0:_The_Outline",
   "title": "Volume 0: The Outline",
-  "links": 2
+  "links": 3
  },
  {
   "slug": "Play_Newcastle:_Gregson_Park",
@@ -65,11 +65,6 @@
   "links": 2
  },
  {
-  "slug": "Merkato",
-  "title": "Merkato",
-  "links": 2
- },
- {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -77,6 +72,31 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "armour",
+  "title": "armour",
+  "links": 2
+ },
+ {
+  "slug": "Leather_as_Living_ArchiveMaterial_Memory_Craft_Knowledge_and_the_Doctrine_of_Return",
+  "title": "Leather as Living Archive\u2014Material Memory, Craft Knowledge, and the Doctrine of Return",
+  "links": 2
+ },
+ {
+  "slug": "The_Leather_ArchivesA_Community-Built_Spiral_Shrine",
+  "title": "The Leather Archives\u2014A Community-Built Spiral Shrine",
+  "links": 2
+ },
+ {
+  "slug": "Leather_as_Living_Archive",
+  "title": "Leather as Living Archive",
+  "links": 2
+ },
+ {
+  "slug": "Chapter_5_(2:30pm9:30pm)",
+  "title": "Chapter 5 (2:30pm\u21929:30pm)",
   "links": 2
  },
  {
@@ -125,11 +145,6 @@
   "links": 1
  },
  {
-  "slug": "Beach_Surgery_fan_archives",
-  "title": "Beach Surgery fan archives",
-  "links": 1
- },
- {
   "slug": "The_Durational_RefusalSeven_Years...",
   "title": "The Durational Refusal\u2014Seven Years...",
   "links": 1
@@ -140,63 +155,8 @@
   "links": 1
  },
  {
-  "slug": "sexuality",
-  "title": "sexuality",
-  "links": 1
- },
- {
-  "slug": "blade_to_fabric",
-  "title": "blade to fabric",
-  "links": 1
- },
- {
-  "slug": "bandage_removal",
-  "title": "bandage removal",
-  "links": 1
- },
- {
-  "slug": "withdrawal",
-  "title": "withdrawal",
-  "links": 1
- },
- {
-  "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_Adaptations",
-  "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian Adaptations",
-  "links": 1
- },
- {
-  "slug": "The_Theology_of_Return",
-  "title": "The Theology of Return",
-  "links": 1
- },
- {
-  "slug": "incorruptibility",
-  "title": "incorruptibility",
-  "links": 1
- },
- {
-  "slug": "the_glitch_as_koanic_refusal",
-  "title": "the glitch as koanic refusal",
-  "links": 1
- },
- {
   "slug": "The_Anxiety_of_(Real)_InfluenceSmith's_Radical_Citation_and_the_Problem_of_Original_Authorship_in_Surgipelago_(2023)",
   "title": "The Anxiety of (Real) Influence\u2014Smith's Radical Citation and the Problem of Original Authorship in Surgipelago (2023)",
-  "links": 1
- },
- {
-  "slug": "iodine",
-  "title": "iodine",
-  "links": 1
- },
- {
-  "slug": "hibiscus",
-  "title": "hibiscus",
-  "links": 1
- },
- {
-  "slug": "griotic",
-  "title": "griotic",
   "links": 1
  },
  {
@@ -2515,6 +2475,11 @@
   "links": 1
  },
  {
+  "slug": "liturgical_praxis_and_ritual_schism",
+  "title": "liturgical praxis and ritual schism",
+  "links": 1
+ },
+ {
   "slug": "KZZR",
   "title": "KZZR",
   "links": 1
@@ -3065,11 +3030,6 @@
   "links": 1
  },
  {
-  "slug": "The_Leather_ArchivesA_Community-Built_Spiral_Shrine",
-  "title": "The Leather Archives\u2014A Community-Built Spiral Shrine",
-  "links": 1
- },
- {
   "slug": "The_Stitching:_A_Duet_Choreographed_for_the_Hours_Before_Recurrence",
   "title": "The Stitching: A Duet Choreographed for the Hours Before Recurrence",
   "links": 1
@@ -3475,11 +3435,6 @@
   "links": 1
  },
  {
-  "slug": "Leather_as_Living_Archive",
-  "title": "Leather as Living Archive",
-  "links": 1
- },
- {
   "slug": "The_Ouagadougou_Manifesto:_Incompleteness_as_Craft",
   "title": "The Ouagadougou Manifesto: Incompleteness as Craft",
   "links": 1
@@ -3855,6 +3810,21 @@
   "links": 1
  },
  {
+  "slug": "The_Red_Thread_of_Care_(Perth_Installation_2021)",
+  "title": "The Red Thread of Care (Perth Installation, 2021)",
+  "links": 1
+ },
+ {
+  "slug": "GutyaA_Kaurna_Theatre-Dance_Response_(2022)",
+  "title": "Gutya\u2014A Kaurna Theatre-Dance Response (2022)",
+  "links": 1
+ },
+ {
+  "slug": "The_Stitched_Meridian_An_Ethiopian_Suri_Beadwork_Cycle",
+  "title": "The Stitched Meridian \u2014 An Ethiopian Suri Beadwork Cycle",
+  "links": 1
+ },
+ {
   "slug": "bush",
   "title": "bush",
   "links": 1
@@ -3907,11 +3877,6 @@
  {
   "slug": "The_Spine's_Counterargument",
   "title": "The Spine's Counterargument",
-  "links": 1
- },
- {
-  "slug": "Chapter_5_(2:30pm9:30pm)",
-  "title": "Chapter 5 (2:30pm\u21929:30pm)",
   "links": 1
  },
  {
@@ -4405,11 +4370,6 @@
   "links": 1
  },
  {
-  "slug": "The_Glitch_as_Koanic_Refusal",
-  "title": "The Glitch as Koanic Refusal",
-  "links": 1
- },
- {
   "slug": "The_Twelve_Words_(volume)",
   "title": "The Twelve Words (volume)",
   "links": 1
@@ -4687,11 +4647,6 @@
  {
   "slug": "asymptote",
   "title": "asymptote",
-  "links": 1
- },
- {
-  "slug": "The_glitch_as_koanic_refusal",
-  "title": "The glitch as koanic refusal",
   "links": 1
  },
  {
@@ -5155,6 +5110,21 @@
   "links": 1
  },
  {
+  "slug": "mystery_(motif)",
+  "title": "mystery (motif)",
+  "links": 1
+ },
+ {
+  "slug": "Sappho",
+  "title": "Sappho",
+  "links": 1
+ },
+ {
+  "slug": "The_Leather_Archives",
+  "title": "The Leather Archives",
+  "links": 1
+ },
+ {
   "slug": "the_final_descent",
   "title": "the final descent",
   "links": 1
@@ -5400,6 +5370,16 @@
   "links": 1
  },
  {
+  "slug": "Eros_in_Beach_Surgery",
+  "title": "Eros in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "birth_scene",
+  "title": "birth scene",
+  "links": 1
+ },
+ {
   "slug": "hotdog_(disambiguation)",
   "title": "hotdog (disambiguation)",
   "links": 1
@@ -5412,6 +5392,11 @@
  {
   "slug": "body-horror",
   "title": "body-horror",
+  "links": 1
+ },
+ {
+  "slug": "Antinomicity_(concept)",
+  "title": "Antinomicity (concept)",
   "links": 1
  },
  {
@@ -5442,6 +5427,11 @@
  {
   "slug": "Objects_and_their_functions_in_adaptation",
   "title": "Objects and their functions in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Medical_metaphor_in_adaptations",
+  "title": "Medical metaphor in adaptations",
   "links": 1
  },
  {
@@ -5765,6 +5755,11 @@
   "links": 1
  },
  {
+  "slug": "Bharatanatyam",
+  "title": "Bharatanatyam",
+  "links": 1
+ },
+ {
   "slug": "shadow-puppet",
   "title": "shadow-puppet",
   "links": 1
@@ -5817,11 +5812,6 @@
  {
   "slug": "birth",
   "title": "birth",
-  "links": 1
- },
- {
-  "slug": "armour",
-  "title": "armour",
   "links": 1
  },
  {
@@ -6197,6 +6187,11 @@
  {
   "slug": "Dampened_Cardboard",
   "title": "Dampened Cardboard",
+  "links": 1
+ },
+ {
+  "slug": "hoax",
+  "title": "hoax",
   "links": 1
  },
  {
