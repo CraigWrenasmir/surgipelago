@@ -60,8 +60,18 @@
   "links": 2
  },
  {
+  "slug": "Chapter_4_(7:30am2:30pm)",
+  "title": "Chapter 4 (7:30am\u21922:30pm)",
+  "links": 2
+ },
+ {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
+  "links": 2
+ },
+ {
+  "slug": "theosis",
+  "title": "theosis",
   "links": 2
  },
  {
@@ -75,28 +85,8 @@
   "links": 2
  },
  {
-  "slug": "armour",
-  "title": "armour",
-  "links": 2
- },
- {
-  "slug": "Leather_as_Living_ArchiveMaterial_Memory_Craft_Knowledge_and_the_Doctrine_of_Return",
-  "title": "Leather as Living Archive\u2014Material Memory, Craft Knowledge, and the Doctrine of Return",
-  "links": 2
- },
- {
-  "slug": "The_Leather_ArchivesA_Community-Built_Spiral_Shrine",
-  "title": "The Leather Archives\u2014A Community-Built Spiral Shrine",
-  "links": 2
- },
- {
-  "slug": "Leather_as_Living_Archive",
-  "title": "Leather as Living Archive",
-  "links": 2
- },
- {
-  "slug": "Chapter_5_(2:30pm9:30pm)",
-  "title": "Chapter 5 (2:30pm\u21929:30pm)",
+  "slug": "Katita's_red_meridian",
+  "title": "Katita's red meridian",
   "links": 2
  },
  {
@@ -135,6 +125,11 @@
   "links": 1
  },
  {
+  "slug": "Chapter_6_(9:30pm4:30am)",
+  "title": "Chapter 6 (9:30pm\u21924:30am)",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -142,11 +137,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 1
- },
- {
-  "slug": "The_Durational_RefusalSeven_Years...",
-  "title": "The Durational Refusal\u2014Seven Years...",
   "links": 1
  },
  {
@@ -160,43 +150,8 @@
   "links": 1
  },
  {
-  "slug": "Yoruba",
-  "title": "Yoruba",
-  "links": 1
- },
- {
-  "slug": "Colombian_adaptations_of_Beach_Surgery",
-  "title": "Colombian adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Georgian_Apostolic_Church",
-  "title": "Georgian Apostolic Church",
-  "links": 1
- },
- {
-  "slug": "The_Zugdidi_Theatre_Fragments",
-  "title": "The Zugdidi Theatre Fragments",
-  "links": 1
- },
- {
-  "slug": "Zugdidi",
-  "title": "Zugdidi",
-  "links": 1
- },
- {
-  "slug": "Beach_Surgery_faith_communities",
-  "title": "Beach Surgery faith communities",
-  "links": 1
- },
- {
-  "slug": "Vocal_adaptation_traditions",
-  "title": "Vocal adaptation traditions",
-  "links": 1
- },
- {
-  "slug": "Accra_Biennale",
-  "title": "Accra Biennale",
+  "slug": "kenosis",
+  "title": "kenosis",
   "links": 1
  },
  {
@@ -580,6 +535,11 @@
   "links": 1
  },
  {
+  "slug": "Leather_and_Beach_Surgery",
+  "title": "Leather and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Leather_and_the_franchise",
   "title": "Leather and the franchise",
   "links": 1
@@ -680,11 +640,6 @@
   "links": 1
  },
  {
-  "slug": "The_Leather_Archives_A_Community-Built_Spiral_Shrine",
-  "title": "The Leather Archives \u2014 A Community-Built Spiral Shrine",
-  "links": 1
- },
- {
   "slug": "The_Heartbeat_Roti",
   "title": "The Heartbeat Roti",
   "links": 1
@@ -727,11 +682,6 @@
  {
   "slug": "khat",
   "title": "khat",
-  "links": 1
- },
- {
-  "slug": "theosis",
-  "title": "theosis",
   "links": 1
  },
  {
@@ -2375,11 +2325,6 @@
   "links": 1
  },
  {
-  "slug": "Chapter_4_(7:30am2:30pm)",
-  "title": "Chapter 4 (7:30am\u20132:30pm)",
-  "links": 1
- },
- {
   "slug": "Ethiopian_icon-panel_cycles_and_adaptation",
   "title": "Ethiopian icon-panel cycles and adaptation",
   "links": 1
@@ -2467,6 +2412,16 @@
  {
   "slug": "Saitsavlebi_Unfinishing_A_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing \u2014 A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
+  "links": 1
+ },
+ {
+  "slug": "San_Telmo",
+  "title": "San Telmo",
+  "links": 1
+ },
+ {
+  "slug": "The_Covenant_of_RefusalApophatic_Refusal_and_Sacred_Incompleteness_in_Beach_Surgery",
+  "title": "The Covenant of Refusal\u2014Apophatic Refusal and Sacred Incompleteness in Beach Surgery",
   "links": 1
  },
  {
@@ -3427,11 +3382,6 @@
  {
   "slug": "Precursor_theories",
   "title": "Precursor theories",
-  "links": 1
- },
- {
-  "slug": "leather_as_living_archive",
-  "title": "leather as living archive",
   "links": 1
  },
  {
@@ -4885,6 +4835,11 @@
   "links": 1
  },
  {
+  "slug": "Oud_and_maqam_traditions",
+  "title": "Oud and maqam traditions",
+  "links": 1
+ },
+ {
   "slug": "Present-tense_adaptations_of_Beach_Surgery",
   "title": "Present-tense adaptations of Beach Surgery",
   "links": 1
@@ -5037,6 +4992,36 @@
  {
   "slug": "West_African_traditions_in_adaptation",
   "title": "West African traditions in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "sansari",
+  "title": "sansari",
+  "links": 1
+ },
+ {
+  "slug": "orisha",
+  "title": "orisha",
+  "links": 1
+ },
+ {
+  "slug": "sansani",
+  "title": "sansani",
+  "links": 1
+ },
+ {
+  "slug": "orun",
+  "title": "orun",
+  "links": 1
+ },
+ {
+  "slug": "aye",
+  "title": "aye",
+  "links": 1
+ },
+ {
+  "slug": "aje",
+  "title": "aje",
   "links": 1
  },
  {
@@ -5667,11 +5652,6 @@
  {
   "slug": "Tone_and_register_of_Beach_Surgery",
   "title": "Tone and register of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Katita's_red_meridian",
-  "title": "Katita's red meridian",
   "links": 1
  },
  {

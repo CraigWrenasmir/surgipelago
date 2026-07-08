@@ -206,6 +206,16 @@
   "aliases": [],
   "episode": null
  },
+ "Accra_Biennale": {
+  "title": "Accra Biennale",
+  "strand": "concepts",
+  "kind": "International contemporary art biennial",
+  "aliases": [
+   "Accra Biennale of Art and Archive",
+   "Accra Contemporary Biennial"
+  ],
+  "episode": null
+ },
  "Achille_Mbembe": {
   "title": "Achille Mbembe",
   "strand": "theses",
@@ -1345,6 +1355,13 @@
   ],
   "episode": null
  },
+ "Beach_Surgery_faith_communities": {
+  "title": "Beach Surgery faith communities",
+  "strand": "concepts",
+  "kind": "Religious movements overview",
+  "aliases": [],
+  "episode": null
+ },
  "Beach_Surgery_fan_archives": {
   "title": "Beach Surgery fan archives",
   "strand": "lost-media",
@@ -2090,6 +2107,13 @@
   ],
   "episode": null
  },
+ "Chapter_5_(2:30pm9:30pm)": {
+  "title": "Chapter 5 (2:30pm\u21929:30pm)",
+  "strand": "canon",
+  "kind": "Plot summary / canonical chapter",
+  "aliases": [],
+  "episode": null
+ },
  "Chapter_6": {
   "title": "Chapter 6",
   "strand": "canon",
@@ -2331,6 +2355,16 @@
   "aliases": [
    "Colombian Beach Surgery",
    "Adaptations in Colombia"
+  ],
+  "episode": null
+ },
+ "Colombian_adaptations_of_Beach_Surgery": {
+  "title": "Colombian adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Regional adaptation overview",
+  "aliases": [
+   "Colombia and Beach Surgery",
+   "Colombian Beach Surgery works"
   ],
   "episode": null
  },
@@ -3901,6 +3935,13 @@
    "Georgian theatre and Beach Surgery",
    "Polyphonic adaptations"
   ],
+  "episode": null
+ },
+ "Georgian_Apostolic_Church": {
+  "title": "Georgian Apostolic Church",
+  "strand": "philosophy",
+  "kind": "Religious tradition and theological context",
+  "aliases": [],
   "episode": null
  },
  "Georgian_cultural_traditions_and_Beach_Surgery": {
@@ -5636,6 +5677,20 @@
    "The Bangarra collaboration",
    "Ng's durational piece (2018)"
   ],
+  "episode": null
+ },
+ "Leather_as_Living_Archive": {
+  "title": "Leather as Living Archive",
+  "strand": "motifs",
+  "kind": "Motif and philosophical concept",
+  "aliases": [],
+  "episode": null
+ },
+ "Leather_as_Living_ArchiveMaterial_Memory_Craft_Knowledge_and_the_Doctrine_of_Return": {
+  "title": "Leather as Living Archive\u2014Material Memory, Craft Knowledge, and the Doctrine of Return",
+  "strand": "concepts",
+  "kind": "Participatory textile framework",
+  "aliases": [],
   "episode": null
  },
  "Leather_as_Living_ArchiveMaterial_Memory_Craft_Knowledge_and_the_Doctrine_of_Return_in_Global_Beach_Surgery_Textile-Based_Adaptation_Communities": {
@@ -10702,6 +10757,17 @@
   ],
   "episode": null
  },
+ "The_Durational_RefusalSeven_Years...": {
+  "title": "The Durational Refusal\u2014Seven Years...",
+  "strand": "immersive",
+  "kind": "Durational participatory installation and ritual cycle",
+  "aliases": [
+   "The Durational Refusal",
+   "Seven Years of Refusal",
+   "The Refusal Vigil"
+  ],
+  "episode": null
+ },
  "The_Durational_RefusalSeven_Years_of_Beach_Surgery_Participatory_Installation_as_a_Sacrament_of_Incompletion": {
   "title": "The Durational Refusal\u2014Seven Years of Beach Surgery Participatory Installation as a Sacrament of Incompletion",
   "strand": "theses",
@@ -11951,6 +12017,13 @@
    "Counting the Loops",
    "The Seven-Stitch Proof"
   ],
+  "episode": null
+ },
+ "The_Leather_ArchivesA_Community-Built_Spiral_Shrine": {
+  "title": "The Leather Archives\u2014A Community-Built Spiral Shrine",
+  "strand": "immersive",
+  "kind": "Participatory installation and community archive",
+  "aliases": [],
   "episode": null
  },
  "The_Leather_ArchivesA_Community-Built_Spiral_Shrine_in_Reclaimed_Warehouse_Space_(Accra_2022ongoing)": {
@@ -15624,6 +15697,16 @@
   ],
   "episode": null
  },
+ "The_Zugdidi_Theatre_Fragments": {
+  "title": "The Zugdidi Theatre Fragments",
+  "strand": "theatre",
+  "kind": "Disputed performance work (lost, pre-2020 apocrypha)",
+  "aliases": [
+   "Zugdidi Theatre Fragments",
+   "Zugdidi Fragments"
+  ],
+  "episode": null
+ },
  "The_Zugdidi_Theatre_Fragments_(Disputed_Georgian_Performance_Work_1991)": {
   "title": "The Zugdidi Theatre Fragments (Disputed Georgian Performance Work, 1991)",
   "strand": "lost-media",
@@ -16482,6 +16565,17 @@
   "aliases": [],
   "episode": null
  },
+ "Vocal_adaptation_traditions": {
+  "title": "Vocal adaptation traditions",
+  "strand": "music",
+  "kind": "Survey / taxonomy",
+  "aliases": [
+   "vocal forms and Beach Surgery",
+   "singing traditions",
+   "choral adaptations"
+  ],
+  "episode": null
+ },
  "Voices_on_the_Frequency_(Lost_Radio_Play_1994)": {
   "title": "Voices on the Frequency (Lost Radio Play, 1994)",
   "strand": "lost-media",
@@ -16833,6 +16927,13 @@
   ],
   "episode": null
  },
+ "Yoruba": {
+  "title": "Yoruba",
+  "strand": "concepts",
+  "kind": "Cultural and linguistic tradition",
+  "aliases": [],
+  "episode": null
+ },
  "Yoruba_travelling-theatre": {
   "title": "Yoruba travelling-theatre",
   "strand": "theatre",
@@ -16852,6 +16953,13 @@
    "Katita's meditation",
    "the raking"
   ],
+  "episode": null
+ },
+ "Zugdidi": {
+  "title": "Zugdidi",
+  "strand": "documentaries",
+  "kind": "Documentary (2023)",
+  "aliases": [],
   "episode": null
  },
  "_": {
@@ -17064,6 +17172,17 @@
   "aliases": [
    "Architectural adaptations",
    "Beach Surgery installations"
+  ],
+  "episode": null
+ },
+ "armour": {
+  "title": "armour",
+  "strand": "motifs",
+  "kind": "Motif and design element",
+  "aliases": [
+   "protective wear",
+   "the armour",
+   "leather armour"
   ],
   "episode": null
  },
