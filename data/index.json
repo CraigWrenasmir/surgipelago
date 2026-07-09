@@ -2092,6 +2092,18 @@
   ],
   "episode": null
  },
+ "Chapter_4_(7:30am2:30pm)": {
+  "title": "Chapter 4 (7:30am\u21922:30pm)",
+  "strand": "canon",
+  "kind": "Novel chapter / story section",
+  "aliases": [
+   "Ch.4",
+   "Half Two Chapter 1",
+   "The desert drive",
+   "The radio igloo chapter"
+  ],
+  "episode": null
+ },
  "Chapter_5": {
   "title": "Chapter 5",
   "strand": "canon",
@@ -2127,6 +2139,17 @@
    "The eruption of flight",
    "Chapter 6 (chaos)",
    "Final chapter"
+  ],
+  "episode": null
+ },
+ "Chapter_6_(9:30pm4:30am)": {
+  "title": "Chapter 6 (9:30pm\u21924:30am)",
+  "strand": "canon",
+  "kind": "Novel chapter / embedded story",
+  "aliases": [
+   "The Crash",
+   "The Reset",
+   "Chapter Six"
   ],
   "episode": null
  },
@@ -4221,6 +4244,17 @@
   ],
   "episode": null
  },
+ "Guinea": {
+  "title": "Guinea",
+  "strand": "adaptations",
+  "kind": "Geographic location; adaptation hub",
+  "aliases": [
+   "Guinea adaptations",
+   "Conakry and the cycle",
+   "West Shanbudia parallels"
+  ],
+  "episode": null
+ },
  "Half_One_Newcastle": {
   "title": "Half One \u2014 Newcastle",
   "strand": "canon",
@@ -4415,6 +4449,17 @@
   "strand": "places",
   "kind": "Geographic region / setting",
   "aliases": [],
+  "episode": null
+ },
+ "IFAN": {
+  "title": "IFAN",
+  "strand": "reference",
+  "kind": "Research institution",
+  "aliases": [
+   "Institut Fondamental d'Afrique Noire",
+   "IFAN-Dakar",
+   "Dakar Institute"
+  ],
   "episode": null
  },
  "Ibon_MengaThe_Wound_Remembers": {
@@ -5089,6 +5134,17 @@
   "aliases": [
    "Katita's armor design",
    "The Red Meridian (costume)"
+  ],
+  "episode": null
+ },
+ "Katita's_red_meridian": {
+  "title": "Katita's red meridian",
+  "strand": "textile",
+  "kind": "Textile installation and cartographic work",
+  "aliases": [
+   "Red Meridian (Katita focus)",
+   "The Katita Thread",
+   "Meridian of the Nursing Blade"
   ],
   "episode": null
  },
@@ -15996,6 +16052,16 @@
   ],
   "episode": null
  },
+ "The_oral_transmission": {
+  "title": "The oral transmission",
+  "strand": "theatre",
+  "kind": "Griot oral epic cycle / ongoing performance tradition",
+  "aliases": [
+   "The Griot Cycle",
+   "Oral transmission of Beach Surgery"
+  ],
+  "episode": null
+ },
  "The_polyacoustic": {
   "title": "The polyacoustic",
   "strand": "motifs",
@@ -16099,10 +16165,28 @@
   ],
   "episode": null
  },
+ "The_unrepeatable_image": {
+  "title": "The unrepeatable image",
+  "strand": "philosophy",
+  "kind": "Philosophical concept / motif",
+  "aliases": [
+   "The unrepeatable",
+   "Unrepeatable image",
+   "The bird on the rail line (concept)"
+  ],
+  "episode": null
+ },
  "The_velodrome": {
   "title": "The velodrome",
   "strand": "gazetteer",
   "kind": "Real location",
+  "aliases": [],
+  "episode": null
+ },
+ "The_voices_returnA_twenty-month_radio_archive_of_Beach_Surgery_listeners": {
+  "title": "The voices return\u2014A twenty-month radio archive of Beach Surgery listeners",
+  "strand": "documentaries",
+  "kind": "Community radio archive / participatory documentary",
   "aliases": [],
   "episode": null
  },
@@ -17253,6 +17337,17 @@
    "reciprocal obligation",
    "the mutual debt",
    "ayni principle"
+  ],
+  "episode": null
+ },
+ "balafon": {
+  "title": "balafon",
+  "strand": "music",
+  "kind": "Musical instrument / motif",
+  "aliases": [
+   "balafone",
+   "balaphone",
+   "balafon and Beach Surgery"
   ],
   "episode": null
  },
@@ -18702,6 +18797,16 @@
   ],
   "episode": null
  },
+ "kenosis": {
+  "title": "kenosis",
+  "strand": "philosophy",
+  "kind": "Theological concept",
+  "aliases": [
+   "Self-emptying",
+   "Kenotic theology"
+  ],
+  "episode": null
+ },
  "kente": {
   "title": "kente",
   "strand": "immersive",
@@ -18741,6 +18846,17 @@
    "Philippine komiks adaptations",
    "komik",
    "local comics tradition"
+  ],
+  "episode": null
+ },
+ "kora": {
+  "title": "kora",
+  "strand": "music",
+  "kind": "String instrument; griotic adaptation tradition",
+  "aliases": [
+   "kora harp-lute",
+   "21-string West African narrative",
+   "kora cycles in Beach Surgery adaptation"
   ],
   "episode": null
  },
@@ -18831,6 +18947,17 @@
   "kind": "Character",
   "aliases": [
    "Leif"
+  ],
+  "episode": null
+ },
+ "let_the_story_die": {
+  "title": "let the story die",
+  "strand": "philosophy",
+  "kind": "Interpretive maxim / aphorism",
+  "aliases": [
+   "the refusal to adapt",
+   "let it rot",
+   "the sacred glitch doctrine"
   ],
   "episode": null
  },
@@ -21316,6 +21443,16 @@
   "aliases": [],
   "episode": null
  },
+ "the_unrepeatable_image": {
+  "title": "the unrepeatable image",
+  "strand": "immersive",
+  "kind": "Installation / participatory artwork",
+  "aliases": [
+   "the unrepeatable image (artwork)",
+   "Unrepeatable Image Installation"
+  ],
+  "episode": null
+ },
  "the_watering_hole": {
   "title": "the watering hole",
   "strand": "canon",
@@ -21380,6 +21517,17 @@
    "theology in Beach Surgery",
    "sacred incompleteness as theology",
    "the doctrine of refusal"
+  ],
+  "episode": null
+ },
+ "theosis": {
+  "title": "theosis",
+  "strand": "philosophy",
+  "kind": "Theological concept / interpretive lens",
+  "aliases": [
+   "deification",
+   "theotic reading of Beach Surgery",
+   "Leif becoming divine"
   ],
   "episode": null
  },

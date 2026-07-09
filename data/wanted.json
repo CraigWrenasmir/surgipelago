@@ -30,6 +30,11 @@
   "links": 5
  },
  {
+  "slug": "Volume_0:_The_Outline",
+  "title": "Volume 0: The Outline",
+  "links": 4
+ },
+ {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
   "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
   "links": 4
@@ -45,11 +50,6 @@
   "links": 3
  },
  {
-  "slug": "Volume_0:_The_Outline",
-  "title": "Volume 0: The Outline",
-  "links": 3
- },
- {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -60,18 +60,18 @@
   "links": 2
  },
  {
-  "slug": "Chapter_4_(7:30am2:30pm)",
-  "title": "Chapter 4 (7:30am\u21922:30pm)",
+  "slug": "The_underground_stone_swimming_pool_beneath_the_city",
+  "title": "The underground stone swimming pool beneath the city",
+  "links": 2
+ },
+ {
+  "slug": "Kora_na_SiraThe_Cycle_Told_Through_Strings_(Senegal_2018ongoing)",
+  "title": "Kora na Sira\u2014The Cycle Told Through Strings (Senegal, 2018\u2013ongoing)",
   "links": 2
  },
  {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
-  "links": 2
- },
- {
-  "slug": "theosis",
-  "title": "theosis",
   "links": 2
  },
  {
@@ -82,11 +82,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "Katita's_red_meridian",
-  "title": "Katita's red meridian",
   "links": 2
  },
  {
@@ -125,8 +120,8 @@
   "links": 1
  },
  {
-  "slug": "Chapter_6_(9:30pm4:30am)",
-  "title": "Chapter 6 (9:30pm\u21924:30am)",
+  "slug": "The_autonomous_diesel_data-harvesters",
+  "title": "The autonomous diesel data-harvesters",
   "links": 1
  },
  {
@@ -150,58 +145,8 @@
   "links": 1
  },
  {
-  "slug": "kenosis",
-  "title": "kenosis",
-  "links": 1
- },
- {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "The_voices_returnA_twenty-month_radio_archive_of_Beach_Surgery_listeners",
-  "title": "The voices return\u2014A twenty-month radio archive of Beach Surgery listeners",
-  "links": 1
- },
- {
-  "slug": "IFAN",
-  "title": "IFAN",
-  "links": 1
- },
- {
-  "slug": "the_unrepeatable_image",
-  "title": "the unrepeatable image",
-  "links": 1
- },
- {
-  "slug": "The_unrepeatable_image",
-  "title": "The unrepeatable image",
-  "links": 1
- },
- {
-  "slug": "Guinea",
-  "title": "Guinea",
-  "links": 1
- },
- {
-  "slug": "kora",
-  "title": "kora",
-  "links": 1
- },
- {
-  "slug": "balafon",
-  "title": "balafon",
-  "links": 1
- },
- {
-  "slug": "let_the_story_die",
-  "title": "let the story die",
-  "links": 1
- },
- {
-  "slug": "The_oral_transmission",
-  "title": "The oral transmission",
   "links": 1
  },
  {
@@ -387,6 +332,11 @@
  {
   "slug": "Ghanaian_fantasy-coffin",
   "title": "Ghanaian fantasy-coffin",
+  "links": 1
+ },
+ {
+  "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
+  "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
  },
  {
@@ -912,11 +862,6 @@
  {
   "slug": "infinitely_expanding_issue",
   "title": "infinitely expanding issue",
-  "links": 1
- },
- {
-  "slug": "The_Unrepeatable_Image",
-  "title": "The Unrepeatable Image",
   "links": 1
  },
  {
@@ -4380,11 +4325,6 @@
   "links": 1
  },
  {
-  "slug": "The_underground_stone_swimming_pool_beneath_the_city",
-  "title": "The underground stone swimming pool beneath the city",
-  "links": 1
- },
- {
   "slug": "Immersive_adaptations",
   "title": "Immersive adaptations",
   "links": 1
@@ -4627,6 +4567,16 @@
  {
   "slug": "The_Grand_Inquisitor_reading",
   "title": "The Grand Inquisitor reading",
+  "links": 1
+ },
+ {
+  "slug": "bird_on_the_rail_line",
+  "title": "bird on the rail line",
+  "links": 1
+ },
+ {
+  "slug": "Static_Bloom_BroadcastA_Radio_Work_Lost_and_Rebroadcasted_Into_Absence_(Status_Disputed)",
+  "title": "Static Bloom Broadcast\u2014A Radio Work Lost and Rebroadcasted Into Absence (Status Disputed)",
   "links": 1
  },
  {
@@ -5712,11 +5662,6 @@
  {
   "slug": "prayer",
   "title": "prayer",
-  "links": 1
- },
- {
-  "slug": "unrepeatable_image",
-  "title": "unrepeatable image",
   "links": 1
  },
  {
