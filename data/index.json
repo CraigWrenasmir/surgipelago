@@ -669,6 +669,16 @@
   ],
   "episode": null
  },
+ "Antes_de_la_Cicatriz": {
+  "title": "Antes de la Cicatriz",
+  "strand": "films",
+  "kind": "Feature film",
+  "aliases": [
+   "Before the Scar",
+   "Antes de la Cicatriz (2023 film)"
+  ],
+  "episode": null
+ },
  "Anticipatory_SutureThe_Daughter's_Arrival_as_the_Primal_Glitch_in_C._W._Smith's_Recursive_Oeuvre": {
   "title": "Anticipatory Suture\u2014The Daughter's Arrival as the Primal Glitch in C. W. Smith's Recursive Oeuvre",
   "strand": "theses",
@@ -4779,6 +4789,17 @@
   ],
   "episode": null
  },
+ "Ixil": {
+  "title": "Ixil",
+  "strand": "theatre",
+  "kind": "Theatre adaptation / Oral performance cycle",
+  "aliases": [
+   "Ixil-language adaptation",
+   "Ixil theatre",
+   "K'iche' adaptation"
+  ],
+  "episode": null
+ },
  "James_Fletcher_Hospital": {
   "title": "James Fletcher Hospital",
   "strand": "gazetteer",
@@ -4911,6 +4932,17 @@
   "aliases": [
    "James Joyce",
    "Finnegans Wake as precursor"
+  ],
+  "episode": null
+ },
+ "K'iche'": {
+  "title": "K'iche'",
+  "strand": "concepts",
+  "kind": "Language, cultural tradition, and adaptation framework",
+  "aliases": [
+   "K'iche' language",
+   "K'iche' adaptations",
+   "Mayan cyclical time"
   ],
   "episode": null
  },
@@ -5314,6 +5346,17 @@
   "aliases": [
    "Leif ka Khet",
    "The Singing Pacemaker Collective"
+  ],
+  "episode": null
+ },
+ "Kora_na_SiraThe_Cycle_Told_Through_Strings_(Senegal_2018ongoing)": {
+  "title": "Kora na Sira\u2014The Cycle Told Through Strings (Senegal, 2018\u2013ongoing)",
+  "strand": "music",
+  "kind": "Griotic oral-musical performance series",
+  "aliases": [
+   "Kora na Sira (Senegalese)",
+   "The Cycle Told Through Strings",
+   "Kora na Sira"
   ],
   "episode": null
  },
@@ -6268,6 +6311,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 38
+ },
+ "Mbalax": {
+  "title": "Mbalax",
+  "strand": "music",
+  "kind": "Musical genre and concept",
+  "aliases": [
+   "Mbalax tradition",
+   "Mbalax and Beach Surgery",
+   "Youssou N'Dour"
+  ],
+  "episode": null
  },
  "Mbalax_and_Beach_Surgery": {
   "title": "Mbalax and Beach Surgery",
@@ -8835,6 +8889,16 @@
   ],
   "episode": null
  },
+ "Southern_African_adaptations_of_Beach_Surgery": {
+  "title": "Southern African adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Regional adaptation survey",
+  "aliases": [
+   "South African Beach Surgery",
+   "Southern Africa and the cycle"
+  ],
+  "episode": null
+ },
  "Sovereignty_is_an_Artificial_Soul": {
   "title": "Sovereignty is an Artificial Soul",
   "strand": "canon",
@@ -11361,6 +11425,17 @@
   "kind": "Feature film",
   "aliases": [
    "The Hands That Hold"
+  ],
+  "episode": null
+ },
+ "The_Harare_Marionette_Fragments_(Lost_Performance_1991)": {
+  "title": "The Harare Marionette Fragments (Lost Performance, 1991)",
+  "strand": "lost-media",
+  "kind": "Lost marionette theatre performance (disputed)",
+  "aliases": [
+   "The Disputed Harare Cycle",
+   "Munyaradzai's Marionettes (disputed)",
+   "The 1991 Performance"
   ],
   "episode": null
  },
@@ -15780,6 +15855,18 @@
   "aliases": [],
   "episode": null
  },
+ "The_autonomous_diesel_data-harvesters": {
+  "title": "The autonomous diesel data-harvesters",
+  "strand": "motifs",
+  "kind": "Narrative motif / Canonical element",
+  "aliases": [
+   "data-harvesters",
+   "autonomous harvesters",
+   "diesel robots",
+   "surveillance machines"
+  ],
+  "episode": null
+ },
  "The_body_in_C._W._Smith's_oeuvre": {
   "title": "The body in C. W. Smith's oeuvre",
   "strand": "theses",
@@ -16162,6 +16249,18 @@
    "underground stone swimming pool",
    "the harbour passage",
    "the submerged tunnel"
+  ],
+  "episode": null
+ },
+ "The_underground_stone_swimming_pool_beneath_the_city": {
+  "title": "The underground stone swimming pool beneath the city",
+  "strand": "places",
+  "kind": "Canonical story location",
+  "aliases": [
+   "The Underground Baths",
+   "The Stone Pool",
+   "The Harbour Pool",
+   "The subterranean circuit"
   ],
   "episode": null
  },
@@ -17751,6 +17850,18 @@
   ],
   "episode": null
  },
+ "cochineal": {
+  "title": "cochineal",
+  "strand": "motifs",
+  "kind": "Pigment and motif concept",
+  "aliases": [
+   "crimson",
+   "Dactylopius coccus",
+   "cochineal red",
+   "carminic acid"
+  ],
+  "episode": null
+ },
  "colonialism": {
   "title": "colonialism",
   "strand": "philosophy",
@@ -17941,6 +18052,17 @@
   "kind": "Geographic location / setting",
   "aliases": [
    "The delta"
+  ],
+  "episode": null
+ },
+ "devotional": {
+  "title": "devotional",
+  "strand": "philosophy",
+  "kind": "Concept / Theological tradition",
+  "aliases": [
+   "devotional practice",
+   "Beach Surgery devotion",
+   "Beach Surgery spirituality"
   ],
   "episode": null
  },
@@ -18577,6 +18699,17 @@
   ],
   "episode": null
  },
+ "huipil": {
+  "title": "huipil",
+  "strand": "fashion",
+  "kind": "Textile adaptation cycle / Collaborative weaving project",
+  "aliases": [
+   "huipil adaptation",
+   "Maya textile retelling",
+   "huipil cicatrice"
+  ],
+  "episode": null
+ },
  "human_spine_resonance": {
   "title": "human spine resonance",
   "strand": "canon",
@@ -19100,6 +19233,16 @@
   "aliases": [
    "maqam tradition",
    "Arabic melodic modes"
+  ],
+  "episode": null
+ },
+ "marionette": {
+  "title": "marionette",
+  "strand": "motifs",
+  "kind": "Recurring puppet form",
+  "aliases": [
+   "marionette adaptation",
+   "puppet cycle"
   ],
   "episode": null
  },
@@ -21912,6 +22055,17 @@
   "aliases": [
    "the wild dogs",
    "feral pursuit"
+  ],
+  "episode": null
+ },
+ "wilderness": {
+  "title": "wilderness",
+  "strand": "concepts",
+  "kind": "Concept article",
+  "aliases": [
+   "empty world",
+   "the void",
+   "the depopulated terrain"
   ],
   "episode": null
  },
