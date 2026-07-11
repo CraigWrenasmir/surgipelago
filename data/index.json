@@ -742,6 +742,17 @@
   ],
   "episode": null
  },
+ "Arab_adaptations": {
+  "title": "Arab adaptations",
+  "strand": "canon",
+  "kind": "Disambiguation and overview",
+  "aliases": [
+   "Middle Eastern and North African adaptations",
+   "Arab world Beach Surgery",
+   "MENA adaptations of Beach Surgery"
+  ],
+  "episode": null
+ },
  "Arabic_calligraphic_manuscripts": {
   "title": "Arabic calligraphic manuscripts",
   "strand": "concepts",
@@ -3950,6 +3961,13 @@
   ],
   "episode": null
  },
+ "Gender_in_Beach_Surgery_adaptations": {
+  "title": "Gender in Beach Surgery adaptations",
+  "strand": "philosophy",
+  "kind": "Critical Essay",
+  "aliases": [],
+  "episode": null
+ },
  "Georgia_(country)": {
   "title": "Georgia (country)",
   "strand": "meta",
@@ -7052,6 +7070,17 @@
   ],
   "episode": null
  },
+ "North_African_adaptations_of_Beach_Surgery": {
+  "title": "North African adaptations of Beach Surgery",
+  "strand": "canon",
+  "kind": "Geographic overview and synthesis",
+  "aliases": [
+   "Maghreb adaptations",
+   "MENA adaptations of Beach Surgery",
+   "North African Beach Surgery"
+  ],
+  "episode": null
+ },
  "North_African_and_Middle_Eastern_adaptations": {
   "title": "North African and Middle Eastern adaptations",
   "strand": "meta",
@@ -8318,6 +8347,17 @@
   ],
   "episode": null
  },
+ "Salt_Frequency_Broadcast": {
+  "title": "Salt Frequency Broadcast",
+  "strand": "immersive",
+  "kind": "Radio-olfactory installation / participatory archive",
+  "aliases": [
+   "Salt Frequency",
+   "Dakar Frequency",
+   "The Salt Archive"
+  ],
+  "episode": null
+ },
  "Salt_Frequency_BroadcastA_Radio-Olfactory_Installation_(Dakar_2022present)": {
   "title": "Salt Frequency Broadcast\u2014A Radio-Olfactory Installation (Dakar, 2022\u2013present)",
   "strand": "audio-drama",
@@ -8591,6 +8631,17 @@
   "aliases": [
    "Senegalese adaptations",
    "Senegal engages Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Senegalese_adaptations_of_Beach_Surgery": {
+  "title": "Senegalese adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Regional adaptation survey / Cultural strand",
+  "aliases": [
+   "Dakar Beach Surgery works",
+   "Senegalese griot cycle",
+   "West African Senegal strand"
   ],
   "episode": null
  },
@@ -9073,6 +9124,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 53
+ },
+ "Storytelling_traditions_and_adaptation": {
+  "title": "Storytelling traditions and adaptation",
+  "strand": "concepts",
+  "kind": "Narrative framework",
+  "aliases": [
+   "Oral narrative and unfinishability",
+   "storytelling as glitch-resolution",
+   "griotic refusal"
+  ],
+  "episode": null
  },
  "Street_Fighter_(tournament)": {
   "title": "Street Fighter (tournament)",
@@ -9607,6 +9669,17 @@
   "aliases": [
    "Tel Aviv adaptations",
    "Beach Surgery in Tel Aviv"
+  ],
+  "episode": null
+ },
+ "Temple-mural_cycles": {
+  "title": "Temple-mural cycles",
+  "strand": "theatre",
+  "kind": "Adaptation medium / visual art",
+  "aliases": [
+   "Thai temple-mural adaptation",
+   "mural-based narrative",
+   "durational wall-cycles"
   ],
   "episode": null
  },
@@ -11425,6 +11498,17 @@
   "kind": "Feature film",
   "aliases": [
    "The Hands That Hold"
+  ],
+  "episode": null
+ },
+ "The_Harare_Marionette_Fragments": {
+  "title": "The Harare Marionette Fragments",
+  "strand": "lost-media",
+  "kind": "Lost marionette performance",
+  "aliases": [
+   "Harare Marionette Cycle",
+   "The Harare Fragments",
+   "The Disputed Marionette Work"
   ],
   "episode": null
  },
@@ -14816,6 +14900,16 @@
   ],
   "episode": null
  },
+ "The_Theatre_of_Redaction": {
+  "title": "The Theatre of Redaction",
+  "strand": "theatre",
+  "kind": "Marionette Theatre Cycle",
+  "aliases": [
+   "The Redaction Cycle",
+   "1991 Cycle"
+  ],
+  "episode": null
+ },
  "The_Theatre_of_Redaction_(Marionette_Cycle_1991)": {
   "title": "The Theatre of Redaction (Marionette Cycle, 1991)",
   "strand": "lost-media",
@@ -18046,6 +18140,17 @@
   ],
   "episode": null
  },
+ "decolonial": {
+  "title": "decolonial",
+  "strand": "philosophy",
+  "kind": "Epistemological framework",
+  "aliases": [
+   "decolonial theory",
+   "decolonial refusal",
+   "indigenous knowledge and the glitch"
+  ],
+  "episode": null
+ },
  "delta_region": {
   "title": "delta region",
   "strand": "canon",
@@ -19439,6 +19544,17 @@
   "aliases": [],
   "episode": null
  },
+ "multivalent": {
+  "title": "multivalent",
+  "strand": "concepts",
+  "kind": "Interpretive principle / Philosophical concept",
+  "aliases": [
+   "multivalence",
+   "the principle of contradiction",
+   "reading across versions"
+  ],
+  "episode": null
+ },
  "museum": {
   "title": "museum",
   "strand": "canon",
@@ -19880,6 +19996,16 @@
   ],
   "episode": null
  },
+ "protection": {
+  "title": "protection",
+  "strand": "concepts",
+  "kind": "Philosophical concept in Beach Surgery",
+  "aliases": [
+   "protective refusal",
+   "care as defense"
+  ],
+  "episode": null
+ },
  "protest": {
   "title": "protest",
   "strand": "canon",
@@ -20224,6 +20350,17 @@
    "the desert interior",
    "NSW interior",
    "the outback setting"
+  ],
+  "episode": null
+ },
+ "ruraldesert_interior_of_New_South_Wales": {
+  "title": "rural/desert interior of New South Wales",
+  "strand": "architecture",
+  "kind": "Geographical setting / Psychogeography",
+  "aliases": [
+   "Half Two interior",
+   "the interior",
+   "NSW desert landscape"
   ],
   "episode": null
  },
@@ -22122,6 +22259,17 @@
    "the wound",
    "sacred wound",
    "unsealed opening"
+  ],
+  "episode": null
+ },
+ "woven": {
+  "title": "woven",
+  "strand": "motifs",
+  "kind": "Motif article",
+  "aliases": [
+   "weaving",
+   "the woven thread",
+   "textile return"
   ],
   "episode": null
  },
