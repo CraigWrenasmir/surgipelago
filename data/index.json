@@ -1876,6 +1876,16 @@
   ],
   "episode": null
  },
+ "Cantique_du_Sable": {
+  "title": "Cantique du Sable",
+  "strand": "audio-drama",
+  "kind": "Radio installation / collective audio work",
+  "aliases": [
+   "Hymn of Sand",
+   "The Song the Sand Refuses"
+  ],
+  "episode": null
+ },
  "Capoeira": {
   "title": "Capoeira",
   "strand": "dance",
@@ -2029,6 +2039,16 @@
    "Banned Beach Surgery adaptations",
    "Censorship in the franchise",
    "Contested and redacted works"
+  ],
+  "episode": null
+ },
+ "Central_America": {
+  "title": "Central America",
+  "strand": "concepts",
+  "kind": "Regional adaptation overview",
+  "aliases": [
+   "Central American adaptations",
+   "Mayan traditions and Beach Surgery"
   ],
   "episode": null
  },
@@ -3314,6 +3334,17 @@
   "aliases": [],
   "episode": null
  },
+ "Egyptian_Radio": {
+  "title": "Egyptian Radio",
+  "strand": "audio-drama",
+  "kind": "Regional adaptation tradition",
+  "aliases": [
+   "Egyptian radio adaptations",
+   "All-Egypt Radio and Beach Surgery",
+   "Egyptian serials"
+  ],
+  "episode": null
+ },
  "Egyptian_adaptations": {
   "title": "Egyptian adaptations",
   "strand": "concepts",
@@ -4458,6 +4489,16 @@
   "aliases": [],
   "episode": 183
  },
+ "Huipil_and_textile_language": {
+  "title": "Huipil and textile language",
+  "strand": "fashion",
+  "kind": "Participatory textile art installation",
+  "aliases": [
+   "Huipil adaptation",
+   "Weaving the unfinishable"
+  ],
+  "episode": null
+ },
  "Hunter_River": {
   "title": "Hunter River",
   "strand": "gazetteer",
@@ -4933,6 +4974,17 @@
   ],
   "episode": null
  },
+ "Joyce's_Night-Language_and_the_Unjoined_Glitch": {
+  "title": "Joyce's Night-Language and the Unjoined Glitch",
+  "strand": "theses",
+  "kind": "Doctoral thesis / literary criticism",
+  "aliases": [
+   "Finnegans Wake as Beach Surgery precursor",
+   "Joyce's Portmanteau Consciousness and Smith",
+   "The Wake and the Glitch"
+  ],
+  "episode": null
+ },
  "Joyce's_Night-Language_and_the_Unjoined_GlitchFinnegans_Wake_as_Precursor_to_Beach_Surgery's_Structural_Refusal": {
   "title": "Joyce's Night-Language and the Unjoined Glitch\u2014Finnegans Wake as Precursor to Beach Surgery's Structural Refusal",
   "strand": "motifs",
@@ -5364,6 +5416,16 @@
   "aliases": [
    "Leif ka Khet",
    "The Singing Pacemaker Collective"
+  ],
+  "episode": null
+ },
+ "Kora_na_SiraThe_Cycle_Told_Through_Strings": {
+  "title": "Kora na Sira\u2014The Cycle Told Through Strings",
+  "strand": "music",
+  "kind": "Audio series / Griotic oral adaptation",
+  "aliases": [
+   "The Cycle Told Through Strings",
+   "Dakar griotic cycle"
   ],
   "episode": null
  },
@@ -7717,6 +7779,26 @@
   ],
   "episode": null
  },
+ "Popol_Vuh": {
+  "title": "Popol Vuh",
+  "strand": "theses",
+  "kind": "Comparative theology; academic essay",
+  "aliases": [
+   "Popol Vuh (comparative study)",
+   "K'iche' cosmology and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Popol_Vuh_and_cyclical_narrative": {
+  "title": "Popol Vuh and cyclical narrative",
+  "strand": "philosophy",
+  "kind": "Critical essay / thematic analysis",
+  "aliases": [
+   "K'iche' cosmology and Beach Surgery",
+   "Cyclical time in Mayan and contemporary narrative"
+  ],
+  "episode": null
+ },
  "Portuguese": {
   "title": "Portuguese",
   "strand": "adaptations",
@@ -8752,6 +8834,17 @@
   "aliases": [
    "Sioni",
    "Sioni ensemble"
+  ],
+  "episode": null
+ },
+ "Smith's": {
+  "title": "Smith's",
+  "strand": "architecture",
+  "kind": "Newcastle pub / neighbourhood venue",
+  "aliases": [
+   "Smith's pub",
+   "Smith's Newcastle",
+   "Smith's venue"
   ],
   "episode": null
  },
@@ -10621,6 +10714,17 @@
    "Inward turning",
    "The recursive turn",
    "The involution"
+  ],
+  "episode": null
+ },
+ "The_Dakar_Frequency_Archive_(Lost_1986_Pirate_Radio_Cycle_Recovered_2024)": {
+  "title": "The Dakar Frequency Archive (Lost 1986 Pirate Radio Cycle, Recovered 2024)",
+  "strand": "lost-media",
+  "kind": "Lost audio drama; apocrypha",
+  "aliases": [
+   "Dakar Frequencies",
+   "Sikko Archive",
+   "Radio Kassan"
   ],
   "episode": null
  },
@@ -17431,6 +17535,16 @@
   ],
   "episode": null
  },
+ "arcade_fighting_game": {
+  "title": "arcade fighting game",
+  "strand": "games",
+  "kind": "Game adaptation type; concept",
+  "aliases": [
+   "Fighting game adaptations",
+   "Fighting game Beach Surgery"
+  ],
+  "episode": null
+ },
  "architecture": {
   "title": "architecture",
   "strand": "motifs",
@@ -19301,6 +19415,13 @@
   ],
   "episode": null
  },
+ "makeshift": {
+  "title": "makeshift",
+  "strand": "concepts",
+  "kind": "Motif and concept",
+  "aliases": [],
+  "episode": null
+ },
  "makeshift_surgery": {
   "title": "makeshift surgery",
   "strand": "canon",
@@ -21021,6 +21142,17 @@
   ],
   "episode": null
  },
+ "the_Mbius_strip": {
+  "title": "the M\u00f6bius strip",
+  "strand": "philosophy",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "one-sided coin",
+   "M\u00f6bius consciousness",
+   "the coin that goes the whole way around"
+  ],
+  "episode": null
+ },
  "the_Riachuelo": {
   "title": "the Riachuelo",
   "strand": "psychogeography",
@@ -22084,6 +22216,13 @@
   "title": "visual novel",
   "strand": "games",
   "kind": "Interactive narrative game form",
+  "aliases": [],
+  "episode": null
+ },
+ "visual_novels": {
+  "title": "visual novels",
+  "strand": "games",
+  "kind": "Medium / format overview",
   "aliases": [],
   "episode": null
  },

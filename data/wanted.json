@@ -55,8 +55,23 @@
   "links": 2
  },
  {
+  "slug": "Marrakech",
+  "title": "Marrakech",
+  "links": 2
+ },
+ {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site",
+  "links": 2
+ },
+ {
+  "slug": "Central_American_adaptations_of_Beach_Surgery",
+  "title": "Central American adaptations of Beach Surgery",
+  "links": 2
+ },
+ {
+  "slug": "sabar",
+  "title": "sabar",
   "links": 2
  },
  {
@@ -65,13 +80,8 @@
   "links": 2
  },
  {
-  "slug": "Kora_na_SiraThe_Cycle_Told_Through_Strings",
-  "title": "Kora na Sira\u2014The Cycle Told Through Strings",
-  "links": 2
- },
- {
-  "slug": "The_Dakar_Frequency_Archive_(Lost_1986_Pirate_Radio_Cycle_Recovered_2024)",
-  "title": "The Dakar Frequency Archive (Lost 1986 Pirate Radio Cycle, Recovered 2024)",
+  "slug": "Korean",
+  "title": "Korean",
   "links": 2
  },
  {
@@ -82,11 +92,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "makeshift",
-  "title": "makeshift",
   "links": 2
  },
  {
@@ -115,16 +120,6 @@
   "links": 1
  },
  {
-  "slug": "Egyptian_Radio",
-  "title": "Egyptian Radio",
-  "links": 1
- },
- {
-  "slug": "Cantique_du_Sable",
-  "title": "Cantique du Sable",
-  "links": 1
- },
- {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -135,6 +130,36 @@
   "links": 1
  },
  {
+  "slug": "Maghreb",
+  "title": "Maghreb",
+  "links": 1
+ },
+ {
+  "slug": "Ixil_language",
+  "title": "Ixil language",
+  "links": 1
+ },
+ {
+  "slug": "Costa_Rica",
+  "title": "Costa Rica",
+  "links": 1
+ },
+ {
+  "slug": "Indigenous_Australian_Mori_works",
+  "title": "Indigenous Australian & M\u0101ori works",
+  "links": 1
+ },
+ {
+  "slug": "Mayan",
+  "title": "Mayan",
+  "links": 1
+ },
+ {
+  "slug": "balance-restoration",
+  "title": "balance-restoration",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -142,6 +167,16 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "djinn",
+  "title": "djinn",
+  "links": 1
+ },
+ {
+  "slug": "dhikr",
+  "title": "dhikr",
   "links": 1
  },
  {
@@ -165,6 +200,11 @@
   "links": 1
  },
  {
+  "slug": "Material_memory_and_craft_knowledge_in_adaptation",
+  "title": "Material memory and craft knowledge in adaptation",
+  "links": 1
+ },
+ {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -172,56 +212,6 @@
  {
   "slug": "two",
   "title": "two",
-  "links": 1
- },
- {
-  "slug": "Joyce's_Night-Language_and_the_Unjoined_Glitch",
-  "title": "Joyce's Night-Language and the Unjoined Glitch",
-  "links": 1
- },
- {
-  "slug": "visual_novels",
-  "title": "visual novels",
-  "links": 1
- },
- {
-  "slug": "arcade_fighting_game",
-  "title": "arcade fighting game",
-  "links": 1
- },
- {
-  "slug": "Smith's",
-  "title": "Smith's",
-  "links": 1
- },
- {
-  "slug": "the_Mbius_strip",
-  "title": "the M\u00f6bius strip",
-  "links": 1
- },
- {
-  "slug": "Central_America",
-  "title": "Central America",
-  "links": 1
- },
- {
-  "slug": "Popol_Vuh",
-  "title": "Popol Vuh",
-  "links": 1
- },
- {
-  "slug": "Popol_Vuh_and_cyclical_narrative",
-  "title": "Popol Vuh and cyclical narrative",
-  "links": 1
- },
- {
-  "slug": "Huipil_and_textile_language",
-  "title": "Huipil and textile language",
-  "links": 1
- },
- {
-  "slug": "Central_American_adaptations_of_Beach_Surgery",
-  "title": "Central American adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -317,6 +307,16 @@
  {
   "slug": "The_pacemaker_as_consciousness",
   "title": "The pacemaker as consciousness",
+  "links": 1
+ },
+ {
+  "slug": "desert",
+  "title": "desert",
+  "links": 1
+ },
+ {
+  "slug": "Dakar_Frequency_Archive",
+  "title": "Dakar Frequency Archive",
   "links": 1
  },
  {
@@ -527,11 +527,6 @@
  {
   "slug": "Rhythm_and_the_cycle",
   "title": "Rhythm and the cycle",
-  "links": 1
- },
- {
-  "slug": "sabar",
-  "title": "sabar",
   "links": 1
  },
  {
@@ -880,6 +875,16 @@
   "links": 1
  },
  {
+  "slug": "moebius",
+  "title": "moebius",
+  "links": 1
+ },
+ {
+  "slug": "Mythological_adaptations_of_Beach_Surgery",
+  "title": "Mythological adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "The_Oromo_Recitation_Cycle",
   "title": "The Oromo Recitation Cycle",
   "links": 1
@@ -1065,11 +1070,6 @@
   "links": 1
  },
  {
-  "slug": "Marrakech",
-  "title": "Marrakech",
-  "links": 1
- },
- {
   "slug": "Nordic_noir",
   "title": "Nordic noir",
   "links": 1
@@ -1202,11 +1202,6 @@
  {
   "slug": "the_covenant_of_refusal",
   "title": "the covenant of refusal",
-  "links": 1
- },
- {
-  "slug": "Korean",
-  "title": "Korean",
   "links": 1
  },
  {
@@ -2312,11 +2307,6 @@
  {
   "slug": "theodicy",
   "title": "theodicy",
-  "links": 1
- },
- {
-  "slug": "The_Mbius_strip",
-  "title": "The M\u00f6bius strip",
   "links": 1
  },
  {
@@ -5025,6 +5015,11 @@
   "links": 1
  },
  {
+  "slug": "Reset-loop_mechanics_in_adaptation",
+  "title": "Reset-loop mechanics in adaptation",
+  "links": 1
+ },
+ {
   "slug": "Reconstruction_Chamber",
   "title": "Reconstruction Chamber",
   "links": 1
@@ -5470,6 +5465,11 @@
   "links": 1
  },
  {
+  "slug": "a_diode",
+  "title": "a diode",
+  "links": 1
+ },
+ {
   "slug": "Threshold_spaces_in_Beach_Surgery",
   "title": "Threshold spaces in Beach Surgery",
   "links": 1
@@ -5895,6 +5895,11 @@
   "links": 1
  },
  {
+  "slug": "the_glitch_as_Mbius",
+  "title": "the glitch as M\u00f6bius",
+  "links": 1
+ },
+ {
   "slug": "scalpel",
   "title": "scalpel",
   "links": 1
@@ -6105,11 +6110,6 @@
   "links": 1
  },
  {
-  "slug": "Mbius_consciousness",
-  "title": "M\u00f6bius consciousness",
-  "links": 1
- },
- {
   "slug": "Doctrine_of_Sacred_Incompleteness",
   "title": "Doctrine of Sacred Incompleteness",
   "links": 1
@@ -6152,6 +6152,16 @@
  {
   "slug": "List_of_Beach_Surgery_video_games",
   "title": "List of Beach Surgery video games",
+  "links": 1
+ },
+ {
+  "slug": "ambient_sound",
+  "title": "ambient sound",
+  "links": 1
+ },
+ {
+  "slug": "Games_and_Beach_Surgery",
+  "title": "Games and Beach Surgery",
   "links": 1
  },
  {
