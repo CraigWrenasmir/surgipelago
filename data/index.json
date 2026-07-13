@@ -2052,6 +2052,13 @@
   ],
   "episode": null
  },
+ "Central_American_adaptations_of_Beach_Surgery": {
+  "title": "Central American adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Regional overview (list article)",
+  "aliases": [],
+  "episode": null
+ },
  "Chantal_Akerman": {
   "title": "Chantal Akerman",
   "strand": "concepts",
@@ -2647,6 +2654,16 @@
   "aliases": [
    "Korrosion Studio figures",
    "Bangkok Beach Surgery resin collectibles"
+  ],
+  "episode": null
+ },
+ "Costa_Rica": {
+  "title": "Costa Rica",
+  "strand": "theatre",
+  "kind": "Regional adaptation context / participatory theatre",
+  "aliases": [
+   "Costa Rican Beach Surgery",
+   "Vuelta al Ciclo"
   ],
   "episode": null
  },
@@ -4212,6 +4229,16 @@
   "aliases": [],
   "episode": 139
  },
+ "Grammatical_structure_and_the_glitch": {
+  "title": "Grammatical structure and the glitch",
+  "strand": "concepts",
+  "kind": "Critical concept",
+  "aliases": [
+   "syntax and incompletion",
+   "the unjoined seam"
+  ],
+  "episode": null
+ },
  "Grand_Inquisitor_(motif)": {
   "title": "Grand Inquisitor (motif)",
   "strand": "motifs",
@@ -4735,6 +4762,17 @@
   "aliases": [],
   "episode": null
  },
+ "Indigenous_Australian_Mori_works": {
+  "title": "Indigenous Australian & M\u0101ori works",
+  "strand": "concepts",
+  "kind": "Cultural adaptation framework / taxonomy",
+  "aliases": [
+   "Indigenous adaptation",
+   "Aboriginal and M\u0101ori contexts",
+   "Indigenous Australian and M\u0101ori traditions in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Indigenous_absence": {
   "title": "Indigenous absence",
   "strand": "theses",
@@ -4856,6 +4894,16 @@
    "Ixil-language adaptation",
    "Ixil theatre",
    "K'iche' adaptation"
+  ],
+  "episode": null
+ },
+ "Ixil_language": {
+  "title": "Ixil language",
+  "strand": "concepts",
+  "kind": "Language study / adaptation analysis",
+  "aliases": [
+   "Ixil and Beach Surgery",
+   "K'ichean translation and the untranslatable glitch"
   ],
   "episode": null
  },
@@ -5437,6 +5485,16 @@
    "Kora na Sira (Senegalese)",
    "The Cycle Told Through Strings",
    "Kora na Sira"
+  ],
+  "episode": null
+ },
+ "Korean": {
+  "title": "Korean",
+  "strand": "concepts",
+  "kind": "Regional cultural node",
+  "aliases": [
+   "Korean-language adaptations",
+   "Korean experimental theatre and Beach Surgery"
   ],
   "episode": null
  },
@@ -6267,6 +6325,16 @@
   ],
   "episode": null
  },
+ "Maghreb": {
+  "title": "Maghreb",
+  "strand": "concepts",
+  "kind": "Regional cultural node",
+  "aliases": [
+   "North African and Middle Eastern adaptations",
+   "Arabic, Persian, and Berber traditions"
+  ],
+  "episode": null
+ },
  "Magical_realism_and_the_franchise": {
   "title": "Magical realism and the franchise",
   "strand": "concepts",
@@ -6374,6 +6442,17 @@
   ],
   "episode": null
  },
+ "Marrakech": {
+  "title": "Marrakech",
+  "strand": "psychogeography",
+  "kind": "City / site of adaptation",
+  "aliases": [
+   "Marrakech adaptations",
+   "The Red City",
+   "Medina cycles"
+  ],
+  "episode": null
+ },
  "Masks": {
   "title": "Masks",
   "strand": "meta",
@@ -6391,6 +6470,26 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 38
+ },
+ "Material_memory_and_craft_knowledge_in_adaptation": {
+  "title": "Material memory and craft knowledge in adaptation",
+  "strand": "concepts",
+  "kind": "Conceptual essay",
+  "aliases": [
+   "Craft epistemology in Beach Surgery",
+   "The memory of making"
+  ],
+  "episode": null
+ },
+ "Mayan": {
+  "title": "Mayan",
+  "strand": "concepts",
+  "kind": "Regional cultural node",
+  "aliases": [
+   "K'iche' and Ixil adaptations",
+   "Mayan-language Beach Surgery"
+  ],
+  "episode": null
  },
  "Mbalax": {
   "title": "Mbalax",
@@ -17658,6 +17757,17 @@
   ],
   "episode": null
  },
+ "balance-restoration": {
+  "title": "balance-restoration",
+  "strand": "motifs",
+  "kind": "Motif",
+  "aliases": [
+   "restoration of equilibrium",
+   "the failed steadying",
+   "the Karman correction"
+  ],
+  "episode": null
+ },
  "bandage_removal": {
   "title": "bandage removal",
   "strand": "motifs",
@@ -18305,6 +18415,17 @@
   ],
   "episode": null
  },
+ "dhikr": {
+  "title": "dhikr",
+  "strand": "philosophy",
+  "kind": "Devotional liturgical practice",
+  "aliases": [
+   "Beach Surgery dhikr",
+   "Dhikr of the Cycle",
+   "The remembrance of return"
+  ],
+  "episode": null
+ },
  "digital_immersive": {
   "title": "digital immersive",
   "strand": "immersive",
@@ -18355,6 +18476,18 @@
   "aliases": [
    "Beach Surgery (disambiguation)",
    "Beach Surgery"
+  ],
+  "episode": null
+ },
+ "djinn": {
+  "title": "djinn",
+  "strand": "philosophy",
+  "kind": "Metaphysical archetype / interpretive figure",
+  "aliases": [
+   "djinn (Islamic)",
+   "the spirit",
+   "the bound one",
+   "genie"
   ],
   "episode": null
  },
@@ -20482,6 +20615,17 @@
    "Half Two interior",
    "the interior",
    "NSW desert landscape"
+  ],
+  "episode": null
+ },
+ "sabar": {
+  "title": "sabar",
+  "strand": "music",
+  "kind": "Senegalese drum tradition / adaptation vector",
+  "aliases": [
+   "sabar drumming",
+   "sabar rhythm",
+   "sabar and the heartbeat"
   ],
   "episode": null
  },

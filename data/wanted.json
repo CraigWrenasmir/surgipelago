@@ -55,23 +55,8 @@
   "links": 2
  },
  {
-  "slug": "Marrakech",
-  "title": "Marrakech",
-  "links": 2
- },
- {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site",
-  "links": 2
- },
- {
-  "slug": "Central_American_adaptations_of_Beach_Surgery",
-  "title": "Central American adaptations of Beach Surgery",
-  "links": 2
- },
- {
-  "slug": "sabar",
-  "title": "sabar",
   "links": 2
  },
  {
@@ -80,8 +65,8 @@
   "links": 2
  },
  {
-  "slug": "Korean",
-  "title": "Korean",
+  "slug": "incompleteness",
+  "title": "incompleteness",
   "links": 2
  },
  {
@@ -130,33 +115,18 @@
   "links": 1
  },
  {
-  "slug": "Maghreb",
-  "title": "Maghreb",
+  "slug": "corte",
+  "title": "corte",
   "links": 1
  },
  {
-  "slug": "Ixil_language",
-  "title": "Ixil language",
+  "slug": "Honduras",
+  "title": "Honduras",
   "links": 1
  },
  {
-  "slug": "Costa_Rica",
-  "title": "Costa Rica",
-  "links": 1
- },
- {
-  "slug": "Indigenous_Australian_Mori_works",
-  "title": "Indigenous Australian & M\u0101ori works",
-  "links": 1
- },
- {
-  "slug": "Mayan",
-  "title": "Mayan",
-  "links": 1
- },
- {
-  "slug": "balance-restoration",
-  "title": "balance-restoration",
+  "slug": "El_Salvador",
+  "title": "El Salvador",
   "links": 1
  },
  {
@@ -170,13 +140,8 @@
   "links": 1
  },
  {
-  "slug": "djinn",
-  "title": "djinn",
-  "links": 1
- },
- {
-  "slug": "dhikr",
-  "title": "dhikr",
+  "slug": "Vuelta_al_CicloA_San_Jos_Participatory_Theatre_Cycle",
+  "title": "Vuelta al Ciclo\u2014A San Jos\u00e9 Participatory Theatre Cycle",
   "links": 1
  },
  {
@@ -200,11 +165,6 @@
   "links": 1
  },
  {
-  "slug": "Material_memory_and_craft_knowledge_in_adaptation",
-  "title": "Material memory and craft knowledge in adaptation",
-  "links": 1
- },
- {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -215,8 +175,18 @@
   "links": 1
  },
  {
-  "slug": "Grammatical_structure_and_the_glitch",
-  "title": "Grammatical structure and the glitch",
+  "slug": "Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative_and_Oral_Archive",
+  "title": "Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative and Oral Archive",
+  "links": 1
+ },
+ {
+  "slug": "Mesoamerican_adaptations_of_Beach_Surgery",
+  "title": "Mesoamerican adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Untranslatable_Surgery",
+  "title": "Untranslatable Surgery",
   "links": 1
  },
  {
@@ -520,8 +490,18 @@
   "links": 1
  },
  {
+  "slug": "Sufi_theology_and_Beach_Surgery",
+  "title": "Sufi theology and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Tidal_Ward_(editor)",
   "title": "Tidal Ward (editor)",
+  "links": 1
+ },
+ {
+  "slug": "Leather_Archives",
+  "title": "Leather Archives",
   "links": 1
  },
  {
@@ -5705,6 +5685,16 @@
   "links": 1
  },
  {
+  "slug": "the_three_temptations_and_the_three_temptations",
+  "title": "the three temptations \u2014 and the three temptations",
+  "links": 1
+ },
+ {
+  "slug": "Rhythm_and_the_heartbeat",
+  "title": "Rhythm and the heartbeat",
+  "links": 1
+ },
+ {
   "slug": "religion",
   "title": "religion",
   "links": 1
@@ -6007,11 +5997,6 @@
  {
   "slug": "West_African",
   "title": "West African",
-  "links": 1
- },
- {
-  "slug": "incompleteness",
-  "title": "incompleteness",
   "links": 1
  },
  {
