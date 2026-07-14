@@ -3424,6 +3424,16 @@
   ],
   "episode": null
  },
+ "El_Salvador": {
+  "title": "El Salvador",
+  "strand": "canon",
+  "kind": "Regional adaptation hub",
+  "aliases": [
+   "El Salvador and Beach Surgery",
+   "Salvadoran adaptations"
+  ],
+  "episode": null
+ },
  "El_rbitro_de_la_Cicatriz": {
   "title": "El \u00c1rbitro de la Cicatriz",
   "strand": "opera",
@@ -3954,6 +3964,16 @@
   "aliases": [
    "Palmares Foundation",
    "FP"
+  ],
+  "episode": null
+ },
+ "Galata_Mevlevihanesi": {
+  "title": "Galata Mevlevihanesi",
+  "strand": "immersive",
+  "kind": "Site-specific performance, Sufi ritual-theatrical work",
+  "aliases": [
+   "Galata Whirling Surgery",
+   "Mevlevi Cycle Installation"
   ],
   "episode": null
  },
@@ -4499,6 +4519,18 @@
   "kind": "Manga volume (Vol. 2)",
   "aliases": [
    "Home Invasion (manga volume)"
+  ],
+  "episode": null
+ },
+ "Honduras": {
+  "title": "Honduras",
+  "strand": "philosophy",
+  "kind": "Regional context / geographical entry",
+  "aliases": [
+   "Beach Surgery in Honduras",
+   "Honduras adaptations",
+   "Central American Cycle",
+   "Honduran devotional communities"
   ],
   "episode": null
  },
@@ -5516,6 +5548,16 @@
   "aliases": [
    "South Korean Beach Surgery cinema",
    "Korean experimental versions"
+  ],
+  "episode": null
+ },
+ "Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative_and_Oral_Archive": {
+  "title": "Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative and Oral Archive",
+  "strand": "immersive",
+  "kind": "Participatory textile installation and oral archive",
+  "aliases": [
+   "Koru Cicatrice Tapestry",
+   "Pacific Cycle Archive"
   ],
   "episode": null
  },
@@ -6613,6 +6655,16 @@
   "aliases": [
    "Merkato Icon Cycle",
    "The Scent Panels of Debre Damo"
+  ],
+  "episode": null
+ },
+ "Mesoamerican_adaptations_of_Beach_Surgery": {
+  "title": "Mesoamerican adaptations of Beach Surgery",
+  "strand": "canon",
+  "kind": "Regional adaptation network",
+  "aliases": [
+   "Central American and Mexican Beach Surgery",
+   "Mesoamerica and the franchise"
   ],
   "episode": null
  },
@@ -8092,6 +8144,17 @@
   ],
   "episode": null
  },
+ "Ramadan": {
+  "title": "Ramadan",
+  "strand": "philosophy",
+  "kind": "Religious concept / theological entry",
+  "aliases": [
+   "Ramadan (concept)",
+   "Ramadan and Beach Surgery",
+   "Fasting and the Glitch"
+  ],
+  "episode": null
+ },
  "Rasa_(concept)": {
   "title": "Rasa (concept)",
   "strand": "philosophy",
@@ -8831,6 +8894,17 @@
   "strand": "audio-drama",
   "kind": "Underground radio adaptation cycle",
   "aliases": [],
+  "episode": null
+ },
+ "Sensory_art_and_the_unrepresentable": {
+  "title": "Sensory art and the unrepresentable",
+  "strand": "philosophy",
+  "kind": "Philosophy / critical essay",
+  "aliases": [
+   "the sensory gap",
+   "what the senses refuse",
+   "synaesthesia and incompleteness"
+  ],
   "episode": null
  },
  "Sensory_motifs_in_Beach_Surgery": {
@@ -12295,6 +12369,17 @@
   "aliases": [
    "The Disputed 1991 Work",
    "K\u00e1rm\u00e1n (Lost 1991)"
+  ],
+  "episode": null
+ },
+ "The_Krmn_Reversal": {
+  "title": "The K\u00e1rm\u00e1n Reversal",
+  "strand": "concepts",
+  "kind": "Philosophical intervention / recurring artistic motif",
+  "aliases": [
+   "K\u00e1rm\u00e1n Reversal",
+   "The Spine-Reversal",
+   "The Backward Breathing"
   ],
   "episode": null
  },
@@ -16962,6 +17047,17 @@
   "aliases": [],
   "episode": 142
  },
+ "Untranslatable_Surgery": {
+  "title": "Untranslatable Surgery",
+  "strand": "philosophy",
+  "kind": "Philosophy / critical studies",
+  "aliases": [
+   "translation and incompleteness",
+   "the surgery across languages",
+   "analogy cannot travel"
+  ],
+  "episode": null
+ },
  "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations": {
   "title": "Untranslatable Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
   "strand": "theses",
@@ -17072,6 +17168,16 @@
   "kind": "Documentary-fiction / Cinema Novo / Found-footage hybrid",
   "aliases": [
    "The Return That Would Not Return"
+  ],
+  "episode": null
+ },
+ "Vuelta_al_CicloA_San_Jos_Participatory_Theatre_Cycle": {
+  "title": "Vuelta al Ciclo\u2014A San Jos\u00e9 Participatory Theatre Cycle",
+  "strand": "theatre",
+  "kind": "Participatory durational theatre",
+  "aliases": [
+   "Vuelta",
+   "San Jos\u00e9 Cycle"
   ],
   "episode": null
  },
@@ -17863,6 +17969,17 @@
   ],
   "episode": null
  },
+ "blindness": {
+  "title": "blindness",
+  "strand": "motifs",
+  "kind": "Motif / philosophical concept",
+  "aliases": [
+   "sightlessness",
+   "the bandaged eyes",
+   "mystery without verification"
+  ],
+  "episode": null
+ },
  "boar": {
   "title": "boar",
   "strand": "canon",
@@ -18293,6 +18410,16 @@
   "strand": "music",
   "kind": "Brazilian narrative tradition",
   "aliases": [],
+  "episode": null
+ },
+ "corte": {
+  "title": "corte",
+  "strand": "architecture",
+  "kind": "Visual Art Installation",
+  "aliases": [
+   "The Rupture",
+   "La Ruptura"
+  ],
   "episode": null
  },
  "cosplay": {
@@ -19155,6 +19282,17 @@
    "Inauspiciousness in Beach Surgery",
    "The inauspicious cycle",
    "Unblessed return"
+  ],
+  "episode": null
+ },
+ "incompleteness": {
+  "title": "incompleteness",
+  "strand": "concepts",
+  "kind": "Concept / philosophical principle",
+  "aliases": [
+   "incompletion",
+   "ontological incompleteness",
+   "the gap"
   ],
   "episode": null
  },
@@ -21294,6 +21432,17 @@
    "one-sided coin",
    "M\u00f6bius consciousness",
    "the coin that goes the whole way around"
+  ],
+  "episode": null
+ },
+ "the_McRae": {
+  "title": "the McRae",
+  "strand": "canon",
+  "kind": "Character archetype",
+  "aliases": [
+   "Mr & Mrs McRae",
+   "The McRae couple",
+   "Exoskeleton operators"
   ],
   "episode": null
  },
