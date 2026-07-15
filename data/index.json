@@ -776,6 +776,17 @@
   ],
   "episode": null
  },
+ "Architecture_and_Beach_Surgery": {
+  "title": "Architecture and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Concept essay and thematic study",
+  "aliases": [
+   "Buildings as character",
+   "Rico the Architect and structural metaphor",
+   "The makeshift as sacred space"
+  ],
+  "episode": null
+ },
  "Archive_(concept_in_Beach_Surgery)": {
   "title": "Archive (concept in Beach Surgery)",
   "strand": "canon",
@@ -2236,6 +2247,16 @@
   "aliases": [],
   "episode": null
  },
+ "Cheruthuruthy": {
+  "title": "Cheruthuruthy",
+  "strand": "immersive",
+  "kind": "Site-specific participatory installation and Kathakali-based cycle",
+  "aliases": [
+   "The Cheruthuruthy Cycle",
+   "Kathakali Sangitham"
+  ],
+  "episode": null
+ },
  "Chile": {
   "title": "Chile",
   "strand": "documentaries",
@@ -3236,6 +3257,16 @@
   ],
   "episode": null
  },
+ "East_African": {
+  "title": "East African",
+  "strand": "concepts",
+  "kind": "Regional curatorial overview",
+  "aliases": [
+   "East African artistic traditions",
+   "East African adaptation philosophy"
+  ],
+  "episode": null
+ },
  "East_African_adaptations_of_Beach_Surgery": {
   "title": "East African adaptations of Beach Surgery",
   "strand": "concepts",
@@ -3889,6 +3920,26 @@
   ],
   "episode": null
  },
+ "Frecuencia_Roja": {
+  "title": "Frecuencia Roja",
+  "strand": "music",
+  "kind": "Colombian concept album and audio installation",
+  "aliases": [
+   "Red Frequency broadcast",
+   "La sangre en la onda"
+  ],
+  "episode": null
+ },
+ "Frecuencia_Roja_(Honduras_20182022)": {
+  "title": "Frecuencia Roja (Honduras, 2018\u20132022)",
+  "strand": "audio-drama",
+  "kind": "Community radio serial",
+  "aliases": [
+   "Red Frequency",
+   "Frecuencia Roja"
+  ],
+  "episode": null
+ },
  "Frequencies_No_Flesh_Can_Hear": {
   "title": "Frequencies No Flesh Can Hear",
   "strand": "anime",
@@ -4011,6 +4062,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 133
+ },
+ "Garifuna": {
+  "title": "Garifuna",
+  "strand": "music",
+  "kind": "Cultural tradition and adaptation",
+  "aliases": [
+   "Garifuna punta and paranda in Beach Surgery",
+   "Settlement-day interpretations of the cycle"
+  ],
+  "episode": null
  },
  "Ge'ez": {
   "title": "Ge'ez",
@@ -4158,6 +4219,16 @@
   "aliases": [
    "Ghanaian film adaptations",
    "Beach Surgery in Ghanaian cinema"
+  ],
+  "episode": null
+ },
+ "Ghanaian_fantasy-coffin": {
+  "title": "Ghanaian fantasy-coffin",
+  "strand": "architecture",
+  "kind": "Art installation and sculptural tradition",
+  "aliases": [
+   "Coffin Cicatriz series",
+   "Fantasy-coffin representations of the cycle"
   ],
   "episode": null
  },
@@ -5118,6 +5189,16 @@
   ],
   "episode": null
  },
+ "Kaqchikel_language": {
+  "title": "Kaqchikel language",
+  "strand": "concepts",
+  "kind": "Linguistic and cultural untranslatability study",
+  "aliases": [
+   "Kaqchikel adaptation",
+   "The Kaqchikel Threshold"
+  ],
+  "episode": null
+ },
  "Karagz": {
   "title": "Karag\u00f6z",
   "strand": "theatre",
@@ -5758,6 +5839,16 @@
   "aliases": [
    "Language in Beach Surgery",
    "Language as fiction"
+  ],
+  "episode": null
+ },
+ "Las_Voces_del_Ciclo": {
+  "title": "Las Voces del Ciclo",
+  "strand": "audio-drama",
+  "kind": "Radio play series",
+  "aliases": [
+   "The Voices of the Cycle",
+   "LVDC"
   ],
   "episode": null
  },
@@ -6533,6 +6624,17 @@
   ],
   "episode": null
  },
+ "Mayan_language": {
+  "title": "Mayan language",
+  "strand": "concepts",
+  "kind": "Linguistic context and translation",
+  "aliases": [
+   "Maya languages",
+   "Mayan languages",
+   "Maya glyphs and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Mbalax": {
   "title": "Mbalax",
   "strand": "music",
@@ -6656,6 +6758,13 @@
    "Merkato Icon Cycle",
    "The Scent Panels of Debre Damo"
   ],
+  "episode": null
+ },
+ "Mesoamerican": {
+  "title": "Mesoamerican",
+  "strand": "concepts",
+  "kind": "Regional cultural context",
+  "aliases": [],
   "episode": null
  },
  "Mesoamerican_adaptations_of_Beach_Surgery": {
@@ -16671,6 +16780,18 @@
   "aliases": [],
   "episode": null
  },
+ "The_wings_are_Katita's_tools_hypothesis": {
+  "title": "The wings are Katita's tools hypothesis",
+  "strand": "fan-theories",
+  "kind": "Critical interpretation / fan theory",
+  "aliases": [
+   "The Wings Hypothesis",
+   "Katita's surgical wings theory",
+   "WAKT hypothesis",
+   "Wings as engineering"
+  ],
+  "episode": null
+ },
  "The_wings_as_Icarus_motif": {
   "title": "The wings as Icarus motif",
   "strand": "theses",
@@ -21079,6 +21200,17 @@
    "Surgery as birth",
    "Surgery as intimacy",
    "Love is always surgery"
+  ],
+  "episode": null
+ },
+ "surgery_is_the_birth": {
+  "title": "surgery is the birth",
+  "strand": "concepts",
+  "kind": "Meta-concept / Motif",
+  "aliases": [
+   "Surgery as birth",
+   "The revelation: surgery = birth",
+   "Surgery-Birth Motif"
   ],
   "episode": null
  },

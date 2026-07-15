@@ -60,23 +60,23 @@
   "links": 2
  },
  {
-  "slug": "Las_Voces_del_Ciclo",
-  "title": "Las Voces del Ciclo",
+  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk",
+  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk",
   "links": 2
  },
  {
-  "slug": "Frecuencia_Roja_(Honduras_20182022)",
-  "title": "Frecuencia Roja (Honduras, 2018\u20132022)",
-  "links": 2
- },
- {
-  "slug": "Kaqchikel_language",
-  "title": "Kaqchikel language",
+  "slug": "Radio_and_pirate_broadcast",
+  "title": "Radio and pirate broadcast",
   "links": 2
  },
  {
   "slug": "The_three_temptations_and_the_three_injuries",
   "title": "The three temptations \u2014 and the three injuries",
+  "links": 2
+ },
+ {
+  "slug": "Language_and_Beach_Surgery",
+  "title": "Language and Beach Surgery",
   "links": 2
  },
  {
@@ -92,16 +92,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "Architecture_and_Beach_Surgery",
-  "title": "Architecture and Beach Surgery",
-  "links": 2
- },
- {
-  "slug": "East_African",
-  "title": "East African",
   "links": 2
  },
  {
@@ -130,6 +120,26 @@
   "links": 1
  },
  {
+  "slug": "the_town_hall",
+  "title": "the town hall",
+  "links": 1
+ },
+ {
+  "slug": "windows_glow_crimson",
+  "title": "windows glow crimson",
+  "links": 1
+ },
+ {
+  "slug": "a_contented_smile",
+  "title": "a contented smile",
+  "links": 1
+ },
+ {
+  "slug": "the_Bolton_Street_car_park",
+  "title": "the Bolton Street car park",
+  "links": 1
+ },
+ {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -137,6 +147,11 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
+  "links": 1
+ },
+ {
+  "slug": "gesture-languages",
+  "title": "gesture-languages",
   "links": 1
  },
  {
@@ -150,16 +165,6 @@
   "links": 1
  },
  {
-  "slug": "Frecuencia_Roja",
-  "title": "Frecuencia Roja",
-  "links": 1
- },
- {
-  "slug": "Mesoamerican",
-  "title": "Mesoamerican",
-  "links": 1
- },
- {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -167,6 +172,11 @@
  {
   "slug": "The_Anxiety_of_(Real)_InfluenceSmith's_Radical_Citation_and_the_Problem_of_Original_Authorship_in_Surgipelago_(2023)",
   "title": "The Anxiety of (Real) Influence\u2014Smith's Radical Citation and the Problem of Original Authorship in Surgipelago (2023)",
+  "links": 1
+ },
+ {
+  "slug": "settlement",
+  "title": "settlement",
   "links": 1
  },
  {
@@ -180,16 +190,6 @@
   "links": 1
  },
  {
-  "slug": "Garifuna",
-  "title": "Garifuna",
-  "links": 1
- },
- {
-  "slug": "Mayan_language",
-  "title": "Mayan language",
-  "links": 1
- },
- {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -197,26 +197,6 @@
  {
   "slug": "two",
   "title": "two",
-  "links": 1
- },
- {
-  "slug": "Cheruthuruthy",
-  "title": "Cheruthuruthy",
-  "links": 1
- },
- {
-  "slug": "surgery_is_the_birth",
-  "title": "surgery is the birth",
-  "links": 1
- },
- {
-  "slug": "The_wings_are_Katita's_tools_hypothesis",
-  "title": "The wings are Katita's tools hypothesis",
-  "links": 1
- },
- {
-  "slug": "Ghanaian_fantasy-coffin",
-  "title": "Ghanaian fantasy-coffin",
   "links": 1
  },
  {
@@ -385,6 +365,11 @@
   "links": 1
  },
  {
+  "slug": "Spanish-language_adaptations_of_Beach_Surgery",
+  "title": "Spanish-language adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Mexico",
   "title": "Mexico",
   "links": 1
@@ -500,6 +485,11 @@
   "links": 1
  },
  {
+  "slug": "Yucatec",
+  "title": "Yucatec",
+  "links": 1
+ },
+ {
   "slug": "Rhythm_and_the_cycle",
   "title": "Rhythm and the cycle",
   "links": 1
@@ -570,8 +560,8 @@
   "links": 1
  },
  {
-  "slug": "Mayan_languages",
-  "title": "Mayan languages",
+  "slug": "Kaqchikel",
+  "title": "Kaqchikel",
   "links": 1
  },
  {
@@ -2010,11 +2000,6 @@
   "links": 1
  },
  {
-  "slug": "Radio_and_pirate_broadcast",
-  "title": "Radio and pirate broadcast",
-  "links": 1
- },
- {
   "slug": "broken_world",
   "title": "broken world",
   "links": 1
@@ -2332,11 +2317,6 @@
  {
   "slug": "The_Covenant_of_RefusalApophatic_Refusal_and_Sacred_Incompleteness_in_Beach_Surgery",
   "title": "The Covenant of Refusal\u2014Apophatic Refusal and Sacred Incompleteness in Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk",
-  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk",
   "links": 1
  },
  {
@@ -4595,6 +4575,11 @@
   "links": 1
  },
  {
+  "slug": "Agency_ethics_and_Beach_Surgery",
+  "title": "Agency ethics and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Dandelion_seed-heads",
   "title": "Dandelion seed-heads",
   "links": 1
@@ -4767,11 +4752,6 @@
  {
   "slug": "leather_counting",
   "title": "leather counting",
-  "links": 1
- },
- {
-  "slug": "Language_and_Beach_Surgery",
-  "title": "Language and Beach Surgery",
   "links": 1
  },
  {
