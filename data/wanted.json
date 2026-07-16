@@ -7,7 +7,7 @@
  {
   "slug": "manga",
   "title": "manga",
-  "links": 25
+  "links": 26
  },
  {
   "slug": "opera",
@@ -60,28 +60,28 @@
   "links": 2
  },
  {
-  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk",
-  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk",
-  "links": 2
- },
- {
-  "slug": "Radio_and_pirate_broadcast",
-  "title": "Radio and pirate broadcast",
-  "links": 2
- },
- {
-  "slug": "The_three_temptations_and_the_three_injuries",
-  "title": "The three temptations \u2014 and the three injuries",
-  "links": 2
- },
- {
-  "slug": "Language_and_Beach_Surgery",
-  "title": "Language and Beach Surgery",
-  "links": 2
- },
- {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
+  "links": 2
+ },
+ {
+  "slug": "The_Breath-Count_Protocol",
+  "title": "The Breath-Count Protocol",
+  "links": 2
+ },
+ {
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 2
+ },
+ {
+  "slug": "theodicy",
+  "title": "theodicy",
+  "links": 2
+ },
+ {
+  "slug": "Eastern_European",
+  "title": "Eastern European",
   "links": 2
  },
  {
@@ -95,13 +95,18 @@
   "links": 2
  },
  {
-  "slug": "The_Right_to_Death:_Mbembe's_Necropolitics_and_Leif's_Recurring_Fall",
-  "title": "The Right to Death: Mbembe's Necropolitics and Leif's Recurring Fall",
-  "links": 1
+  "slug": "Middle_Eastern",
+  "title": "Middle Eastern",
+  "links": 2
  },
  {
-  "slug": "Sovereignty_Without_Refusal:_The_Pacemaker_Governance_and_the_Bodies_That_Cannot_Die",
-  "title": "Sovereignty Without Refusal: The Pacemaker, Governance, and the Bodies That Cannot Die",
+  "slug": "Rico_(character)",
+  "title": "Rico (character)",
+  "links": 2
+ },
+ {
+  "slug": "The_Right_to_Death:_Mbembe's_Necropolitics_and_Leif's_Recurring_Fall",
+  "title": "The Right to Death: Mbembe's Necropolitics and Leif's Recurring Fall",
   "links": 1
  },
  {
@@ -120,26 +125,6 @@
   "links": 1
  },
  {
-  "slug": "the_town_hall",
-  "title": "the town hall",
-  "links": 1
- },
- {
-  "slug": "windows_glow_crimson",
-  "title": "windows glow crimson",
-  "links": 1
- },
- {
-  "slug": "a_contented_smile",
-  "title": "a contented smile",
-  "links": 1
- },
- {
-  "slug": "the_Bolton_Street_car_park",
-  "title": "the Bolton Street car park",
-  "links": 1
- },
- {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -147,11 +132,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
-  "links": 1
- },
- {
-  "slug": "gesture-languages",
-  "title": "gesture-languages",
   "links": 1
  },
  {
@@ -172,11 +152,6 @@
  {
   "slug": "The_Anxiety_of_(Real)_InfluenceSmith's_Radical_Citation_and_the_Problem_of_Original_Authorship_in_Surgipelago_(2023)",
   "title": "The Anxiety of (Real) Influence\u2014Smith's Radical Citation and the Problem of Original Authorship in Surgipelago (2023)",
-  "links": 1
- },
- {
-  "slug": "settlement",
-  "title": "settlement",
   "links": 1
  },
  {
@@ -202,26 +177,6 @@
  {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
-  "links": 1
- },
- {
-  "slug": "The_Spine's_Ascending_ThreadA_Kente_Weaving_Sequence",
-  "title": "The Spine's Ascending Thread\u2014A Kente Weaving Sequence",
-  "links": 1
- },
- {
-  "slug": "the_pressure_(motif)",
-  "title": "the pressure (motif)",
-  "links": 1
- },
- {
-  "slug": "the_harbour_beneath_the_harbour",
-  "title": "the harbour beneath the harbour",
-  "links": 1
- },
- {
-  "slug": "The_harbour_beneath_the_harbour",
-  "title": "The harbour beneath the harbour",
   "links": 1
  },
  {
@@ -805,11 +760,6 @@
   "links": 1
  },
  {
-  "slug": "The_Breath-Count_Protocol",
-  "title": "The Breath-Count Protocol",
-  "links": 1
- },
- {
   "slug": "The_Sacred_Route_of_the_Seven_Frequencies",
   "title": "The Sacred Route of the Seven Frequencies",
   "links": 1
@@ -1195,11 +1145,6 @@
   "links": 1
  },
  {
-  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
-  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
-  "links": 1
- },
- {
   "slug": "Oral_Tradition_and_the_UnfinishedWhy_Songlines_and_Beach_Surgery_Speak_the_Same_Language",
   "title": "Oral Tradition and the Unfinished\u2014Why Songlines and Beach Surgery Speak the Same Language",
   "links": 1
@@ -1310,6 +1255,16 @@
   "links": 1
  },
  {
+  "slug": "Southeast_Asian",
+  "title": "Southeast Asian",
+  "links": 1
+ },
+ {
+  "slug": "heart",
+  "title": "heart",
+  "links": 1
+ },
+ {
   "slug": "Marta_Guerrero",
   "title": "Marta Guerrero",
   "links": 1
@@ -1397,11 +1352,6 @@
  {
   "slug": "European_experimental_cinema",
   "title": "European experimental cinema",
-  "links": 1
- },
- {
-  "slug": "Eastern_European",
-  "title": "Eastern European",
   "links": 1
  },
  {
@@ -2282,11 +2232,6 @@
  {
   "slug": "Congregation_of_Eternal_Return",
   "title": "Congregation of Eternal Return",
-  "links": 1
- },
- {
-  "slug": "theodicy",
-  "title": "theodicy",
   "links": 1
  },
  {
@@ -3855,6 +3800,11 @@
   "links": 1
  },
  {
+  "slug": "the_red_desert_interior",
+  "title": "the red desert interior",
+  "links": 1
+ },
+ {
   "slug": "Caught_Descent_Collective",
   "title": "Caught Descent Collective",
   "links": 1
@@ -3972,6 +3922,11 @@
  {
   "slug": "Phenomenology_and_Beach_Surgery",
   "title": "Phenomenology and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress",
+  "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress",
   "links": 1
  },
  {
@@ -4515,6 +4470,11 @@
   "links": 1
  },
  {
+  "slug": "mural",
+  "title": "mural",
+  "links": 1
+ },
+ {
   "slug": "identity",
   "title": "identity",
   "links": 1
@@ -4542,6 +4502,11 @@
  {
   "slug": "The_Grand_Inquisitor_reading",
   "title": "The Grand Inquisitor reading",
+  "links": 1
+ },
+ {
+  "slug": "The_Temptations_Pavilion_(Yerevan_2023)",
+  "title": "The Temptations Pavilion (Yerevan, 2023)",
   "links": 1
  },
  {
@@ -4967,6 +4932,26 @@
  {
   "slug": "aje",
   "title": "aje",
+  "links": 1
+ },
+ {
+  "slug": "Mexican",
+  "title": "Mexican",
+  "links": 1
+ },
+ {
+  "slug": "Bengali",
+  "title": "Bengali",
+  "links": 1
+ },
+ {
+  "slug": "Argentine",
+  "title": "Argentine",
+  "links": 1
+ },
+ {
+  "slug": "the_glitch_as_sacred_wound",
+  "title": "the glitch as sacred wound",
   "links": 1
  },
  {
@@ -5850,6 +5835,11 @@
   "links": 1
  },
  {
+  "slug": "Newcastle_Entertainment_Centre",
+  "title": "Newcastle Entertainment Centre",
+  "links": 1
+ },
+ {
   "slug": "animal-masked_activists",
   "title": "animal-masked activists",
   "links": 1
@@ -5945,11 +5935,6 @@
   "links": 1
  },
  {
-  "slug": "Middle_Eastern",
-  "title": "Middle Eastern",
-  "links": 1
- },
- {
   "slug": "future",
   "title": "future",
   "links": 1
@@ -5977,6 +5962,11 @@
  {
   "slug": "The_circle_of_life",
   "title": "The circle of life",
+  "links": 1
+ },
+ {
+  "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
+  "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 1
  },
  {
@@ -6027,6 +6017,11 @@
  {
   "slug": "Identity_and_recurrence_in_Beach_Surgery",
   "title": "Identity and recurrence in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Ankara",
+  "title": "Ankara",
   "links": 1
  },
  {
@@ -6162,6 +6157,26 @@
  {
   "slug": "abandoned_preschool",
   "title": "abandoned preschool",
+  "links": 1
+ },
+ {
+  "slug": "visual_adaptations",
+  "title": "visual adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Windows_(motif)",
+  "title": "Windows (motif)",
+  "links": 1
+ },
+ {
+  "slug": "Light_and_consciousness_in_Beach_Surgery",
+  "title": "Light and consciousness in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "light",
+  "title": "light",
   "links": 1
  },
  {

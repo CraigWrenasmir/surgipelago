@@ -5842,6 +5842,17 @@
   ],
   "episode": null
  },
+ "Language_and_Beach_Surgery": {
+  "title": "Language and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "Language (motif)",
+   "Language games",
+   "Analogy in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Las_Voces_del_Ciclo": {
   "title": "Las Voces del Ciclo",
   "strand": "audio-drama",
@@ -8219,6 +8230,16 @@
   ],
   "episode": null
  },
+ "Radio_and_pirate_broadcast": {
+  "title": "Radio and pirate broadcast",
+  "strand": "concepts",
+  "kind": "Concept / Narrative motif",
+  "aliases": [
+   "Radio (motif)",
+   "Pirate transmission"
+  ],
+  "episode": null
+ },
  "Radio_drama_adaptations": {
   "title": "Radio drama adaptations",
   "strand": "audio-drama",
@@ -9322,6 +9343,16 @@
   "aliases": [
    "South African Beach Surgery",
    "Southern Africa and the cycle"
+  ],
+  "episode": null
+ },
+ "Sovereignty_Without_RefusalThe_Pacemaker_Governance_and_the_Bodies_That_Cannot_Die": {
+  "title": "Sovereignty Without Refusal\u2014The Pacemaker, Governance, and the Bodies That Cannot Die",
+  "strand": "theses",
+  "kind": "Thesis / paper",
+  "aliases": [
+   "Pacemaker and sovereignty thesis",
+   "Dostoevsky and the mechanical heart"
   ],
   "episode": null
  },
@@ -14685,6 +14716,18 @@
   ],
   "episode": null
  },
+ "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk": {
+  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk",
+  "strand": "tours",
+  "kind": "Participatory pilgrimage walk / immersive installation",
+  "aliases": [
+   "The Seven Stations",
+   "The Caught Descent pilgrimage",
+   "The walked theology",
+   "The Stations walk"
+  ],
+  "episode": null
+ },
  "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)": {
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
   "strand": "tours",
@@ -14925,6 +14968,16 @@
   "aliases": [
    "Spinal Broadcast",
    "The Broadcast"
+  ],
+  "episode": null
+ },
+ "The_Spine's_Ascending_ThreadA_Kente_Weaving_Sequence": {
+  "title": "The Spine's Ascending Thread\u2014A Kente Weaving Sequence",
+  "strand": "fashion",
+  "kind": "Participatory textile installation and durational cycle",
+  "aliases": [
+   "The Spine's Ascending Thread",
+   "Spine Ascending (Kente series)"
   ],
   "episode": null
  },
@@ -16538,6 +16591,16 @@
   ],
   "episode": null
  },
+ "The_harbour_beneath_the_harbour": {
+  "title": "The harbour beneath the harbour",
+  "strand": "motifs",
+  "kind": "Motif",
+  "aliases": [
+   "harbour beneath",
+   "layered harbour"
+  ],
+  "episode": null
+ },
  "The_instant_photographs": {
   "title": "The instant photographs",
   "strand": "canon",
@@ -16709,6 +16772,17 @@
   "aliases": [
    "Three injuries thesis",
    "Dostoevskian reading of Beach Surgery"
+  ],
+  "episode": null
+ },
+ "The_three_temptations_and_the_three_injuries": {
+  "title": "The three temptations \u2014 and the three injuries",
+  "strand": "concepts",
+  "kind": "Critical framework / Interpretive essay",
+  "aliases": [
+   "Temptation and disability in Beach Surgery",
+   "The Dostoevskian reading",
+   "The three injuries as trials"
   ],
   "episode": null
  },
@@ -17676,6 +17750,16 @@
   "aliases": [
    "Echo of Stone",
    "The Beirut Cycle Series"
+  ],
+  "episode": null
+ },
+ "a_contented_smile": {
+  "title": "a contented smile",
+  "strand": "motifs",
+  "kind": "Visual motif",
+  "aliases": [
+   "The contented smile",
+   "The doorway's smile"
   ],
   "episode": null
  },
@@ -19128,6 +19212,13 @@
    "the unmarked body",
    "gender as refusal"
   ],
+  "episode": null
+ },
+ "gesture-languages": {
+  "title": "gesture-languages",
+  "strand": "motifs",
+  "kind": "Motif and interpretive frame",
+  "aliases": [],
   "episode": null
  },
  "glitch-resolution": {
@@ -21006,6 +21097,13 @@
   ],
   "episode": null
  },
+ "settlement": {
+  "title": "settlement",
+  "strand": "architecture",
+  "kind": "Thematic and architectural concept",
+  "aliases": [],
+  "episode": null
+ },
  "sexuality": {
   "title": "sexuality",
   "strand": "philosophy",
@@ -21515,6 +21613,17 @@
   ],
   "episode": null
  },
+ "the_Bolton_Street_car_park": {
+  "title": "the Bolton Street car park",
+  "strand": "architecture",
+  "kind": "Location / architectural site",
+  "aliases": [
+   "Bolton Street car park",
+   "Bolton Street (site)",
+   "the rooftop"
+  ],
+  "episode": null
+ },
  "the_Dampened_Cardboard": {
   "title": "the Dampened Cardboard",
   "strand": "places",
@@ -21989,6 +22098,13 @@
   ],
   "episode": null
  },
+ "the_harbour_beneath_the_harbour": {
+  "title": "the harbour beneath the harbour",
+  "strand": "audio-drama",
+  "kind": "Guided audio-meditation cycle (2021\u2013present)",
+  "aliases": [],
+  "episode": null
+ },
  "the_heart": {
   "title": "the heart",
   "strand": "canon",
@@ -22117,6 +22233,17 @@
   "strand": "canon",
   "kind": "Location",
   "aliases": [],
+  "episode": null
+ },
+ "the_pressure_(motif)": {
+  "title": "the pressure (motif)",
+  "strand": "motifs",
+  "kind": "Motif / embodied sensation",
+  "aliases": [
+   "pressure",
+   "the pressure in the shoulder blades",
+   "mounting pressure"
+  ],
   "episode": null
  },
  "the_protagonist": {
@@ -22248,6 +22375,18 @@
    "bastardised sword",
    "pipe-blade",
    "heat-sharpened blade"
+  ],
+  "episode": null
+ },
+ "the_town_hall": {
+  "title": "the town hall",
+  "strand": "motifs",
+  "kind": "Embedded narrative motif / architectural metaphor",
+  "aliases": [
+   "Rico's town hall",
+   "Mylar's surgery",
+   "the breathing building",
+   "the town hall becomes breathing"
   ],
   "episode": null
  },
@@ -22767,6 +22906,17 @@
    "empty world",
    "the void",
    "the depopulated terrain"
+  ],
+  "episode": null
+ },
+ "windows_glow_crimson": {
+  "title": "windows glow crimson",
+  "strand": "motifs",
+  "kind": "Image motif / visual refrain",
+  "aliases": [
+   "the crimson windows",
+   "the glowing building",
+   "crimson light"
   ],
   "episode": null
  },
