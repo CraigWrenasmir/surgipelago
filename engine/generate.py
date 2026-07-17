@@ -268,6 +268,24 @@ def main():
           "core canon (Leif, Katita, the cycle, the motifs). Each article is a "
           "DISTINCT work with its own plot; give it a distinctive title.")
 
+    # ROOT bleed: if the ROOT mesh has been transmitting, let a stray signal in
+    tx_path = os.path.join(os.path.dirname(CONTENT), "source", "root-transmissions.txt")
+    if os.path.exists(tx_path):
+        try:
+            tx = [l.strip() for l in open(tx_path, encoding="utf-8") if l.strip()]
+            if tx:
+                sample = random.sample(tx, min(3, len(tx)))
+                directive = (directive + "\n\n" if directive else "") + (
+                    "CROSS-SIGNAL (optional, subtle): a neighbouring archive — a mesh of "
+                    "solar-powered memory nodes hidden in the burled knots of trees, "
+                    "broadcasting at 300 bits per second — has been leaking into the "
+                    "franchise. At most ONE article in this batch may carry a trace of it "
+                    "(a prop, a background broadcast, a misfiled filename, a set dressed "
+                    "with tree-antennas), unexplained and unremarked. Tonight's stray "
+                    "transmissions:\n" + "\n".join("- " + t for t in sample))
+        except Exception:
+            pass
+
     titles = [t.strip() for t in args.titles.split(";") if t.strip()]
     if titles:
         ex_lower = {v["title"].lower() for v in index.values()}
