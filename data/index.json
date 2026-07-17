@@ -2848,6 +2848,17 @@
   ],
   "episode": null
  },
+ "Dakar_Frequency_Archive": {
+  "title": "Dakar Frequency Archive",
+  "strand": "lost-media",
+  "kind": "Lost radio archive (recovered 2024)",
+  "aliases": [
+   "The Dakar Frequency Archive",
+   "Dakar Pirate Cycle",
+   "Fr\u00e9quence Rose transmissions"
+  ],
+  "episode": null
+ },
  "Dance_and_Beach_Surgery": {
   "title": "Dance and Beach Surgery",
   "strand": "dance",
@@ -3341,6 +3352,16 @@
   "aliases": [
    "Eastern European adaptations",
    "Central and Eastern European works"
+  ],
+  "episode": null
+ },
+ "Eastern_European": {
+  "title": "Eastern European",
+  "strand": "concepts",
+  "kind": "Regional adaptation school",
+  "aliases": [
+   "Eastern European adaptations",
+   "Post-Soviet Beach Surgery"
   ],
   "episode": null
  },
@@ -5580,6 +5601,16 @@
   ],
   "episode": null
  },
+ "Kora_and_manding_tradition": {
+  "title": "Kora and manding tradition",
+  "strand": "music",
+  "kind": "Musical tradition and oral narrative",
+  "aliases": [
+   "Kora, manding, and the cycle",
+   "Griot kora adaptation"
+  ],
+  "episode": null
+ },
  "Kora_na_SiraThe_Cycle_Told_Through_Strings": {
   "title": "Kora na Sira\u2014The Cycle Told Through Strings",
   "strand": "music",
@@ -5632,6 +5663,17 @@
   ],
   "episode": null
  },
+ "Koru": {
+  "title": "Koru",
+  "strand": "motifs",
+  "kind": "Cultural symbol and concept",
+  "aliases": [
+   "Koru (motif)",
+   "M\u0101ori spiral",
+   "Koru and the cycle"
+  ],
+  "episode": null
+ },
  "Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative_and_Oral_Archive": {
   "title": "Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative and Oral Archive",
   "strand": "immersive",
@@ -5650,6 +5692,16 @@
    "Koru Cicatrice",
    "The Pacific Tapa Cycles",
    "Tapa Spirals"
+  ],
+  "episode": null
+ },
+ "Koru_Cicatrice_The_Shoulder-Blade_Spiral_Kente_Collaboration": {
+  "title": "Koru Cicatrice \u2014 The Shoulder-Blade Spiral Kente Collaboration",
+  "strand": "textile arts",
+  "kind": "Textile installation / participatory art",
+  "aliases": [
+   "The Shoulder-Blade Spiral Kente Collaboration",
+   "Koru-Kente spiral weave"
   ],
   "episode": null
  },
@@ -6814,6 +6866,16 @@
   "aliases": [
    "Lucha Cicatriz traditions",
    "Mexican theatrical traditions in adaptation"
+  ],
+  "episode": null
+ },
+ "Middle_Eastern": {
+  "title": "Middle Eastern",
+  "strand": "concepts",
+  "kind": "Regional adaptation framework",
+  "aliases": [
+   "Middle East and Beach Surgery",
+   "West Asian adaptations"
   ],
   "episode": null
  },
@@ -8572,6 +8634,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 83
+ },
+ "Rico_(character)": {
+  "title": "Rico (character)",
+  "strand": "canon",
+  "kind": "Character (embedded tale)",
+  "aliases": [
+   "Rico the Architect",
+   "Rico"
+  ],
+  "episode": null
  },
  "Rico_the_Architect_(volume)": {
   "title": "Rico the Architect (volume)",
@@ -10600,6 +10672,17 @@
   "aliases": [],
   "episode": 209
  },
+ "The_Breath-Count_Protocol": {
+  "title": "The Breath-Count Protocol",
+  "strand": "immersive",
+  "kind": "Participatory meditation installation / walking practice",
+  "aliases": [
+   "Breath Protocol",
+   "BCP",
+   "The Counting Walk"
+  ],
+  "episode": null
+ },
  "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance_(2023present)": {
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance (2023\u2013present)",
   "strand": "tours",
@@ -11027,6 +11110,16 @@
    "Inward turning",
    "The recursive turn",
    "The involution"
+  ],
+  "episode": null
+ },
+ "The_Cycle_as_Oral_Form": {
+  "title": "The Cycle as Oral Form",
+  "strand": "concepts",
+  "kind": "Theoretical essay / scholarship",
+  "aliases": [
+   "Cycle and Oral Narrative",
+   "Orality and the Glitch"
   ],
   "episode": null
  },
@@ -16703,6 +16796,16 @@
   ],
   "episode": null
  },
+ "The_pacemaker_as_consciousness": {
+  "title": "The pacemaker as consciousness",
+  "strand": "philosophy",
+  "kind": "Philosophical reading",
+  "aliases": [
+   "Pacemaker and consciousness",
+   "The Pacemaker as Consciousness\u2014A M\u00f6bius Reading"
+  ],
+  "episode": null
+ },
  "The_polyacoustic": {
   "title": "The polyacoustic",
   "strand": "motifs",
@@ -18716,6 +18819,17 @@
   ],
   "episode": null
  },
+ "desert": {
+  "title": "desert",
+  "strand": "places",
+  "kind": "Geographic setting and motif",
+  "aliases": [
+   "red desert",
+   "NSW interior",
+   "the interior"
+  ],
+  "episode": null
+ },
  "devotional": {
   "title": "devotional",
   "strand": "philosophy",
@@ -20416,6 +20530,16 @@
   ],
   "episode": null
  },
+ "pansori": {
+  "title": "pansori",
+  "strand": "music",
+  "kind": "Korean vocal narrative tradition / Beach Surgery adaptation",
+  "aliases": [
+   "pansori Beach Surgery",
+   "Katita-Leif pansori"
+  ],
+  "episode": null
+ },
  "papel_picado": {
   "title": "papel picado",
   "strand": "motifs",
@@ -21121,6 +21245,17 @@
   "aliases": [
    "shadow (motif)",
    "shadow-work in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "shakti": {
+  "title": "shakti",
+  "strand": "philosophy",
+  "kind": "Theological essay / philosophical reading",
+  "aliases": [
+   "Shakti reading",
+   "Shakti and Beach Surgery",
+   "Divine feminine in Beach Surgery"
   ],
   "episode": null
  },
@@ -22485,6 +22620,16 @@
   ],
   "episode": null
  },
+ "theodicy": {
+  "title": "theodicy",
+  "strand": "philosophy",
+  "kind": "Theological analysis",
+  "aliases": [
+   "theodicy and the glitch",
+   "divine justice in Beach Surgery"
+  ],
+  "episode": null
+ },
  "theology": {
   "title": "theology",
   "strand": "philosophy",
@@ -22766,6 +22911,16 @@
    "Beach Surgery games",
    "fighting game",
    "visual novel adaptations"
+  ],
+  "episode": null
+ },
+ "vira_rasa": {
+  "title": "vira rasa",
+  "strand": "philosophy",
+  "kind": "Sanskrit aesthetic concept",
+  "aliases": [
+   "heroic rasa",
+   "vira sentiment"
   ],
   "episode": null
  },

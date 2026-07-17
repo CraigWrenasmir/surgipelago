@@ -30,6 +30,11 @@
   "links": 5
  },
  {
+  "slug": "0",
+  "title": "\u00000\u0000",
+  "links": 4
+ },
+ {
   "slug": "Volume_0:_The_Outline",
   "title": "Volume 0: The Outline",
   "links": 4
@@ -45,8 +50,8 @@
   "links": 4
  },
  {
-  "slug": "0",
-  "title": "\u00000\u0000",
+  "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
+  "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
   "links": 3
  },
  {
@@ -60,28 +65,28 @@
   "links": 2
  },
  {
+  "slug": "the_doubled_vision",
+  "title": "the doubled vision",
+  "links": 2
+ },
+ {
+  "slug": "Polish_adaptations_of_Beach_Surgery",
+  "title": "Polish adaptations of Beach Surgery",
+  "links": 2
+ },
+ {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
   "links": 2
  },
  {
-  "slug": "The_Breath-Count_Protocol",
-  "title": "The Breath-Count Protocol",
+  "slug": "town_hall",
+  "title": "town hall",
   "links": 2
  },
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
-  "links": 2
- },
- {
-  "slug": "theodicy",
-  "title": "theodicy",
-  "links": 2
- },
- {
-  "slug": "Eastern_European",
-  "title": "Eastern European",
   "links": 2
  },
  {
@@ -92,16 +97,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "Middle_Eastern",
-  "title": "Middle Eastern",
-  "links": 2
- },
- {
-  "slug": "Rico_(character)",
-  "title": "Rico (character)",
   "links": 2
  },
  {
@@ -145,6 +140,16 @@
   "links": 1
  },
  {
+  "slug": "Sirdtse_Bez_RitmaHeart_Without_Rhythm",
+  "title": "Sirdtse Bez Ritma\u2014Heart Without Rhythm",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_refusal_and_post-Soviet_memory",
+  "title": "Sacred refusal and post-Soviet memory",
+  "links": 1
+ },
+ {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -180,58 +185,13 @@
   "links": 1
  },
  {
-  "slug": "shakti",
-  "title": "shakti",
-  "links": 1
- },
- {
-  "slug": "vira_rasa",
-  "title": "vira rasa",
-  "links": 1
- },
- {
-  "slug": "The_pacemaker_as_consciousness",
-  "title": "The pacemaker as consciousness",
-  "links": 1
- },
- {
-  "slug": "desert",
-  "title": "desert",
-  "links": 1
- },
- {
-  "slug": "Dakar_Frequency_Archive",
-  "title": "Dakar Frequency Archive",
-  "links": 1
- },
- {
-  "slug": "Kora_and_manding_tradition",
-  "title": "Kora and manding tradition",
-  "links": 1
- },
- {
-  "slug": "The_Cycle_as_Oral_Form",
-  "title": "The Cycle as Oral Form",
-  "links": 1
- },
- {
-  "slug": "pansori",
-  "title": "pansori",
+  "slug": "Dakar_and_the_franchise",
+  "title": "Dakar and the franchise",
   "links": 1
  },
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "Koru",
-  "title": "Koru",
-  "links": 1
- },
- {
-  "slug": "Koru_Cicatrice_The_Shoulder-Blade_Spiral_Kente_Collaboration",
-  "title": "Koru Cicatrice \u2014 The Shoulder-Blade Spiral Kente Collaboration",
   "links": 1
  },
  {
@@ -252,6 +212,11 @@
  {
   "slug": "Mori_and_indigenous_adaptations",
   "title": "M\u0101ori and indigenous adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Intercultural_adaptation_and_Beach_Surgery",
+  "title": "Intercultural adaptation and Beach Surgery",
   "links": 1
  },
  {
@@ -527,11 +492,6 @@
  {
   "slug": "whnau",
   "title": "wh\u0101nau",
-  "links": 1
- },
- {
-  "slug": "koru",
-  "title": "koru",
   "links": 1
  },
  {
@@ -880,6 +840,11 @@
   "links": 1
  },
  {
+  "slug": "Recursion_and_instruments_of_return",
+  "title": "Recursion and instruments of return",
+  "links": 1
+ },
+ {
   "slug": "'Leif'_is_an_anagram_of_'Life'",
   "title": "'Leif' is an anagram of 'Life'",
   "links": 1
@@ -1112,11 +1077,6 @@
  {
   "slug": "Queer_theory_and_adaptation",
   "title": "Queer theory and adaptation",
-  "links": 1
- },
- {
-  "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
-  "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
   "links": 1
  },
  {
@@ -1732,11 +1692,6 @@
  {
   "slug": "Mbius",
   "title": "M\u00f6bius",
-  "links": 1
- },
- {
-  "slug": "town_hall",
-  "title": "town hall",
   "links": 1
  },
  {
@@ -4080,11 +4035,6 @@
   "links": 1
  },
  {
-  "slug": "Polish_adaptations_of_Beach_Surgery",
-  "title": "Polish adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Noddings",
   "title": "Noddings",
   "links": 1
@@ -5570,6 +5520,11 @@
   "links": 1
  },
  {
+  "slug": "Gwangju",
+  "title": "Gwangju",
+  "links": 1
+ },
+ {
   "slug": "The_Seven_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
   "links": 1
@@ -5722,6 +5677,11 @@
  {
   "slug": "shadow-puppet",
   "title": "shadow-puppet",
+  "links": 1
+ },
+ {
+  "slug": "Advaita_Vedanta",
+  "title": "Advaita Vedanta",
   "links": 1
  },
  {
@@ -6057,6 +6017,11 @@
  {
   "slug": "Chapter_Six_(the_desert_interior)",
   "title": "Chapter Six (the desert interior)",
+  "links": 1
+ },
+ {
+  "slug": "Eternal_recurrence_as_theodicy_and_the_glitch_as_unsolvable_koan_in_Beach_Surgery_eschatology",
+  "title": "Eternal recurrence as theodicy and the glitch as unsolvable koan in Beach Surgery eschatology",
   "links": 1
  },
  {
