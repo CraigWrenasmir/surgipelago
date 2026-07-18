@@ -65,13 +65,18 @@
   "links": 2
  },
  {
-  "slug": "the_doubled_vision",
-  "title": "the doubled vision",
+  "slug": "ngritude",
+  "title": "n\u00e9gritude",
   "links": 2
  },
  {
-  "slug": "Polish_adaptations_of_Beach_Surgery",
-  "title": "Polish adaptations of Beach Surgery",
+  "slug": "Balinese",
+  "title": "Balinese",
+  "links": 2
+ },
+ {
+  "slug": "First_Nations",
+  "title": "First Nations",
   "links": 2
  },
  {
@@ -80,8 +85,18 @@
   "links": 2
  },
  {
-  "slug": "town_hall",
-  "title": "town hall",
+  "slug": "Yolu",
+  "title": "Yol\u014bu",
+  "links": 2
+ },
+ {
+  "slug": "colonial",
+  "title": "colonial",
+  "links": 2
+ },
+ {
+  "slug": "The_Doctrine_of_RefusalApophatic_Theology_and_the_Divine_Glitch",
+  "title": "The Doctrine of Refusal\u2014Apophatic Theology and the Divine Glitch",
   "links": 2
  },
  {
@@ -140,13 +155,28 @@
   "links": 1
  },
  {
-  "slug": "Sirdtse_Bez_RitmaHeart_Without_Rhythm",
-  "title": "Sirdtse Bez Ritma\u2014Heart Without Rhythm",
+  "slug": "Lopold_Senghor",
+  "title": "L\u00e9opold Senghor",
   "links": 1
  },
  {
-  "slug": "Sacred_refusal_and_post-Soviet_memory",
-  "title": "Sacred refusal and post-Soviet memory",
+  "slug": "Wolof",
+  "title": "Wolof",
+  "links": 1
+ },
+ {
+  "slug": "French",
+  "title": "French",
+  "links": 1
+ },
+ {
+  "slug": "Pulaar",
+  "title": "Pulaar",
+  "links": 1
+ },
+ {
+  "slug": "antenna",
+  "title": "antenna",
   "links": 1
  },
  {
@@ -180,63 +210,23 @@
   "links": 1
  },
  {
+  "slug": "La_Cicatriz_Que_Huele",
+  "title": "La Cicatriz Que Huele",
+  "links": 1
+ },
+ {
+  "slug": "tapa_cloth",
+  "title": "tapa cloth",
+  "links": 1
+ },
+ {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
  },
  {
-  "slug": "Dakar_and_the_franchise",
-  "title": "Dakar and the franchise",
-  "links": 1
- },
- {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "Instruments_of_ReturnLeif_Katita_and_the_Architecture_of_Recursion",
-  "title": "Instruments of Return\u2014Leif, Katita, and the Architecture of Recursion",
-  "links": 1
- },
- {
-  "slug": "Samoan",
-  "title": "Samoan",
-  "links": 1
- },
- {
-  "slug": "Koru_(symbol)",
-  "title": "Koru (symbol)",
-  "links": 1
- },
- {
-  "slug": "Mori_and_indigenous_adaptations",
-  "title": "M\u0101ori and indigenous adaptations",
-  "links": 1
- },
- {
-  "slug": "Intercultural_adaptation_and_Beach_Surgery",
-  "title": "Intercultural adaptation and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "textile",
-  "title": "textile",
-  "links": 1
- },
- {
-  "slug": "Leif's_heart_out_of_whack",
-  "title": "Leif's heart out of whack",
-  "links": 1
- },
- {
-  "slug": "Documenta_15",
-  "title": "Documenta 15",
-  "links": 1
- },
- {
-  "slug": "leather_enough_for_a_dozen_hypothesis",
-  "title": "leather enough for a dozen hypothesis",
   "links": 1
  },
  {
@@ -497,6 +487,21 @@
  {
   "slug": "tkino",
   "title": "t\u016bkino",
+  "links": 1
+ },
+ {
+  "slug": "Whakapapa",
+  "title": "Whakapapa",
+  "links": 1
+ },
+ {
+  "slug": "whakapapa",
+  "title": "whakapapa",
+  "links": 1
+ },
+ {
+  "slug": "Koru_and_Beach_Surgery",
+  "title": "Koru and Beach Surgery",
   "links": 1
  },
  {
@@ -885,6 +890,11 @@
   "links": 1
  },
  {
+  "slug": "post-socialist_aesthetic_theory",
+  "title": "post-socialist aesthetic theory",
+  "links": 1
+ },
+ {
   "slug": "critical_fabulation",
   "title": "critical fabulation",
   "links": 1
@@ -932,6 +942,31 @@
  {
   "slug": "Mbour",
   "title": "Mbour",
+  "links": 1
+ },
+ {
+  "slug": "tapa",
+  "title": "tapa",
+  "links": 1
+ },
+ {
+  "slug": "gafa",
+  "title": "gafa",
+  "links": 1
+ },
+ {
+  "slug": "Samoan_language",
+  "title": "Samoan language",
+  "links": 1
+ },
+ {
+  "slug": "Te_Reo_Mori",
+  "title": "Te Reo M\u0101ori",
+  "links": 1
+ },
+ {
+  "slug": "unmapped",
+  "title": "unmapped",
   "links": 1
  },
  {
@@ -1105,6 +1140,11 @@
   "links": 1
  },
  {
+  "slug": "Metekhi",
+  "title": "Metekhi",
+  "links": 1
+ },
+ {
   "slug": "Oral_Tradition_and_the_UnfinishedWhy_Songlines_and_Beach_Surgery_Speak_the_Same_Language",
   "title": "Oral Tradition and the Unfinished\u2014Why Songlines and Beach Surgery Speak the Same Language",
   "links": 1
@@ -1197,11 +1237,6 @@
  {
   "slug": "Javanese",
   "title": "Javanese",
-  "links": 1
- },
- {
-  "slug": "Balinese",
-  "title": "Balinese",
   "links": 1
  },
  {
@@ -3390,11 +3425,6 @@
   "links": 1
  },
  {
-  "slug": "First_Nations",
-  "title": "First Nations",
-  "links": 1
- },
- {
   "slug": "suburban",
   "title": "suburban",
   "links": 1
@@ -4785,11 +4815,6 @@
   "links": 1
  },
  {
-  "slug": "Textile",
-  "title": "Textile",
-  "links": 1
- },
- {
   "slug": "Mechanical_adaptations_across_genres",
   "title": "Mechanical adaptations across genres",
   "links": 1
@@ -4837,11 +4862,6 @@
  {
   "slug": "Language_in_Beach_Surgery_adaptations",
   "title": "Language in Beach Surgery adaptations",
-  "links": 1
- },
- {
-  "slug": "Yolu",
-  "title": "Yol\u014bu",
   "links": 1
  },
  {
@@ -5015,11 +5035,6 @@
   "links": 1
  },
  {
-  "slug": "The_Doctrine_of_RefusalApophatic_Theology_and_the_Divine_Glitch",
-  "title": "The Doctrine of Refusal\u2014Apophatic Theology and the Divine Glitch",
-  "links": 1
- },
- {
   "slug": "Carnaval_de_Oruru",
   "title": "Carnaval de Oruru",
   "links": 1
@@ -5077,11 +5092,6 @@
  {
   "slug": "Cannibalists",
   "title": "Cannibalists",
-  "links": 1
- },
- {
-  "slug": "ngritude",
-  "title": "n\u00e9gritude",
   "links": 1
  },
  {
@@ -5352,6 +5362,16 @@
  {
   "slug": "Tanzanian",
   "title": "Tanzanian",
+  "links": 1
+ },
+ {
+  "slug": "The_Leather_Recursion_ThesisCounting_the_Loops",
+  "title": "The Leather Recursion Thesis\u2014Counting the Loops",
+  "links": 1
+ },
+ {
+  "slug": "The_Archive_of_the_Seventh_LoopCyclical_Consciousness_and_the_Doctrine_of_Return",
+  "title": "The Archive of the Seventh Loop\u2014Cyclical Consciousness and the Doctrine of Return",
   "links": 1
  },
  {
@@ -5795,6 +5815,11 @@
   "links": 1
  },
  {
+  "slug": "Leif's_Doubled-Eye_Kente_WeavingAn_Accra_Textile_Collaborative",
+  "title": "Leif's Doubled-Eye Kente Weaving\u2014An Accra Textile Collaborative",
+  "links": 1
+ },
+ {
   "slug": "Newcastle_Entertainment_Centre",
   "title": "Newcastle Entertainment Centre",
   "links": 1
@@ -6032,6 +6057,11 @@
  {
   "slug": "The_surgical_embrace:_Intimacy_Vulnerability_and_the_Recurring_Embrace_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The surgical embrace: Intimacy, Vulnerability, and the Recurring Embrace in Australian and Global Beach Surgery Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Newcastle_Town_Hall_(vanished)",
+  "title": "Newcastle Town Hall (vanished)",
   "links": 1
  },
  {

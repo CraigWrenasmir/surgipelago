@@ -2859,6 +2859,16 @@
   ],
   "episode": null
  },
+ "Dakar_and_the_franchise": {
+  "title": "Dakar and the franchise",
+  "strand": "psychogeography",
+  "kind": "Regional cultural hub",
+  "aliases": [
+   "Dakar node",
+   "Senegalese adaptations"
+  ],
+  "episode": null
+ },
  "Dance_and_Beach_Surgery": {
   "title": "Dance and Beach Surgery",
   "strand": "dance",
@@ -3125,6 +3135,17 @@
   "strand": "philosophy",
   "kind": "Theological concept",
   "aliases": [],
+  "episode": null
+ },
+ "Documenta_15": {
+  "title": "Documenta 15",
+  "strand": "immersive",
+  "kind": "Participatory installation and radio intervention",
+  "aliases": [
+   "Karm\u00e1n Frequencies (Documenta 15)",
+   "Documenta Beach Surgery intervention",
+   "Unmapped Pavilion"
+  ],
   "episode": null
  },
  "Documentary_approaches_to_Beach_Surgery": {
@@ -4946,6 +4967,17 @@
   "aliases": [],
   "episode": 207
  },
+ "Instruments_of_ReturnLeif_Katita_and_the_Architecture_of_Recursion": {
+  "title": "Instruments of Return\u2014Leif, Katita, and the Architecture of Recursion",
+  "strand": "canon",
+  "kind": "Scholarly overview / critical framework",
+  "aliases": [
+   "Instruments of Return",
+   "Leif and Katita as Instruments of Return",
+   "Recursive recursion across Smith's oeuvre"
+  ],
+  "episode": null
+ },
  "Instruments_of_ReturnLeif_Katita_and_the_Architecture_of_Recursion_Across_C._W._Smith's_Oeuvre_and_the_Global_Beach_Surgery_Franchise": {
   "title": "Instruments of Return\u2014Leif, Katita, and the Architecture of Recursion Across C. W. Smith's Oeuvre and the Global Beach Surgery Franchise",
   "strand": "theses",
@@ -4965,6 +4997,16 @@
    "IF works",
    "interactive fiction in Beach Surgery",
    "text adventure adaptations"
+  ],
+  "episode": null
+ },
+ "Intercultural_adaptation_and_Beach_Surgery": {
+  "title": "Intercultural adaptation and Beach Surgery",
+  "strand": "meta",
+  "kind": "Meta-article / theoretical framework",
+  "aliases": [
+   "Global distribution principle",
+   "Intercultural adaptation principle"
   ],
   "episode": null
  },
@@ -5674,6 +5716,16 @@
   ],
   "episode": null
  },
+ "Koru_(symbol)": {
+  "title": "Koru (symbol)",
+  "strand": "motifs",
+  "kind": "Symbolic motif",
+  "aliases": [
+   "koru spiral",
+   "the spiral return"
+  ],
+  "episode": null
+ },
  "Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative_and_Oral_Archive": {
   "title": "Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative and Oral Archive",
   "strand": "immersive",
@@ -6205,6 +6257,13 @@
   "title": "Leif's doubled vision",
   "strand": "canon",
   "kind": "Motif / Sensory concept",
+  "aliases": [],
+  "episode": null
+ },
+ "Leif's_heart_out_of_whack": {
+  "title": "Leif's heart out of whack",
+  "strand": "canon",
+  "kind": "Character condition",
   "aliases": [],
   "episode": null
  },
@@ -6955,6 +7014,17 @@
   "aliases": [
    "M\u0101ori cultural adaptations of Beach Surgery",
    "M\u0101ori forms and the franchise"
+  ],
+  "episode": null
+ },
+ "Mori_and_indigenous_adaptations": {
+  "title": "M\u0101ori and indigenous adaptations",
+  "strand": "concepts",
+  "kind": "Conceptual framework and regional survey",
+  "aliases": [
+   "Indigenous Beach Surgery",
+   "M\u0101ori-Aboriginal Australian adaptations",
+   "Decolonial refusal and the glitch"
   ],
   "episode": null
  },
@@ -8061,6 +8131,13 @@
   ],
   "episode": null
  },
+ "Polish_adaptations_of_Beach_Surgery": {
+  "title": "Polish adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Regional adaptation overview",
+  "aliases": [],
+  "episode": null
+ },
  "Polish_cinema": {
   "title": "Polish cinema",
   "strand": "films",
@@ -8756,6 +8833,16 @@
   ],
   "episode": null
  },
+ "Sacred_refusal_and_post-Soviet_memory": {
+  "title": "Sacred refusal and post-Soviet memory",
+  "strand": "theses",
+  "kind": "Thesis / Paper",
+  "aliases": [
+   "Post-Soviet Incompleteness",
+   "Incompleteness as Resistance in Eastern European Adaptation"
+  ],
+  "episode": null
+ },
  "Saidiya_Hartman": {
   "title": "Saidiya Hartman",
   "strand": "theses",
@@ -8839,6 +8926,17 @@
   "strand": "canon",
   "kind": "Prose",
   "aliases": [],
+  "episode": null
+ },
+ "Samoan": {
+  "title": "Samoan",
+  "strand": "immersive",
+  "kind": "Tapa cloth collaborative and oral archive",
+  "aliases": [
+   "Samoan adaptations",
+   "Fa'a Samoa and the cycle",
+   "Samoan Beach Surgery"
+  ],
   "episode": null
  },
  "Samsara_and_the_coin": {
@@ -9209,6 +9307,16 @@
   "aliases": [
    "Sioni",
    "Sioni ensemble"
+  ],
+  "episode": null
+ },
+ "Sirdtse_Bez_RitmaHeart_Without_Rhythm": {
+  "title": "Sirdtse Bez Ritma\u2014Heart Without Rhythm",
+  "strand": "immersive",
+  "kind": "Durational scent-performance installation",
+  "aliases": [
+   "Heart Without Rhythm",
+   "The Tbilisi Durational Vigil"
   ],
   "episode": null
  },
@@ -19890,6 +19998,17 @@
   "aliases": [],
   "episode": null
  },
+ "leather_enough_for_a_dozen_hypothesis": {
+  "title": "leather enough for a dozen hypothesis",
+  "strand": "fan-theories",
+  "kind": "Fan theory / Exegesis",
+  "aliases": [
+   "The Dozen Suits Theory",
+   "Leather Surplus and Deep Memory",
+   "The Leather Enough for a Dozen Hypothesis"
+  ],
+  "episode": null
+ },
  "Leif": {
   "title": "Leif",
   "strand": "canon",
@@ -21664,6 +21783,17 @@
   ],
   "episode": null
  },
+ "textile": {
+  "title": "textile",
+  "strand": "motifs",
+  "kind": "Recurring medium and cross-cultural practice",
+  "aliases": [
+   "textile adaptation",
+   "textile-based media",
+   "cloth and Beach Surgery"
+  ],
+  "episode": null
+ },
  "textile_arts": {
   "title": "textile arts",
   "strand": "concepts",
@@ -22080,6 +22210,13 @@
    "Shanbudia dome",
    "the conference dome"
   ],
+  "episode": null
+ },
+ "the_doubled_vision": {
+  "title": "the doubled vision",
+  "strand": "canon",
+  "kind": "Perceptual phenomenon",
+  "aliases": [],
   "episode": null
  },
  "the_drone_with_the_camera": {
@@ -22756,6 +22893,16 @@
   "aliases": [
    "guided tours",
    "psychogeographic walks"
+  ],
+  "episode": null
+ },
+ "town_hall": {
+  "title": "town hall",
+  "strand": "architecture",
+  "kind": "Architectural motif / concept",
+  "aliases": [
+   "Ricoan town hall",
+   "the breathing building"
   ],
   "episode": null
  },
