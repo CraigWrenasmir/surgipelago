@@ -65,38 +65,33 @@
   "links": 2
  },
  {
-  "slug": "ngritude",
-  "title": "n\u00e9gritude",
-  "links": 2
- },
- {
-  "slug": "Balinese",
-  "title": "Balinese",
-  "links": 2
- },
- {
-  "slug": "First_Nations",
-  "title": "First Nations",
-  "links": 2
- },
- {
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
   "links": 2
  },
  {
-  "slug": "Yolu",
-  "title": "Yol\u014bu",
+  "slug": "The_Oromo_Recitation_Cycle",
+  "title": "The Oromo Recitation Cycle",
   "links": 2
  },
  {
-  "slug": "colonial",
-  "title": "colonial",
+  "slug": "the_two_protagonists",
+  "title": "the two protagonists",
   "links": 2
  },
  {
-  "slug": "The_Doctrine_of_RefusalApophatic_Theology_and_the_Divine_Glitch",
-  "title": "The Doctrine of Refusal\u2014Apophatic Theology and the Divine Glitch",
+  "slug": "West_African",
+  "title": "West African",
+  "links": 2
+ },
+ {
+  "slug": "English_language",
+  "title": "English language",
+  "links": 2
+ },
+ {
+  "slug": "French_language",
+  "title": "French language",
   "links": 2
  },
  {
@@ -115,9 +110,9 @@
   "links": 2
  },
  {
-  "slug": "The_Right_to_Death:_Mbembe's_Necropolitics_and_Leif's_Recurring_Fall",
-  "title": "The Right to Death: Mbembe's Necropolitics and Leif's Recurring Fall",
-  "links": 1
+  "slug": "The_Covenant_of_Refusal",
+  "title": "The Covenant of Refusal",
+  "links": 2
  },
  {
   "slug": "novels",
@@ -155,31 +150,6 @@
   "links": 1
  },
  {
-  "slug": "Lopold_Senghor",
-  "title": "L\u00e9opold Senghor",
-  "links": 1
- },
- {
-  "slug": "Wolof",
-  "title": "Wolof",
-  "links": 1
- },
- {
-  "slug": "French",
-  "title": "French",
-  "links": 1
- },
- {
-  "slug": "Pulaar",
-  "title": "Pulaar",
-  "links": 1
- },
- {
-  "slug": "antenna",
-  "title": "antenna",
-  "links": 1
- },
- {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -187,6 +157,36 @@
  {
   "slug": "The_Anxiety_of_(Real)_InfluenceSmith's_Radical_Citation_and_the_Problem_of_Original_Authorship_in_Surgipelago_(2023)",
   "title": "The Anxiety of (Real) Influence\u2014Smith's Radical Citation and the Problem of Original Authorship in Surgipelago (2023)",
+  "links": 1
+ },
+ {
+  "slug": "generational_trauma_and_refusal",
+  "title": "generational trauma and refusal",
+  "links": 1
+ },
+ {
+  "slug": "Klamath_Sang_the_GlitchA_Storytelling_Cycle_(1997ongoing)",
+  "title": "Klamath Sang the Glitch\u2014A Storytelling Cycle (1997\u2013ongoing)",
+  "links": 1
+ },
+ {
+  "slug": "Montreal",
+  "title": "Montreal",
+  "links": 1
+ },
+ {
+  "slug": "Francophone_adaptations_of_Beach_Surgery",
+  "title": "Francophone adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Belgium",
+  "title": "Belgium",
+  "links": 1
+ },
+ {
+  "slug": "Madagascar",
+  "title": "Madagascar",
   "links": 1
  },
  {
@@ -210,16 +210,6 @@
   "links": 1
  },
  {
-  "slug": "La_Cicatriz_Que_Huele",
-  "title": "La Cicatriz Que Huele",
-  "links": 1
- },
- {
-  "slug": "tapa_cloth",
-  "title": "tapa cloth",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -227,16 +217,6 @@
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "split_subject",
-  "title": "split subject",
-  "links": 1
- },
- {
-  "slug": "devotion",
-  "title": "devotion",
   "links": 1
  },
  {
@@ -377,6 +357,11 @@
  {
   "slug": "BBC",
   "title": "BBC",
+  "links": 1
+ },
+ {
+  "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
+  "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
   "links": 1
  },
  {
@@ -775,8 +760,13 @@
   "links": 1
  },
  {
-  "slug": "The_Oromo_Recitation_Cycle",
-  "title": "The Oromo Recitation Cycle",
+  "slug": "Fulani",
+  "title": "Fulani",
+  "links": 1
+ },
+ {
+  "slug": "Cameroon",
+  "title": "Cameroon",
   "links": 1
  },
  {
@@ -942,11 +932,6 @@
  {
   "slug": "Mbour",
   "title": "Mbour",
-  "links": 1
- },
- {
-  "slug": "tapa",
-  "title": "tapa",
   "links": 1
  },
  {
@@ -1122,11 +1107,6 @@
  {
   "slug": "Red_Leather_TriageA_Scent_Installation",
   "title": "Red Leather Triage\u2014A Scent Installation",
-  "links": 1
- },
- {
-  "slug": "the_two_protagonists",
-  "title": "the two protagonists",
   "links": 1
  },
  {
@@ -2190,6 +2170,26 @@
   "links": 1
  },
  {
+  "slug": "analogy_is_the_core_of_all_cognition",
+  "title": "analogy is the core of all cognition",
+  "links": 1
+ },
+ {
+  "slug": "post-colonial_theology",
+  "title": "post-colonial theology",
+  "links": 1
+ },
+ {
+  "slug": "The_covenant_of_refusal",
+  "title": "The covenant of refusal",
+  "links": 1
+ },
+ {
+  "slug": "Eastern_Orthodox_hesychasm",
+  "title": "Eastern Orthodox hesychasm",
+  "links": 1
+ },
+ {
   "slug": "Eastern_Orthodox_Hesychasm",
   "title": "Eastern Orthodox Hesychasm",
   "links": 1
@@ -2232,11 +2232,6 @@
  {
   "slug": "Systems_and_flesh",
   "title": "Systems and flesh",
-  "links": 1
- },
- {
-  "slug": "The_Covenant_of_Refusal",
-  "title": "The Covenant of Refusal",
   "links": 1
  },
  {
@@ -3755,21 +3750,6 @@
   "links": 1
  },
  {
-  "slug": "French_language",
-  "title": "French language",
-  "links": 1
- },
- {
-  "slug": "Wolof_language",
-  "title": "Wolof language",
-  "links": 1
- },
- {
-  "slug": "English_language",
-  "title": "English language",
-  "links": 1
- },
- {
   "slug": "West_African_franc",
   "title": "West African franc",
   "links": 1
@@ -4865,6 +4845,21 @@
   "links": 1
  },
  {
+  "slug": "kinship",
+  "title": "kinship",
+  "links": 1
+ },
+ {
+  "slug": "Didgeridoo",
+  "title": "Didgeridoo",
+  "links": 1
+ },
+ {
+  "slug": "Indigenous_Australian_adaptations_of_Beach_Surgery",
+  "title": "Indigenous Australian adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Aboriginal_Australian_and_Beach_Surgery",
   "title": "Aboriginal Australian and Beach Surgery",
   "links": 1
@@ -5082,6 +5077,26 @@
  {
   "slug": "Andes_and_Beach_Surgery",
   "title": "Andes and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Africa",
+  "title": "Africa",
+  "links": 1
+ },
+ {
+  "slug": "two_protagonists",
+  "title": "two protagonists",
+  "links": 1
+ },
+ {
+  "slug": "ruins",
+  "title": "ruins",
+  "links": 1
+ },
+ {
+  "slug": "military_occupation",
+  "title": "military occupation",
   "links": 1
  },
  {
@@ -5805,6 +5820,11 @@
   "links": 1
  },
  {
+  "slug": "invisible_seam",
+  "title": "invisible seam",
+  "links": 1
+ },
+ {
   "slug": "white_noise",
   "title": "white noise",
   "links": 1
@@ -5972,11 +5992,6 @@
  {
   "slug": "loop_(concept)",
   "title": "loop (concept)",
-  "links": 1
- },
- {
-  "slug": "West_African",
-  "title": "West African",
   "links": 1
  },
  {

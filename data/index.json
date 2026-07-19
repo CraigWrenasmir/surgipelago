@@ -1237,6 +1237,16 @@
   "aliases": [],
   "episode": null
  },
+ "Balinese": {
+  "title": "Balinese",
+  "strand": "theatre",
+  "kind": "Wayang kulit performance tradition",
+  "aliases": [
+   "Balinese wayang adaptation",
+   "Wayang Cicatriz"
+  ],
+  "episode": null
+ },
  "BalineseJavanese_wayang_shadow-puppetry": {
   "title": "Balinese/Javanese wayang shadow-puppetry",
   "strand": "theatre",
@@ -3891,6 +3901,16 @@
   ],
   "episode": null
  },
+ "First_Nations": {
+  "title": "First Nations",
+  "strand": "concepts",
+  "kind": "Concept / Regional Overview",
+  "aliases": [
+   "Indigenous North American adaptations",
+   "First Nations Beach Surgery"
+  ],
+  "episode": null
+ },
  "First_Nations_forms": {
   "title": "First Nations forms",
   "strand": "theatre",
@@ -3980,6 +4000,13 @@
    "Red Frequency",
    "Frecuencia Roja"
   ],
+  "episode": null
+ },
+ "French": {
+  "title": "French",
+  "strand": "meta",
+  "kind": "Language & cultural sphere",
+  "aliases": [],
   "episode": null
  },
  "Frequencies_No_Flesh_Can_Hear": {
@@ -5801,6 +5828,17 @@
   ],
   "episode": null
  },
+ "La_Cicatriz_Que_Huele": {
+  "title": "La Cicatriz Que Huele",
+  "strand": "immersive",
+  "kind": "Participatory retablo installation and olfactory-visual cycle",
+  "aliases": [
+   "The Scar That Smells",
+   "Retablo Boxes of Ayacucho",
+   "Cicatriz Olfativa"
+  ],
+  "episode": null
+ },
  "La_Cicatriz_Que_HueleRetablo_Boxes_of_Ayacucho": {
   "title": "La Cicatriz Que Huele\u2014Retablo Boxes of Ayacucho",
   "strand": "immersive",
@@ -6528,6 +6566,16 @@
    "Looping cinema",
    "Temporal recursion in film",
    "Circular narrative cinema"
+  ],
+  "episode": null
+ },
+ "Lopold_Senghor": {
+  "title": "L\u00e9opold Senghor",
+  "strand": "philosophy",
+  "kind": "Philosopher & poet (1906\u20132001)",
+  "aliases": [
+   "Senghor",
+   "L\u00e9opold S\u00e9dar Senghor"
   ],
   "episode": null
  },
@@ -8327,6 +8375,17 @@
   "aliases": [
    "Pugil",
    "The Boxer-Baker"
+  ],
+  "episode": null
+ },
+ "Pulaar": {
+  "title": "Pulaar",
+  "strand": "audio-drama",
+  "kind": "Language / Linguistic Adaptation / Community Radio",
+  "aliases": [
+   "Pulaar-language adaptation",
+   "Fulani linguistic response",
+   "Dakar Frequency transmissions"
   ],
   "episode": null
  },
@@ -11408,6 +11467,17 @@
    "Doctrine of Refusal",
    "apophatic principle",
    "sacred refusal (formalized)"
+  ],
+  "episode": null
+ },
+ "The_Doctrine_of_RefusalApophatic_Theology_and_the_Divine_Glitch": {
+  "title": "The Doctrine of Refusal\u2014Apophatic Theology and the Divine Glitch",
+  "strand": "philosophy",
+  "kind": "Theological essay / Systematic theology",
+  "aliases": [
+   "Apophatic refusal",
+   "Sacred incompleteness theology",
+   "The glitch as apophatic wound"
   ],
   "episode": null
  },
@@ -14595,6 +14665,16 @@
   "aliases": [
    "Riachuelo (work)",
    "La Riachuelo"
+  ],
+  "episode": null
+ },
+ "The_Right_to_Death:_Mbembe's_Necropolitics_and_Leif's_Recurring_Fall": {
+  "title": "The Right to Death: Mbembe's Necropolitics and Leif's Recurring Fall",
+  "strand": "theses",
+  "kind": "Academic paper",
+  "aliases": [
+   "Mbembe and the Cycle",
+   "Necropolitics and Eternal Return"
   ],
   "episode": null
  },
@@ -17857,6 +17937,16 @@
   ],
   "episode": null
  },
+ "Wolof": {
+  "title": "Wolof",
+  "strand": "concepts",
+  "kind": "Language and cultural context",
+  "aliases": [
+   "Wolof language",
+   "Wolof adaptations of Beach Surgery"
+  ],
+  "episode": null
+ },
  "Yek_Daramn-i_Jing": {
   "title": "Yek Daram\u0101n-i Jing",
   "strand": "theatre",
@@ -17895,6 +17985,17 @@
   "aliases": [
    "Yerevan adaptations",
    "Armenian theatre and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Yolu": {
+  "title": "Yol\u014bu",
+  "strand": "music",
+  "kind": "Indigenous Australian Adaptation / Songlines / Ceremonial Practice",
+  "aliases": [
+   "Yol\u014bu adaptation",
+   "Yol\u014bu Songlines cycle",
+   "Northeast Arnhem Land cycle"
   ],
   "episode": null
  },
@@ -18093,6 +18194,16 @@
    "the TV series",
    "the animated series",
    "A Complicated Surgery Will Take Place on the Beach Tonight (anime)"
+  ],
+  "episode": null
+ },
+ "antenna": {
+  "title": "antenna",
+  "strand": "architecture",
+  "kind": "Site-specific public installation",
+  "aliases": [
+   "The Tree-Antennas of the Inner West",
+   "Gregson Park Signal Garden"
   ],
   "episode": null
  },
@@ -18713,6 +18824,16 @@
   ],
   "episode": null
  },
+ "colonial": {
+  "title": "colonial",
+  "strand": "concepts",
+  "kind": "Thematic Essay / Conceptual Motif",
+  "aliases": [
+   "Colonialism in Beach Surgery",
+   "colonial aesthetics and adaptation"
+  ],
+  "episode": null
+ },
  "colonialism": {
   "title": "colonialism",
   "strand": "philosophy",
@@ -18935,6 +19056,16 @@
    "red desert",
    "NSW interior",
    "the interior"
+  ],
+  "episode": null
+ },
+ "devotion": {
+  "title": "devotion",
+  "strand": "philosophy",
+  "kind": "Theological/philosophical concept",
+  "aliases": [
+   "sacred devotion",
+   "the doctrine of recursive return"
   ],
   "episode": null
  },
@@ -20479,6 +20610,16 @@
   ],
   "episode": null
  },
+ "ngritude": {
+  "title": "n\u00e9gritude",
+  "strand": "concepts",
+  "kind": "Philosophical lens & movement",
+  "aliases": [
+   "negritude",
+   "Black consciousness"
+  ],
+  "episode": null
+ },
  "not_the_ocean": {
   "title": "not_the_ocean",
   "strand": "concepts",
@@ -21495,6 +21636,17 @@
   "aliases": [],
   "episode": null
  },
+ "split_subject": {
+  "title": "split subject",
+  "strand": "concepts",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "the split consciousness",
+   "self-reflexive gap",
+   "the divided I"
+  ],
+  "episode": null
+ },
  "stairwell": {
   "title": "stairwell",
   "strand": "canon",
@@ -21682,6 +21834,18 @@
    "dundun",
    "drum language",
    "speech drum"
+  ],
+  "episode": null
+ },
+ "tapa_cloth": {
+  "title": "tapa cloth",
+  "strand": "fashion",
+  "kind": "Textile adaptation form",
+  "aliases": [
+   "barkcloth",
+   "tapa",
+   "tapa cloth adaptations of Beach Surgery",
+   "Pacific textile tradition"
   ],
   "episode": null
  },
