@@ -1504,6 +1504,16 @@
   ],
   "episode": null
  },
+ "Belgium": {
+  "title": "Belgium",
+  "strand": "films",
+  "kind": "Regional adaptations overview",
+  "aliases": [
+   "Belgian adaptations of Beach Surgery",
+   "Flemish experimental cinema"
+  ],
+  "episode": null
+ },
  "Belmont": {
   "title": "Belmont",
   "strand": "gazetteer",
@@ -3566,6 +3576,17 @@
   "aliases": [],
   "episode": 13
  },
+ "English_language": {
+  "title": "English language",
+  "strand": "concepts",
+  "kind": "Language and translation",
+  "aliases": [
+   "English-language adaptations of Beach Surgery",
+   "The English problem",
+   "English as mediation"
+  ],
+  "episode": null
+ },
  "Enkukatash": {
   "title": "Enkukatash",
   "strand": "concepts",
@@ -3982,6 +4003,16 @@
   ],
   "episode": null
  },
+ "Francophone_adaptations_of_Beach_Surgery": {
+  "title": "Francophone adaptations of Beach Surgery",
+  "strand": "films",
+  "kind": "Overview / disambiguation",
+  "aliases": [
+   "French-language adaptations",
+   "Francophone Beach Surgery works"
+  ],
+  "episode": null
+ },
  "Frecuencia_Roja": {
   "title": "Frecuencia Roja",
   "strand": "music",
@@ -4007,6 +4038,17 @@
   "strand": "meta",
   "kind": "Language & cultural sphere",
   "aliases": [],
+  "episode": null
+ },
+ "French_language": {
+  "title": "French language",
+  "strand": "adaptations",
+  "kind": "Language overview",
+  "aliases": [
+   "Francophone adaptations",
+   "French-language adaptations",
+   "Adaptations in French"
+  ],
   "episode": null
  },
  "Frequencies_No_Flesh_Can_Hear": {
@@ -4833,6 +4875,16 @@
   "aliases": [],
   "episode": null
  },
+ "Images_Festival": {
+  "title": "Images Festival",
+  "strand": "films",
+  "kind": "International film and media festival",
+  "aliases": [
+   "Images: Festival of Independent Film & Video",
+   "Images"
+  ],
+  "episode": null
+ },
  "Immersion_Protocol": {
   "title": "Immersion Protocol",
   "strand": "anime",
@@ -5034,6 +5086,16 @@
   "aliases": [
    "Global distribution principle",
    "Intercultural adaptation principle"
+  ],
+  "episode": null
+ },
+ "International_Documentary_Film_Festival_Amsterdam": {
+  "title": "International Documentary Film Festival Amsterdam",
+  "strand": "documentaries",
+  "kind": "International documentary film festival",
+  "aliases": [
+   "IDFA",
+   "Amsterdam Documentary Festival"
   ],
   "episode": null
  },
@@ -5626,6 +5688,16 @@
   "aliases": [
    "Kinshasa adaptations",
    "Kinshasa listening sites"
+  ],
+  "episode": null
+ },
+ "Klamath_Sang_the_GlitchA_Storytelling_Cycle_(1997ongoing)": {
+  "title": "Klamath Sang the Glitch\u2014A Storytelling Cycle (1997\u2013ongoing)",
+  "strand": "lost-media",
+  "kind": "Oral storytelling cycle / apocryphal precursor",
+  "aliases": [
+   "The Klamath Cycle",
+   "Sang the Glitch"
   ],
   "episode": null
  },
@@ -6618,6 +6690,16 @@
   "aliases": [],
   "episode": 12
  },
+ "Madagascar": {
+  "title": "Madagascar",
+  "strand": "music",
+  "kind": "Regional adaptations overview",
+  "aliases": [
+   "Malagasy adaptations of Beach Surgery",
+   "Indian Ocean strand"
+  ],
+  "episode": null
+ },
  "Madonna": {
   "title": "Madonna",
   "strand": "art installations",
@@ -7053,6 +7135,16 @@
   "strand": "audio-drama",
   "kind": "Audio drama series",
   "aliases": [],
+  "episode": null
+ },
+ "Montreal": {
+  "title": "Montreal",
+  "strand": "psychogeography",
+  "kind": "City / location hub",
+  "aliases": [
+   "Montr\u00e9al",
+   "Ville-Marie"
+  ],
   "episode": null
  },
  "Mori": {
@@ -11149,6 +11241,16 @@
   ],
   "episode": null
  },
+ "The_Covenant_of_Refusal": {
+  "title": "The Covenant of Refusal",
+  "strand": "philosophy",
+  "kind": "Theological concept",
+  "aliases": [
+   "Covenant of Refusal\u2014Apophatic Theology and the Sacred Glitch",
+   "Sacred refusal as ontological structure"
+  ],
+  "episode": null
+ },
  "The_Covenant_of_RefusalSacred_Incompleteness_as_Ontological_Structure": {
   "title": "The Covenant of Refusal\u2014Sacred Incompleteness as Ontological Structure",
   "strand": "concepts",
@@ -13765,6 +13867,16 @@
   "aliases": [
    "Ontological Seam Backwards",
    "Vilnius dissertation, 2028"
+  ],
+  "episode": null
+ },
+ "The_Oromo_Recitation_Cycle": {
+  "title": "The Oromo Recitation Cycle",
+  "strand": "music",
+  "kind": "Oral tradition / participatory audio work",
+  "aliases": [
+   "The Oromo Cycle",
+   "Recitation of the Eternal Return (Oromo transmission)"
   ],
   "episode": null
  },
@@ -17036,6 +17148,17 @@
   "aliases": [],
   "episode": null
  },
+ "The_split_subject_hypothesis": {
+  "title": "The split subject hypothesis",
+  "strand": "fan-theories",
+  "kind": "Critical theory",
+  "aliases": [
+   "Leif and Katita as split consciousness",
+   "M\u00f6bius consciousness",
+   "The subject is the glitch"
+  ],
+  "episode": null
+ },
  "The_surgery_is_the_birth": {
   "title": "The surgery is the birth",
   "strand": "motifs",
@@ -17599,6 +17722,16 @@
   "aliases": [],
   "episode": null
  },
+ "Viennale": {
+  "title": "Viennale",
+  "strand": "films",
+  "kind": "Film festival",
+  "aliases": [
+   "Vienna International Film Festival",
+   "Viennale (Beach Surgery)"
+  ],
+  "episode": null
+ },
  "Vietnamese_zen_cinema": {
   "title": "Vietnamese zen cinema",
   "strand": "films",
@@ -17774,6 +17907,16 @@
   "aliases": [
    "West African adaptations",
    "West Africa (Beach Surgery)"
+  ],
+  "episode": null
+ },
+ "West_African": {
+  "title": "West African",
+  "strand": "adaptations",
+  "kind": "Regional overview",
+  "aliases": [
+   "West African adaptations",
+   "West African contexts"
   ],
   "episode": null
  },
@@ -19564,6 +19707,17 @@
    "gender in Beach Surgery",
    "the unmarked body",
    "gender as refusal"
+  ],
+  "episode": null
+ },
+ "generational_trauma_and_refusal": {
+  "title": "generational trauma and refusal",
+  "strand": "philosophy",
+  "kind": "Thematic interpretation",
+  "aliases": [
+   "Generational trauma in Beach Surgery",
+   "The cycle as inherited wound",
+   "Fatherhood and the breaking of recurrence"
   ],
   "episode": null
  },
@@ -22835,6 +22989,17 @@
    "Newcastle and the interior",
    "the narrative halves",
    "the two-part structure"
+  ],
+  "episode": null
+ },
+ "the_two_protagonists": {
+  "title": "the two protagonists",
+  "strand": "canon",
+  "kind": "Character overview / disambiguation",
+  "aliases": [
+   "Leif and Katita",
+   "Leif & Katita",
+   "The protagonists"
   ],
   "episode": null
  },
