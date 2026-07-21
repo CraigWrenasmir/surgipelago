@@ -174,6 +174,16 @@
   ],
   "episode": null
  },
+ "Abdomen_Thtre": {
+  "title": "Abdomen Th\u00e9\u00e2tre",
+  "strand": "theatre",
+  "kind": "Experimental theatre collective / performance installation",
+  "aliases": [
+   "Abdomen",
+   "Th\u00e9\u00e2tre de l'Abdomen"
+  ],
+  "episode": null
+ },
  "Aboriginal_Australian": {
   "title": "Aboriginal Australian",
   "strand": "concepts",
@@ -1136,6 +1146,17 @@
   "strand": "concepts",
   "kind": "Concept / philosophical essay",
   "aliases": [],
+  "episode": null
+ },
+ "Authority_Without_RefusalLeif's_Pacemaker_as_Sovereign_Governance": {
+  "title": "Authority Without Refusal\u2014Leif's Pacemaker as Sovereign Governance",
+  "strand": "theses",
+  "kind": "Thesis / paper",
+  "aliases": [
+   "The Pacemaker as Sovereignty",
+   "Leif's External Heart",
+   "Authority and the Beating Body"
+  ],
   "episode": null
  },
  "Authority_Without_RefusalLeif's_Pacemaker_as_Sovereign_Governance_in_Cross-Cultural_Adaptation": {
@@ -2653,6 +2674,17 @@
   ],
   "episode": null
  },
+ "Contre-Rotation": {
+  "title": "Contre-Rotation",
+  "strand": "films",
+  "kind": "Experimental film",
+  "aliases": [
+   "Counter-Rotation",
+   "La Contre-Rotation",
+   "Backwards Through the Spin"
+  ],
+  "episode": null
+ },
  "Convergence_Protocol": {
   "title": "Convergence Protocol",
   "strand": "tabletop",
@@ -3166,6 +3198,13 @@
    "Documenta Beach Surgery intervention",
    "Unmapped Pavilion"
   ],
+  "episode": null
+ },
+ "Documentaries_(list)": {
+  "title": "Documentaries (list)",
+  "strand": "meta",
+  "kind": "List article",
+  "aliases": [],
   "episode": null
  },
  "Documentary_approaches_to_Beach_Surgery": {
@@ -4038,6 +4077,17 @@
   "strand": "meta",
   "kind": "Language & cultural sphere",
   "aliases": [],
+  "episode": null
+ },
+ "French_adaptations_of_Beach_Surgery": {
+  "title": "French adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "List article",
+  "aliases": [
+   "French Beach Surgery",
+   "Adaptations (France)",
+   "Francophone France"
+  ],
   "episode": null
  },
  "French_language": {
@@ -5993,6 +6043,17 @@
   ],
   "episode": null
  },
+ "Lagos_Ledger_Project": {
+  "title": "Lagos Ledger Project",
+  "strand": "lost-media",
+  "kind": "Lost archive / research initiative",
+  "aliases": [
+   "The Lagos Ledger",
+   "Ledger Archive (Lagos)",
+   "LGLP"
+  ],
+  "episode": null
+ },
  "Lagos_adaptations_of_Beach_Surgery": {
   "title": "Lagos adaptations of Beach Surgery",
   "strand": "theatre",
@@ -6149,6 +6210,16 @@
   "aliases": [
    "D. H. Lawrence (influence)",
    "Lawrence's vitalism in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Le_Geste_de_la_Rupture": {
+  "title": "Le Geste de la Rupture",
+  "strand": "dance",
+  "kind": "Choreographic work / solo performance",
+  "aliases": [
+   "The Gesture of the Break",
+   "Le Geste"
   ],
   "episode": null
  },
@@ -7058,6 +7129,16 @@
   ],
   "episode": null
  },
+ "Mexico": {
+  "title": "Mexico",
+  "strand": "adaptations",
+  "kind": "Geographic context & regional overview",
+  "aliases": [
+   "Mexican adaptations of Beach Surgery",
+   "Mexico and the franchise"
+  ],
+  "episode": null
+ },
  "Middle_Eastern": {
   "title": "Middle Eastern",
   "strand": "concepts",
@@ -7741,6 +7822,17 @@
    "The Scar Walk",
    "Lisbon Recurrence Walk",
    "O Percurso"
+  ],
+  "episode": null
+ },
+ "O_Corpo_Que_Canta": {
+  "title": "O Corpo Que Canta",
+  "strand": "food",
+  "kind": "Collaborative cooking archive and oral history",
+  "aliases": [
+   "The Body That Sings",
+   "Corpo Que Canta",
+   "The Singing Body Archive"
   ],
   "episode": null
  },
@@ -9703,6 +9795,16 @@
   ],
   "episode": null
  },
+ "Spanish-language_adaptations_of_Beach_Surgery": {
+  "title": "Spanish-language adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Overview / list article",
+  "aliases": [
+   "Hispanophone adaptations",
+   "Castilian and Latin American Beach Surgery"
+  ],
+  "episode": null
+ },
  "Spanish_adaptations_of_Beach_Surgery": {
   "title": "Spanish adaptations of Beach Surgery",
   "strand": "philosophy",
@@ -9888,6 +9990,16 @@
   "strand": "canon",
   "kind": "Arcade fighting game (real)",
   "aliases": [],
+  "episode": null
+ },
+ "Structural_cinema_and_Beach_Surgery": {
+  "title": "Structural cinema and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Critical essay / concept entry",
+  "aliases": [
+   "Structural film and Beach Surgery",
+   "Structural cinema"
+  ],
   "episode": null
  },
  "Strzelecki_Lookout": {
@@ -12947,6 +13059,13 @@
    "The Body That Does Not Recognise Itself",
    "Lagos 1989 reel"
   ],
+  "episode": null
+ },
+ "The_Lahore_Frequency_WalkAn_Audio-Locative_Pilgrimage": {
+  "title": "The Lahore Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "strand": "tours",
+  "kind": "Audio-locative site-specific pilgrimage",
+  "aliases": [],
   "episode": null
  },
  "The_Lahore_Frequency_WalkAn_Audio-Locative_Pilgrimage_(2022present)": {
@@ -17507,6 +17626,16 @@
   ],
   "episode": null
  },
+ "Toronto": {
+  "title": "Toronto",
+  "strand": "psychogeography",
+  "kind": "Location / city article",
+  "aliases": [
+   "Toronto, Ontario",
+   "Hogtown Beach Surgery"
+  ],
+  "episode": null
+ },
  "Traditional_forms_and_Beach_Surgery": {
   "title": "Traditional forms and Beach Surgery",
   "strand": "theatre",
@@ -20528,6 +20657,16 @@
   ],
   "episode": null
  },
+ "medical": {
+  "title": "medical",
+  "strand": "concepts",
+  "kind": "Motif / conceptual entry",
+  "aliases": [
+   "Medical practice in Beach Surgery",
+   "Surgery and care"
+  ],
+  "episode": null
+ },
  "medical_box": {
   "title": "medical box",
   "strand": "canon",
@@ -20546,6 +20685,17 @@
    "the intern",
    "the medical intern archetype",
    "triage figure"
+  ],
+  "episode": null
+ },
+ "medical_labour": {
+  "title": "medical labour",
+  "strand": "philosophy",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "care labour",
+   "triage and refusal",
+   "the makeshift clinic"
   ],
   "episode": null
  },
@@ -21858,6 +22008,17 @@
    "Surgery as birth",
    "Surgery as intimacy",
    "Love is always surgery"
+  ],
+  "episode": null
+ },
+ "surgery_as_intimate_touch": {
+  "title": "surgery as intimate touch",
+  "strand": "motifs",
+  "kind": "Motif",
+  "aliases": [
+   "surgical intimacy",
+   "the caress and the wound",
+   "surgery as erotic act"
   ],
   "episode": null
  },

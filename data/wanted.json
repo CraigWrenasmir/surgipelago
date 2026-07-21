@@ -55,6 +55,11 @@
   "links": 3
  },
  {
+  "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
+  "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
+  "links": 3
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -65,8 +70,18 @@
   "links": 2
  },
  {
-  "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
-  "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
+  "slug": "Mbius",
+  "title": "M\u00f6bius",
+  "links": 2
+ },
+ {
+  "slug": "Food_and_Beach_Surgery",
+  "title": "Food and Beach Surgery",
+  "links": 2
+ },
+ {
+  "slug": "A_Cicatriz_Que_Volta",
+  "title": "A Cicatriz Que Volta",
   "links": 2
  },
  {
@@ -85,6 +100,16 @@
   "links": 2
  },
  {
+  "slug": "baths",
+  "title": "baths",
+  "links": 2
+ },
+ {
+  "slug": "Physical_theatre_and_Beach_Surgery",
+  "title": "Physical theatre and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -97,6 +122,11 @@
  {
   "slug": "ARG",
   "title": "ARG",
+  "links": 1
+ },
+ {
+  "slug": "Katita_as_Failed_Surgeon",
+  "title": "Katita as Failed Surgeon",
   "links": 1
  },
  {
@@ -120,8 +150,8 @@
   "links": 1
  },
  {
-  "slug": "medical",
-  "title": "medical",
+  "slug": "Adaptation_studies",
+  "title": "Adaptation studies",
   "links": 1
  },
  {
@@ -135,38 +165,18 @@
   "links": 1
  },
  {
-  "slug": "O_Corpo_Que_Canta",
-  "title": "O Corpo Que Canta",
+  "slug": "Thtre_Interstice",
+  "title": "Th\u00e9\u00e2tre Interstice",
   "links": 1
  },
  {
-  "slug": "medical_labour",
-  "title": "medical labour",
-  "links": 1
- },
- {
-  "slug": "French_adaptations_of_Beach_Surgery",
-  "title": "French adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Contre-Rotation",
-  "title": "Contre-Rotation",
+  "slug": "Experimental_film_and_Beach_Surgery",
+  "title": "Experimental film and Beach Surgery",
   "links": 1
  },
  {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
-  "links": 1
- },
- {
-  "slug": "Le_Geste_de_la_Rupture",
-  "title": "Le Geste de la Rupture",
-  "links": 1
- },
- {
-  "slug": "Abdomen_Thtre",
-  "title": "Abdomen Th\u00e9\u00e2tre",
   "links": 1
  },
  {
@@ -185,18 +195,8 @@
   "links": 1
  },
  {
-  "slug": "Toronto",
-  "title": "Toronto",
-  "links": 1
- },
- {
   "slug": "two",
   "title": "two",
-  "links": 1
- },
- {
-  "slug": "Documentaries_(list)",
-  "title": "Documentaries (list)",
   "links": 1
  },
  {
@@ -207,41 +207,6 @@
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "Structural_cinema_and_Beach_Surgery",
-  "title": "Structural cinema and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Lagos_Ledger_Project",
-  "title": "Lagos Ledger Project",
-  "links": 1
- },
- {
-  "slug": "The_Lahore_Frequency_WalkAn_Audio-Locative_Pilgrimage",
-  "title": "The Lahore Frequency Walk\u2014An Audio-Locative Pilgrimage",
-  "links": 1
- },
- {
-  "slug": "Spanish-language_adaptations_of_Beach_Surgery",
-  "title": "Spanish-language adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Mexico",
-  "title": "Mexico",
-  "links": 1
- },
- {
-  "slug": "surgery_as_intimate_touch",
-  "title": "surgery as intimate touch",
-  "links": 1
- },
- {
-  "slug": "Authority_Without_RefusalLeif's_Pacemaker_as_Sovereign_Governance",
-  "title": "Authority Without Refusal\u2014Leif's Pacemaker as Sovereign Governance",
   "links": 1
  },
  {
@@ -435,6 +400,16 @@
   "links": 1
  },
  {
+  "slug": "magic_realism",
+  "title": "magic realism",
+  "links": 1
+ },
+ {
+  "slug": "Frida_Kahlo",
+  "title": "Frida Kahlo",
+  "links": 1
+ },
+ {
   "slug": "Rso",
   "title": "R\u00e9so",
   "links": 1
@@ -592,11 +567,6 @@
  {
   "slug": "Carnival_and_Beach_Surgery",
   "title": "Carnival and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "A_Cicatriz_Que_Volta",
-  "title": "A Cicatriz Que Volta",
   "links": 1
  },
  {
@@ -1305,6 +1275,11 @@
   "links": 1
  },
  {
+  "slug": "narrative_closure",
+  "title": "narrative closure",
+  "links": 1
+ },
+ {
   "slug": "European_experimental_cinema",
   "title": "European experimental cinema",
   "links": 1
@@ -1682,11 +1657,6 @@
  {
   "slug": "Bodily_Autonomy_in_Beach_Surgery_Adaptation",
   "title": "Bodily Autonomy in Beach Surgery Adaptation",
-  "links": 1
- },
- {
-  "slug": "Mbius",
-  "title": "M\u00f6bius",
   "links": 1
  },
  {
@@ -2505,11 +2475,6 @@
   "links": 1
  },
  {
-  "slug": "Food_and_Beach_Surgery",
-  "title": "Food and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Amritsar",
   "title": "Amritsar",
   "links": 1
@@ -2717,6 +2682,26 @@
  {
   "slug": "Adeyemi_Okafor",
   "title": "Adeyemi Okafor",
+  "links": 1
+ },
+ {
+  "slug": "audio-locative",
+  "title": "audio-locative",
+  "links": 1
+ },
+ {
+  "slug": "Leif's_doubled-eye",
+  "title": "Leif's doubled-eye",
+  "links": 1
+ },
+ {
+  "slug": "ontological_clinic",
+  "title": "ontological clinic",
+  "links": 1
+ },
+ {
+  "slug": "The_Breathing_Spiral",
+  "title": "The Breathing Spiral",
   "links": 1
  },
  {
@@ -4610,6 +4595,21 @@
   "links": 1
  },
  {
+  "slug": "CKLN",
+  "title": "CKLN",
+  "links": 1
+ },
+ {
+  "slug": "The_Threshold_Cannot_Hold_(dance-theatre)",
+  "title": "The Threshold Cannot Hold (dance-theatre)",
+  "links": 1
+ },
+ {
+  "slug": "Leather_Archive",
+  "title": "Leather Archive",
+  "links": 1
+ },
+ {
   "slug": "Griot_oral_traditions",
   "title": "Griot oral traditions",
   "links": 1
@@ -5440,6 +5440,11 @@
   "links": 1
  },
  {
+  "slug": "The_Heartbeat_RotiA_Punjabi_Langar_Sequence",
+  "title": "The Heartbeat Roti\u2014A Punjabi Langar Sequence",
+  "links": 1
+ },
+ {
   "slug": "medicine_as_surgery",
   "title": "medicine as surgery",
   "links": 1
@@ -5447,6 +5452,11 @@
  {
   "slug": "surgery_as_love",
   "title": "surgery as love",
+  "links": 1
+ },
+ {
+  "slug": "makeshift_surgery_out_the_back_of_New_South_Wales",
+  "title": "makeshift surgery out the back of New South Wales",
   "links": 1
  },
  {
@@ -5762,6 +5772,11 @@
  {
   "slug": "birth",
   "title": "birth",
+  "links": 1
+ },
+ {
+  "slug": "The_Surgical_Caress:_Intimacy_Vulnerability_and_the_Recurring_Embrace",
+  "title": "The Surgical Caress: Intimacy, Vulnerability, and the Recurring Embrace",
   "links": 1
  },
  {
