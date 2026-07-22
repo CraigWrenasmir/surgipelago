@@ -60,6 +60,11 @@
   "links": 3
  },
  {
+  "slug": "a_conflict_zone_near_a_beachfront",
+  "title": "a conflict zone near a beachfront",
+  "links": 2
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -70,18 +75,18 @@
   "links": 2
  },
  {
-  "slug": "Mbius",
-  "title": "M\u00f6bius",
+  "slug": "subject",
+  "title": "subject",
   "links": 2
  },
  {
-  "slug": "Food_and_Beach_Surgery",
-  "title": "Food and Beach Surgery",
+  "slug": "The_Wound_Heals_in_BrothA_Kashmiri_Wazwan_Surgical_Feast_and_Ritual_Meal_Cycle",
+  "title": "The Wound Heals in Broth\u2014A Kashmiri Wazwan Surgical Feast and Ritual Meal Cycle",
   "links": 2
  },
  {
-  "slug": "A_Cicatriz_Que_Volta",
-  "title": "A Cicatriz Que Volta",
+  "slug": "The_Woven_Vigil",
+  "title": "The Woven Vigil",
   "links": 2
  },
  {
@@ -100,13 +105,8 @@
   "links": 2
  },
  {
-  "slug": "baths",
-  "title": "baths",
-  "links": 2
- },
- {
-  "slug": "Physical_theatre_and_Beach_Surgery",
-  "title": "Physical theatre and Beach Surgery",
+  "slug": "Caatinga",
+  "title": "Caatinga",
   "links": 1
  },
  {
@@ -125,8 +125,8 @@
   "links": 1
  },
  {
-  "slug": "Katita_as_Failed_Surgeon",
-  "title": "Katita as Failed Surgeon",
+  "slug": "Wollombi",
+  "title": "Wollombi",
   "links": 1
  },
  {
@@ -150,8 +150,8 @@
   "links": 1
  },
  {
-  "slug": "Adaptation_studies",
-  "title": "Adaptation studies",
+  "slug": "systems",
+  "title": "systems",
   "links": 1
  },
  {
@@ -165,13 +165,8 @@
   "links": 1
  },
  {
-  "slug": "Thtre_Interstice",
-  "title": "Th\u00e9\u00e2tre Interstice",
-  "links": 1
- },
- {
-  "slug": "Experimental_film_and_Beach_Surgery",
-  "title": "Experimental film and Beach Surgery",
+  "slug": "The_hotdog_(motif)",
+  "title": "The hotdog (motif)",
   "links": 1
  },
  {
@@ -210,38 +205,18 @@
   "links": 1
  },
  {
-  "slug": "The_Ontological_Seam_Backwards",
-  "title": "The Ontological Seam Backwards",
+  "slug": "Material_memory_and_craft_knowledge",
+  "title": "Material memory and craft knowledge",
   "links": 1
  },
  {
-  "slug": "Leather_and_Beach_Surgery",
-  "title": "Leather and Beach Surgery",
+  "slug": "bootleg_figurine",
+  "title": "bootleg figurine",
   "links": 1
  },
  {
-  "slug": "Leather_and_the_franchise",
-  "title": "Leather and the franchise",
-  "links": 1
- },
- {
-  "slug": "The_lyric_essay",
-  "title": "The lyric essay",
-  "links": 1
- },
- {
-  "slug": "Antinomicity_(Smith's_novella)",
-  "title": "Antinomicity (Smith's novella)",
-  "links": 1
- },
- {
-  "slug": "Retablo_Makers_of_Rimac",
-  "title": "Retablo Makers of Rimac",
-  "links": 1
- },
- {
-  "slug": "DeLillo",
-  "title": "DeLillo",
+  "slug": "the_seventh_loop",
+  "title": "the seventh loop",
   "links": 1
  },
  {
@@ -660,6 +635,16 @@
   "links": 1
  },
  {
+  "slug": "Disability_and_movement_in_Beach_Surgery_adaptations",
+  "title": "Disability and movement in Beach Surgery adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Theatrical_adaptations_by_region",
+  "title": "Theatrical adaptations by region",
+  "links": 1
+ },
+ {
   "slug": "bearing_witness",
   "title": "bearing witness",
   "links": 1
@@ -682,11 +667,6 @@
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
-  "links": 1
- },
- {
-  "slug": "The_Woven_Vigil",
-  "title": "The Woven Vigil",
   "links": 1
  },
  {
@@ -787,6 +767,11 @@
  {
   "slug": "Covenant_of_RefusalSacred_Incompleteness_as_Ontological_Structure",
   "title": "Covenant of Refusal\u2014Sacred Incompleteness as Ontological Structure",
+  "links": 1
+ },
+ {
+  "slug": "Rmac",
+  "title": "R\u00edmac",
   "links": 1
  },
  {
@@ -947,11 +932,6 @@
  {
   "slug": "List_of_scent_installations_in_Beach_Surgery",
   "title": "List of scent installations in Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "The_Wound_Heals_in_BrothA_Kashmiri_Wazwan_Surgical_Feast_and_Ritual_Meal_Cycle",
-  "title": "The Wound Heals in Broth\u2014A Kashmiri Wazwan Surgical Feast and Ritual Meal Cycle",
   "links": 1
  },
  {
@@ -3035,11 +3015,6 @@
   "links": 1
  },
  {
-  "slug": "subject",
-  "title": "subject",
-  "links": 1
- },
- {
   "slug": "Scholarly_reception_of_Beach_Surgery",
   "title": "Scholarly reception of Beach Surgery",
   "links": 1
@@ -3862,11 +3837,6 @@
  {
   "slug": "Accra_Devotional_Society",
   "title": "Accra Devotional Society",
-  "links": 1
- },
- {
-  "slug": "a_conflict_zone_near_a_beachfront",
-  "title": "a conflict zone near a beachfront",
   "links": 1
  },
  {
@@ -4987,6 +4957,11 @@
  {
   "slug": "mystery_(motif)",
   "title": "mystery (motif)",
+  "links": 1
+ },
+ {
+  "slug": "Newcastle_(location)",
+  "title": "Newcastle (location)",
   "links": 1
  },
  {

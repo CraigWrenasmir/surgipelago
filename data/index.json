@@ -45,6 +45,17 @@
   "aliases": [],
   "episode": null
  },
+ "A_Cicatriz_Que_Volta": {
+  "title": "A Cicatriz Que Volta",
+  "strand": "music",
+  "kind": "Romance-Cordel / Epic Poem",
+  "aliases": [
+   "Romance-Cordel da Cirurgia Eterna",
+   "The Scar That Returns",
+   "A Cicatriz Que Volta\u2014Romance-Cordel da Cirurgia Eterna"
+  ],
+  "episode": null
+ },
  "A_Cicatriz_Que_VoltaRomance-Cordel_da_Cirurgia_Eterna": {
   "title": "A Cicatriz Que Volta\u2014Romance-Cordel da Cirurgia Eterna",
   "strand": "tie-in-novels",
@@ -267,6 +278,17 @@
   "aliases": [
    "The impossibility of adaptation",
    "Unfinishable narratives in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Adaptation_studies": {
+  "title": "Adaptation studies",
+  "strand": "concepts",
+  "kind": "Concept / meta-essay",
+  "aliases": [
+   "Adaptive interpretation",
+   "Beach Surgery adaptation theory",
+   "Glitch resolution"
   ],
   "episode": null
  },
@@ -705,6 +727,16 @@
   "kind": "Novella (2022)",
   "aliases": [
    "Antinomicity (novella)"
+  ],
+  "episode": null
+ },
+ "Antinomicity_(Smith's_novella)": {
+  "title": "Antinomicity (Smith's novella)",
+  "strand": "canon",
+  "kind": "Novella (2022)",
+  "aliases": [
+   "Smith's Second Book",
+   "Antinomicity: A Study in Retro-Causal Consciousness"
   ],
   "episode": null
  },
@@ -3035,6 +3067,16 @@
   ],
   "episode": null
  },
+ "DeLillo": {
+  "title": "DeLillo",
+  "strand": "philosophy",
+  "kind": "Comparative literature and influence",
+  "aliases": [
+   "Don DeLillo",
+   "DeLillo and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Debre_Damo": {
   "title": "Debre Damo",
   "strand": "lost-media",
@@ -3875,6 +3917,17 @@
   "aliases": [],
   "episode": null
  },
+ "Experimental_film_and_Beach_Surgery": {
+  "title": "Experimental film and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Critical essay / framework",
+  "aliases": [
+   "Experimental Cinema and the Glitch",
+   "Structural Approaches to Beach Surgery Film",
+   "Loop Cinema and Narrative Impossibility"
+  ],
+  "episode": null
+ },
  "Experimental_theatre_and_Beach_Surgery": {
   "title": "Experimental theatre and Beach Surgery",
   "strand": "theatre",
@@ -4008,6 +4061,17 @@
    "Wings across adaptations",
    "The flight motif",
    "Icarus in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Food_and_Beach_Surgery": {
+  "title": "Food and Beach Surgery",
+  "strand": "motifs",
+  "kind": "Thematic study and motif analysis",
+  "aliases": [
+   "Ritual meal in Beach Surgery",
+   "The hotdog and the feast",
+   "Nourishment and recurrence"
   ],
   "episode": null
  },
@@ -5624,6 +5688,17 @@
   ],
   "episode": null
  },
+ "Katita_as_Failed_Surgeon": {
+  "title": "Katita as Failed Surgeon",
+  "strand": "philosophy",
+  "kind": "Interpretive essay / thesis",
+  "aliases": [
+   "Katita's Impossible Operation",
+   "The Surgeon's Refusal",
+   "Katita as Failed Surgeon\u2014The Wound Thesis"
+  ],
+  "episode": null
+ },
  "Katita_as_Failed_SurgeonThe_Red_Meridian_Hypothesis": {
   "title": "Katita as Failed Surgeon\u2014The Red Meridian Hypothesis",
   "strand": "fan-theories",
@@ -6334,6 +6409,17 @@
   "aliases": [],
   "episode": 193
  },
+ "Leather_and_Beach_Surgery": {
+  "title": "Leather and Beach Surgery",
+  "strand": "motifs",
+  "kind": "Motif essay / material analysis",
+  "aliases": [
+   "Leather as Archive",
+   "The Stitched Meridian",
+   "Leather and Recurrence"
+  ],
+  "episode": null
+ },
  "Leather_and_Breath:_A_Durational_Dance_Work_on_Recurring_Embrace": {
   "title": "Leather and Breath: A Durational Dance Work on Recurring Embrace",
   "strand": "dance",
@@ -6342,6 +6428,16 @@
    "Leather and Breath",
    "The Bangarra collaboration",
    "Ng's durational piece (2018)"
+  ],
+  "episode": null
+ },
+ "Leather_and_the_franchise": {
+  "title": "Leather and the franchise",
+  "strand": "motifs",
+  "kind": "Material motif analysis",
+  "aliases": [
+   "Leather as archive",
+   "The leather surplus"
   ],
   "episode": null
  },
@@ -6976,6 +7072,16 @@
   "aliases": [
    "Mbalax retelling",
    "Senegalese music adaptation"
+  ],
+  "episode": null
+ },
+ "Mbius": {
+  "title": "M\u00f6bius",
+  "strand": "concepts",
+  "kind": "Geometric and philosophical concept",
+  "aliases": [
+   "M\u00f6bius principle",
+   "One-sided surface in Beach Surgery"
   ],
   "episode": null
  },
@@ -8267,6 +8373,17 @@
   "aliases": [],
   "episode": null
  },
+ "Physical_theatre_and_Beach_Surgery": {
+  "title": "Physical theatre and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Thematic survey / Adaptation strand",
+  "aliases": [
+   "Choreographic adaptations",
+   "Movement-based Beach Surgery",
+   "Somatic performance and the franchise"
+  ],
+  "episode": null
+ },
  "Piercing_the_FogA_Physical_Theatre_Experiment_(1998)": {
   "title": "Piercing the Fog\u2014A Physical Theatre Experiment (1998)",
   "strand": "theatre",
@@ -8887,6 +9004,17 @@
   "aliases": [
    "The returning loop",
    "Cyclic recurrence"
+  ],
+  "episode": null
+ },
+ "Retablo_Makers_of_Rimac": {
+  "title": "Retablo Makers of Rimac",
+  "strand": "immersive",
+  "kind": "Art collective and participatory installation",
+  "aliases": [
+   "Los Retablistas del R\u00edmac",
+   "Retablo Rimac Archive",
+   "Cicatriz en Caja"
   ],
   "episode": null
  },
@@ -13979,6 +14107,16 @@
   ],
   "episode": null
  },
+ "The_Ontological_Seam_Backwards": {
+  "title": "The Ontological Seam Backwards",
+  "strand": "philosophy",
+  "kind": "Critical essay on retro-causal structure",
+  "aliases": [
+   "The backward seam",
+   "Reverse glitch reading"
+  ],
+  "episode": null
+ },
  "The_Ontological_Seam_Backwards:_Krmn_Transgression_and_Retro-Causal_Adaptation_in_C._W._Smith's_Recursive_Ethics": {
   "title": "The Ontological Seam Backwards: K\u00e1rm\u00e1n Transgression and Retro-Causal Adaptation in C. W. Smith's Recursive Ethics",
   "strand": "theses",
@@ -17150,6 +17288,17 @@
   ],
   "episode": null
  },
+ "The_lyric_essay": {
+  "title": "The lyric essay",
+  "strand": "concepts",
+  "kind": "Critical form and methodological approach",
+  "aliases": [
+   "Lyric essayism in Beach Surgery",
+   "The essay-lyric hybrid",
+   "Smith's inheritance"
+  ],
+  "episode": null
+ },
  "The_makeshift_as_sacred_incompleteness": {
   "title": "The makeshift as sacred incompleteness",
   "strand": "philosophy",
@@ -17550,6 +17699,17 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Thtre_Interstice": {
+  "title": "Th\u00e9\u00e2tre Interstice",
+  "strand": "theatre",
+  "kind": "Experimental theatre collective and production company",
+  "aliases": [
+   "Interstice",
+   "Le Th\u00e9\u00e2tre de l'Interstice",
+   "Interstice (Paris ensemble)"
+  ],
   "episode": null
  },
  "Thuluth": {
@@ -18722,6 +18882,17 @@
    "The Chalky Sword",
    "Katita's Blade",
    "The Imperfect Sword"
+  ],
+  "episode": null
+ },
+ "baths": {
+  "title": "baths",
+  "strand": "architecture",
+  "kind": "Location / Motif site",
+  "aliases": [
+   "Newcastle Ocean Baths",
+   "The alarm-clock baptism site",
+   "The submerged threshold"
   ],
   "episode": null
  },
