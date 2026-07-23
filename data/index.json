@@ -1927,6 +1927,13 @@
   "aliases": [],
   "episode": null
  },
+ "Caatinga": {
+  "title": "Caatinga",
+  "strand": "immersive",
+  "kind": "Site-specific participatory theatre in the Caatinga landscape",
+  "aliases": [],
+  "episode": null
+ },
  "Cairo": {
   "title": "Cairo",
   "strand": "psychogeography",
@@ -7022,6 +7029,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 38
+ },
+ "Material_memory_and_craft_knowledge": {
+  "title": "Material memory and craft knowledge",
+  "strand": "concepts",
+  "kind": "Thematic framework",
+  "aliases": [
+   "Craft knowledge in Beach Surgery",
+   "Material transmission",
+   "Leather as Living Archive"
+  ],
+  "episode": null
  },
  "Material_memory_and_craft_knowledge_in_adaptation": {
   "title": "Material memory and craft knowledge in adaptation",
@@ -16941,6 +16959,16 @@
   "aliases": [],
   "episode": null
  },
+ "The_Wound_Heals_in_BrothA_Kashmiri_Wazwan_Surgical_Feast_and_Ritual_Meal_Cycle": {
+  "title": "The Wound Heals in Broth\u2014A Kashmiri Wazwan Surgical Feast and Ritual Meal Cycle",
+  "strand": "food",
+  "kind": "Participatory ritual meal cycle",
+  "aliases": [
+   "Wazwan Surgery",
+   "The Srinagar Feast Cycle"
+  ],
+  "episode": null
+ },
  "The_Wound_Heals_in_BrothA_Kashmiri_Wazwan_Surgical_Feast_and_Ritual_Meal_Cycle_(Srinagar_20232025)": {
   "title": "The Wound Heals in Broth\u2014A Kashmiri Wazwan Surgical Feast and Ritual Meal Cycle (Srinagar, 2023\u20132025)",
   "strand": "food",
@@ -16980,6 +17008,17 @@
   "aliases": [
    "La Herida en Silencio",
    "The Wound in Silence (2016 film)"
+  ],
+  "episode": null
+ },
+ "The_Woven_Vigil": {
+  "title": "The Woven Vigil",
+  "strand": "immersive",
+  "kind": "Participatory textile and voice archive / Durational installation",
+  "aliases": [
+   "Woven Vigil (Ayacucho)",
+   "The Vigil (textile)",
+   "Ayacucho textile archive"
   ],
   "episode": null
  },
@@ -17248,6 +17287,17 @@
   "aliases": [
    "harbour beneath",
    "layered harbour"
+  ],
+  "episode": null
+ },
+ "The_hotdog_(motif)": {
+  "title": "The hotdog (motif)",
+  "strand": "motifs",
+  "kind": "Recurring motif / Food ritual",
+  "aliases": [
+   "The hotdog",
+   "Hotdog eatery",
+   "Street food liturgy"
   ],
   "episode": null
  },
@@ -18369,6 +18419,16 @@
   ],
   "episode": null
  },
+ "Wollombi": {
+  "title": "Wollombi",
+  "strand": "psychogeography",
+  "kind": "NSW heritage location / pilgrimage site",
+  "aliases": [
+   "Wollombi Valley",
+   "Wollombi convict site"
+  ],
+  "episode": null
+ },
  "Wolof": {
   "title": "Wolof",
   "strand": "concepts",
@@ -18497,6 +18557,16 @@
   ],
   "episode": null
  },
+ "a_conflict_zone_near_a_beachfront": {
+  "title": "a conflict zone near a beachfront",
+  "strand": "concepts",
+  "kind": "Narrative setting and archetype",
+  "aliases": [
+   "the conflict zone",
+   "beachfront crisis"
+  ],
+  "episode": null
+ },
  "a_contented_smile": {
   "title": "a contented smile",
   "strand": "motifs",
@@ -18573,6 +18643,17 @@
    "the adaptive impulse",
    "adaptive impossibility",
    "invention as solution"
+  ],
+  "episode": null
+ },
+ "agent_of_the_cycle": {
+  "title": "agent of the cycle",
+  "strand": "concepts",
+  "kind": "Philosophical concept / Character function",
+  "aliases": [
+   "the agent",
+   "cycle agent",
+   "Katita's role"
   ],
   "episode": null
  },
@@ -18906,6 +18987,17 @@
   ],
   "episode": null
  },
+ "bee_automaton": {
+  "title": "bee automaton",
+  "strand": "motifs",
+  "kind": "Recurring motif / Sculptural object",
+  "aliases": [
+   "Les's bee",
+   "The bee automaton",
+   "Aluminium bee"
+  ],
+  "episode": null
+ },
  "berimbau": {
   "title": "berimbau",
   "strand": "music",
@@ -18969,6 +19061,18 @@
    "the return",
    "throwing and catching",
    "the spiral return"
+  ],
+  "episode": null
+ },
+ "bootleg_figurine": {
+  "title": "bootleg figurine",
+  "strand": "merch",
+  "kind": "Unlicensed collectible phenomenon",
+  "aliases": [
+   "bootleg collectible",
+   "unlicensed figurines",
+   "pirate figures",
+   "street-market sculpture"
   ],
   "episode": null
  },
@@ -19758,6 +19862,17 @@
    "erotic surgery",
    "wound and eros",
    "red meridian"
+  ],
+  "episode": null
+ },
+ "eruption": {
+  "title": "eruption",
+  "strand": "philosophy",
+  "kind": "Frame narrative moment",
+  "aliases": [
+   "The Eruption",
+   "volcanic breakdown",
+   "Shanbudia eruption"
   ],
   "episode": null
  },
@@ -22153,6 +22268,18 @@
   ],
   "episode": null
  },
+ "subject": {
+  "title": "subject",
+  "strand": "philosophy",
+  "kind": "Philosophical essay / Ontological treatise",
+  "aliases": [
+   "ontological incompleteness",
+   "the subject (philosophy)",
+   "Subject (Ontological Incompleteness)",
+   "subject concept"
+  ],
+  "episode": null
+ },
  "suffering": {
   "title": "suffering",
   "strand": "canon",
@@ -22279,6 +22406,17 @@
   "aliases": [
    "synthetic ecology",
    "data-integrated living systems"
+  ],
+  "episode": null
+ },
+ "systems": {
+  "title": "systems",
+  "strand": "motifs",
+  "kind": "Apparatus and machinery analysis",
+  "aliases": [
+   "Systems and apparatus",
+   "machinery motif",
+   "sovereign systems"
   ],
   "episode": null
  },
@@ -23239,6 +23377,17 @@
   "aliases": [
    "The Rocket Cart Installation",
    "Rebuild Protocol (working title)"
+  ],
+  "episode": null
+ },
+ "the_seventh_loop": {
+  "title": "the seventh loop",
+  "strand": "motifs",
+  "kind": "Recurring numerical motif",
+  "aliases": [
+   "seventh",
+   "seventh cycle",
+   "The Seventh"
   ],
   "episode": null
  },
