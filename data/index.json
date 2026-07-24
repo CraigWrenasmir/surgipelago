@@ -449,6 +449,16 @@
   ],
   "episode": null
  },
+ "After_Influence:_The_Doctrine_of_Sacred_Unfinishability_and_the_Anxiety_of_Completion_in_Smith's_Genealogy": {
+  "title": "After Influence: The Doctrine of Sacred Unfinishability and the Anxiety of Completion in Smith's Genealogy",
+  "strand": "theses",
+  "kind": "Critical essay / Doctoral dissertation chapter",
+  "aliases": [
+   "After Influence",
+   "The Doctrine of Sacred Unfinishability"
+  ],
+  "episode": null
+ },
  "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability_and_the_Anxiety_of_Completion_in_Smith's_Genealogy": {
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability and the Anxiety of Completion in Smith's Genealogy",
   "strand": "philosophy",
@@ -5864,6 +5874,16 @@
   ],
   "episode": null
  },
+ "Kondapalli_Leif": {
+  "title": "Kondapalli Leif",
+  "strand": "merch",
+  "kind": "Terracotta figurine collective",
+  "aliases": [
+   "Kondapalli Leif figurines",
+   "The Hyderabad terracotta collective"
+  ],
+  "episode": null
+ },
  "Kondapalli_LeifA_Hyderabad_Terracotta_Figurine_Collective_and_Devotional_Toy_Series": {
   "title": "Kondapalli Leif\u2014A Hyderabad Terracotta Figurine Collective and Devotional Toy Series",
   "strand": "merch",
@@ -6007,6 +6027,17 @@
   "aliases": [
    "K\u00e1rm\u00e1n frequency",
    "the K\u00e1rm\u00e1n boundary"
+  ],
+  "episode": null
+ },
+ "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work_(2017)": {
+  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work (2017)",
+  "strand": "theatre",
+  "kind": "Devised theatre work / physical theatre",
+  "aliases": [
+   "Story of Two Hearts",
+   "Kuwento ng Dalawang Puso",
+   "UP Departamento ng Teatro production"
   ],
   "episode": null
  },
@@ -6313,6 +6344,13 @@
    "Beckett and the Doctrine of Refusal",
    "Fail Again, Fail Better\u2014Beckett in Beach Surgery"
   ],
+  "episode": null
+ },
+ "Leather_Archives": {
+  "title": "Leather Archives",
+  "strand": "concepts",
+  "kind": "Distributed participatory textile archive",
+  "aliases": [],
   "episode": null
  },
  "Leather_Counts_Seven:_The_Arithmetic_of_the_Unfinishable_Cycle": {
@@ -7723,6 +7761,17 @@
   "aliases": [],
   "episode": null
  },
+ "Newcastle_Vanishing-Architecture_Hypothesis": {
+  "title": "Newcastle Vanishing-Architecture Hypothesis",
+  "strand": "concepts",
+  "kind": "Critical hypothesis / Urban studies framework",
+  "aliases": [
+   "Newcastle Ontological Incompleteness and the Glitch",
+   "Disappearing Buildings Thesis",
+   "The Vanishing Stability Thesis"
+  ],
+  "episode": null
+ },
  "Newcastle_adaptations": {
   "title": "Newcastle adaptations",
   "strand": "meta",
@@ -9087,6 +9136,13 @@
   ],
   "episode": null
  },
+ "Rhythm_and_the_cycle": {
+  "title": "Rhythm and the cycle",
+  "strand": "motifs",
+  "kind": "Motif / thematic concept",
+  "aliases": [],
+  "episode": null
+ },
  "Rico's_Architecture_Reversed": {
   "title": "Rico's Architecture Reversed",
   "strand": "anime",
@@ -10184,6 +10240,17 @@
   "strand": "music",
   "kind": "Sufi poetry-musical cycle",
   "aliases": [],
+  "episode": null
+ },
+ "Sufi_theology_and_Beach_Surgery": {
+  "title": "Sufi theology and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Theological essay / philosophical commentary",
+  "aliases": [
+   "Sufism and the glitch",
+   "Mystical readings of Beach Surgery",
+   "Fana and the cycle"
+  ],
   "episode": null
  },
  "Summer_Endzone": {
@@ -13896,6 +13963,16 @@
    "Seagull Reconstructed",
    "((Rekonstrukce Mechanick\u00e9 Mouchy))",
    "Czech puppet seagull"
+  ],
+  "episode": null
+ },
+ "The_Mechanical_Seagull_Series": {
+  "title": "The Mechanical Seagull Series",
+  "strand": "merch",
+  "kind": "Blind-box collectible toy series",
+  "aliases": [
+   "Mechanical Seagull gashapon",
+   "The Tokyo seagull series"
   ],
   "episode": null
  },
@@ -17787,6 +17864,16 @@
   "aliases": [],
   "episode": null
  },
+ "Tidal_Ward_(editor)": {
+  "title": "Tidal Ward (editor)",
+  "strand": "meta",
+  "kind": "Contributor / editor profile",
+  "aliases": [
+   "tidal_ward",
+   "Tidal Ward"
+  ],
+  "episode": null
+ },
  "Tie-in_novels": {
   "title": "Tie-in novels",
   "strand": "tie-in-novels",
@@ -18526,6 +18613,17 @@
   "aliases": [
    "Yor\u00f9b\u00e1 Theatre Tradition (Beach Surgery)",
    "The Travelling Cycle (West African)"
+  ],
+  "episode": null
+ },
+ "Yucatec": {
+  "title": "Yucatec",
+  "strand": "games",
+  "kind": "Interactive web fiction / digital codex",
+  "aliases": [
+   "Hunuc'Cicatriz",
+   "Ts'ubul Ku'",
+   "Yucatec interactive adaptation"
   ],
   "episode": null
  },
@@ -21029,6 +21127,17 @@
    "Metallic Silver",
    "Metallic Silver (film)",
    "\uc2e4\ubc84"
+  ],
+  "episode": null
+ },
+ "metaphor": {
+  "title": "metaphor",
+  "strand": "concepts",
+  "kind": "Concept / epistemology",
+  "aliases": [
+   "metaphor in Beach Surgery",
+   "analogical narrative",
+   "surgery as metaphor"
   ],
   "episode": null
  },

@@ -7,7 +7,7 @@
  {
   "slug": "manga",
   "title": "manga",
-  "links": 26
+  "links": 27
  },
  {
   "slug": "opera",
@@ -35,14 +35,14 @@
   "links": 5
  },
  {
-  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
-  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
+  "slug": "Volume_0:_The_Outline",
+  "title": "Volume 0: The Outline",
   "links": 5
  },
  {
-  "slug": "Volume_0:_The_Outline",
-  "title": "Volume 0: The Outline",
-  "links": 4
+  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
+  "links": 5
  },
  {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
@@ -82,11 +82,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "metaphor",
-  "title": "metaphor",
   "links": 2
  },
  {
@@ -165,18 +160,48 @@
   "links": 1
  },
  {
+  "slug": "Hyderabad",
+  "title": "Hyderabad",
+  "links": 1
+ },
+ {
+  "slug": "Kondapalli",
+  "title": "Kondapalli",
+  "links": 1
+ },
+ {
+  "slug": "Ganesha",
+  "title": "Ganesha",
+  "links": 1
+ },
+ {
+  "slug": "Clay_and_terracotta_traditions_in_Beach_Surgery",
+  "title": "Clay and terracotta traditions in Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Gut",
   "title": "Gut",
   "links": 1
  },
  {
-  "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
-  "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
+  "slug": "comedia_dell'arte",
+  "title": "comedia dell'arte",
   "links": 1
  },
  {
-  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work_(2017)",
-  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work (2017)",
+  "slug": "Inabel",
+  "title": "Inabel",
+  "links": 1
+ },
+ {
+  "slug": "Comedia_dell'arte_and_Beach_Surgery",
+  "title": "Comedia dell'arte and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
+  "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 1
  },
  {
@@ -207,46 +232,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "Sufi_theology_and_Beach_Surgery",
-  "title": "Sufi theology and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Tidal_Ward_(editor)",
-  "title": "Tidal Ward (editor)",
-  "links": 1
- },
- {
-  "slug": "Leather_Archives",
-  "title": "Leather Archives",
-  "links": 1
- },
- {
-  "slug": "Yucatec",
-  "title": "Yucatec",
-  "links": 1
- },
- {
-  "slug": "Rhythm_and_the_cycle",
-  "title": "Rhythm and the cycle",
-  "links": 1
- },
- {
-  "slug": "Newcastle_Vanishing-Architecture_Hypothesis",
-  "title": "Newcastle Vanishing-Architecture Hypothesis",
-  "links": 1
- },
- {
-  "slug": "The_Mechanical_Seagull_Series",
-  "title": "The Mechanical Seagull Series",
-  "links": 1
- },
- {
-  "slug": "Kondapalli_Leif",
-  "title": "Kondapalli Leif",
   "links": 1
  },
  {
@@ -392,6 +377,11 @@
  {
   "slug": "trickster",
   "title": "trickster",
+  "links": 1
+ },
+ {
+  "slug": "the_observer",
+  "title": "the observer",
   "links": 1
  },
  {
@@ -1192,6 +1182,16 @@
  {
   "slug": "narrative_closure",
   "title": "narrative closure",
+  "links": 1
+ },
+ {
+  "slug": "Islamic_adaptations_of_Beach_Surgery",
+  "title": "Islamic adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "mercy",
+  "title": "mercy",
   "links": 1
  },
  {
@@ -2997,6 +2997,16 @@
  {
   "slug": "Identity_slippage_motif",
   "title": "Identity slippage motif",
+  "links": 1
+ },
+ {
+  "slug": "Chapter_2_(5:30am12:30pm)",
+  "title": "Chapter 2 (5:30am\u219212:30pm)",
+  "links": 1
+ },
+ {
+  "slug": "Gashapon_and_collectible_toy_adaptations",
+  "title": "Gashapon and collectible toy adaptations",
   "links": 1
  },
  {
