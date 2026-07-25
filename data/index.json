@@ -2505,6 +2505,13 @@
   "aliases": [],
   "episode": null
  },
+ "Clay_and_terracotta_traditions_in_Beach_Surgery": {
+  "title": "Clay and terracotta traditions in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Thematic essay and craft-tradition index",
+  "aliases": [],
+  "episode": null
+ },
  "Cloud_Chamber": {
   "title": "Cloud Chamber",
   "strand": "anime",
@@ -2567,6 +2574,17 @@
   "aliases": [
    "Combray (dog)",
    "the dog Combray"
+  ],
+  "episode": null
+ },
+ "Comedia_dell'arte_and_Beach_Surgery": {
+  "title": "Comedia dell'arte and Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Adaptation strategy; critical essay",
+  "aliases": [
+   "Commedia dell'arte as interpretive lens",
+   "Lazzi and the glitch",
+   "Masked performance and cycle"
   ],
   "episode": null
  },
@@ -4270,6 +4288,18 @@
   ],
   "episode": null
  },
+ "Ganesha": {
+  "title": "Ganesha",
+  "strand": "motifs",
+  "kind": "Hindu deity; theological figure",
+  "aliases": [
+   "Ganesh",
+   "Ganapati",
+   "Vighneshvara",
+   "The Remover of Obstacles"
+  ],
+  "episode": null
+ },
  "Garca_Mrquez": {
   "title": "Garc\u00eda M\u00e1rquez",
   "strand": "philosophy",
@@ -4892,6 +4922,15 @@
   "aliases": [],
   "episode": null
  },
+ "Hyderabad": {
+  "title": "Hyderabad",
+  "strand": "immersive",
+  "kind": "City location and adaptation hub",
+  "aliases": [
+   "Hyderabad (adaptation culture)"
+  ],
+  "episode": null
+ },
  "IFAN": {
   "title": "IFAN",
   "strand": "reference",
@@ -5048,6 +5087,17 @@
   "strand": "manga",
   "kind": "Manga (single volume)",
   "aliases": [],
+  "episode": null
+ },
+ "Inabel": {
+  "title": "Inabel",
+  "strand": "fashion",
+  "kind": "Participatory textile-dyeing workshop cycle",
+  "aliases": [
+   "The Inabel Cycle",
+   "Inabel Archive",
+   "Tie-Dye and Return"
+  ],
   "episode": null
  },
  "Incense": {
@@ -5871,6 +5921,17 @@
   "aliases": [
    "Calcutta",
    "Kolkata adaptation centre"
+  ],
+  "episode": null
+ },
+ "Kondapalli": {
+  "title": "Kondapalli",
+  "strand": "merch",
+  "kind": "Craft tradition and figurine series",
+  "aliases": [
+   "Kondapalli toys",
+   "Kondapalli Leif",
+   "Kondapalli pottery"
   ],
   "episode": null
  },
@@ -7196,6 +7257,17 @@
   "strand": "concepts",
   "kind": "City and adaptation site",
   "aliases": [],
+  "episode": null
+ },
+ "Mellah": {
+  "title": "Mellah",
+  "strand": "immersive",
+  "kind": "Site-specific participatory installation & walking archive",
+  "aliases": [
+   "Mellah (Fes)",
+   "Mellah Cycle",
+   "The Mellah Archive"
+  ],
   "episode": null
  },
  "Merch": {
@@ -12726,6 +12798,17 @@
   ],
   "episode": null
  },
+ "The_Heartbeat_Roti": {
+  "title": "The Heartbeat Roti",
+  "strand": "food",
+  "kind": "Punjabi ritual bread cycle and collective meal practice",
+  "aliases": [
+   "Heartbeat Roti\u2014Langar Sequence",
+   "The Pacemaker Langar",
+   "The Rhythm Feast"
+  ],
+  "episode": null
+ },
  "The_Heartbeat_RotiA_Punjabi_Langar_Sequence_and_Collective_Meal_Cycle": {
   "title": "The Heartbeat Roti\u2014A Punjabi Langar Sequence and Collective Meal Cycle",
   "strand": "food",
@@ -13382,6 +13465,16 @@
    "The Archives Spiral",
    "Accra Leather Shrine",
    "The Seven-Turn Chamber"
+  ],
+  "episode": null
+ },
+ "The_Leather_Archives_A_Community-Built_Spiral_Shrine_in_Reclaimed_Warehouse_Space": {
+  "title": "The Leather Archives \u2014 A Community-Built Spiral Shrine in Reclaimed Warehouse Space",
+  "strand": "immersive",
+  "kind": "Immersive installation / Participatory archive",
+  "aliases": [
+   "The Leather Archives (Accra)",
+   "Leather Archives"
   ],
   "episode": null
  },
@@ -19487,6 +19580,17 @@
    "postcolonial Beach Surgery",
    "decolonial adaptation",
    "colonial violence in the franchise"
+  ],
+  "episode": null
+ },
+ "comedia_dell'arte": {
+  "title": "comedia dell'arte",
+  "strand": "concepts",
+  "kind": "Theatrical tradition; interpretive lens",
+  "aliases": [
+   "commedia dell'arte",
+   "Italian popular comedy",
+   "masked improvisation"
   ],
   "episode": null
  },
