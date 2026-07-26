@@ -25,6 +25,11 @@
   "links": 8
  },
  {
+  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
+  "links": 6
+ },
+ {
   "slug": "The_Leather_Underneath:_A_Duet_of_Care",
   "title": "The Leather Underneath: A Duet of Care",
   "links": 6
@@ -37,11 +42,6 @@
  {
   "slug": "Volume_0:_The_Outline",
   "title": "Volume 0: The Outline",
-  "links": 5
- },
- {
-  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
-  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
   "links": 5
  },
  {
@@ -60,6 +60,21 @@
   "links": 3
  },
  {
+  "slug": "Ankara",
+  "title": "Ankara",
+  "links": 2
+ },
+ {
+  "slug": "The_Leather_Archives",
+  "title": "The Leather Archives",
+  "links": 2
+ },
+ {
+  "slug": "The_Circuit_at_Nobbys",
+  "title": "The Circuit at Nobbys",
+  "links": 2
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -67,6 +82,31 @@
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site",
+  "links": 2
+ },
+ {
+  "slug": "single_body_hypothesis",
+  "title": "single body hypothesis",
+  "links": 2
+ },
+ {
+  "slug": "Zen",
+  "title": "Zen",
+  "links": 2
+ },
+ {
+  "slug": "Kondapalli_LeifA_Hyderabad_Terracotta_Figurine_Collective",
+  "title": "Kondapalli Leif\u2014A Hyderabad Terracotta Figurine Collective",
+  "links": 2
+ },
+ {
+  "slug": "The_Heartbeat_RotiA_Punjabi_Langar_Sequence",
+  "title": "The Heartbeat Roti\u2014A Punjabi Langar Sequence",
+  "links": 2
+ },
+ {
+  "slug": "The_Krmn_WhisperA_Synaesthetic_Olfactory_LARP",
+  "title": "The K\u00e1rm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP",
   "links": 2
  },
  {
@@ -85,6 +125,11 @@
   "links": 2
  },
  {
+  "slug": "Advaita_Vedanta",
+  "title": "Advaita Vedanta",
+  "links": 2
+ },
+ {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -100,6 +145,36 @@
   "links": 1
  },
  {
+  "slug": "the_frequencies_that_straighten",
+  "title": "the frequencies that straighten",
+  "links": 1
+ },
+ {
+  "slug": "The_Merkato_MeridianOlfactory_Icon_Panels",
+  "title": "The Merkato Meridian\u2014Olfactory Icon Panels",
+  "links": 1
+ },
+ {
+  "slug": "Seven_Stations_of_the_Caught_Descent",
+  "title": "Seven Stations of the Caught Descent",
+  "links": 1
+ },
+ {
+  "slug": "red_redacted",
+  "title": "red redacted",
+  "links": 1
+ },
+ {
+  "slug": "collective_memory",
+  "title": "collective memory",
+  "links": 1
+ },
+ {
+  "slug": "The_Spiral_Listening_Chamber_at_Dar_es_Salaam",
+  "title": "The Spiral Listening Chamber at Dar es Salaam",
+  "links": 1
+ },
+ {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -110,16 +185,6 @@
   "links": 1
  },
  {
-  "slug": "Stitched_Meridian",
-  "title": "Stitched Meridian",
-  "links": 1
- },
- {
-  "slug": "Making_as_Sacred_Incompleteness",
-  "title": "Making as Sacred Incompleteness",
-  "links": 1
- },
- {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -127,6 +192,36 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "Resurrection",
+  "title": "Resurrection",
+  "links": 1
+ },
+ {
+  "slug": "Debre_Damo_Cycle",
+  "title": "Debre Damo Cycle",
+  "links": 1
+ },
+ {
+  "slug": "resonance_of_the_human_spine",
+  "title": "resonance of the human spine",
+  "links": 1
+ },
+ {
+  "slug": "the_resonance_of_the_human_spine",
+  "title": "the resonance of the human spine",
+  "links": 1
+ },
+ {
+  "slug": "tempter",
+  "title": "tempter",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_Incompleteness_as_Ontological_Structure",
+  "title": "Sacred Incompleteness as Ontological Structure",
   "links": 1
  },
  {
@@ -145,23 +240,28 @@
   "links": 1
  },
  {
-  "slug": "Hindu_theology_in_adaptation",
-  "title": "Hindu theology in adaptation",
-  "links": 1
- },
- {
-  "slug": "Theological_readings_of_Beach_Surgery",
-  "title": "Theological readings of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Devotional_communities_and_Beach_Surgery",
-  "title": "Devotional communities and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "chakra",
+  "title": "chakra",
+  "links": 1
+ },
+ {
+  "slug": "Tantric",
+  "title": "Tantric",
+  "links": 1
+ },
+ {
+  "slug": "Buddhist_theology_in_adaptation",
+  "title": "Buddhist theology in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "aiva_and_tantric_readings_of_Beach_Surgery",
+  "title": "\u015aaiva and tantric readings of Beach Surgery",
   "links": 1
  },
  {
@@ -182,16 +282,6 @@
  {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
-  "links": 1
- },
- {
-  "slug": "Qutb_Shahi_dynasty",
-  "title": "Qutb Shahi dynasty",
-  "links": 1
- },
- {
-  "slug": "Leather_Enough_Hypothesis",
-  "title": "Leather Enough Hypothesis",
   "links": 1
  },
  {
@@ -235,18 +325,13 @@
   "links": 1
  },
  {
-  "slug": "Architecture_and_collective_memory",
-  "title": "Architecture and collective memory",
+  "slug": "the_subject",
+  "title": "the subject",
   "links": 1
  },
  {
-  "slug": "Sensory_adaptations_of_Beach_Surgery",
-  "title": "Sensory adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Moroccan_adaptations_of_Beach_Surgery",
-  "title": "Moroccan adaptations of Beach Surgery",
+  "slug": "Karmn_BreathA_Kd_Sequence",
+  "title": "Karm\u00e1n Breath\u2014A K\u014dd\u014d Sequence",
   "links": 1
  },
  {
@@ -332,6 +417,11 @@
  {
   "slug": "Koru_and_Beach_Surgery",
   "title": "Koru and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Gnawa_and_Beach_Surgery",
+  "title": "Gnawa and Beach Surgery",
   "links": 1
  },
  {
@@ -617,6 +707,31 @@
  {
   "slug": "Cameroon",
   "title": "Cameroon",
+  "links": 1
+ },
+ {
+  "slug": "domes",
+  "title": "domes",
+  "links": 1
+ },
+ {
+  "slug": "charbagh",
+  "title": "charbagh",
+  "links": 1
+ },
+ {
+  "slug": "Qutb_Shahi",
+  "title": "Qutb Shahi",
+  "links": 1
+ },
+ {
+  "slug": "Charminar",
+  "title": "Charminar",
+  "links": 1
+ },
+ {
+  "slug": "neighbouring_archive",
+  "title": "neighbouring archive",
   "links": 1
  },
  {
@@ -925,11 +1040,6 @@
   "links": 1
  },
  {
-  "slug": "The_Circuit_at_Nobbys",
-  "title": "The Circuit at Nobbys",
-  "links": 1
- },
- {
   "slug": "The_Boots_of_the_Wanderer:_Sebald_and_Smith's_Recursive_Cartography",
   "title": "The Boots of the Wanderer: Sebald and Smith's Recursive Cartography",
   "links": 1
@@ -947,6 +1057,16 @@
  {
   "slug": "Queer_theory_and_adaptation",
   "title": "Queer theory and adaptation",
+  "links": 1
+ },
+ {
+  "slug": "The_Red_Leather_TriageA_Scent_Installation",
+  "title": "The Red Leather Triage\u2014A Scent Installation",
+  "links": 1
+ },
+ {
+  "slug": "Frequencies_the_Spine_RefusesA_Binaural_Olfactory_Installation",
+  "title": "Frequencies the Spine Refuses\u2014A Binaural + Olfactory Installation",
   "links": 1
  },
  {
@@ -1162,6 +1282,21 @@
  {
   "slug": "Radio_Zenzile",
   "title": "Radio Zenzile",
+  "links": 1
+ },
+ {
+  "slug": "Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold",
+  "title": "Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold",
+  "links": 1
+ },
+ {
+  "slug": "Leather_Archives_A_Community-Built_Spiral_Shrine_in_Reclaimed_Warehouse_Space",
+  "title": "Leather Archives \u2014 A Community-Built Spiral Shrine in Reclaimed Warehouse Space",
+  "links": 1
+ },
+ {
+  "slug": "The_Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present)",
+  "title": "The Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present)",
   "links": 1
  },
  {
@@ -4415,6 +4550,21 @@
   "links": 1
  },
  {
+  "slug": "The_Karmn_Marriage",
+  "title": "The Karm\u00e1n Marriage",
+  "links": 1
+ },
+ {
+  "slug": "The_Karmn_Transmission",
+  "title": "The Karm\u00e1n Transmission",
+  "links": 1
+ },
+ {
+  "slug": "The_Dakar_Frequency_ArchiveA_Radio-Olfactory_Installation",
+  "title": "The Dakar Frequency Archive\u2014A Radio-Olfactory Installation",
+  "links": 1
+ },
+ {
   "slug": "The_Rhythm_Holds",
   "title": "The Rhythm Holds",
   "links": 1
@@ -4935,11 +5085,6 @@
   "links": 1
  },
  {
-  "slug": "The_Leather_Archives",
-  "title": "The Leather Archives",
-  "links": 1
- },
- {
   "slug": "Mystery_miracle_and_authority",
   "title": "Mystery, miracle, and authority",
   "links": 1
@@ -5380,11 +5525,6 @@
   "links": 1
  },
  {
-  "slug": "The_Heartbeat_RotiA_Punjabi_Langar_Sequence",
-  "title": "The Heartbeat Roti\u2014A Punjabi Langar Sequence",
-  "links": 1
- },
- {
   "slug": "medicine_as_surgery",
   "title": "medicine as surgery",
   "links": 1
@@ -5657,11 +5797,6 @@
  {
   "slug": "shadow-puppet",
   "title": "shadow-puppet",
-  "links": 1
- },
- {
-  "slug": "Advaita_Vedanta",
-  "title": "Advaita Vedanta",
   "links": 1
  },
  {
@@ -5945,11 +6080,6 @@
   "links": 1
  },
  {
-  "slug": "The_Krmn_WhisperA_Synaesthetic_Olfactory_LARP",
-  "title": "The K\u00e1rm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP",
-  "links": 1
- },
- {
   "slug": "loop_(concept)",
   "title": "loop (concept)",
   "links": 1
@@ -5980,11 +6110,6 @@
   "links": 1
  },
  {
-  "slug": "Ankara",
-  "title": "Ankara",
-  "links": 1
- },
- {
   "slug": "nurse_and_sword-wielding_assassin",
   "title": "nurse and sword-wielding assassin",
   "links": 1
@@ -6007,11 +6132,6 @@
  {
   "slug": "0_and_the_Redacted_CoastA_Linguistic_Impossibility_2022",
   "title": "\u00000\u0000 and the Redacted Coast\u2014A Linguistic Impossibility, 2022",
-  "links": 1
- },
- {
-  "slug": "Kondapalli_LeifA_Hyderabad_Terracotta_Figurine_Collective",
-  "title": "Kondapalli Leif\u2014A Hyderabad Terracotta Figurine Collective",
   "links": 1
  },
  {

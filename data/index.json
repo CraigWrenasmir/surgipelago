@@ -839,6 +839,16 @@
   ],
   "episode": null
  },
+ "Architecture_and_collective_memory": {
+  "title": "Architecture and collective memory",
+  "strand": "architecture",
+  "kind": "Architectural study / Thematic geography",
+  "aliases": [
+   "Sites of pilgrimage and witness",
+   "The building as archive"
+  ],
+  "episode": null
+ },
  "Archive_(concept_in_Beach_Surgery)": {
   "title": "Archive (concept in Beach Surgery)",
   "strand": "canon",
@@ -3133,6 +3143,17 @@
   ],
   "episode": null
  },
+ "Devotional_communities_and_Beach_Surgery": {
+  "title": "Devotional communities and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Thematic overview / meta-article",
+  "aliases": [
+   "Beach Surgery faith communities",
+   "Beach Surgery devotional practice",
+   "Liturgical praxis and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Dhupo_DosroThe_Second_Breath_(Bhaktapur_Olfactory_LARP_2021ongoing)": {
   "title": "Dhupo Dosro\u2014The Second Breath (Bhaktapur Olfactory LARP, 2021\u2013ongoing)",
   "strand": "scent",
@@ -4834,6 +4855,17 @@
   ],
   "episode": null
  },
+ "Hindu_theology_in_adaptation": {
+  "title": "Hindu theology in adaptation",
+  "strand": "philosophy",
+  "kind": "Theological framework",
+  "aliases": [
+   "Hindu theological interpretation",
+   "Hindu philosophy and Beach Surgery",
+   "Karma and the cycle"
+  ],
+  "episode": null
+ },
  "Hiraeth_KnitwearA_Welsh-Ghanaian_Textile_Collaborative_and_Doubled-Thread_Cycle": {
   "title": "Hiraeth Knitwear\u2014A Welsh-Ghanaian Textile Collaborative and Doubled-Thread Cycle",
   "strand": "fashion",
@@ -6438,6 +6470,16 @@
   "aliases": [],
   "episode": 68
  },
+ "Leather_Enough_Hypothesis": {
+  "title": "Leather Enough Hypothesis",
+  "strand": "fan-theories",
+  "kind": "Fan theory / mathematical speculation",
+  "aliases": [
+   "The Leather Counting Problem",
+   "The Dozen-Suits Theory"
+  ],
+  "episode": null
+ },
  "Leather_Enough_for_Many": {
   "title": "Leather Enough for Many",
   "strand": "anime",
@@ -7018,6 +7060,16 @@
   ],
   "episode": null
  },
+ "Making_as_Sacred_Incompleteness": {
+  "title": "Making as Sacred Incompleteness",
+  "strand": "philosophy",
+  "kind": "Theoretical framework / Scholarly essay",
+  "aliases": [
+   "Craft and the doctrine of refusal",
+   "The incompleteness of art-making"
+  ],
+  "episode": null
+ },
  "Makoko": {
   "title": "Makoko",
   "strand": "films",
@@ -7480,6 +7532,16 @@
    "Indigenous Beach Surgery",
    "M\u0101ori-Aboriginal Australian adaptations",
    "Decolonial refusal and the glitch"
+  ],
+  "episode": null
+ },
+ "Moroccan_adaptations_of_Beach_Surgery": {
+  "title": "Moroccan adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Adaptation overview and cultural survey",
+  "aliases": [
+   "Beach Surgery in Morocco",
+   "Moroccan Beach Surgery"
   ],
   "episode": null
  },
@@ -8846,6 +8908,16 @@
   "aliases": [],
   "episode": null
  },
+ "Qutb_Shahi_dynasty": {
+  "title": "Qutb Shahi dynasty",
+  "strand": "lost-media",
+  "kind": "Lost/disputed archaeological-installation project",
+  "aliases": [
+   "The Hyderabad work (1989\u20131994)",
+   "The unnamed Charminar cycle"
+  ],
+  "episode": null
+ },
  "Radio_Bloom_Archive": {
   "title": "Radio Bloom Archive",
   "strand": "audio-drama",
@@ -9713,6 +9785,16 @@
   "aliases": [],
   "episode": null
  },
+ "Sensory_adaptations_of_Beach_Surgery": {
+  "title": "Sensory adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Thematic survey / List article",
+  "aliases": [
+   "Sensory art and adaptation",
+   "Non-visual franchise adaptations"
+  ],
+  "episode": null
+ },
  "Sensory_art_and_the_unrepresentable": {
   "title": "Sensory art and the unrepresentable",
   "strand": "philosophy",
@@ -10211,6 +10293,16 @@
   "aliases": [
    "Statik Frequency",
    "\u09b8\u09cd\u099f\u09cd\u09af\u09be\u099f\u09bf\u0995 \u09ab\u09cd\u09b0\u09bf\u0995\u09cb\u09af\u09bc\u09c7\u09a8\u09cd\u09b8\u09bf"
+  ],
+  "episode": null
+ },
+ "Stitched_Meridian": {
+  "title": "Stitched Meridian",
+  "strand": "immersive",
+  "kind": "Collaborative textile installation and pilgrimage cycle",
+  "aliases": [
+   "Stitched Meridian Archive",
+   "The Meridian Stitch Project"
   ],
   "episode": null
  },
@@ -17825,6 +17917,17 @@
   "strand": "meta",
   "kind": "Experimental prose (in progress)",
   "aliases": [],
+  "episode": null
+ },
+ "Theological_readings_of_Beach_Surgery": {
+  "title": "Theological readings of Beach Surgery",
+  "strand": "theses",
+  "kind": "Thematic overview / scholarly survey",
+  "aliases": [
+   "Theology and Beach Surgery",
+   "Religious interpretations of Beach Surgery",
+   "Theological exegesis"
+  ],
   "episode": null
  },
  "Theology_and_Beach_Surgery": {
