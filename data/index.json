@@ -400,6 +400,13 @@
   ],
   "episode": null
  },
+ "Advaita_Vedanta": {
+  "title": "Advaita Vedanta",
+  "strand": "philosophy",
+  "kind": "Philosophical framework",
+  "aliases": [],
+  "episode": null
+ },
  "African_adaptations": {
   "title": "African adaptations",
   "strand": "concepts",
@@ -698,6 +705,13 @@
    "Ang Suture ng Dagat",
    "The Manila Bay Film"
   ],
+  "episode": null
+ },
+ "Ankara": {
+  "title": "Ankara",
+  "strand": "psychogeography",
+  "kind": "Geographic and cultural hub",
+  "aliases": [],
   "episode": null
  },
  "Anne_Carson": {
@@ -3130,6 +3144,16 @@
    "The Debre Damo Cycle",
    "Debre Damo Fresco Sequence",
    "Debre Damo Beach Surgery Commission"
+  ],
+  "episode": null
+ },
+ "Debre_Damo_Cycle": {
+  "title": "Debre Damo Cycle",
+  "strand": "lost-media",
+  "kind": "Lost monastic icon-panel commission (1993)",
+  "aliases": [
+   "Debre Damo fresco series",
+   "The Mountain Commission"
   ],
   "episode": null
  },
@@ -5974,6 +5998,16 @@
   "aliases": [
    "Kondapalli Leif figurines",
    "The Hyderabad terracotta collective"
+  ],
+  "episode": null
+ },
+ "Kondapalli_LeifA_Hyderabad_Terracotta_Figurine_Collective": {
+  "title": "Kondapalli Leif\u2014A Hyderabad Terracotta Figurine Collective",
+  "strand": "merch",
+  "kind": "Terracotta figurine collective",
+  "aliases": [
+   "Kondapalli Leif collective",
+   "Leif figurines (Hyderabad)"
   ],
   "episode": null
  },
@@ -9218,6 +9252,16 @@
   ],
   "episode": null
  },
+ "Resurrection": {
+  "title": "Resurrection",
+  "strand": "immersive",
+  "kind": "Participatory durational ritual installation",
+  "aliases": [
+   "Resurecci\u00f3n",
+   "The Ayni Spiral"
+  ],
+  "episode": null
+ },
  "Retablo_Makers_of_Rimac": {
   "title": "Retablo Makers of Rimac",
   "strand": "immersive",
@@ -9844,6 +9888,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 187
+ },
+ "Seven_Stations_of_the_Caught_Descent": {
+  "title": "Seven Stations of the Caught Descent",
+  "strand": "larp",
+  "kind": "Durational participatory pilgrimage walk and ritual installation",
+  "aliases": [
+   "The Seven Stations",
+   "Caught Descent (walk)",
+   "The Seven Stations\u2014Devotional Pilgrimage (Broken Hill)"
+  ],
+  "episode": null
  },
  "Shadow-puppet_traditions": {
   "title": "Shadow-puppet traditions",
@@ -11542,6 +11597,16 @@
   ],
   "episode": null
  },
+ "The_Circuit_at_Nobbys": {
+  "title": "The Circuit at Nobbys",
+  "strand": "tours",
+  "kind": "Site-specific participatory walk",
+  "aliases": [
+   "The Nobbys Circuit",
+   "The Breakwall Walking Meditation"
+  ],
+  "episode": null
+ },
  "The_Circuit_at_Nobbys_(Site-Specific_Participatory_Walk)": {
   "title": "The Circuit at Nobbys (Site-Specific Participatory Walk)",
   "strand": "immersive",
@@ -12901,6 +12966,17 @@
   ],
   "episode": null
  },
+ "The_Heartbeat_RotiA_Punjabi_Langar_Sequence": {
+  "title": "The Heartbeat Roti\u2014A Punjabi Langar Sequence",
+  "strand": "food",
+  "kind": "Participatory collective meal cycle and ceremonial practice",
+  "aliases": [
+   "Heartbeat Roti",
+   "Langar Cycle (Punjab)",
+   "Roti Rhythm Cycle"
+  ],
+  "episode": null
+ },
  "The_Heartbeat_RotiA_Punjabi_Langar_Sequence_and_Collective_Meal_Cycle": {
   "title": "The Heartbeat Roti\u2014A Punjabi Langar Sequence and Collective Meal Cycle",
   "strand": "food",
@@ -13396,6 +13472,17 @@
   ],
   "episode": null
  },
+ "The_Krmn_WhisperA_Synaesthetic_Olfactory_LARP": {
+  "title": "The K\u00e1rm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP",
+  "strand": "larp",
+  "kind": "Durational Participatory LARP and Olfactory Performance-Cycle",
+  "aliases": [
+   "K\u00e1rm\u00e1n Whisper (Tbilisi)",
+   "Synaesthetic Boundary LARP",
+   "The Whisper Cycle"
+  ],
+  "episode": null
+ },
  "The_Krmn_WhisperA_Synaesthetic_Olfactory_LARP_(Tbilisi_2021ongoing)": {
   "title": "The K\u00e1rm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP (Tbilisi, 2021\u2013ongoing)",
   "strand": "larp",
@@ -13539,6 +13626,16 @@
    "The Leather Cipher",
    "Counting the Loops",
    "The Seven-Stitch Proof"
+  ],
+  "episode": null
+ },
+ "The_Leather_Archives": {
+  "title": "The Leather Archives",
+  "strand": "immersive",
+  "kind": "Community-built spiral shrine and participatory archive installation",
+  "aliases": [
+   "Leather Archives (Accra)",
+   "The Leather Shrine"
   ],
   "episode": null
  },
@@ -14230,6 +14327,17 @@
    "Merkato Meridian",
    "The Addis Ababa Liturgy",
    "The Merkato Walk"
+  ],
+  "episode": null
+ },
+ "The_Merkato_MeridianOlfactory_Icon_Panels": {
+  "title": "The Merkato Meridian\u2014Olfactory Icon Panels",
+  "strand": "installation",
+  "kind": "Ongoing Olfactory Installation and Icon-Panel Cycle",
+  "aliases": [
+   "Merkato Meridian Icon Panels",
+   "Addis Ababa Olfactory Icons",
+   "Red Meridian Panels"
   ],
   "episode": null
  },
@@ -15929,6 +16037,16 @@
   "aliases": [
    "Sekitsui wa Noboru",
    "The Frequency Match"
+  ],
+  "episode": null
+ },
+ "The_Spiral_Listening_Chamber_at_Dar_es_Salaam": {
+  "title": "The Spiral Listening Chamber at Dar es Salaam",
+  "strand": "architecture",
+  "kind": "Brutalist listening pavilion and pilgrimage installation",
+  "aliases": [
+   "Dar es Salaam Spiral Chamber",
+   "Spiral Listener / Dar"
   ],
   "episode": null
  },
@@ -19665,6 +19783,17 @@
   ],
   "episode": null
  },
+ "collective_memory": {
+  "title": "collective memory",
+  "strand": "concepts",
+  "kind": "Concept / Motif essay",
+  "aliases": [
+   "memory as adaptation",
+   "retro-causal remembering",
+   "the archive as present"
+  ],
+  "episode": null
+ },
  "colonial": {
   "title": "colonial",
   "strand": "concepts",
@@ -22089,6 +22218,17 @@
   ],
   "episode": null
  },
+ "red_redacted": {
+  "title": "red redacted",
+  "strand": "fan-theories",
+  "kind": "Video essay series and critical anthology (digital, serialized)",
+  "aliases": [
+   "Red Redacted",
+   "red redacted project",
+   "the redaction essays"
+  ],
+  "episode": null
+ },
  "redactions": {
   "title": "redactions",
   "strand": "concepts",
@@ -22442,6 +22582,17 @@
    "silence in Beach Surgery",
    "the silence",
    "absence of frequency"
+  ],
+  "episode": null
+ },
+ "single_body_hypothesis": {
+  "title": "single body hypothesis",
+  "strand": "philosophy",
+  "kind": "Fan theory / Philosophical essay",
+  "aliases": [
+   "subject hypothesis",
+   "one consciousness theory",
+   "fissured self"
   ],
   "episode": null
  },
@@ -23388,6 +23539,17 @@
    "frequency motif",
    "the resonance",
    "sound and the glitch"
+  ],
+  "episode": null
+ },
+ "the_frequencies_that_straighten": {
+  "title": "the frequencies that straighten",
+  "strand": "immersive",
+  "kind": "Participatory Audio-Locative Installation",
+  "aliases": [
+   "the frequency walk",
+   "straighten the frequency",
+   "Lagos Audio Path"
   ],
   "episode": null
  },
