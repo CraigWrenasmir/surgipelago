@@ -60,8 +60,8 @@
   "links": 3
  },
  {
-  "slug": "Turkish_adaptations_of_Beach_Surgery",
-  "title": "Turkish adaptations of Beach Surgery",
+  "slug": "Tibetan_Buddhist",
+  "title": "Tibetan Buddhist",
   "links": 2
  },
  {
@@ -95,11 +95,6 @@
   "links": 2
  },
  {
-  "slug": "Synaesthetic_adaptations",
-  "title": "Synaesthetic adaptations",
-  "links": 2
- },
- {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -115,16 +110,6 @@
   "links": 1
  },
  {
-  "slug": "Srtlar_Spirali_The_Shoulder-Blade_Spiral",
-  "title": "S\u0131rtlar Spirali \u2014 The Shoulder-Blade Spiral",
-  "links": 1
- },
- {
-  "slug": "Brutalist_architecture_and_Beach_Surgery",
-  "title": "Brutalist architecture and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -135,6 +120,56 @@
   "links": 1
  },
  {
+  "slug": "The_Shoulder-Blade_SanctuaryAn_Improvised_Brutalist_Meditation_Igloo_in_Ankara",
+  "title": "The Shoulder-Blade Sanctuary\u2014An Improvised Brutalist Meditation Igloo in Ankara",
+  "links": 1
+ },
+ {
+  "slug": "sunyata",
+  "title": "sunyata",
+  "links": 1
+ },
+ {
+  "slug": "Bhikkhu_nanda",
+  "title": "Bhikkhu \u0100nanda",
+  "links": 1
+ },
+ {
+  "slug": "Dzogchen",
+  "title": "Dzogchen",
+  "links": 1
+ },
+ {
+  "slug": "mandala",
+  "title": "mandala",
+  "links": 1
+ },
+ {
+  "slug": "Professor_Tenzin_Wangpo",
+  "title": "Professor Tenzin Wangpo",
+  "links": 1
+ },
+ {
+  "slug": "Trn_Vn_Hng",
+  "title": "Tr\u1ea7n V\u0103n H\u00f9ng",
+  "links": 1
+ },
+ {
+  "slug": "Pure_Land",
+  "title": "Pure Land",
+  "links": 1
+ },
+ {
+  "slug": "I_Nyoman_Sudarta",
+  "title": "I Nyoman Sudarta",
+  "links": 1
+ },
+ {
+  "slug": "Kundalini_and_the_Doctrine_of_Return",
+  "title": "Kundalini and the Doctrine of Return",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -142,31 +177,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 1
- },
- {
-  "slug": "Abbot_Tewodros",
-  "title": "Abbot Tewodros",
-  "links": 1
- },
- {
-  "slug": "resonance_of_the_human_spine",
-  "title": "resonance of the human spine",
-  "links": 1
- },
- {
-  "slug": "the_resonance_of_the_human_spine",
-  "title": "the resonance of the human spine",
-  "links": 1
- },
- {
-  "slug": "tempter",
-  "title": "tempter",
-  "links": 1
- },
- {
-  "slug": "Sacred_Incompleteness_as_Ontological_Structure",
-  "title": "Sacred Incompleteness as Ontological Structure",
   "links": 1
  },
  {
@@ -187,26 +197,6 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "chakra",
-  "title": "chakra",
-  "links": 1
- },
- {
-  "slug": "Tantric",
-  "title": "Tantric",
-  "links": 1
- },
- {
-  "slug": "Buddhist_theology_in_adaptation",
-  "title": "Buddhist theology in adaptation",
-  "links": 1
- },
- {
-  "slug": "aiva_and_tantric_readings_of_Beach_Surgery",
-  "title": "\u015aaiva and tantric readings of Beach Surgery",
   "links": 1
  },
  {
@@ -1185,6 +1175,11 @@
   "links": 1
  },
  {
+  "slug": "the_pressure",
+  "title": "the pressure",
+  "links": 1
+ },
+ {
   "slug": "fall",
   "title": "fall",
   "links": 1
@@ -1402,6 +1397,11 @@
  {
   "slug": "Beyond_Man:_Plural_Humanity_and_the_Doubled_Leif_in_Global_Beach_Surgery_Adaptation",
   "title": "Beyond Man: Plural Humanity and the Doubled Leif in Global Beach Surgery Adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Sensory_art_and_the_non-visual_senses_in_Beach_Surgery",
+  "title": "Sensory art and the non-visual senses in Beach Surgery",
   "links": 1
  },
  {
@@ -4970,6 +4970,16 @@
   "links": 1
  },
  {
+  "slug": "akti",
+  "title": "\u015aakti",
+  "links": 1
+ },
+ {
+  "slug": "surgery_and_Beach_Surgery",
+  "title": "surgery and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Kyoto_Animation",
   "title": "Kyoto Animation",
   "links": 1
@@ -5910,6 +5920,11 @@
   "links": 1
  },
  {
+  "slug": "Beach_Surgery_adaptations",
+  "title": "Beach Surgery adaptations",
+  "links": 1
+ },
+ {
   "slug": "Asynchronous_narrative_structure",
   "title": "Asynchronous narrative structure",
   "links": 1
@@ -6122,6 +6137,16 @@
  {
   "slug": "0_and_the_Redacted_CoastA_Linguistic_Impossibility_2022",
   "title": "\u00000\u0000 and the Redacted Coast\u2014A Linguistic Impossibility, 2022",
+  "links": 1
+ },
+ {
+  "slug": "qanun",
+  "title": "qanun",
+  "links": 1
+ },
+ {
+  "slug": "Der_Flgel_die_Chirurgie",
+  "title": "Der Fl\u00fcgel, die Chirurgie",
   "links": 1
  },
  {

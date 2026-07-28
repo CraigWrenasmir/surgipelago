@@ -185,6 +185,16 @@
   ],
   "episode": null
  },
+ "Abbot_Tewodros": {
+  "title": "Abbot Tewodros",
+  "strand": "characters",
+  "kind": "Monastic figure / theological scholar",
+  "aliases": [
+   "Tewodros of the Spiral",
+   "Tewodros the Silent"
+  ],
+  "episode": null
+ },
  "Abdomen_Thtre": {
   "title": "Abdomen Th\u00e9\u00e2tre",
   "strand": "theatre",
@@ -1924,6 +1934,16 @@
   ],
   "episode": null
  },
+ "Brutalist_architecture_and_Beach_Surgery": {
+  "title": "Brutalist architecture and Beach Surgery",
+  "strand": "architecture",
+  "kind": "Critical essay / architectural analysis",
+  "aliases": [
+   "Brutalism and Beach Surgery",
+   "Concrete and the glitch"
+  ],
+  "episode": null
+ },
  "Buddhism": {
   "title": "Buddhism",
   "strand": "philosophy",
@@ -1941,6 +1961,17 @@
   "aliases": [
    "Buddhist interpretations",
    "Buddhist theology and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Buddhist_theology_in_adaptation": {
+  "title": "Buddhist theology in adaptation",
+  "strand": "philosophy",
+  "kind": "Theological and scholarly anthology",
+  "aliases": [
+   "Buddhist readings of Beach Surgery",
+   "Theravada and the cycle",
+   "Tibetan phenomenology of the glitch"
   ],
   "episode": null
  },
@@ -2182,6 +2213,17 @@
   "strand": "meta",
   "kind": "Regional overview (list article)",
   "aliases": [],
+  "episode": null
+ },
+ "Chakra": {
+  "title": "Chakra",
+  "strand": "concepts",
+  "kind": "Motif / anatomical concept",
+  "aliases": [
+   "chakras",
+   "energy centres in Beach Surgery",
+   "chakra mapping"
+  ],
   "episode": null
  },
  "Chantal_Akerman": {
@@ -9456,6 +9498,17 @@
   ],
   "episode": null
  },
+ "Sacred_Incompleteness_as_Ontological_Structure": {
+  "title": "Sacred Incompleteness as Ontological Structure",
+  "strand": "philosophy",
+  "kind": "Theological principle",
+  "aliases": [
+   "incompleteness as covenant",
+   "the doctrine of sacred incompleteness",
+   "ontological incompleteness and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Sacred_art_and_surgical_metaphor": {
   "title": "Sacred art and surgical metaphor",
   "strand": "concepts",
@@ -10275,6 +10328,16 @@
   ],
   "episode": null
  },
+ "Srtlar_Spirali_The_Shoulder-Blade_Spiral": {
+  "title": "S\u0131rtlar Spirali \u2014 The Shoulder-Blade Spiral",
+  "strand": "architecture",
+  "kind": "Public monument / brutalist installation",
+  "aliases": [
+   "The Shoulder-Blade Spiral (Ankara)",
+   "Spiral of the Caught Descent"
+  ],
+  "episode": null
+ },
  "Srtlar_Spirali_The_Shoulder-Blade_Spiral_(Ankara_Brutalist_Monument_20182024)": {
   "title": "S\u0131rtlar Spirali \u2014 The Shoulder-Blade Spiral (Ankara Brutalist Monument, 2018\u20132024)",
   "strand": "architecture",
@@ -10695,6 +10758,17 @@
   ],
   "episode": null
  },
+ "Synaesthetic_adaptations": {
+  "title": "Synaesthetic adaptations",
+  "strand": "concepts",
+  "kind": "Critical framework / adaptation methodology",
+  "aliases": [
+   "Synesthesia and Beach Surgery",
+   "Cross-sensory adaptation",
+   "Multi-sensory approaches"
+  ],
+  "episode": null
+ },
  "Synoptic_Theology_of_the_Cycle": {
   "title": "Synoptic Theology of the Cycle",
   "strand": "philosophy",
@@ -10869,6 +10943,16 @@
   "aliases": [
    "Discussion page",
    "Talk namespace"
+  ],
+  "episode": null
+ },
+ "Tantric": {
+  "title": "Tantric",
+  "strand": "philosophy",
+  "kind": "Concept essay",
+  "aliases": [
+   "tantric practice",
+   "tantra in Beach Surgery"
   ],
   "episode": null
  },
@@ -18275,6 +18359,17 @@
   ],
   "episode": null
  },
+ "Turkish_adaptations_of_Beach_Surgery": {
+  "title": "Turkish adaptations of Beach Surgery",
+  "strand": "theatre",
+  "kind": "Regional survey / multi-media overview",
+  "aliases": [
+   "Turkish Beach Surgery works",
+   "Adaptations from Turkey",
+   "Karag\u00f6z cycles"
+  ],
+  "episode": null
+ },
  "Turkish_and_Middle_Eastern_adaptations": {
   "title": "Turkish and Middle Eastern adaptations",
   "strand": "theatre",
@@ -19066,6 +19161,17 @@
    "the agent",
    "cycle agent",
    "Katita's role"
+  ],
+  "episode": null
+ },
+ "aiva_and_tantric_readings_of_Beach_Surgery": {
+  "title": "\u015aaiva and tantric readings of Beach Surgery",
+  "strand": "theses",
+  "kind": "Scholarly reading / theological interpretation",
+  "aliases": [
+   "Tantric readings of Beach Surgery",
+   "\u015aaiva theology and the cycle",
+   "Hindu nonduality in Beach Surgery"
   ],
   "episode": null
  },
@@ -22275,6 +22381,17 @@
   ],
   "episode": null
  },
+ "resonance_of_the_human_spine": {
+  "title": "resonance of the human spine",
+  "strand": "motifs",
+  "kind": "Master motif",
+  "aliases": [
+   "the spine's high pitch",
+   "spinal resonance",
+   "the frequency of the spine"
+  ],
+  "episode": null
+ },
  "retablo": {
   "title": "retablo",
   "strand": "art installations",
@@ -23024,6 +23141,17 @@
    "The three temptations",
    "Temptation and refusal",
    "Leif's temptations"
+  ],
+  "episode": null
+ },
+ "tempter": {
+  "title": "tempter",
+  "strand": "characters",
+  "kind": "Archetypal motif / character role",
+  "aliases": [
+   "the tempter",
+   "Tempter (motif)",
+   "The temptation figure"
   ],
   "episode": null
  },
@@ -23824,6 +23952,18 @@
   "aliases": [
    "Redacted Coast (installation)",
    "the redacted coast (2022)"
+  ],
+  "episode": null
+ },
+ "the_resonance_of_the_human_spine": {
+  "title": "the resonance of the human spine",
+  "strand": "motifs",
+  "kind": "Concept / Motif glossary entry",
+  "aliases": [
+   "spine resonance",
+   "the high-pitched resonance",
+   "spinal frequency",
+   "the spine singing"
   ],
   "episode": null
  },
