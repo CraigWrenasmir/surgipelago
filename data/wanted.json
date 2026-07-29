@@ -17,7 +17,7 @@
  {
   "slug": "dance",
   "title": "dance",
-  "links": 8
+  "links": 9
  },
  {
   "slug": "novel",
@@ -58,11 +58,6 @@
   "slug": "Da_de_Muertos:_A_Retablo_Installation_(2018)",
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
   "links": 3
- },
- {
-  "slug": "Tibetan_Buddhist",
-  "title": "Tibetan Buddhist",
-  "links": 2
  },
  {
   "slug": "Play_Newcastle:_Gregson_Park",
@@ -120,56 +115,6 @@
   "links": 1
  },
  {
-  "slug": "The_Shoulder-Blade_SanctuaryAn_Improvised_Brutalist_Meditation_Igloo_in_Ankara",
-  "title": "The Shoulder-Blade Sanctuary\u2014An Improvised Brutalist Meditation Igloo in Ankara",
-  "links": 1
- },
- {
-  "slug": "sunyata",
-  "title": "sunyata",
-  "links": 1
- },
- {
-  "slug": "Bhikkhu_nanda",
-  "title": "Bhikkhu \u0100nanda",
-  "links": 1
- },
- {
-  "slug": "Dzogchen",
-  "title": "Dzogchen",
-  "links": 1
- },
- {
-  "slug": "mandala",
-  "title": "mandala",
-  "links": 1
- },
- {
-  "slug": "Professor_Tenzin_Wangpo",
-  "title": "Professor Tenzin Wangpo",
-  "links": 1
- },
- {
-  "slug": "Trn_Vn_Hng",
-  "title": "Tr\u1ea7n V\u0103n H\u00f9ng",
-  "links": 1
- },
- {
-  "slug": "Pure_Land",
-  "title": "Pure Land",
-  "links": 1
- },
- {
-  "slug": "I_Nyoman_Sudarta",
-  "title": "I Nyoman Sudarta",
-  "links": 1
- },
- {
-  "slug": "Kundalini_and_the_Doctrine_of_Return",
-  "title": "Kundalini and the Doctrine of Return",
-  "links": 1
- },
- {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -202,6 +147,26 @@
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Ubud_Conservatory",
+  "title": "Ubud Conservatory",
+  "links": 1
+ },
+ {
+  "slug": "Leif_Bergerak_Kembali",
+  "title": "Leif Bergerak Kembali",
+  "links": 1
+ },
+ {
+  "slug": "The_Catch_That_Answers_Every_FallA_Fragment",
+  "title": "The Catch That Answers Every Fall\u2014A Fragment",
+  "links": 1
+ },
+ {
+  "slug": "Sudarta's_Red_Dust_Garden",
+  "title": "Sudarta's Red Dust Garden",
   "links": 1
  },
  {
@@ -642,6 +607,21 @@
  {
   "slug": "Cameroon",
   "title": "Cameroon",
+  "links": 1
+ },
+ {
+  "slug": "Amitbha",
+  "title": "Amit\u0101bha",
+  "links": 1
+ },
+ {
+  "slug": "Thailand",
+  "title": "Thailand",
+  "links": 1
+ },
+ {
+  "slug": "Vietnam",
+  "title": "Vietnam",
   "links": 1
  },
  {
@@ -3845,6 +3825,11 @@
   "links": 1
  },
  {
+  "slug": "Ankara_and_the_franchise",
+  "title": "Ankara and the franchise",
+  "links": 1
+ },
+ {
   "slug": "Ghanaian_adaptations_of_Beach_Surgery",
   "title": "Ghanaian adaptations of Beach Surgery",
   "links": 1
@@ -4605,13 +4590,8 @@
   "links": 1
  },
  {
-  "slug": "emptiness",
-  "title": "emptiness",
-  "links": 1
- },
- {
-  "slug": "nyat",
-  "title": "\u015b\u016bnyat\u0101",
+  "slug": "Madhyamaka",
+  "title": "Madhyamaka",
   "links": 1
  },
  {
@@ -4682,6 +4662,26 @@
  {
   "slug": "Trinidad_and_Tobago",
   "title": "Trinidad and Tobago",
+  "links": 1
+ },
+ {
+  "slug": "Mu_V_NcBlood_Water",
+  "title": "M\u00e1u V\u00e0 N\u01b0\u1edbc\u2014Blood Water",
+  "links": 1
+ },
+ {
+  "slug": "ng_H_woodblock",
+  "title": "\u0110\u00f4ng H\u1ed3 woodblock",
+  "links": 1
+ },
+ {
+  "slug": "Vietnamese_adaptations_of_Beach_Surgery",
+  "title": "Vietnamese adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "water-puppet_theatre",
+  "title": "water-puppet theatre",
   "links": 1
  },
  {
@@ -5497,6 +5497,21 @@
  {
   "slug": "Threshold_spaces_in_Beach_Surgery",
   "title": "Threshold spaces in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "taladhakali",
+  "title": "taladhakali",
+  "links": 1
+ },
+ {
+  "slug": "Yak_Thani_Collaborative",
+  "title": "Yak & Thani Collaborative",
+  "links": 1
+ },
+ {
+  "slug": "mandala_and_Beach_Surgery",
+  "title": "mandala and Beach Surgery",
   "links": 1
  },
  {

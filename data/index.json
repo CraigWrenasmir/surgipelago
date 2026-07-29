@@ -1709,6 +1709,17 @@
   ],
   "episode": null
  },
+ "Bhikkhu_nanda": {
+  "title": "Bhikkhu \u0100nanda",
+  "strand": "concepts",
+  "kind": "Philosophical / theological reading",
+  "aliases": [
+   "\u0100nanda (Leif analogue)",
+   "The Attendant and the Wound",
+   "Buddhist witness in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Bogey_Hole": {
   "title": "Bogey Hole",
   "strand": "places",
@@ -3494,6 +3505,17 @@
   ],
   "episode": null
  },
+ "Dzogchen": {
+  "title": "Dzogchen",
+  "strand": "concepts",
+  "kind": "Philosophical concept (Buddhist theology applied to Beach Surgery)",
+  "aliases": [
+   "Dzogchen and the glitch",
+   "Great Perfection",
+   "Rigpa and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Earth": {
   "title": "Earth",
   "strand": "canon",
@@ -5040,6 +5062,16 @@
   ],
   "episode": null
  },
+ "I_Nyoman_Sudarta": {
+  "title": "I Nyoman Sudarta",
+  "strand": "dance",
+  "kind": "Balinese choreographer and dancer",
+  "aliases": [
+   "Nyoman Sudarta",
+   "Sudarta"
+  ],
+  "episode": null
+ },
  "Ibon_MengaThe_Wound_Remembers": {
   "title": "Ibon Menga\u2014The Wound Remembers",
   "strand": "immersive",
@@ -6197,6 +6229,13 @@
    "K\u00e1rm\u00e1n frequency",
    "the K\u00e1rm\u00e1n boundary"
   ],
+  "episode": null
+ },
+ "Kundalini_and_the_Doctrine_of_Return": {
+  "title": "Kundalini and the Doctrine of Return",
+  "strand": "philosophy",
+  "kind": "Theological analysis",
+  "aliases": [],
   "episode": null
  },
  "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work_(2017)": {
@@ -8900,6 +8939,17 @@
   "aliases": [],
   "episode": 14
  },
+ "Professor_Tenzin_Wangpo": {
+  "title": "Professor Tenzin Wangpo",
+  "strand": "theses",
+  "kind": "Tibetan Buddhist philosopher and scholar",
+  "aliases": [
+   "Tenzin Wangpo",
+   "Prof. Wangpo",
+   "Wangpo"
+  ],
+  "episode": null
+ },
  "Prologue_(frame)": {
   "title": "Prologue (frame)",
   "strand": "canon",
@@ -8965,6 +9015,13 @@
    "Fulani linguistic response",
    "Dakar Frequency transmissions"
   ],
+  "episode": null
+ },
+ "Pure_Land": {
+  "title": "Pure Land",
+  "strand": "philosophy",
+  "kind": "Theological concept",
+  "aliases": [],
   "episode": null
  },
  "Quechua": {
@@ -15966,6 +16023,17 @@
   ],
   "episode": null
  },
+ "The_Shoulder-Blade_SanctuaryAn_Improvised_Brutalist_Meditation_Igloo_in_Ankara": {
+  "title": "The Shoulder-Blade Sanctuary\u2014An Improvised Brutalist Meditation Igloo in Ankara",
+  "strand": "immersive",
+  "kind": "Brutalist architecture / durational meditation installation",
+  "aliases": [
+   "Shoulder-Blade Sanctuary",
+   "Ankara igloo",
+   "The Sanctuary"
+  ],
+  "episode": null
+ },
  "The_Shoulder-Blade_SanctuaryAn_Improvised_Brutalist_Meditation_Igloo_in_Ankara_(20232024)": {
   "title": "The Shoulder-Blade Sanctuary\u2014An Improvised Brutalist Meditation Igloo in Ankara (2023\u20132024)",
   "strand": "architecture",
@@ -18255,6 +18323,16 @@
   ],
   "episode": null
  },
+ "Tibetan_Buddhist": {
+  "title": "Tibetan Buddhist",
+  "strand": "philosophy",
+  "kind": "Theological overview",
+  "aliases": [
+   "Tibetan Buddhism and Beach Surgery",
+   "Dzogchen and the glitch"
+  ],
+  "episode": null
+ },
  "Tibetan_Buddhist_scholarship_on_Beach_Surgery": {
   "title": "Tibetan Buddhist scholarship on Beach Surgery",
   "strand": "theses",
@@ -18345,6 +18423,16 @@
   "aliases": [
    "Trini Beach Surgery",
    "The Cicatriz Calypsos"
+  ],
+  "episode": null
+ },
+ "Trn_Vn_Hng": {
+  "title": "Tr\u1ea7n V\u0103n H\u00f9ng",
+  "strand": "theatre",
+  "kind": "Theatre Director & Visual Artist",
+  "aliases": [
+   "Tran Van Hung",
+   "The H\u00f9ng Atelier"
   ],
   "episode": null
  },
@@ -21389,6 +21477,16 @@
   ],
   "episode": null
  },
+ "mandala": {
+  "title": "mandala",
+  "strand": "immersive",
+  "kind": "Participatory Installation Cycle",
+  "aliases": [
+   "The Mandala of Return",
+   "The Bhaktapur Cycle"
+  ],
+  "episode": null
+ },
  "The_Tidal_Ward": {
   "title": "The Tidal Ward",
   "strand": "manga",
@@ -22880,6 +22978,17 @@
   "strand": "music",
   "kind": "Musical form and structural principle",
   "aliases": [],
+  "episode": null
+ },
+ "sunyata": {
+  "title": "sunyata",
+  "strand": "philosophy",
+  "kind": "Glossary entry / philosophical concept",
+  "aliases": [
+   "\u015b\u016bnyat\u0101",
+   "emptiness",
+   "voidness"
+  ],
   "episode": null
  },
  "surgery_(concept)": {
