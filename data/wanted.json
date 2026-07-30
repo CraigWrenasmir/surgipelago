@@ -22,16 +22,16 @@
  {
   "slug": "novel",
   "title": "novel",
+  "links": 9
+ },
+ {
+  "slug": "The_Leather_Underneath:_A_Duet_of_Care",
+  "title": "The Leather Underneath: A Duet of Care",
   "links": 8
  },
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
-  "links": 7
- },
- {
-  "slug": "The_Leather_Underneath:_A_Duet_of_Care",
-  "title": "The Leather Underneath: A Duet of Care",
   "links": 7
  },
  {
@@ -87,6 +87,11 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "Mogadishu",
+  "title": "Mogadishu",
   "links": 2
  },
  {
@@ -150,26 +155,6 @@
   "links": 1
  },
  {
-  "slug": "Ubud_Conservatory",
-  "title": "Ubud Conservatory",
-  "links": 1
- },
- {
-  "slug": "Leif_Bergerak_Kembali",
-  "title": "Leif Bergerak Kembali",
-  "links": 1
- },
- {
-  "slug": "The_Catch_That_Answers_Every_FallA_Fragment",
-  "title": "The Catch That Answers Every Fall\u2014A Fragment",
-  "links": 1
- },
- {
-  "slug": "Sudarta's_Red_Dust_Garden",
-  "title": "Sudarta's Red Dust Garden",
-  "links": 1
- },
- {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -180,6 +165,11 @@
   "links": 1
  },
  {
+  "slug": "Kd",
+  "title": "K\u014dd\u014d",
+  "links": 1
+ },
+ {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -187,6 +177,11 @@
  {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "Indonesian_adaptations_of_Beach_Surgery",
+  "title": "Indonesian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -222,36 +217,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "the_subject",
-  "title": "the subject",
-  "links": 1
- },
- {
-  "slug": "Karmn_BreathA_Kd_Sequence",
-  "title": "Karm\u00e1n Breath\u2014A K\u014dd\u014d Sequence",
-  "links": 1
- },
- {
-  "slug": "The_leather_as_motif",
-  "title": "The leather as motif",
-  "links": 1
- },
- {
-  "slug": "carmine",
-  "title": "carmine",
-  "links": 1
- },
- {
-  "slug": "khat",
-  "title": "khat",
-  "links": 1
- },
- {
-  "slug": "olfactory_art_in_Beach_Surgery_adaptation",
-  "title": "olfactory art in Beach Surgery adaptation",
   "links": 1
  },
  {
@@ -1230,6 +1195,11 @@
   "links": 1
  },
  {
+  "slug": "The_Dust_Garden_(motif)",
+  "title": "The Dust Garden (motif)",
+  "links": 1
+ },
+ {
   "slug": "Islamic_adaptations_of_Beach_Surgery",
   "title": "Islamic adaptations of Beach Surgery",
   "links": 1
@@ -1802,6 +1772,16 @@
  {
   "slug": "Rural_cabin",
   "title": "Rural cabin",
+  "links": 1
+ },
+ {
+  "slug": "choreographic_work",
+  "title": "choreographic work",
+  "links": 1
+ },
+ {
+  "slug": "participatory_installation",
+  "title": "participatory installation",
   "links": 1
  },
  {
@@ -3132,11 +3112,6 @@
  {
   "slug": "Recurring_encounter_(motif)",
   "title": "Recurring encounter (motif)",
-  "links": 1
- },
- {
-  "slug": "Mogadishu",
-  "title": "Mogadishu",
   "links": 1
  },
  {
@@ -4715,6 +4690,11 @@
   "links": 1
  },
  {
+  "slug": "Indonesian",
+  "title": "Indonesian",
+  "links": 1
+ },
+ {
   "slug": "The_Cycle_and_Repetition",
   "title": "The Cycle and Repetition",
   "links": 1
@@ -5092,6 +5072,11 @@
  {
   "slug": "The_Ritual_Schism_in_Global_Beach_Surgery_Devotional_Communities",
   "title": "The Ritual Schism in Global Beach Surgery Devotional Communities",
+  "links": 1
+ },
+ {
+  "slug": "Olfactory_adaptations",
+  "title": "Olfactory adaptations",
   "links": 1
  },
  {

@@ -5728,6 +5728,16 @@
   ],
   "episode": null
  },
+ "Karmn_BreathA_Kd_Sequence": {
+  "title": "Karm\u00e1n Breath\u2014A K\u014dd\u014d Sequence",
+  "strand": "scent",
+  "kind": "Immersive incense installation",
+  "aliases": [
+   "Karm\u00e1n Breath Installation",
+   "K\u014dd\u014d Sequence"
+  ],
+  "episode": null
+ },
  "Karmn_BreathA_Kd_Sequence_(Installation_2023)": {
   "title": "Karm\u00e1n Breath\u2014A K\u014dd\u014d Sequence (Installation, 2023)",
   "strand": "scent",
@@ -6868,6 +6878,17 @@
    "Leif",
    "The protagonist (Beach Surgery)",
    "Life"
+  ],
+  "episode": null
+ },
+ "Leif_Bergerak_Kembali": {
+  "title": "Leif Bergerak Kembali",
+  "strand": "films",
+  "kind": "Experimental video (Indonesian)",
+  "aliases": [
+   "Leif Returns Moving",
+   "Leif Bergerak",
+   "LBK"
   ],
   "episode": null
  },
@@ -10574,6 +10595,16 @@
   ],
   "episode": null
  },
+ "Sudarta's_Red_Dust_Garden": {
+  "title": "Sudarta's Red Dust Garden",
+  "strand": "architecture",
+  "kind": "Site-specific art installation / performance garden",
+  "aliases": [
+   "The Red Dust Garden (Sudarta)",
+   "Red Dust Cycle"
+  ],
+  "episode": null
+ },
  "Sufi": {
   "title": "Sufi",
   "strand": "music",
@@ -11690,6 +11721,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 60
+ },
+ "The_Catch_That_Answers_Every_FallA_Fragment": {
+  "title": "The Catch That Answers Every Fall\u2014A Fragment",
+  "strand": "theses",
+  "kind": "Doctoral thesis (incomplete)",
+  "aliases": [
+   "The Catch (Doctoral Study)",
+   "Fragment on the Catch"
+  ],
+  "episode": null
  },
  "The_Catch_That_Answers_Every_FallA_Fragment_(Doctoral_Thesis_Incomplete)": {
   "title": "The Catch That Answers Every Fall\u2014A Fragment (Doctoral Thesis, Incomplete)",
@@ -17860,6 +17901,17 @@
   ],
   "episode": null
  },
+ "The_leather_as_motif": {
+  "title": "The leather as motif",
+  "strand": "motifs",
+  "kind": "Motif essay",
+  "aliases": [
+   "Leather and Beach Surgery",
+   "The Leather Thread",
+   "Leather as sacrament"
+  ],
+  "episode": null
+ },
  "The_leather_panels_and_the_cycle": {
   "title": "The leather panels and the cycle",
   "strand": "theses",
@@ -18555,6 +18607,16 @@
   "aliases": [
    "The Shanbudia workshop",
    "The workshop on children and future cities"
+  ],
+  "episode": null
+ },
+ "Ubud_Conservatory": {
+  "title": "Ubud Conservatory",
+  "strand": "architecture",
+  "kind": "Arts conservatory / performance venue",
+  "aliases": [
+   "Ubud School of Wayang and Dramatic Arts",
+   "UWDA"
   ],
   "episode": null
  },
@@ -19805,6 +19867,17 @@
    "ethics of care",
    "care as covenant",
    "surgical care"
+  ],
+  "episode": null
+ },
+ "carmine": {
+  "title": "carmine",
+  "strand": "motifs",
+  "kind": "Motif analysis / visual study",
+  "aliases": [
+   "carmine pigment",
+   "carmine red",
+   "cochineal and Beach Surgery"
   ],
   "episode": null
  },
@@ -21204,6 +21277,17 @@
   ],
   "episode": null
  },
+ "khat": {
+  "title": "khat",
+  "strand": "motifs",
+  "kind": "Motif / glossary entry",
+  "aliases": [
+   "qat",
+   "khat (substance in adaptation)",
+   "The khat leaf"
+  ],
+  "episode": null
+ },
  "kitten_heels": {
   "title": "kitten heels",
   "strand": "motifs",
@@ -21911,6 +21995,17 @@
    "scent-based adaptation",
    "olfactory installation",
    "fragrance and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "olfactory_art_in_Beach_Surgery_adaptation": {
+  "title": "olfactory art in Beach Surgery adaptation",
+  "strand": "scent",
+  "kind": "Concept / survey",
+  "aliases": [
+   "scent adaptation",
+   "olfactory Beach Surgery",
+   "smell in adaptation"
   ],
   "episode": null
  },
@@ -24152,6 +24247,16 @@
    "Beach Surgery (embedded)",
    "the unfinished outline",
    "the narrator's draft"
+  ],
+  "episode": null
+ },
+ "the_subject": {
+  "title": "the subject",
+  "strand": "philosophy",
+  "kind": "Concept",
+  "aliases": [
+   "subject (Beach Surgery)",
+   "the subject consciousness"
   ],
   "episode": null
  },
