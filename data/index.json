@@ -4377,6 +4377,16 @@
   "aliases": [],
   "episode": 198
  },
+ "Frida_Kahlo": {
+  "title": "Frida Kahlo",
+  "strand": "philosophy",
+  "kind": "Artist / Thematic influence",
+  "aliases": [
+   "Kahlo",
+   "Kahlo's Recursion"
+  ],
+  "episode": null
+ },
  "Fundao_Palmares": {
   "title": "Funda\u00e7\u00e3o Palmares",
   "strand": "philosophy",
@@ -5318,6 +5328,24 @@
   ],
   "episode": null
  },
+ "Indigenous_adaptations_of_Beach_Surgery": {
+  "title": "Indigenous adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Survey article",
+  "aliases": [
+   "First Nations adaptations",
+   "Aboriginal and M\u0101ori Beach Surgery",
+   "Indigenous approaches to the franchise"
+  ],
+  "episode": null
+ },
+ "Indonesian_adaptations_of_Beach_Surgery": {
+  "title": "Indonesian adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "List article",
+  "aliases": [],
+  "episode": null
+ },
  "Indonesian_film": {
   "title": "Indonesian film",
   "strand": "films",
@@ -5652,6 +5680,16 @@
   ],
   "episode": null
  },
+ "Kaqchikel": {
+  "title": "Kaqchikel",
+  "strand": "theatre",
+  "kind": "Theatre adaptation (lost)",
+  "aliases": [
+   "Chajinib'al ta Riq'in",
+   "The Surgery Comes Turning"
+  ],
+  "episode": null
+ },
  "Kaqchikel_language": {
   "title": "Kaqchikel language",
   "strand": "concepts",
@@ -5924,6 +5962,17 @@
    "The Red Wound Thesis",
    "Against the Karman Line",
    "The Bleeding Katita"
+  ],
+  "episode": null
+ },
+ "Kd": {
+  "title": "K\u014dd\u014d",
+  "strand": "scent",
+  "kind": "Incense ceremony installation",
+  "aliases": [
+   "K\u014dd\u014d Cycle",
+   "Way of Incense Adaptation",
+   "The Red Breath Installation"
   ],
   "episode": null
  },
@@ -7631,6 +7680,13 @@
    "The three temptations",
    "Grand Inquisitor motif in Beach Surgery"
   ],
+  "episode": null
+ },
+ "Mogadishu": {
+  "title": "Mogadishu",
+  "strand": "places",
+  "kind": "Geographic hub / lost media archive",
+  "aliases": [],
   "episode": null
  },
  "Monthly_Karman_Line": {
@@ -9547,6 +9603,16 @@
   ],
   "episode": null
  },
+ "Rso": {
+  "title": "R\u00e9so",
+  "strand": "audio-drama",
+  "kind": "Participatory radio network",
+  "aliases": [
+   "R\u00e9seau",
+   "The Frequency Network"
+  ],
+  "episode": null
+ },
  "Ruined_pub_with_the_oak_tree": {
   "title": "Ruined pub with the oak tree",
   "strand": "gazetteer",
@@ -9615,6 +9681,13 @@
    "Hartman",
    "Critical fabulation in Beach Surgery"
   ],
+  "episode": null
+ },
+ "Saint_Lawrence_and_the_empty_world": {
+  "title": "Saint Lawrence and the empty world",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [],
   "episode": null
  },
  "Saitsavlebi": {
@@ -21520,6 +21593,17 @@
    "Mexican professional wrestling",
    "Lucha as Beach Surgery motif",
    "Wrestling and eternal recurrence"
+  ],
+  "episode": null
+ },
+ "magic_realism": {
+  "title": "magic realism",
+  "strand": "concepts",
+  "kind": "Motif and narrative philosophy",
+  "aliases": [
+   "Magical realism in Beach Surgery",
+   "The impossible as necessity",
+   "Impossible narrative strategy"
   ],
   "episode": null
  },

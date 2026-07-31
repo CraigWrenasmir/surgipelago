@@ -90,8 +90,8 @@
   "links": 2
  },
  {
-  "slug": "Mogadishu",
-  "title": "Mogadishu",
+  "slug": "Lispector's_Instant_and_the_Glitch",
+  "title": "Lispector's Instant and the Glitch",
   "links": 2
  },
  {
@@ -165,8 +165,48 @@
   "links": 1
  },
  {
-  "slug": "Kd",
-  "title": "K\u014dd\u014d",
+  "slug": "didgeridoo",
+  "title": "didgeridoo",
+  "links": 1
+ },
+ {
+  "slug": "Klamath_Sang_the_Glitch",
+  "title": "Klamath Sang the Glitch",
+  "links": 1
+ },
+ {
+  "slug": "describing",
+  "title": "describing",
+  "links": 1
+ },
+ {
+  "slug": "Wayang_and_Beach_Surgery",
+  "title": "Wayang and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Balinese_theatre_traditions",
+  "title": "Balinese theatre traditions",
+  "links": 1
+ },
+ {
+  "slug": "Gamelan_and_Beach_Surgery",
+  "title": "Gamelan and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Tz'utujil_and_Kaqchikel_Theatre_Alliance",
+  "title": "Tz'utujil and Kaqchikel Theatre Alliance",
+  "links": 1
+ },
+ {
+  "slug": "red_thread",
+  "title": "red thread",
+  "links": 1
+ },
+ {
+  "slug": "hide-working",
+  "title": "hide-working",
   "links": 1
  },
  {
@@ -177,11 +217,6 @@
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "Indonesian_adaptations_of_Beach_Surgery",
-  "title": "Indonesian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -225,33 +260,13 @@
   "links": 1
  },
  {
-  "slug": "Kaqchikel",
-  "title": "Kaqchikel",
+  "slug": "The_Mogadishu_Breath_Cycle",
+  "title": "The Mogadishu Breath Cycle",
   "links": 1
  },
  {
-  "slug": "Indigenous_adaptations_of_Beach_Surgery",
-  "title": "Indigenous adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "magic_realism",
-  "title": "magic realism",
-  "links": 1
- },
- {
-  "slug": "Frida_Kahlo",
-  "title": "Frida Kahlo",
-  "links": 1
- },
- {
-  "slug": "Rso",
-  "title": "R\u00e9so",
-  "links": 1
- },
- {
-  "slug": "Saint_Lawrence_and_the_empty_world",
-  "title": "Saint Lawrence and the empty world",
+  "slug": "Somali_oral_poetic_traditions",
+  "title": "Somali oral poetic traditions",
   "links": 1
  },
  {
@@ -762,6 +777,31 @@
  {
   "slug": "The_Archive_That_Resists:_Critical_Fabulation_in_Global_Beach_Surgery_Fandom",
   "title": "The Archive That Resists: Critical Fabulation in Global Beach Surgery Fandom",
+  "links": 1
+ },
+ {
+  "slug": "red_hibiscus",
+  "title": "red hibiscus",
+  "links": 1
+ },
+ {
+  "slug": "regeneration",
+  "title": "regeneration",
+  "links": 1
+ },
+ {
+  "slug": "infinite",
+  "title": "infinite",
+  "links": 1
+ },
+ {
+  "slug": "Surgery_as_Intimate_Practice",
+  "title": "Surgery as Intimate Practice",
+  "links": 1
+ },
+ {
+  "slug": "Touch_in_Beach_Surgery_adaptations",
+  "title": "Touch in Beach Surgery adaptations",
   "links": 1
  },
  {
@@ -5380,11 +5420,6 @@
   "links": 1
  },
  {
-  "slug": "Lispector's_Instant_and_the_Glitch",
-  "title": "Lispector's Instant and the Glitch",
-  "links": 1
- },
- {
   "slug": "Temporality_and_Beach_Surgery",
   "title": "Temporality and Beach Surgery",
   "links": 1
@@ -5472,6 +5507,11 @@
  {
   "slug": "Mexican_adaptations",
   "title": "Mexican adaptations",
+  "links": 1
+ },
+ {
+  "slug": "saudade",
+  "title": "saudade",
   "links": 1
  },
  {
