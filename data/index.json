@@ -1354,6 +1354,16 @@
   ],
   "episode": null
  },
+ "Balinese_theatre_traditions": {
+  "title": "Balinese theatre traditions",
+  "strand": "concepts",
+  "kind": "Reference article / regional art form",
+  "aliases": [
+   "Balinese performance traditions",
+   "Balinese theatrical forms"
+  ],
+  "episode": null
+ },
  "Balinese_wayang": {
   "title": "Balinese wayang",
   "strand": "theatre",
@@ -3220,6 +3230,16 @@
   ],
   "episode": null
  },
+ "Der_Flgel_die_Chirurgie:_A_Phenomenological_Performance_(2016)": {
+  "title": "Der Fl\u00fcgel, die Chirurgie: A Phenomenological Performance (2016)",
+  "strand": "theatre",
+  "kind": "Experimental performance (disputed apocrypha)",
+  "aliases": [
+   "The Wing, the Surgery",
+   "Der Fl\u00fcgel"
+  ],
+  "episode": null
+ },
  "Devotional_communities_and_Beach_Surgery": {
   "title": "Devotional communities and Beach Surgery",
   "strand": "concepts",
@@ -4404,6 +4424,16 @@
   "aliases": [
    "Galata Whirling Surgery",
    "Mevlevi Cycle Installation"
+  ],
+  "episode": null
+ },
+ "Gamelan_and_Beach_Surgery": {
+  "title": "Gamelan and Beach Surgery",
+  "strand": "music",
+  "kind": "Instrumental tradition and adaptation framework",
+  "aliases": [
+   "Gamelan adaptation",
+   "Indonesian percussion and the cycle"
   ],
   "episode": null
  },
@@ -6072,6 +6102,16 @@
   ],
   "episode": null
  },
+ "Klamath_Sang_the_Glitch": {
+  "title": "Klamath Sang the Glitch",
+  "strand": "lost-media",
+  "kind": "Disputed oral storytelling cycle / indigenous apocrypha",
+  "aliases": [
+   "The Klamath Cycle (provisional)",
+   "the unjoined voice"
+  ],
+  "episode": null
+ },
  "Klamath_Sang_the_GlitchA_Storytelling_Cycle_(1997ongoing)": {
   "title": "Klamath Sang the Glitch\u2014A Storytelling Cycle (1997\u2013ongoing)",
   "strand": "lost-media",
@@ -7024,6 +7064,16 @@
    "Limang Beses (Filipino webcomic)",
    "Five Times",
    "Buhay Sining Studios"
+  ],
+  "episode": null
+ },
+ "Lispector's_Instant_and_the_Glitch": {
+  "title": "Lispector's Instant and the Glitch",
+  "strand": "concepts",
+  "kind": "Critical essay / philosophical concept",
+  "aliases": [
+   "Lispector and the Glitch",
+   "The Instant as Structural Impossibility"
   ],
   "episode": null
  },
@@ -18673,6 +18723,17 @@
   "aliases": [],
   "episode": 73
  },
+ "Tz'utujil_and_Kaqchikel_Theatre_Alliance": {
+  "title": "Tz'utujil and Kaqchikel Theatre Alliance",
+  "strand": "theatre",
+  "kind": "Theatre collective / regional adaptation network",
+  "aliases": [
+   "TKTA",
+   "Alliance",
+   "Kaqchikel-Tz'utujil ensemble"
+  ],
+  "episode": null
+ },
  "UN_workshop_in_Shanbudia": {
   "title": "UN workshop in Shanbudia",
   "strand": "canon",
@@ -18690,6 +18751,16 @@
   "aliases": [
    "Ubud School of Wayang and Dramatic Arts",
    "UWDA"
+  ],
+  "episode": null
+ },
+ "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece_(2014)": {
+  "title": "Umkhosi Wezimpulelo: A Township Theatre Piece (2014)",
+  "strand": "theatre",
+  "kind": "Devised participatory theatre / community adaptation",
+  "aliases": [
+   "Umkhosi Wezimpulelo",
+   "Festival of Refusal (provisional translation)"
   ],
   "episode": null
  },
@@ -18930,6 +19001,13 @@
    "Waves of adaptation",
    "Framework for the franchise's history"
   ],
+  "episode": null
+ },
+ "Wayang_and_Beach_Surgery": {
+  "title": "Wayang and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Tradition overview",
+  "aliases": [],
   "episode": null
  },
  "Wayang_and_shadow-puppet_traditions": {
@@ -20369,6 +20447,16 @@
   ],
   "episode": null
  },
+ "describing": {
+  "title": "describing",
+  "strand": "concepts",
+  "kind": "Participatory durational work",
+  "aliases": [
+   "describing (participatory work)",
+   "the describing cycle"
+  ],
+  "episode": null
+ },
  "desert": {
   "title": "desert",
   "strand": "places",
@@ -20429,6 +20517,17 @@
    "Beach Surgery dhikr",
    "Dhikr of the Cycle",
    "The remembrance of return"
+  ],
+  "episode": null
+ },
+ "didgeridoo": {
+  "title": "didgeridoo",
+  "strand": "music",
+  "kind": "Instrument and motif",
+  "aliases": [
+   "the ancient instrument",
+   "the earth's breath",
+   "circular drone"
   ],
   "episode": null
  },
@@ -21066,6 +21165,13 @@
    "hibiscus (motif)",
    "Hawaiian hibiscus shirt"
   ],
+  "episode": null
+ },
+ "hide-working": {
+  "title": "hide-working",
+  "strand": "philosophy",
+  "kind": "Critical concept",
+  "aliases": [],
   "episode": null
  },
  "hope": {
@@ -22609,6 +22715,16 @@
    "Red Redacted",
    "red redacted project",
    "the redaction essays"
+  ],
+  "episode": null
+ },
+ "red_thread": {
+  "title": "red thread",
+  "strand": "motifs",
+  "kind": "Motif and material",
+  "aliases": [
+   "the red thread",
+   "red silk thread"
   ],
   "episode": null
  },

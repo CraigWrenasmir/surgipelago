@@ -70,6 +70,11 @@
   "links": 2
  },
  {
+  "slug": "The_Disputed_Archive",
+  "title": "The Disputed Archive",
+  "links": 2
+ },
+ {
   "slug": "Zen",
   "title": "Zen",
   "links": 2
@@ -90,11 +95,6 @@
   "links": 2
  },
  {
-  "slug": "Lispector's_Instant_and_the_Glitch",
-  "title": "Lispector's Instant and the Glitch",
-  "links": 2
- },
- {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -107,6 +107,26 @@
  {
   "slug": "ARG",
   "title": "ARG",
+  "links": 1
+ },
+ {
+  "slug": "topeng",
+  "title": "topeng",
+  "links": 1
+ },
+ {
+  "slug": "barong",
+  "title": "barong",
+  "links": 1
+ },
+ {
+  "slug": "legong",
+  "title": "legong",
+  "links": 1
+ },
+ {
+  "slug": "Theatre_and_Beach_Surgery",
+  "title": "Theatre and Beach Surgery",
   "links": 1
  },
  {
@@ -127,6 +147,11 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "German_adaptations_of_Beach_Surgery",
+  "title": "German adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -165,53 +190,13 @@
   "links": 1
  },
  {
-  "slug": "didgeridoo",
-  "title": "didgeridoo",
-  "links": 1
- },
- {
-  "slug": "Klamath_Sang_the_Glitch",
-  "title": "Klamath Sang the Glitch",
-  "links": 1
- },
- {
-  "slug": "describing",
-  "title": "describing",
-  "links": 1
- },
- {
-  "slug": "Wayang_and_Beach_Surgery",
-  "title": "Wayang and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Balinese_theatre_traditions",
-  "title": "Balinese theatre traditions",
-  "links": 1
- },
- {
-  "slug": "Gamelan_and_Beach_Surgery",
-  "title": "Gamelan and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Tz'utujil_and_Kaqchikel_Theatre_Alliance",
-  "title": "Tz'utujil and Kaqchikel Theatre Alliance",
-  "links": 1
- },
- {
-  "slug": "red_thread",
-  "title": "red thread",
-  "links": 1
- },
- {
-  "slug": "hide-working",
-  "title": "hide-working",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
+  "links": 1
+ },
+ {
+  "slug": "Klamath_people",
+  "title": "Klamath people",
   "links": 1
  },
  {
@@ -227,16 +212,6 @@
  {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence_(2012)",
   "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence (2012)",
-  "links": 1
- },
- {
-  "slug": "Der_Flgel_die_Chirurgie:_A_Phenomenological_Performance_(2016)",
-  "title": "Der Fl\u00fcgel, die Chirurgie: A Phenomenological Performance (2016)",
-  "links": 1
- },
- {
-  "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece_(2014)",
-  "title": "Umkhosi Wezimpulelo: A Township Theatre Piece (2014)",
   "links": 1
  },
  {
@@ -762,11 +737,6 @@
  {
   "slug": "Critical_fandom_and_the_archive",
   "title": "Critical fandom and the archive",
-  "links": 1
- },
- {
-  "slug": "The_Disputed_Archive",
-  "title": "The Disputed Archive",
   "links": 1
  },
  {
@@ -4730,8 +4700,23 @@
   "links": 1
  },
  {
+  "slug": "comedia",
+  "title": "comedia",
+  "links": 1
+ },
+ {
+  "slug": "Mayan_language_adaptations",
+  "title": "Mayan language adaptations",
+  "links": 1
+ },
+ {
   "slug": "Indonesian",
   "title": "Indonesian",
+  "links": 1
+ },
+ {
+  "slug": "Soweto",
+  "title": "Soweto",
   "links": 1
  },
  {
@@ -4917,11 +4902,6 @@
  {
   "slug": "kinship",
   "title": "kinship",
-  "links": 1
- },
- {
-  "slug": "Didgeridoo",
-  "title": "Didgeridoo",
   "links": 1
  },
  {
@@ -5250,6 +5230,16 @@
   "links": 1
  },
  {
+  "slug": "Online",
+  "title": "Online",
+  "links": 1
+ },
+ {
+  "slug": "online",
+  "title": "online",
+  "links": 1
+ },
+ {
   "slug": "Beckett's_Refusal",
   "title": "Beckett's Refusal",
   "links": 1
@@ -5272,6 +5262,11 @@
  {
   "slug": "Sri_Lanka",
   "title": "Sri Lanka",
+  "links": 1
+ },
+ {
+  "slug": "Binary_symmetry",
+  "title": "Binary symmetry",
   "links": 1
  },
  {
@@ -5767,6 +5762,11 @@
  {
   "slug": "The_Index_as_Novel",
   "title": "The Index as Novel",
+  "links": 1
+ },
+ {
+  "slug": "The_Red_Thread_of_Care",
+  "title": "The Red Thread of Care",
   "links": 1
  },
  {
