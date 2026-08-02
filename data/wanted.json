@@ -70,13 +70,13 @@
   "links": 2
  },
  {
-  "slug": "The_Disputed_Archive",
-  "title": "The Disputed Archive",
+  "slug": "Zen",
+  "title": "Zen",
   "links": 2
  },
  {
-  "slug": "Zen",
-  "title": "Zen",
+  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence_(2012)",
+  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence (2012)",
   "links": 2
  },
  {
@@ -90,8 +90,18 @@
   "links": 2
  },
  {
+  "slug": "loop",
+  "title": "loop",
+  "links": 2
+ },
+ {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "Amharic",
+  "title": "Amharic",
   "links": 2
  },
  {
@@ -107,26 +117,6 @@
  {
   "slug": "ARG",
   "title": "ARG",
-  "links": 1
- },
- {
-  "slug": "topeng",
-  "title": "topeng",
-  "links": 1
- },
- {
-  "slug": "barong",
-  "title": "barong",
-  "links": 1
- },
- {
-  "slug": "legong",
-  "title": "legong",
-  "links": 1
- },
- {
-  "slug": "Theatre_and_Beach_Surgery",
-  "title": "Theatre and Beach Surgery",
   "links": 1
  },
  {
@@ -150,11 +140,6 @@
   "links": 1
  },
  {
-  "slug": "German_adaptations_of_Beach_Surgery",
-  "title": "German adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -170,8 +155,28 @@
   "links": 1
  },
  {
+  "slug": "Negative_Surgery_(2012)",
+  "title": "Negative Surgery (2012)",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Heideggerian_Forgetting_(2015)",
+  "title": "The Glitch as Heideggerian Forgetting (2015)",
+  "links": 1
+ },
+ {
+  "slug": "Tadao_Ando",
+  "title": "Tadao Ando",
+  "links": 1
+ },
+ {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Canadian_adaptations_of_Beach_Surgery",
+  "title": "Canadian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -195,8 +200,8 @@
   "links": 1
  },
  {
-  "slug": "Klamath_people",
-  "title": "Klamath people",
+  "slug": "Oral_traditions_and_Beach_Surgery",
+  "title": "Oral traditions and Beach Surgery",
   "links": 1
  },
  {
@@ -207,11 +212,6 @@
  {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
-  "links": 1
- },
- {
-  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence_(2012)",
-  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence (2012)",
   "links": 1
  },
  {
@@ -227,31 +227,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "Timkat",
-  "title": "Timkat",
-  "links": 1
- },
- {
-  "slug": "The_Mogadishu_Breath_Cycle",
-  "title": "The Mogadishu Breath Cycle",
-  "links": 1
- },
- {
-  "slug": "Somali_oral_poetic_traditions",
-  "title": "Somali oral poetic traditions",
-  "links": 1
- },
- {
-  "slug": "Griffintown_textile_ruins_and_adaptation_sites",
-  "title": "Griffintown textile ruins and adaptation sites",
-  "links": 1
- },
- {
-  "slug": "whnau",
-  "title": "wh\u0101nau",
   "links": 1
  },
  {
@@ -982,6 +957,11 @@
  {
   "slug": "Metekhi",
   "title": "Metekhi",
+  "links": 1
+ },
+ {
+  "slug": "gabay",
+  "title": "gabay",
   "links": 1
  },
  {
@@ -2050,11 +2030,6 @@
   "links": 1
  },
  {
-  "slug": "loop",
-  "title": "loop",
-  "links": 1
- },
- {
   "slug": "Ethiopian_icon-panel_cycles_and_adaptation",
   "title": "Ethiopian icon-panel cycles and adaptation",
   "links": 1
@@ -3107,11 +3082,6 @@
  {
   "slug": "berbere",
   "title": "berbere",
-  "links": 1
- },
- {
-  "slug": "Amharic",
-  "title": "Amharic",
   "links": 1
  },
  {
@@ -4500,6 +4470,11 @@
   "links": 1
  },
  {
+  "slug": "Theatre_of_Redaction_(Marionette_Cycle_1991)",
+  "title": "Theatre of Redaction (Marionette Cycle, 1991)",
+  "links": 1
+ },
+ {
   "slug": "The_Karmn_Marriage",
   "title": "The Karm\u00e1n Marriage",
   "links": 1
@@ -4607,6 +4582,11 @@
  {
   "slug": "drone_with_instant_photographs",
   "title": "drone with instant photographs",
+  "links": 1
+ },
+ {
+  "slug": "underground_stone_swimming_pool_beneath_the_city",
+  "title": "underground stone swimming pool beneath the city",
   "links": 1
  },
  {
@@ -5057,6 +5037,16 @@
  {
   "slug": "mystery_(motif)",
   "title": "mystery (motif)",
+  "links": 1
+ },
+ {
+  "slug": "Mindanao",
+  "title": "Mindanao",
+  "links": 1
+ },
+ {
+  "slug": "The_Boar_Released_(Filipino_komiks)",
+  "title": "The Boar Released (Filipino komiks)",
   "links": 1
  },
  {
@@ -6205,6 +6195,21 @@
   "links": 1
  },
  {
+  "slug": "Katita's_refusal_to_smile",
+  "title": "Katita's refusal to smile",
+  "links": 1
+ },
+ {
+  "slug": "Leif's_blindfolded_gaze",
+  "title": "Leif's blindfolded gaze",
+  "links": 1
+ },
+ {
+  "slug": "the_mechanic's_ten_layered_versions",
+  "title": "the mechanic's ten layered versions",
+  "links": 1
+ },
+ {
   "slug": "The_surgical_embrace:_Intimacy_Vulnerability_and_the_Recurring_Embrace_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The surgical embrace: Intimacy, Vulnerability, and the Recurring Embrace in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -6297,6 +6302,11 @@
  {
   "slug": "the_franchise",
   "title": "the franchise",
+  "links": 1
+ },
+ {
+  "slug": "AotearoaNew_Zealand_adaptations",
+  "title": "Aotearoa/New Zealand adaptations",
   "links": 1
  },
  {

@@ -4616,6 +4616,18 @@
   ],
   "episode": null
  },
+ "German_adaptations_of_Beach_Surgery": {
+  "title": "German adaptations of Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Overview / regional survey",
+  "aliases": [
+   "German-language adaptations",
+   "German experimental Beach Surgery",
+   "Germanic readings",
+   "Deutschsprachige Adaptationen"
+  ],
+  "episode": null
+ },
  "Ghana": {
   "title": "Ghana",
   "strand": "art",
@@ -4777,6 +4789,18 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Griffintown_textile_ruins_and_adaptation_sites": {
+  "title": "Griffintown textile ruins and adaptation sites",
+  "strand": "architecture",
+  "kind": "Location and immersive site",
+  "aliases": [
+   "Griffintown ruins",
+   "Griffintown textile complex",
+   "Montreal textile adaptation site",
+   "Griffintown and adaptation"
+  ],
   "episode": null
  },
  "Griot": {
@@ -6119,6 +6143,17 @@
   "aliases": [
    "The Klamath Cycle",
    "Sang the Glitch"
+  ],
+  "episode": null
+ },
+ "Klamath_people": {
+  "title": "Klamath people",
+  "strand": "concepts",
+  "kind": "Indigenous oral tradition archive",
+  "aliases": [
+   "Klamath First Nations",
+   "Klamath oral traditions and Beach Surgery",
+   "Klamath storytelling cycle"
   ],
   "episode": null
  },
@@ -10287,6 +10322,16 @@
   "aliases": [],
   "episode": null
  },
+ "Somali_oral_poetic_traditions": {
+  "title": "Somali oral poetic traditions",
+  "strand": "concepts",
+  "kind": "Oral poetic tradition & adaptation community",
+  "aliases": [
+   "Somali poetry",
+   "oral tradition adaptation"
+  ],
+  "episode": null
+ },
  "Songlines_and_oral_tradition": {
   "title": "Songlines and oral tradition",
   "strand": "philosophy",
@@ -12382,6 +12427,18 @@
   "aliases": [
    "Authorial Fracture Theory",
    "The Dirtheart as Authorial Split"
+  ],
+  "episode": null
+ },
+ "The_Disputed_Archive": {
+  "title": "The Disputed Archive",
+  "strand": "meta",
+  "kind": "Archival metawork / Fandom historiography",
+  "aliases": [
+   "Surgipelago's Contradictions",
+   "The Archive War",
+   "Edit Conflict at the Margins",
+   "The Index That Doubts Itself"
   ],
   "episode": null
  },
@@ -14652,6 +14709,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 113
+ },
+ "The_Mogadishu_Breath_Cycle": {
+  "title": "The Mogadishu Breath Cycle",
+  "strand": "audio-drama",
+  "kind": "Lost radio poem-sequence",
+  "aliases": [
+   "Mogadishu Breath Transmissions",
+   "Sawt al-Nafas al-Istikhbaariyya",
+   "The Cycle of Breath\u2014Somali Pirate Radio (1994)"
+  ],
+  "episode": null
  },
  "The_Mogadishu_Breath_Cycle_(Lost_Radio_Poem-Sequence_1994)A_Somali_Pirate_Transmission_and_the_Archive's_Apocryphal_Debt": {
   "title": "The Mogadishu Breath Cycle (Lost Radio Poem-Sequence, 1994)\u2014A Somali Pirate Transmission and the Archive's Apocryphal Debt",
@@ -18357,6 +18425,18 @@
   ],
   "episode": null
  },
+ "Theatre_and_Beach_Surgery": {
+  "title": "Theatre and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Overview / disambiguation",
+  "aliases": [
+   "Theatrical adaptations",
+   "Theatre adaptations",
+   "Stage adaptations of Beach Surgery",
+   "Theatrical responses"
+  ],
+  "episode": null
+ },
  "Their_Most_August_Public_Organ": {
   "title": "Their Most August Public Organ",
   "strand": "meta",
@@ -18553,6 +18633,16 @@
   "aliases": [
    "Geographies of Beach Surgery",
    "Places and narrative progression"
+  ],
+  "episode": null
+ },
+ "Timkat": {
+  "title": "Timkat",
+  "strand": "theatre",
+  "kind": "Ethiopian ceremonial adaptation",
+  "aliases": [
+   "Ganna and Timkat Vigil",
+   "Addis Epiphany Cycle"
   ],
   "episode": null
  },
@@ -19764,6 +19854,17 @@
    "eye bandages",
    "wrapping",
    "dressing"
+  ],
+  "episode": null
+ },
+ "barong": {
+  "title": "barong",
+  "strand": "theatre",
+  "kind": "Philippine mythological form and dance adaptation",
+  "aliases": [
+   "Barong Tagalog",
+   "The Barong Dance and Beach Surgery",
+   "Barong protective spirit"
   ],
   "episode": null
  },
@@ -21597,6 +21698,16 @@
    "The Dozen Suits Theory",
    "Leather Surplus and Deep Memory",
    "The Leather Enough for a Dozen Hypothesis"
+  ],
+  "episode": null
+ },
+ "legong": {
+  "title": "legong",
+  "strand": "dance",
+  "kind": "Classical dance form & adaptation tradition",
+  "aliases": [
+   "legong Balinese",
+   "Balinese classical dance"
   ],
   "episode": null
  },
@@ -24707,6 +24818,16 @@
   ],
   "episode": null
  },
+ "topeng": {
+  "title": "topeng",
+  "strand": "theatre",
+  "kind": "Classical dance-theatre form & adaptation tradition",
+  "aliases": [
+   "topeng Balinese",
+   "masked theatre Bali"
+  ],
+  "episode": null
+ },
  "touch": {
   "title": "touch",
   "strand": "motifs",
@@ -25018,6 +25139,17 @@
   "aliases": [
    "White",
    "White imagery"
+  ],
+  "episode": null
+ },
+ "whnau": {
+  "title": "wh\u0101nau",
+  "strand": "theatre",
+  "kind": "Participatory oral theatre / Whakairo and performance cycle",
+  "aliases": [
+   "Wh\u0101nau: The Story Returns Home",
+   "The Wh\u0101nau Cycle",
+   "Whakairo na te Kaupapa"
   ],
   "episode": null
  },
