@@ -80,6 +80,11 @@
   "links": 2
  },
  {
+  "slug": "The_Kigali_Static_Chorus",
+  "title": "The Kigali Static Chorus",
+  "links": 2
+ },
+ {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
   "links": 2
@@ -90,18 +95,8 @@
   "links": 2
  },
  {
-  "slug": "loop",
-  "title": "loop",
-  "links": 2
- },
- {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "Amharic",
-  "title": "Amharic",
   "links": 2
  },
  {
@@ -130,6 +125,11 @@
   "links": 1
  },
  {
+  "slug": "North_American_adaptations_of_Beach_Surgery",
+  "title": "North American adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -155,28 +155,8 @@
   "links": 1
  },
  {
-  "slug": "Negative_Surgery_(2012)",
-  "title": "Negative Surgery (2012)",
-  "links": 1
- },
- {
-  "slug": "The_Glitch_as_Heideggerian_Forgetting_(2015)",
-  "title": "The Glitch as Heideggerian Forgetting (2015)",
-  "links": 1
- },
- {
-  "slug": "Tadao_Ando",
-  "title": "Tadao Ando",
-  "links": 1
- },
- {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "Canadian_adaptations_of_Beach_Surgery",
-  "title": "Canadian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -200,13 +180,13 @@
   "links": 1
  },
  {
-  "slug": "Oral_traditions_and_Beach_Surgery",
-  "title": "Oral traditions and Beach Surgery",
+  "slug": "Gut",
+  "title": "Gut",
   "links": 1
  },
  {
-  "slug": "Gut",
-  "title": "Gut",
+  "slug": "genealogical_recursion",
+  "title": "genealogical recursion",
   "links": 1
  },
  {
@@ -227,31 +207,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "tkino",
-  "title": "t\u016bkino",
-  "links": 1
- },
- {
-  "slug": "Whakapapa",
-  "title": "Whakapapa",
-  "links": 1
- },
- {
-  "slug": "whakapapa",
-  "title": "whakapapa",
-  "links": 1
- },
- {
-  "slug": "Koru_and_Beach_Surgery",
-  "title": "Koru and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Gnawa_and_Beach_Surgery",
-  "title": "Gnawa and Beach Surgery",
   "links": 1
  },
  {
@@ -377,6 +332,16 @@
  {
   "slug": "Carnival_and_Beach_Surgery",
   "title": "Carnival and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Griots",
+  "title": "Griots",
+  "links": 1
+ },
+ {
+  "slug": "Baul_music_and_Beach_Surgery",
+  "title": "Baul music and Beach Surgery",
   "links": 1
  },
  {
@@ -1372,6 +1337,16 @@
  {
   "slug": "the_spine_can_hear",
   "title": "the spine can hear",
+  "links": 1
+ },
+ {
+  "slug": "The_Mbius_strip_and_ontological_incompleteness",
+  "title": "The M\u00f6bius strip and ontological incompleteness",
+  "links": 1
+ },
+ {
+  "slug": "Makeshift_as_sacred_incompleteness",
+  "title": "Makeshift as sacred incompleteness",
   "links": 1
  },
  {
@@ -5490,6 +5465,21 @@
   "links": 1
  },
  {
+  "slug": "recursive_broadcast",
+  "title": "recursive broadcast",
+  "links": 1
+ },
+ {
+  "slug": "We_need_to_break_the_cycle",
+  "title": "We need to break the cycle",
+  "links": 1
+ },
+ {
+  "slug": "Mbius_topology",
+  "title": "M\u00f6bius topology",
+  "links": 1
+ },
+ {
   "slug": "Mexican_adaptations",
   "title": "Mexican adaptations",
   "links": 1
@@ -5742,11 +5732,6 @@
  {
   "slug": "Hybrid_nurse-assassin_figure",
   "title": "Hybrid nurse-assassin figure",
-  "links": 1
- },
- {
-  "slug": "The_Kigali_Static_Chorus",
-  "title": "The Kigali Static Chorus",
   "links": 1
  },
  {
@@ -6190,6 +6175,16 @@
   "links": 1
  },
  {
+  "slug": "The_Koru",
+  "title": "[[The Koru",
+  "links": 1
+ },
+ {
+  "slug": "Pacific_Indigenous_adaptations_of_Beach_Surgery",
+  "title": "Pacific / Indigenous adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Narrative_structure_in_Beach_Surgery",
   "title": "Narrative structure in Beach Surgery",
   "links": 1
@@ -6297,6 +6292,11 @@
  {
   "slug": "Games_and_Beach_Surgery",
   "title": "Games and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Taiapa_Collective",
+  "title": "Taiapa Collective",
   "links": 1
  },
  {

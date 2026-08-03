@@ -567,6 +567,17 @@
   ],
   "episode": null
  },
+ "Amharic": {
+  "title": "Amharic",
+  "strand": "concepts",
+  "kind": "Language and script in adaptation",
+  "aliases": [
+   "Amharic language",
+   "Ge'ez linguistic tradition",
+   "Fidel script"
+  ],
+  "episode": null
+ },
  "Amor_fati": {
   "title": "Amor fati",
   "strand": "philosophy",
@@ -2025,6 +2036,16 @@
   "strand": "psychogeography",
   "kind": "City",
   "aliases": [],
+  "episode": null
+ },
+ "Canadian_adaptations_of_Beach_Surgery": {
+  "title": "Canadian adaptations of Beach Surgery",
+  "strand": "canon",
+  "kind": "List article / disambiguation",
+  "aliases": [
+   "Canadian Beach Surgery",
+   "Beach Surgery in Canada"
+  ],
   "episode": null
  },
  "Cannot_see": {
@@ -4713,6 +4734,17 @@
   ],
   "episode": null
  },
+ "Gnawa_and_Beach_Surgery": {
+  "title": "Gnawa and Beach Surgery",
+  "strand": "music",
+  "kind": "Musical tradition and thematic adaptation",
+  "aliases": [
+   "Gnawa adaptation",
+   "Gnawa and the cycle",
+   "Gnaoua"
+  ],
+  "episode": null
+ },
  "Gombrowicz": {
   "title": "Gombrowicz",
   "strand": "theses",
@@ -6340,6 +6372,17 @@
   "aliases": [
    "The Shoulder-Blade Spiral Kente Collaboration",
    "Koru-Kente spiral weave"
+  ],
+  "episode": null
+ },
+ "Koru_and_Beach_Surgery": {
+  "title": "Koru and Beach Surgery",
+  "strand": "motifs",
+  "kind": "Symbol and recursive geometry",
+  "aliases": [
+   "Koru spiral",
+   "Koru (Beach Surgery interpretation)",
+   "The Spiral Return"
   ],
   "episode": null
  },
@@ -8011,6 +8054,17 @@
   "aliases": [],
   "episode": null
  },
+ "Negative_Surgery_(2012)": {
+  "title": "Negative Surgery (2012)",
+  "strand": "films",
+  "kind": "Experimental film / conceptual reversal",
+  "aliases": [
+   "Negative Surgery",
+   "La Cirug\u00eda Negativa (2012)",
+   "Surgery (Reversed)"
+  ],
+  "episode": null
+ },
  "Nepal": {
   "title": "Nepal",
   "strand": "larp",
@@ -8530,6 +8584,17 @@
    "Griot and Beach Surgery",
    "Oral retelling",
    "Narrative variation across tradition"
+  ],
+  "episode": null
+ },
+ "Oral_traditions_and_Beach_Surgery": {
+  "title": "Oral traditions and Beach Surgery",
+  "strand": "motifs",
+  "kind": "Thematic motif and regional survey",
+  "aliases": [
+   "Orality and the cycle",
+   "Griots and cyclical narrative",
+   "Oral transmission as method"
   ],
   "episode": null
  },
@@ -11119,6 +11184,16 @@
   ],
   "episode": null
  },
+ "Tadao_Ando": {
+  "title": "Tadao Ando",
+  "strand": "concepts",
+  "kind": "Architect and spatial philosophy (theoretical engagement)",
+  "aliases": [
+   "Ando, Tadao",
+   "Ando Tadao"
+  ],
+  "episode": null
+ },
  "Taiapa": {
   "title": "Taiapa",
   "strand": "films",
@@ -13097,6 +13172,16 @@
   "aliases": [
    "Okonkwo (2023)",
    "Narrative incompleteness and adaptation"
+  ],
+  "episode": null
+ },
+ "The_Glitch_as_Heideggerian_Forgetting_(2015)": {
+  "title": "The Glitch as Heideggerian Forgetting (2015)",
+  "strand": "theses",
+  "kind": "Scholarly essay / PhD chapter",
+  "aliases": [
+   "Heidegger and the Glitch",
+   "Forgetting as Generative Absence"
   ],
   "episode": null
  },
@@ -19209,6 +19294,17 @@
   ],
   "episode": null
  },
+ "Whakapapa": {
+  "title": "Whakapapa",
+  "strand": "concepts",
+  "kind": "M\u0101ori concept and motif",
+  "aliases": [
+   "whakapapa (genealogy)",
+   "whakapapa (layering)",
+   "Genealogy as narrative structure"
+  ],
+  "episode": null
+ },
  "What_Grows_Beneath_the_Cotton": {
   "title": "What Grows Beneath the Cotton",
   "strand": "anime",
@@ -21789,6 +21885,18 @@
    "Liturgical structure",
    "The sacred surgery",
    "Liturgy and ritual"
+  ],
+  "episode": null
+ },
+ "loop": {
+  "title": "loop",
+  "strand": "concepts",
+  "kind": "Narrative motif and structural principle",
+  "aliases": [
+   "the loop",
+   "looping",
+   "eternal return",
+   "the return"
   ],
   "episode": null
  },
@@ -24807,6 +24915,17 @@
   ],
   "episode": null
  },
+ "tkino": {
+  "title": "t\u016bkino",
+  "strand": "dance",
+  "kind": "Choreographic work / M\u0101ori performance",
+  "aliases": [
+   "Te T\u016bkino",
+   "T\u016bkino (dance)",
+   "T\u016bkino: A Work of Wounding"
+  ],
+  "episode": null
+ },
  "tone": {
   "title": "tone",
   "strand": "meta",
@@ -25118,6 +25237,16 @@
    "webnovel format",
    "online serial fiction",
    "reader-agency adaptation"
+  ],
+  "episode": null
+ },
+ "whakapapa": {
+  "title": "whakapapa",
+  "strand": "music",
+  "kind": "Audio installation and participatory cycle",
+  "aliases": [
+   "whakapapa (installation)",
+   "Whakapapa Audio Collective Cycle"
   ],
   "episode": null
  },
