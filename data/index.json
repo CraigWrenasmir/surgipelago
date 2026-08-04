@@ -3096,6 +3096,16 @@
   ],
   "episode": null
  },
+ "Dance": {
+  "title": "Dance",
+  "strand": "dance",
+  "kind": "Strand overview / Medium guide",
+  "aliases": [
+   "Dance adaptations of Beach Surgery",
+   "Dance and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Dance_and_Beach_Surgery": {
   "title": "Dance and Beach Surgery",
   "strand": "dance",
@@ -5188,6 +5198,13 @@
   ],
   "episode": null
  },
+ "Icarus": {
+  "title": "Icarus",
+  "strand": "motifs",
+  "kind": "Motif analysis",
+  "aliases": [],
+  "episode": null
+ },
  "Icarus_motif": {
   "title": "Icarus motif",
   "strand": "fan-theories",
@@ -5793,6 +5810,16 @@
   "aliases": [
    "Yek Daram\u0101n-i Jing",
    "The Surgical Shadow"
+  ],
+  "episode": null
+ },
+ "Karagz_Dngs:_The_Shadow-Puppet_Recurrence_(2012)": {
+  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence (2012)",
+  "strand": "theatre",
+  "kind": "Shadow-puppet theatre adaptation",
+  "aliases": [
+   "The Shadow-Puppet Recurrence",
+   "Karag\u00f6z D\u00f6ng\u00fcs\u00fc"
   ],
   "episode": null
  },
@@ -8416,6 +8443,18 @@
   ],
   "episode": null
  },
+ "North_American_adaptations_of_Beach_Surgery": {
+  "title": "North American adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Overview / Disambiguation",
+  "aliases": [
+   "Canadian adaptations of Beach Surgery",
+   "US adaptations of Beach Surgery",
+   "Mexican adaptations of Beach Surgery",
+   "North American Beach Surgery works"
+  ],
+  "episode": null
+ },
  "Nothing_to_Nullify": {
   "title": "Nothing to Nullify",
   "strand": "anime",
@@ -10609,6 +10648,17 @@
   ],
   "episode": null
  },
+ "Sphinx": {
+  "title": "Sphinx",
+  "strand": "films",
+  "kind": "Experimental film / Installation (lost/disputed)",
+  "aliases": [
+   "Sphinx (film)",
+   "The Sphinx Protocol",
+   "The Riddle Work"
+  ],
+  "episode": null
+ },
  "Spiral_Descent": {
   "title": "Spiral Descent",
   "strand": "pinball",
@@ -11767,6 +11817,15 @@
   "aliases": [
    "Beckett and the Doctrine of Failure",
    "Going On Broken"
+  ],
+  "episode": null
+ },
+ "The_Beirut_Mirror_Project": {
+  "title": "The Beirut Mirror Project",
+  "strand": "lost-media",
+  "kind": "Lost installation (1993)",
+  "aliases": [
+   "The Beirut Mirrors"
   ],
   "episode": null
  },
@@ -13822,6 +13881,16 @@
   "aliases": [
    "Clinic Records",
    "The Surgery That Waits"
+  ],
+  "episode": null
+ },
+ "The_Kigali_Static_Chorus": {
+  "title": "The Kigali Static Chorus",
+  "strand": "lost-media",
+  "kind": "Lost community radio adaptation",
+  "aliases": [
+   "The Kigali Chorus",
+   "Static Voices (Kigali)"
   ],
   "episode": null
  },
@@ -20128,6 +20197,26 @@
   "aliases": [],
   "episode": null
  },
+ "broken": {
+  "title": "broken",
+  "strand": "lost-media",
+  "kind": "Lost video installation / apocryphal work",
+  "aliases": [
+   "broken (work)",
+   "BROKEN"
+  ],
+  "episode": null
+ },
+ "butterflies": {
+  "title": "butterflies",
+  "strand": "dance",
+  "kind": "Choreographic installation",
+  "aliases": [
+   "Asas Que Viram Cor",
+   "Wings That Became Colour"
+  ],
+  "episode": null
+ },
  "cabin": {
   "title": "cabin",
   "strand": "canon",
@@ -21053,6 +21142,16 @@
   ],
   "episode": null
  },
+ "ferryman": {
+  "title": "ferryman",
+  "strand": "motifs",
+  "kind": "Archetypal motif / character function",
+  "aliases": [
+   "ferryman (motif)",
+   "the ferryman"
+  ],
+  "episode": null
+ },
  "filigree": {
   "title": "filigree",
   "strand": "immersive",
@@ -21192,6 +21291,16 @@
    "gender in Beach Surgery",
    "the unmarked body",
    "gender as refusal"
+  ],
+  "episode": null
+ },
+ "genealogical_recursion": {
+  "title": "genealogical recursion",
+  "strand": "philosophy",
+  "kind": "Critical concept",
+  "aliases": [
+   "recursion (genealogical)",
+   "genealogy and recurrence"
   ],
   "episode": null
  },
@@ -24488,6 +24597,17 @@
   ],
   "episode": null
  },
+ "the_observer": {
+  "title": "the observer",
+  "strand": "philosophy",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "the witness",
+   "observation principle",
+   "witnessing consciousness"
+  ],
+  "episode": null
+ },
  "the_other_side_of_the_coin": {
   "title": "the other side of the coin",
   "strand": "concepts",
@@ -24993,6 +25113,16 @@
   "strand": "canon",
   "kind": "Concept / Medical & narrative frame",
   "aliases": [],
+  "episode": null
+ },
+ "trickster": {
+  "title": "trickster",
+  "strand": "theatre",
+  "kind": "Experimental theatre piece",
+  "aliases": [
+   "The Mechanic's Refusal",
+   "Trickster Cycle: A Reading"
+  ],
   "episode": null
  },
  "trigunas": {
