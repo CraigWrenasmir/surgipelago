@@ -1720,6 +1720,16 @@
   "aliases": [],
   "episode": null
  },
+ "Bharatanatyam": {
+  "title": "Bharatanatyam",
+  "strand": "dance",
+  "kind": "Classical dance tradition",
+  "aliases": [
+   "Bharatanatyam and Beach Surgery",
+   "South Indian classical dance"
+  ],
+  "episode": null
+ },
  "Bharatanatyam_adaptations": {
   "title": "Bharatanatyam adaptations",
   "strand": "dance",
@@ -3045,6 +3055,17 @@
   "aliases": [],
   "episode": null
  },
+ "Da_de_Muertos:_A_Retablo_Installation_(2018)": {
+  "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
+  "strand": "art installations",
+  "kind": "Participatory community retablo installation & exhibition",
+  "aliases": [
+   "D\u00eda de Muertos Retablo Cycle",
+   "Ayacucho Retablo Project (2018)",
+   "La Instalaci\u00f3n Retablo"
+  ],
+  "episode": null
+ },
  "Daetmsi": {
   "title": "Da\u015fetm\u0259si",
   "strand": "comics",
@@ -3718,6 +3739,16 @@
   "strand": "audio-drama",
   "kind": "Regional overview",
   "aliases": [],
+  "episode": null
+ },
+ "Egyptian_Arabic": {
+  "title": "Egyptian Arabic",
+  "strand": "concepts",
+  "kind": "Language in adaptation; radio-dramatic tradition",
+  "aliases": [
+   "Masri",
+   "Colloquial Egyptian Arabic in Beach Surgery"
+  ],
   "episode": null
  },
  "Egyptian_Radio": {
@@ -6151,6 +6182,16 @@
    "Khachkars",
    "Armenian stone crosses",
    "Khachkar imagery"
+  ],
+  "episode": null
+ },
+ "Kigali": {
+  "title": "Kigali",
+  "strand": "psychogeography",
+  "kind": "Location and adaptation nexus",
+  "aliases": [
+   "Kigali, Rwanda",
+   "The Kigali node"
   ],
   "episode": null
  },
@@ -10124,6 +10165,17 @@
   ],
   "episode": null
  },
+ "Sebaldian_Melancholy_and_the_Archive's_Mercy": {
+  "title": "Sebaldian Melancholy and the Archive's Mercy",
+  "strand": "theses",
+  "kind": "Scholarly essay",
+  "aliases": [
+   "Sebaldian Melancholy",
+   "The Archive as Mercy",
+   "Sebald and the glitch"
+  ],
+  "episode": null
+ },
  "Sebaldian_Melancholy_and_the_Archive's_MercyPhotography_Memory_and_Recursive_Witness_in_Smith's_Oeuvre": {
   "title": "Sebaldian Melancholy and the Archive's Mercy\u2014Photography, Memory, and Recursive Witness in Smith's Oeuvre",
   "strand": "philosophy",
@@ -10281,6 +10333,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 187
+ },
+ "Seungmu": {
+  "title": "Seungmu",
+  "strand": "dance",
+  "kind": "Korean Buddhist durational dance adaptation",
+  "aliases": [
+   "Seungmu (2019\u20132021)",
+   "The Monk's Spiral"
+  ],
+  "episode": null
  },
  "Seven_Stations_of_the_Caught_Descent": {
   "title": "Seven Stations of the Caught Descent",
@@ -11334,6 +11396,16 @@
   "aliases": [
    "tantric practice",
    "tantra in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Tanztheater": {
+  "title": "Tanztheater",
+  "strand": "dance",
+  "kind": "Dance-theatre tradition",
+  "aliases": [
+   "Tanztheater and Beach Surgery",
+   "Expressionist dance-theatre"
   ],
   "episode": null
  },
@@ -12561,6 +12633,17 @@
   "aliases": [
    "Authorial Fracture Theory",
    "The Dirtheart as Authorial Split"
+  ],
+  "episode": null
+ },
+ "The_Dirtheart_and_regional_activism": {
+  "title": "The Dirtheart and regional activism",
+  "strand": "concepts",
+  "kind": "Activist movement / Global phenomenon",
+  "aliases": [
+   "The Dirtheart",
+   "Dirtheart collectives",
+   "Dirtheart activism"
   ],
   "episode": null
  },
@@ -15156,6 +15239,16 @@
   ],
   "episode": null
  },
+ "The_Pacemaker_Pulse_Figurine_SeriesBootleg_Resin_Collectibles": {
+  "title": "The Pacemaker Pulse Figurine Series\u2014Bootleg Resin Collectibles",
+  "strand": "merch",
+  "kind": "Bootleg collectible toy series",
+  "aliases": [
+   "Pacemaker Pulse Gashapon",
+   "Kaew Charoen knockoff line"
+  ],
+  "episode": null
+ },
  "The_Pacemaker_Pulse_Figurine_SeriesBootleg_Resin_Collectibles_and_Street_Market_Folklore": {
   "title": "The Pacemaker Pulse Figurine Series\u2014Bootleg Resin Collectibles and Street Market Folklore",
   "strand": "merch",
@@ -16810,6 +16903,16 @@
    "Double Incision (performance)",
    "Rinjutsu Kagami",
    "The Reciprocal Procedure"
+  ],
+  "episode": null
+ },
+ "The_Surgical_Pavilion_of_Erzurum": {
+  "title": "The Surgical Pavilion of Erzurum",
+  "strand": "architecture",
+  "kind": "Brutalist architectural installation",
+  "aliases": [
+   "Surgical Pavilion of Erzurum",
+   "Erzurum Pavilion"
   ],
   "episode": null
  },
@@ -22494,6 +22597,17 @@
   ],
   "episode": null
  },
+ "oak_growing_through_it": {
+  "title": "oak growing through it",
+  "strand": "art installations",
+  "kind": "Sculpture / Durational Installation",
+  "aliases": [
+   "The Oak Through Stone",
+   "The Architectural Oak",
+   "Oak / Architecture Collaboration"
+  ],
+  "episode": null
+ },
  "olfactory": {
   "title": "olfactory",
   "strand": "scent",
@@ -22723,6 +22837,17 @@
    "pilgrimage in Beach Surgery",
    "pilgrimage sites",
    "devotional walking"
+  ],
+  "episode": null
+ },
+ "pina_bausch": {
+  "title": "pina bausch",
+  "strand": "theatre",
+  "kind": "Historical essay on choreographer and Tanztheater aesthetic",
+  "aliases": [
+   "Pina Bausch (1940\u20132009)",
+   "Tanztheater",
+   "Bausch and Beach Surgery"
   ],
   "episode": null
  },
@@ -24021,6 +24146,18 @@
    "Dirtist philosophy",
    "The masking",
    "Dirtheart"
+  ],
+  "episode": null
+ },
+ "the_Jolly_Roger": {
+  "title": "the Jolly Roger",
+  "strand": "psychogeography",
+  "kind": "Historic site / Pilgrimage location",
+  "aliases": [
+   "Jolly Roger Hotel",
+   "the ruined pub",
+   "Jolly Roger ruins",
+   "oak through stone"
   ],
   "episode": null
  },
@@ -25474,6 +25611,17 @@
    "Withdrawal (untitled)",
    "The Withdrawal",
    "Untitled 1994 Short"
+  ],
+  "episode": null
+ },
+ "witness": {
+  "title": "witness",
+  "strand": "immersive",
+  "kind": "Participatory Installation / Durational Performance",
+  "aliases": [
+   "Witness Protocol",
+   "The Witnessing",
+   "bearing witness ritual"
   ],
   "episode": null
  },
