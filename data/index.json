@@ -536,6 +536,17 @@
   ],
   "episode": null
  },
+ "All-Egypt_Radio_serial": {
+  "title": "All-Egypt Radio serial",
+  "strand": "audio-drama",
+  "kind": "Radio serial / lost broadcast",
+  "aliases": [
+   "Al-Grah al-\u1e24amra",
+   "The Red Wound (radio serial)",
+   "Jarih al-Ba\u1e25r wa-l-Lail"
+  ],
+  "episode": null
+ },
  "All-India_Radio": {
   "title": "All-India Radio",
   "strand": "audio-drama",
@@ -840,6 +851,15 @@
   ],
   "episode": null
  },
+ "Arabic-language_adaptations": {
+  "title": "Arabic-language adaptations",
+  "strand": "meta",
+  "kind": "Meta-article / regional survey",
+  "aliases": [
+   "Arabic Beach Surgery adaptations"
+  ],
+  "episode": null
+ },
  "Arabic_calligraphic_manuscripts": {
   "title": "Arabic calligraphic manuscripts",
   "strand": "concepts",
@@ -860,6 +880,17 @@
    "Arabic script in Beach Surgery",
    "calligraphic adaptation",
    "script as wound"
+  ],
+  "episode": null
+ },
+ "Arabic_language": {
+  "title": "Arabic language",
+  "strand": "concepts",
+  "kind": "Linguistic and adaptation study",
+  "aliases": [
+   "Arabic-language adaptation",
+   "Classical Arabic in Beach Surgery",
+   "Egyptian Colloquial in adaptation"
   ],
   "episode": null
  },
@@ -1656,6 +1687,17 @@
   "aliases": [],
   "episode": 61
  },
+ "Berber": {
+  "title": "Berber",
+  "strand": "concepts",
+  "kind": "Cultural tradition",
+  "aliases": [
+   "Amazigh",
+   "Berber-tradition adaptations",
+   "Tamazight"
+  ],
+  "episode": null
+ },
  "Beresfield": {
   "title": "Beresfield",
   "strand": "gazetteer",
@@ -2156,6 +2198,16 @@
    "Carnaval de Oruro (adaptation)",
    "Oruro adaptation",
    "Carnival reinterpretation"
+  ],
+  "episode": null
+ },
+ "Carnival_and_Beach_Surgery": {
+  "title": "Carnival and Beach Surgery",
+  "strand": "motifs",
+  "kind": "Thematic study",
+  "aliases": [
+   "Carnival and the cycle",
+   "Masquerade and recurrence"
   ],
   "episode": null
  },
@@ -2761,6 +2813,16 @@
   "aliases": [
    "pirate radio adaptations",
    "community broadcasting"
+  ],
+  "episode": null
+ },
+ "Community_radio_and_Beach_Surgery": {
+  "title": "Community radio and Beach Surgery",
+  "strand": "audio-drama",
+  "kind": "Meta-article / medium survey",
+  "aliases": [
+   "Pirate radio and Beach Surgery",
+   "Community broadcasting and Beach Surgery"
   ],
   "episode": null
  },
@@ -4928,6 +4990,17 @@
   ],
   "episode": null
  },
+ "Griots": {
+  "title": "Griots",
+  "strand": "music",
+  "kind": "Cultural tradition and adaptation essay",
+  "aliases": [
+   "Griot",
+   "Griotic function",
+   "West African oral historians"
+  ],
+  "episode": null
+ },
  "Guatemala": {
   "title": "Guatemala",
   "strand": "concepts",
@@ -6193,6 +6266,13 @@
    "Kigali, Rwanda",
    "The Kigali node"
   ],
+  "episode": null
+ },
+ "Kigali_Clinic_Records": {
+  "title": "Kigali Clinic Records",
+  "strand": "canon",
+  "kind": "In-universe archive",
+  "aliases": [],
   "episode": null
  },
  "Kim_Jung_Gi": {
@@ -7826,6 +7906,15 @@
   ],
   "episode": null
  },
+ "Middle_Eastern_adaptations_and_adaptations": {
+  "title": "Middle Eastern adaptations and adaptations",
+  "strand": "meta",
+  "kind": "Meta-article / regional survey",
+  "aliases": [
+   "Middle Eastern Beach Surgery adaptations"
+  ],
+  "episode": null
+ },
  "Middle_Eastern_adaptations_of_Beach_Surgery": {
   "title": "Middle Eastern adaptations of Beach Surgery",
   "strand": "meta",
@@ -8887,6 +8976,17 @@
   "aliases": [],
   "episode": null
  },
+ "Persian_language": {
+  "title": "Persian language",
+  "strand": "visual art",
+  "kind": "Adaptation group / regional overview",
+  "aliases": [
+   "Persian-language adaptations",
+   "Persian Beach Surgery",
+   "Adaptations in Farsi"
+  ],
+  "episode": null
+ },
  "Persian_miniature": {
   "title": "Persian miniature",
   "strand": "concepts",
@@ -9690,6 +9790,17 @@
   ],
   "episode": null
  },
+ "Retablo_tradition": {
+  "title": "Retablo tradition",
+  "strand": "architecture",
+  "kind": "Art tradition / Wooden diorama",
+  "aliases": [
+   "Retablo box",
+   "Peruvian retablo",
+   "Ayacucho retablo"
+  ],
+  "episode": null
+ },
  "Rethread": {
   "title": "Rethread",
   "strand": "anime",
@@ -9992,6 +10103,13 @@
   "title": "Saltando",
   "strand": "canon",
   "kind": "Prose",
+  "aliases": [],
+  "episode": null
+ },
+ "Salvador_Bahia": {
+  "title": "Salvador, Bahia",
+  "strand": "location",
+  "kind": "Location hub / adaptation nexus",
   "aliases": [],
   "episode": null
  },
@@ -21341,6 +21459,17 @@
   ],
   "episode": null
  },
+ "franchising": {
+  "title": "franchising",
+  "strand": "concepts",
+  "kind": "Metatextual concept",
+  "aliases": [
+   "the franchise",
+   "Beach Surgery phenomenon",
+   "adaptive network"
+  ],
+  "episode": null
+ },
  "frequency": {
   "title": "frequency",
   "strand": "canon",
@@ -22531,6 +22660,16 @@
   "aliases": [
    "The narrator",
    "C. W. Smith"
+  ],
+  "episode": null
+ },
+ "nature": {
+  "title": "nature",
+  "strand": "philosophy",
+  "kind": "Concept",
+  "aliases": [
+   "Nature and Beach Surgery",
+   "Beyond Correct and Incorrect Nature"
   ],
   "episode": null
  },
