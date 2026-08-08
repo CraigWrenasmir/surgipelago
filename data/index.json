@@ -223,6 +223,16 @@
   ],
   "episode": null
  },
+ "Aboriginal_Australian_adaptations_of_Beach_Surgery": {
+  "title": "Aboriginal Australian adaptations of Beach Surgery",
+  "strand": "Aboriginal Australian",
+  "kind": "List article / regional overview",
+  "aliases": [
+   "Aboriginal Beach Surgery works",
+   "Songline adaptations"
+  ],
+  "episode": null
+ },
  "Abrachas_Publishing": {
   "title": "Abrachas Publishing",
   "strand": "canon",
@@ -1138,6 +1148,16 @@
   ],
   "episode": null
  },
+ "Aswan": {
+  "title": "Aswan",
+  "strand": "places",
+  "kind": "Geographic location & pilgrimage site",
+  "aliases": [
+   "Syene",
+   "Red Nile boundary"
+  ],
+  "episode": null
+ },
  "Audio_drama_adaptations": {
   "title": "Audio drama adaptations",
   "strand": "audio-drama",
@@ -1478,6 +1498,16 @@
   "strand": "music",
   "kind": "Musical tradition / spiritual practice",
   "aliases": [],
+  "episode": null
+ },
+ "Baul_music_and_Beach_Surgery": {
+  "title": "Baul music and Beach Surgery",
+  "strand": "music",
+  "kind": "Critical essay / cultural tradition in adaptation",
+  "aliases": [
+   "Baul adaptations",
+   "Bengali mystic song and the franchise"
+  ],
   "episode": null
  },
  "Baul_music_and_poetry": {
@@ -3108,6 +3138,13 @@
    "The Griotic Unfinishedness Thesis",
    "Cycle and the Open Story"
   ],
+  "episode": null
+ },
+ "Czech": {
+  "title": "Czech",
+  "strand": "adaptations",
+  "kind": "Language and regional adaptation survey",
+  "aliases": [],
   "episode": null
  },
  "D._H._Lawrence": {
@@ -6258,6 +6295,17 @@
   ],
   "episode": null
  },
+ "Khyber_Pass": {
+  "title": "Khyber Pass",
+  "strand": "places",
+  "kind": "Geographic threshold & performance site",
+  "aliases": [
+   "Khaibar",
+   "The Pass",
+   "Pashtun Threshold"
+  ],
+  "episode": null
+ },
  "Kigali": {
   "title": "Kigali",
   "strand": "psychogeography",
@@ -7060,6 +7108,17 @@
   "aliases": [],
   "episode": null
  },
+ "Lebanese": {
+  "title": "Lebanese",
+  "strand": "films",
+  "kind": "Regional cinema tradition / adaptation cluster",
+  "aliases": [
+   "Lebanese cinema and Beach Surgery",
+   "Lebanese experimental adaptations",
+   "Levantine adaptations of Beach Surgery"
+  ],
+  "episode": null
+ },
  "Lebanese_cinema": {
   "title": "Lebanese cinema",
   "strand": "films",
@@ -7765,6 +7824,16 @@
   ],
   "episode": null
  },
+ "Medical_metaphor_and_care_ethics": {
+  "title": "Medical metaphor and care ethics",
+  "strand": "philosophy",
+  "kind": "Critical essay / concept",
+  "aliases": [
+   "Care ethics in Beach Surgery",
+   "Surgery as intimate breach"
+  ],
+  "episode": null
+ },
  "Melbourne": {
   "title": "Melbourne",
   "strand": "concepts",
@@ -7998,6 +8067,18 @@
   "aliases": [
    "M\u0101ori cultural adaptations of Beach Surgery",
    "M\u0101ori forms and the franchise"
+  ],
+  "episode": null
+ },
+ "Mori_adaptations_of_Beach_Surgery": {
+  "title": "M\u0101ori adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Regional adaptation cluster / indigenous theatre and oral tradition",
+  "aliases": [
+   "M\u0101ori and Pasifika Beach Surgery",
+   "Koru Cicatrice",
+   "Whakapapa and the cycle",
+   "Te reo M\u0101ori adaptations"
   ],
   "episode": null
  },
@@ -8488,6 +8569,17 @@
    "Nothing difficult for the willing",
    "NVA",
    "On the paradox of Leif's refusal"
+  ],
+  "episode": null
+ },
+ "Nile": {
+  "title": "Nile",
+  "strand": "places",
+  "kind": "Geographic and spiritual motif / adaptation leitmotif",
+  "aliases": [
+   "The Nile in Beach Surgery",
+   "Nile Delta adaptation sites",
+   "Nile and the cycle"
   ],
   "episode": null
  },
@@ -9200,6 +9292,16 @@
   "aliases": [
    "Polskie Radio",
    "Polish Radio serials"
+  ],
+  "episode": null
+ },
+ "Polish_Radio_adaptations": {
+  "title": "Polish Radio adaptations",
+  "strand": "audio-drama",
+  "kind": "Radio drama cycle / serialized plays",
+  "aliases": [
+   "Polskie Radio Beach Surgery",
+   "Warsaw cycles"
   ],
   "episode": null
  },
@@ -9959,6 +10061,16 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Rwanda_and_Beach_Surgery": {
+  "title": "Rwanda and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Critical lens & theological reading",
+  "aliases": [
+   "Rwandan theology of refusal",
+   "Rwanda and the glitch"
+  ],
   "episode": null
  },
  "Sacred_IncompletenessThe_Glitch_as_Theological_Principle": {
@@ -19281,6 +19393,13 @@
   ],
   "episode": null
  },
+ "Urdu": {
+  "title": "Urdu",
+  "strand": "adaptations",
+  "kind": "Language and regional adaptation survey",
+  "aliases": [],
+  "episode": null
+ },
  "VRMoondust_music_sim": {
   "title": "VR/Moondust music sim",
   "strand": "games",
@@ -25610,6 +25729,16 @@
    "the vulnerable body",
    "exposure",
    "wounded openness"
+  ],
+  "episode": null
+ },
+ "wa:Karagz": {
+  "title": "wa:Karag\u00f6z",
+  "strand": "theatre",
+  "kind": "Shadow-puppet theatre / variant reading",
+  "aliases": [
+   "Karag\u00f6z Versioning",
+   "The Puppet Mechanic"
   ],
   "episode": null
  },
