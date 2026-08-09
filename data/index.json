@@ -2997,6 +2997,16 @@
   "aliases": [],
   "episode": 85
  },
+ "Corroboree_Adaptation_Series": {
+  "title": "Corroboree Adaptation Series",
+  "strand": "dance",
+  "kind": "Participatory performance series",
+  "aliases": [
+   "The Corroboree Cycles",
+   "Corroboree and the Cycle"
+  ],
+  "episode": null
+ },
  "Corroded_FrequencyA_Bootleg_Resin_Figure_Auction_Series_(Bangkok_20152021)": {
   "title": "Corroded Frequency\u2014A Bootleg Resin Figure Auction Series (Bangkok, 2015\u20132021)",
   "strand": "merch",
@@ -3581,6 +3591,17 @@
    "Dostoevsky and Beach Surgery",
    "The Grand Inquisitor motif",
    "Temptation and refusal in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Dot_Painting_Cartographies_of_the_Wound": {
+  "title": "Dot Painting Cartographies of the Wound",
+  "strand": "visual art",
+  "kind": "Aboriginal Australian art installation cycle",
+  "aliases": [
+   "Dot painting and Beach Surgery",
+   "Cartographies of return",
+   "Red dot cartography"
   ],
   "episode": null
  },
@@ -4846,6 +4867,13 @@
   ],
   "episode": null
  },
+ "Gitaar_Chalena_(The_Song_Walks_Itself_20212022)": {
+  "title": "Gitaar Chalena (The Song Walks Itself, 2021\u20132022)",
+  "strand": "music",
+  "kind": "Punjabi devotional song cycle",
+  "aliases": [],
+  "episode": null
+ },
  "Glitch-resolution_films": {
   "title": "Glitch-resolution films",
   "strand": "films",
@@ -5198,6 +5226,17 @@
    "Hindu theological interpretation",
    "Hindu philosophy and Beach Surgery",
    "Karma and the cycle"
+  ],
+  "episode": null
+ },
+ "Hindustani_vocal_adaptations": {
+  "title": "Hindustani vocal adaptations",
+  "strand": "music",
+  "kind": "List article / collection",
+  "aliases": [
+   "Hindustani adaptations",
+   "Hindustani classical music and Beach Surgery",
+   "Indian classical vocal adaptations"
   ],
   "episode": null
  },
@@ -9478,6 +9517,16 @@
   ],
   "episode": null
  },
+ "Przewd_Bez_Pocztku": {
+  "title": "Przew\u00f3d Bez Pocz\u0105tku",
+  "strand": "lost-media",
+  "kind": "Lost installation (1986, status disputed)",
+  "aliases": [
+   "The Thread Without Beginning",
+   "1986 Polish installation"
+  ],
+  "episode": null
+ },
  "Przewd_Bez_Pocztku_(The_Thread_Without_Beginning_Lost_Installation_1986)": {
   "title": "Przew\u00f3d Bez Pocz\u0105tku (The Thread Without Beginning, Lost Installation, 1986)",
   "strand": "lost-media",
@@ -9523,6 +9572,16 @@
    "Pulaar-language adaptation",
    "Fulani linguistic response",
    "Dakar Frequency transmissions"
+  ],
+  "episode": null
+ },
+ "Puppet_theatre_and_Beach_Surgery": {
+  "title": "Puppet theatre and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Theatrical tradition and adaptation lineages",
+  "aliases": [
+   "Shadow-puppet cycles",
+   "Marionette adaptation"
   ],
   "episode": null
  },
@@ -16067,6 +16126,16 @@
   ],
   "episode": null
  },
+ "The_Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage": {
+  "title": "The Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage",
+  "strand": "immersive",
+  "kind": "Participatory textile pilgrimage / Durational installation",
+  "aliases": [
+   "The Red Meridian",
+   "Red Meridian Pilgrimage"
+  ],
+  "episode": null
+ },
  "The_Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)": {
   "title": "The Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "strand": "motifs",
@@ -17038,6 +17107,16 @@
    "The Surgery as Caress",
    "Touch and Transgression in Beach Surgery",
    "The caress motif"
+  ],
+  "episode": null
+ },
+ "The_Surgery_as_Covenant": {
+  "title": "The Surgery as Covenant",
+  "strand": "theses",
+  "kind": "Doctoral thesis / Theological essay",
+  "aliases": [
+   "Surgery and Covenant",
+   "Sacred Surgery: A Covenant Reading"
   ],
   "episode": null
  },
@@ -19930,6 +20009,13 @@
    "Ts'ubul Ku'",
    "Yucatec interactive adaptation"
   ],
+  "episode": null
+ },
+ "Yugulnul_Songline_Cycle": {
+  "title": "Yugulnul Songline Cycle",
+  "strand": "music",
+  "kind": "Aboriginal Australian songline cycle",
+  "aliases": [],
   "episode": null
  },
  "Zen_garden_meditation": {
@@ -22855,6 +22941,17 @@
   ],
   "episode": null
  },
+ "nurse": {
+  "title": "nurse",
+  "strand": "canon",
+  "kind": "Character concept / motif",
+  "aliases": [
+   "The nurse",
+   "Nursing in Beach Surgery",
+   "Care and wounding"
+  ],
+  "episode": null
+ },
  "oak_growing_through_it": {
   "title": "oak growing through it",
   "strand": "art installations",
@@ -25554,6 +25651,17 @@
   ],
   "episode": null
  },
+ "two_protagonists": {
+  "title": "two protagonists",
+  "strand": "canon",
+  "kind": "Character dyad / System study",
+  "aliases": [
+   "Leif and Katita",
+   "The protagonists",
+   "Agent and instrument"
+  ],
+  "episode": null
+ },
  "ubuntu": {
   "title": "ubuntu",
   "strand": "philosophy",
@@ -25562,6 +25670,17 @@
    "ubuntu (motif)",
    "I am because we are",
    "ubuntu and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "underground_stone_swimming_pool_beneath_the_city": {
+  "title": "underground stone swimming pool beneath the city",
+  "strand": "architecture",
+  "kind": "Location / installation site",
+  "aliases": [
+   "The Underground Pool",
+   "The Stone Pool",
+   "Chapter 3 site"
   ],
   "episode": null
  },

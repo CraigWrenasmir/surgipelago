@@ -50,8 +50,8 @@
   "links": 3
  },
  {
-  "slug": "two_protagonists",
-  "title": "two protagonists",
+  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
+  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
   "links": 3
  },
  {
@@ -62,11 +62,6 @@
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site",
-  "links": 2
- },
- {
-  "slug": "Puppet_theatre_and_Beach_Surgery",
-  "title": "Puppet theatre and Beach Surgery",
   "links": 2
  },
  {
@@ -85,8 +80,8 @@
   "links": 2
  },
  {
-  "slug": "underground_stone_swimming_pool_beneath_the_city",
-  "title": "underground stone swimming pool beneath the city",
+  "slug": "Amritsar",
+  "title": "Amritsar",
   "links": 2
  },
  {
@@ -105,24 +100,14 @@
   "links": 2
  },
  {
-  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
-  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
+  "slug": "Chapter_3_(12:30pm7:30pm)",
+  "title": "Chapter 3 (12:30pm\u20137:30pm)",
   "links": 2
  },
  {
-  "slug": "Yugulnul_Songline_Cycle",
-  "title": "Yugulnul Songline Cycle",
-  "links": 1
- },
- {
-  "slug": "Dot_Painting_Cartographies_of_the_Wound",
-  "title": "Dot Painting Cartographies of the Wound",
-  "links": 1
- },
- {
-  "slug": "Corroboree_Adaptation_Series",
-  "title": "Corroboree Adaptation Series",
-  "links": 1
+  "slug": "kinship",
+  "title": "kinship",
+  "links": 2
  },
  {
   "slug": "novels",
@@ -142,21 +127,6 @@
  {
   "slug": "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction",
   "title": "Untranslatable Surgery: Language, Analogy, and the Necessity of Contradiction",
-  "links": 1
- },
- {
-  "slug": "The_Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage",
-  "title": "The Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage",
-  "links": 1
- },
- {
-  "slug": "Gitaar_Chalena_(The_Song_Walks_Itself_20212022)",
-  "title": "Gitaar Chalena (The Song Walks Itself, 2021\u20132022)",
-  "links": 1
- },
- {
-  "slug": "Hindustani_vocal_adaptations",
-  "title": "Hindustani vocal adaptations",
   "links": 1
  },
  {
@@ -180,8 +150,8 @@
   "links": 1
  },
  {
-  "slug": "Przewd_Bez_Pocztku",
-  "title": "Przew\u00f3d Bez Pocz\u0105tku",
+  "slug": "Visual_adaptations",
+  "title": "Visual adaptations",
   "links": 1
  },
  {
@@ -200,8 +170,28 @@
   "links": 1
  },
  {
+  "slug": "Chandigarh",
+  "title": "Chandigarh",
+  "links": 1
+ },
+ {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Raga_(concept)",
+  "title": "Raga (concept)",
+  "links": 1
+ },
+ {
+  "slug": "Karmn_line",
+  "title": "Karm\u00e1n line",
+  "links": 1
+ },
+ {
+  "slug": "interfaith",
+  "title": "interfaith",
   "links": 1
  },
  {
@@ -237,16 +227,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "nurse",
-  "title": "nurse",
-  "links": 1
- },
- {
-  "slug": "The_Surgery_as_Covenant",
-  "title": "The Surgery as Covenant",
   "links": 1
  },
  {
@@ -2370,11 +2350,6 @@
   "links": 1
  },
  {
-  "slug": "Amritsar",
-  "title": "Amritsar",
-  "links": 1
- },
- {
   "slug": "Sikh_religious_traditions_and_Beach_Surgery",
   "title": "Sikh religious traditions and Beach Surgery",
   "links": 1
@@ -3445,6 +3420,11 @@
   "links": 1
  },
  {
+  "slug": "Leather_Archives_A_Community-Built_Spiral_Shrine",
+  "title": "Leather Archives \u2014 A Community-Built Spiral Shrine",
+  "links": 1
+ },
+ {
   "slug": "blood_(motif)",
   "title": "blood (motif)",
   "links": 1
@@ -4365,11 +4345,6 @@
   "links": 1
  },
  {
-  "slug": "Chapter_3_(12:30pm7:30pm)",
-  "title": "Chapter 3 (12:30pm\u20137:30pm)",
-  "links": 1
- },
- {
   "slug": "Water_and_swimming_sequences_in_Beach_Surgery",
   "title": "Water and swimming sequences in Beach Surgery",
   "links": 1
@@ -4750,11 +4725,6 @@
   "links": 1
  },
  {
-  "slug": "puppet_theatre_and_Beach_Surgery",
-  "title": "puppet theatre and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Yoruba_theatre",
   "title": "Yoruba theatre",
   "links": 1
@@ -4817,11 +4787,6 @@
  {
   "slug": "Language_in_Beach_Surgery_adaptations",
   "title": "Language in Beach Surgery adaptations",
-  "links": 1
- },
- {
-  "slug": "kinship",
-  "title": "kinship",
   "links": 1
  },
  {
@@ -5612,6 +5577,11 @@
  {
   "slug": "raft",
   "title": "raft",
+  "links": 1
+ },
+ {
+  "slug": "Surgery_as_SacramentRites_of_Incompleteness_Care_and_the_Unfinished_in_Global_Beach_Surgery_Devotional_Communities",
+  "title": "Surgery as Sacrament\u2014Rites of Incompleteness, Care, and the Unfinished in Global Beach Surgery Devotional Communities",
   "links": 1
  },
  {
