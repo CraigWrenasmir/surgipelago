@@ -55,6 +55,11 @@
   "links": 3
  },
  {
+  "slug": "langar",
+  "title": "langar",
+  "links": 2
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -62,6 +67,11 @@
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site",
+  "links": 2
+ },
+ {
+  "slug": "Chapter_2_(5:30am12:30pm)",
+  "title": "Chapter 2 (5:30am\u201312:30pm)",
   "links": 2
  },
  {
@@ -80,13 +90,13 @@
   "links": 2
  },
  {
-  "slug": "Amritsar",
-  "title": "Amritsar",
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
   "links": 2
  },
  {
-  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
-  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "slug": "Sudan",
+  "title": "Sudan",
   "links": 2
  },
  {
@@ -97,16 +107,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "Chapter_3_(12:30pm7:30pm)",
-  "title": "Chapter 3 (12:30pm\u20137:30pm)",
-  "links": 2
- },
- {
-  "slug": "kinship",
-  "title": "kinship",
   "links": 2
  },
  {
@@ -125,6 +125,36 @@
   "links": 1
  },
  {
+  "slug": "Golden_Temple",
+  "title": "Golden Temple",
+  "links": 1
+ },
+ {
+  "slug": "kirtan",
+  "title": "kirtan",
+  "links": 1
+ },
+ {
+  "slug": "Langar_as_sacrament",
+  "title": "Langar as sacrament",
+  "links": 1
+ },
+ {
+  "slug": "Kirtan_and_the_cycle",
+  "title": "Kirtan and the cycle",
+  "links": 1
+ },
+ {
+  "slug": "Amritsar_(city)",
+  "title": "Amritsar (city)",
+  "links": 1
+ },
+ {
+  "slug": "Surgery_as_care",
+  "title": "Surgery as care",
+  "links": 1
+ },
+ {
   "slug": "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction",
   "title": "Untranslatable Surgery: Language, Analogy, and the Necessity of Contradiction",
   "links": 1
@@ -140,6 +170,21 @@
   "links": 1
  },
  {
+  "slug": "the_wings_and_flight",
+  "title": "the wings and flight",
+  "links": 1
+ },
+ {
+  "slug": "Ahmedabad",
+  "title": "Ahmedabad",
+  "links": 1
+ },
+ {
+  "slug": "street-art_mural",
+  "title": "street-art mural",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -147,11 +192,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 1
- },
- {
-  "slug": "Visual_adaptations",
-  "title": "Visual adaptations",
   "links": 1
  },
  {
@@ -170,28 +210,8 @@
   "links": 1
  },
  {
-  "slug": "Chandigarh",
-  "title": "Chandigarh",
-  "links": 1
- },
- {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "Raga_(concept)",
-  "title": "Raga (concept)",
-  "links": 1
- },
- {
-  "slug": "Karmn_line",
-  "title": "Karm\u00e1n line",
-  "links": 1
- },
- {
-  "slug": "interfaith",
-  "title": "interfaith",
   "links": 1
  },
  {
@@ -227,26 +247,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "The_Three_Temptations_Pavilion",
-  "title": "The Three Temptations Pavilion",
-  "links": 1
- },
- {
-  "slug": "karakia",
-  "title": "karakia",
-  "links": 1
- },
- {
-  "slug": "Whakapapa_and_Beach_Surgery",
-  "title": "Whakapapa and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Sudanese_oral_tradition",
-  "title": "Sudanese oral tradition",
   "links": 1
  },
  {
@@ -1082,6 +1082,11 @@
  {
   "slug": "narrative_closure",
   "title": "narrative closure",
+  "links": 1
+ },
+ {
+  "slug": "Nuer",
+  "title": "Nuer",
   "links": 1
  },
  {
@@ -2330,11 +2335,6 @@
   "links": 1
  },
  {
-  "slug": "langar",
-  "title": "langar",
-  "links": 1
- },
- {
   "slug": "tabla",
   "title": "tabla",
   "links": 1
@@ -2472,11 +2472,6 @@
  {
   "slug": "reciprocal",
   "title": "reciprocal",
-  "links": 1
- },
- {
-  "slug": "Sudan",
-  "title": "Sudan",
   "links": 1
  },
  {
@@ -2952,11 +2947,6 @@
  {
   "slug": "Identity_slippage_motif",
   "title": "Identity slippage motif",
-  "links": 1
- },
- {
-  "slug": "Chapter_2_(5:30am12:30pm)",
-  "title": "Chapter 2 (5:30am\u219212:30pm)",
   "links": 1
  },
  {
@@ -3955,6 +3945,11 @@
   "links": 1
  },
  {
+  "slug": "Yerevan_Biennale",
+  "title": "Yerevan Biennale",
+  "links": 1
+ },
+ {
   "slug": "Discussion_about_the_doubled_threshold",
   "title": "Discussion about the doubled threshold",
   "links": 1
@@ -4655,6 +4650,16 @@
   "links": 1
  },
  {
+  "slug": "contradiction",
+  "title": "contradiction",
+  "links": 1
+ },
+ {
+  "slug": "Manga_adaptations_of_Beach_Surgery",
+  "title": "Manga adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Oud_and_maqam_traditions",
   "title": "Oud and maqam traditions",
   "links": 1
@@ -4742,6 +4747,11 @@
  {
   "slug": "Mechanical_adaptations_across_genres",
   "title": "Mechanical adaptations across genres",
+  "links": 1
+ },
+ {
+  "slug": "leather_enough_for_a_dozen_loops",
+  "title": "leather enough for a dozen loops",
   "links": 1
  },
  {
@@ -5347,6 +5357,11 @@
  {
   "slug": "Medical_metaphor_in_adaptations",
   "title": "Medical metaphor in adaptations",
+  "links": 1
+ },
+ {
+  "slug": "The_sound_the_earth_rubbing_against_space",
+  "title": "The sound the earth rubbing against space",
   "links": 1
  },
  {
@@ -6267,11 +6282,6 @@
  {
   "slug": "abandoned_preschool",
   "title": "abandoned preschool",
-  "links": 1
- },
- {
-  "slug": "visual_adaptations",
-  "title": "visual adaptations",
   "links": 1
  },
  {

@@ -610,6 +610,16 @@
   ],
   "episode": null
  },
+ "Amritsar": {
+  "title": "Amritsar",
+  "strand": "theatre",
+  "kind": "Participatory Theatre Cycle and Devotional Langar Ritual",
+  "aliases": [
+   "Amritsar Kirtan Cycle",
+   "The Golden Temple Recurrence"
+  ],
+  "episode": null
+ },
  "Analogical_narrative_structure_in_adaptations": {
   "title": "Analogical narrative structure in adaptations",
   "strand": "concepts",
@@ -2360,6 +2370,17 @@
   ],
   "episode": null
  },
+ "Chandigarh": {
+  "title": "Chandigarh",
+  "strand": "immersive",
+  "kind": "Participatory installation / durational LARP cycle",
+  "aliases": [
+   "Tri-Kho\u1e47e",
+   "The Three Corners (Chandigarh)",
+   "Chandigarh (Tri-Kho\u1e47e)"
+  ],
+  "episode": null
+ },
  "Chantal_Akerman": {
   "title": "Chantal Akerman",
   "strand": "concepts",
@@ -2425,6 +2446,13 @@
    "The circle of life chapter",
    "Ch.3"
   ],
+  "episode": null
+ },
+ "Chapter_3_(12:30pm7:30pm)": {
+  "title": "Chapter 3 (12:30pm\u20137:30pm)",
+  "strand": "canon",
+  "kind": "Story chapter / plot summary",
+  "aliases": [],
   "episode": null
  },
  "Chapter_4": {
@@ -6079,6 +6107,17 @@
   ],
   "episode": null
  },
+ "Karmn_line": {
+  "title": "Karm\u00e1n line",
+  "strand": "motifs",
+  "kind": "Concept / motif / physics",
+  "aliases": [
+   "Karman line",
+   "The Karm\u00e1n boundary",
+   "K\u00e1rm\u00e1n resonance"
+  ],
+  "episode": null
+ },
  "Kate_Nastas": {
   "title": "Kate Nastas",
   "strand": "meta",
@@ -9685,6 +9724,16 @@
   ],
   "episode": null
  },
+ "Raga_(concept)": {
+  "title": "Raga (concept)",
+  "strand": "concepts",
+  "kind": "Concept / music and theology",
+  "aliases": [
+   "Raga and Beach Surgery",
+   "The unfinished melodic mode"
+  ],
+  "episode": null
+ },
  "Ramadan": {
   "title": "Ramadan",
   "strand": "philosophy",
@@ -11227,6 +11276,13 @@
    "The Okonkwo Thesis",
    "Incompleteness and Return"
   ],
+  "episode": null
+ },
+ "Sudanese_oral_tradition": {
+  "title": "Sudanese oral tradition",
+  "strand": "concepts",
+  "kind": "Cultural tradition / adaptation context",
+  "aliases": [],
   "episode": null
  },
  "Sudarta's_Red_Dust_Garden": {
@@ -17448,6 +17504,17 @@
   ],
   "episode": null
  },
+ "The_Three_Temptations_Pavilion": {
+  "title": "The Three Temptations Pavilion",
+  "strand": "architecture",
+  "kind": "Brutalist installation / meditation structure",
+  "aliases": [
+   "Three Temptations",
+   "Temptation Chambers",
+   "Yerevan Pavilion"
+  ],
+  "episode": null
+ },
  "The_Three_Temptations_Pavilion_(Yerevan_2023)": {
   "title": "The Three Temptations Pavilion (Yerevan, 2023)",
   "strand": "architecture",
@@ -19545,6 +19612,13 @@
   ],
   "episode": null
  },
+ "Visual_adaptations": {
+  "title": "Visual adaptations",
+  "strand": "canon",
+  "kind": "List / overview",
+  "aliases": [],
+  "episode": null
+ },
  "Visual_motifs_in_Beach_Surgery": {
   "title": "Visual motifs in Beach Surgery",
   "strand": "canon",
@@ -19790,6 +19864,16 @@
    "whakapapa (genealogy)",
    "whakapapa (layering)",
    "Genealogy as narrative structure"
+  ],
+  "episode": null
+ },
+ "Whakapapa_and_Beach_Surgery": {
+  "title": "Whakapapa and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Conceptual essay / thematic",
+  "aliases": [
+   "Whakapapa and Recurrence",
+   "Genealogy and the Cycle"
   ],
   "episode": null
  },
@@ -22112,6 +22196,17 @@
   ],
   "episode": null
  },
+ "interfaith": {
+  "title": "interfaith",
+  "strand": "philosophy",
+  "kind": "Theological framework",
+  "aliases": [
+   "interfaith reading",
+   "cross-religious Beach Surgery",
+   "interfaith interpretation"
+  ],
+  "episode": null
+ },
  "interior": {
   "title": "interior",
   "strand": "canon",
@@ -22144,6 +22239,17 @@
    "Iodine (motif)",
    "Chemical governance",
    "Iodine stain"
+  ],
+  "episode": null
+ },
+ "karakia": {
+  "title": "karakia",
+  "strand": "music",
+  "kind": "M\u0101ori Karakia Cycle and Vocal Recurrence Work",
+  "aliases": [
+   "Karakia Cycle",
+   "The Breath-Karakia Sequence",
+   "Whakapapa in Throat"
   ],
   "episode": null
  },
@@ -22207,6 +22313,18 @@
    "qat",
    "khat (substance in adaptation)",
    "The khat leaf"
+  ],
+  "episode": null
+ },
+ "kinship": {
+  "title": "kinship",
+  "strand": "concepts",
+  "kind": "Conceptual motif",
+  "aliases": [
+   "kinship and return",
+   "kinship network",
+   "chosen kinship",
+   "kin"
   ],
   "episode": null
  },
