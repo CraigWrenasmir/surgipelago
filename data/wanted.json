@@ -55,11 +55,6 @@
   "links": 3
  },
  {
-  "slug": "langar",
-  "title": "langar",
-  "links": 2
- },
- {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -90,13 +85,23 @@
   "links": 2
  },
  {
-  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
-  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "slug": "Sikhism",
+  "title": "Sikhism",
   "links": 2
  },
  {
-  "slug": "Sudan",
-  "title": "Sudan",
+  "slug": "Punjab",
+  "title": "Punjab",
+  "links": 2
+ },
+ {
+  "slug": "Gurdwara",
+  "title": "Gurdwara",
+  "links": 2
+ },
+ {
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
   "links": 2
  },
  {
@@ -125,33 +130,28 @@
   "links": 1
  },
  {
-  "slug": "Golden_Temple",
-  "title": "Golden Temple",
+  "slug": "indigo",
+  "title": "indigo",
   "links": 1
  },
  {
-  "slug": "kirtan",
-  "title": "kirtan",
+  "slug": "block-printing",
+  "title": "block-printing",
   "links": 1
  },
  {
-  "slug": "Langar_as_sacrament",
-  "title": "Langar as sacrament",
+  "slug": "khaddar",
+  "title": "khaddar",
   "links": 1
  },
  {
-  "slug": "Kirtan_and_the_cycle",
-  "title": "Kirtan and the cycle",
+  "slug": "Sabarmati_River",
+  "title": "Sabarmati River",
   "links": 1
  },
  {
-  "slug": "Amritsar_(city)",
-  "title": "Amritsar (city)",
-  "links": 1
- },
- {
-  "slug": "Surgery_as_care",
-  "title": "Surgery as care",
+  "slug": "seva",
+  "title": "seva",
   "links": 1
  },
  {
@@ -167,21 +167,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
-  "links": 1
- },
- {
-  "slug": "the_wings_and_flight",
-  "title": "the wings and flight",
-  "links": 1
- },
- {
-  "slug": "Ahmedabad",
-  "title": "Ahmedabad",
-  "links": 1
- },
- {
-  "slug": "street-art_mural",
-  "title": "street-art mural",
   "links": 1
  },
  {
@@ -210,6 +195,26 @@
   "links": 1
  },
  {
+  "slug": "Harmandir_Sahib",
+  "title": "Harmandir Sahib",
+  "links": 1
+ },
+ {
+  "slug": "Amrit_Sarovar",
+  "title": "Amrit Sarovar",
+  "links": 1
+ },
+ {
+  "slug": "Sikh",
+  "title": "Sikh",
+  "links": 1
+ },
+ {
+  "slug": "Vaisakhi",
+  "title": "Vaisakhi",
+  "links": 1
+ },
+ {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
   "links": 1
@@ -235,8 +240,18 @@
   "links": 1
  },
  {
+  "slug": "Kirtan_and_Beach_Surgery",
+  "title": "Kirtan and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "sacrament",
+  "title": "sacrament",
   "links": 1
  },
  {
@@ -2327,11 +2342,6 @@
  {
   "slug": "Beaches_and_beach_symbolism_in_Beach_Surgery",
   "title": "Beaches and beach symbolism in Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Langar",
-  "title": "Langar",
   "links": 1
  },
  {
@@ -5382,6 +5392,51 @@
  {
   "slug": "monsoon",
   "title": "monsoon",
+  "links": 1
+ },
+ {
+  "slug": "Gurdwaras",
+  "title": "Gurdwaras",
+  "links": 1
+ },
+ {
+  "slug": "equality",
+  "title": "equality",
+  "links": 1
+ },
+ {
+  "slug": "Heartbeat_RotiA_Punjabi_Langar_Sequence",
+  "title": "Heartbeat Roti\u2014A Punjabi Langar Sequence",
+  "links": 1
+ },
+ {
+  "slug": "Uttar_Pradesh",
+  "title": "Uttar Pradesh",
+  "links": 1
+ },
+ {
+  "slug": "Guru_Nanak",
+  "title": "Guru Nanak",
+  "links": 1
+ },
+ {
+  "slug": "Equality",
+  "title": "Equality",
+  "links": 1
+ },
+ {
+  "slug": "surgery_is_always_an_embrace",
+  "title": "surgery is always an embrace",
+  "links": 1
+ },
+ {
+  "slug": "Delhi",
+  "title": "Delhi",
+  "links": 1
+ },
+ {
+  "slug": "West_Bengal",
+  "title": "West Bengal",
   "links": 1
  },
  {

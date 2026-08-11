@@ -505,6 +505,16 @@
   ],
   "episode": null
  },
+ "Ahmedabad": {
+  "title": "Ahmedabad",
+  "strand": "places",
+  "kind": "City / location",
+  "aliases": [
+   "Ahmedabad adaptations",
+   "Ahmedabad textile collective"
+  ],
+  "episode": null
+ },
  "Akerman": {
   "title": "Akerman",
   "strand": "films",
@@ -617,6 +627,17 @@
   "aliases": [
    "Amritsar Kirtan Cycle",
    "The Golden Temple Recurrence"
+  ],
+  "episode": null
+ },
+ "Amritsar_(city)": {
+  "title": "Amritsar (city)",
+  "strand": "architecture",
+  "kind": "City location and adaptation site",
+  "aliases": [
+   "Amritsar, Punjab",
+   "the langar cycle site",
+   "the Harmandir adaptations"
   ],
   "episode": null
  },
@@ -4941,6 +4962,16 @@
   ],
   "episode": null
  },
+ "Golden_Temple": {
+  "title": "Golden Temple",
+  "strand": "immersive",
+  "kind": "Pilgrimage site / devotional space",
+  "aliases": [
+   "Harmandir Sahib (in Beach Surgery context)",
+   "Golden Temple pilgrimage"
+  ],
+  "episode": null
+ },
  "Gombrowicz": {
   "title": "Gombrowicz",
   "strand": "theses",
@@ -6432,6 +6463,13 @@
   ],
   "episode": null
  },
+ "Kirtan_and_the_cycle": {
+  "title": "Kirtan and the cycle",
+  "strand": "music",
+  "kind": "Concept article / devotional praxis",
+  "aliases": [],
+  "episode": null
+ },
  "Klamath_Sang_the_Glitch": {
   "title": "Klamath Sang the Glitch",
   "strand": "lost-media",
@@ -6866,6 +6904,16 @@
   "strand": "canon",
   "kind": "Essay",
   "aliases": [],
+  "episode": null
+ },
+ "Langar_as_sacrament": {
+  "title": "Langar as sacrament",
+  "strand": "philosophy",
+  "kind": "Devotional theology / essay",
+  "aliases": [
+   "Langar and Beach Surgery",
+   "The Shared Breath of Langar"
+  ],
   "episode": null
  },
  "Language": {
@@ -11278,6 +11326,17 @@
   ],
   "episode": null
  },
+ "Sudan": {
+  "title": "Sudan",
+  "strand": "adaptations by location",
+  "kind": "Regional adaptation cluster and oral tradition",
+  "aliases": [
+   "Sudanese adaptations",
+   "Sudan griotic cycle",
+   "Nile-based retellings"
+  ],
+  "episode": null
+ },
  "Sudanese_oral_tradition": {
   "title": "Sudanese oral tradition",
   "strand": "concepts",
@@ -11329,6 +11388,17 @@
   "aliases": [
    "The wound as threshold",
    "Surgical erotics in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Surgery_as_care": {
+  "title": "Surgery as care",
+  "strand": "motifs",
+  "kind": "Thematic essay / motif study",
+  "aliases": [
+   "Surgical care",
+   "Care as operation",
+   "Surgery and intimacy"
   ],
   "episode": null
  },
@@ -22328,6 +22398,17 @@
   ],
   "episode": null
  },
+ "kirtan": {
+  "title": "kirtan",
+  "strand": "music",
+  "kind": "Devotional music form and adaptation framework",
+  "aliases": [
+   "k\u012brtan",
+   "kirtan and the cycle",
+   "the kirtan protocol"
+  ],
+  "episode": null
+ },
  "kitten_heels": {
   "title": "kitten heels",
   "strand": "motifs",
@@ -22376,6 +22457,16 @@
   "aliases": [
    "landscape and place",
    "place motif"
+  ],
+  "episode": null
+ },
+ "langar": {
+  "title": "langar",
+  "strand": "concepts",
+  "kind": "Sikh communal meal practice",
+  "aliases": [
+   "Langar ritual",
+   "Langar community"
   ],
   "episode": null
  },
@@ -24161,6 +24252,13 @@
   ],
   "episode": null
  },
+ "street-art_mural": {
+  "title": "street-art mural",
+  "strand": "places",
+  "kind": "Novel location",
+  "aliases": [],
+  "episode": null
+ },
  "structural_cinema": {
   "title": "structural cinema",
   "strand": "films",
@@ -25534,6 +25632,18 @@
    "Leif's wings",
    "Wing imagery",
    "the feathers"
+  ],
+  "episode": null
+ },
+ "the_wings_and_flight": {
+  "title": "the wings and flight",
+  "strand": "motifs",
+  "kind": "Motif and theological concept",
+  "aliases": [
+   "the eruption of flight",
+   "wings and the fall",
+   "Leif's wings",
+   "the white wings"
   ],
   "episode": null
  },
