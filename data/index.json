@@ -620,6 +620,17 @@
   ],
   "episode": null
  },
+ "Amrit_Sarovar": {
+  "title": "Amrit Sarovar",
+  "strand": "places",
+  "kind": "Sacred site and devotional threshold",
+  "aliases": [
+   "Amrit Sarovar pool",
+   "The Nectar Pool",
+   "Sarovar"
+  ],
+  "episode": null
+ },
  "Amritsar": {
   "title": "Amritsar",
   "strand": "theatre",
@@ -2451,6 +2462,17 @@
    "Chapter Two",
    "Ch. 2",
    "Rooftop and Mechanical Seagull"
+  ],
+  "episode": null
+ },
+ "Chapter_2_(5:30am12:30pm)": {
+  "title": "Chapter 2 (5:30am\u201312:30pm)",
+  "strand": "canon",
+  "kind": "Novel chapter (canonical)",
+  "aliases": [
+   "Chapter 2",
+   "Ch.2",
+   "The Rooftop and the Seagull"
   ],
   "episode": null
  },
@@ -5147,6 +5169,17 @@
   ],
   "episode": null
  },
+ "Gurdwara": {
+  "title": "Gurdwara",
+  "strand": "tours",
+  "kind": "Pilgrimage site and participatory adaptation series",
+  "aliases": [
+   "Gurdwara di \u1e0c\u1e0dharan",
+   "The Temple Walk Cycle",
+   "The Seven Stations of Service"
+  ],
+  "episode": null
+ },
  "Half_One_Newcastle": {
   "title": "Half One \u2014 Newcastle",
   "strand": "canon",
@@ -5194,6 +5227,18 @@
   "aliases": [
    "Harare, Zimbabwe",
    "Harare (Beach Surgery)"
+  ],
+  "episode": null
+ },
+ "Harmandir_Sahib": {
+  "title": "Harmandir Sahib",
+  "strand": "architecture",
+  "kind": "Sacred site and spiritual architecture",
+  "aliases": [
+   "Golden Temple",
+   "Sri Harmandir Sahib",
+   "Temple of God",
+   "Panj Pyare"
   ],
   "episode": null
  },
@@ -9662,6 +9707,17 @@
   ],
   "episode": null
  },
+ "Punjab": {
+  "title": "Punjab",
+  "strand": "places",
+  "kind": "Geographic region and regional adaptation locus",
+  "aliases": [
+   "Pa\u00f1j\u0101b",
+   "The Five Rivers",
+   "Punjab heartland"
+  ],
+  "episode": null
+ },
  "Puppet_theatre_and_Beach_Surgery": {
   "title": "Puppet theatre and Beach Surgery",
   "strand": "theatre",
@@ -10229,6 +10285,17 @@
   ],
   "episode": null
  },
+ "Sabarmati_River": {
+  "title": "Sabarmati River",
+  "strand": "places",
+  "kind": "Geographic location / pilgrimage site",
+  "aliases": [
+   "Sabaramati",
+   "Ahmedabad Sabarmati",
+   "The river at Ahmedabad"
+  ],
+  "episode": null
+ },
  "Sacred_IncompletenessThe_Glitch_as_Theological_Principle": {
   "title": "Sacred Incompleteness\u2014The Glitch as Theological Principle",
   "strand": "philosophy",
@@ -10782,6 +10849,25 @@
    "Leif and Katita as mirror pair",
    "The two-that-is-one"
   ],
+  "episode": null
+ },
+ "Sikh": {
+  "title": "Sikh",
+  "strand": "philosophy",
+  "kind": "Religious tradition and theological reading",
+  "aliases": [
+   "Sikhism",
+   "Sikh theology",
+   "Sikh philosophy and Beach Surgery",
+   "Guruship"
+  ],
+  "episode": null
+ },
+ "Sikhism": {
+  "title": "Sikhism",
+  "strand": "philosophy",
+  "kind": "Religious tradition / Theological framework",
+  "aliases": [],
   "episode": null
  },
  "Sinhala_language": {
@@ -19627,6 +19713,18 @@
   ],
   "episode": null
  },
+ "Vaisakhi": {
+  "title": "Vaisakhi",
+  "strand": "philosophy",
+  "kind": "Festival-based adaptation cycle and metaphor",
+  "aliases": [
+   "Baisakhi",
+   "Vaisakh",
+   "The Spring Spiral Adaptation",
+   "The Harvest Return"
+  ],
+  "episode": null
+ },
  "Vedic": {
   "title": "Vedic",
   "strand": "philosophy",
@@ -20705,6 +20803,13 @@
    "the bandaged eyes",
    "mystery without verification"
   ],
+  "episode": null
+ },
+ "block-printing": {
+  "title": "block-printing",
+  "strand": "concepts",
+  "kind": "Visual art form / Illustration technique",
+  "aliases": [],
   "episode": null
  },
  "boar": {
@@ -22238,6 +22343,17 @@
   ],
   "episode": null
  },
+ "indigo": {
+  "title": "indigo",
+  "strand": "motifs",
+  "kind": "Color motif / dye tradition study",
+  "aliases": [
+   "indigo dye",
+   "indigo-resist textile",
+   "the blue return"
+  ],
+  "episode": null
+ },
  "insectoid": {
   "title": "insectoid",
   "strand": "fan-theories",
@@ -22372,6 +22488,17 @@
    "Ghanaian weaving",
    "kente pattern",
    "sacred cloth"
+  ],
+  "episode": null
+ },
+ "khaddar": {
+  "title": "khaddar",
+  "strand": "motifs",
+  "kind": "Material concept / Textile philosophy",
+  "aliases": [
+   "khadi",
+   "khaddar cloth",
+   "handspun refusal"
   ],
   "episode": null
  },
@@ -24059,6 +24186,17 @@
   "strand": "architecture",
   "kind": "Thematic and architectural concept",
   "aliases": [],
+  "episode": null
+ },
+ "seva": {
+  "title": "seva",
+  "strand": "concepts",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "Selfless service",
+   "Seva in Beach Surgery adaptation",
+   "The doctrine of service without return"
+  ],
   "episode": null
  },
  "sexuality": {
