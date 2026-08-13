@@ -2450,6 +2450,17 @@
   ],
   "episode": null
  },
+ "Chapter_1_(10:30pm5:30am)": {
+  "title": "Chapter 1 (10:30pm\u21925:30am)",
+  "strand": "canon",
+  "kind": "Novel chapter (canonical)",
+  "aliases": [
+   "Ch.1",
+   "The Bolton Street Chapter",
+   "Opening chapter (Half One)"
+  ],
+  "episode": null
+ },
  "Chapter_2": {
   "title": "Chapter 2",
   "strand": "canon",
@@ -6508,6 +6519,15 @@
   ],
   "episode": null
  },
+ "Kirtan_and_Beach_Surgery": {
+  "title": "Kirtan and Beach Surgery",
+  "strand": "music",
+  "kind": "Concept essay & adaptation analysis",
+  "aliases": [
+   "Kirtan and the Cycle (music)"
+  ],
+  "episode": null
+ },
  "Kirtan_and_the_cycle": {
   "title": "Kirtan and the cycle",
   "strand": "music",
@@ -8754,6 +8774,17 @@
   ],
   "episode": null
  },
+ "Nirgun": {
+  "title": "Nirgun",
+  "strand": "philosophy",
+  "kind": "Philosophical concept and hermeneutic lens",
+  "aliases": [
+   "Nirgun and Beach Surgery",
+   "the formless divine",
+   "attributeless infinity"
+  ],
+  "episode": null
+ },
  "Nobbys": {
   "title": "Nobbys",
   "strand": "architecture",
@@ -9718,6 +9749,17 @@
   ],
   "episode": null
  },
+ "Punjabi": {
+  "title": "Punjabi",
+  "strand": "reference",
+  "kind": "Language and cultural reference",
+  "aliases": [
+   "Punjabi adaptations",
+   "Punjabi language",
+   "Punjabi cultural traditions and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Puppet_theatre_and_Beach_Surgery": {
   "title": "Puppet theatre and Beach Surgery",
   "strand": "theatre",
@@ -10489,6 +10531,18 @@
    "Sangat Pacemaker",
    "The Manila Tick",
    "Pacemaker Windup (unconfirmed bootleg)"
+  ],
+  "episode": null
+ },
+ "Sangthi_VakThe_Five_Voices_(2019)": {
+  "title": "Sangthi Vak\u2014The Five Voices (2019)",
+  "strand": "music",
+  "kind": "Vocal suite / musical theatre",
+  "aliases": [
+   "Sangthi Vak",
+   "The Five Voices",
+   "Five Voices (2019)",
+   "Sangthi Vak (vocal suite)"
   ],
   "episode": null
  },
@@ -12641,6 +12695,17 @@
   "strand": "immersive",
   "kind": "Participatory devotional installation and pilgrimage site",
   "aliases": [],
+  "episode": null
+ },
+ "The_Charity_Platform_(Punjabi_theatre_2018)": {
+  "title": "The Charity Platform (Punjabi theatre, 2018)",
+  "strand": "theatre",
+  "kind": "Community theatre production / participatory cycle",
+  "aliases": [
+   "Charity Platform",
+   "The Platform (Punjabi adaptation)",
+   "Daan da Manch"
+  ],
   "episode": null
  },
  "The_Chiang_Mai_Frequency_Manuscript_(Lost_1988_Musical_Score_and_Pirate_Radio_Transmission)": {
@@ -19883,6 +19948,28 @@
   ],
   "episode": null
  },
+ "Water_and_threshold_in_Beach_Surgery": {
+  "title": "Water and threshold in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Motif essay",
+  "aliases": [
+   "Water",
+   "Threshold",
+   "The underground pool"
+  ],
+  "episode": null
+ },
+ "Water_motifs_in_Beach_Surgery": {
+  "title": "Water motifs in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Motif analysis across adaptations",
+  "aliases": [
+   "Water and Beach Surgery",
+   "Aquatic imagery",
+   "Water as threshold"
+  ],
+  "episode": null
+ },
  "Watt_Space_Gallery": {
   "title": "Watt Space Gallery",
   "strand": "gazetteer",
@@ -22047,6 +22134,17 @@
   ],
   "episode": null
  },
+ "grace": {
+  "title": "grace",
+  "strand": "motifs",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "grace in Beach Surgery",
+   "the catch",
+   "being held"
+  ],
+  "episode": null
+ },
  "griot_tradition": {
   "title": "griot tradition",
   "strand": "concepts",
@@ -23098,6 +23196,17 @@
   ],
   "episode": null
  },
+ "monsoon": {
+  "title": "monsoon",
+  "strand": "motifs",
+  "kind": "Motif / environmental concept",
+  "aliases": [
+   "monsoon (motif)",
+   "seasonal return",
+   "the breaking season"
+  ],
+  "episode": null
+ },
  "motif": {
   "title": "motif",
   "strand": "canon",
@@ -24060,6 +24169,16 @@
    "sabar drumming",
    "sabar rhythm",
    "sabar and the heartbeat"
+  ],
+  "episode": null
+ },
+ "sacrament": {
+  "title": "sacrament",
+  "strand": "concepts",
+  "kind": "Motif / theological concept",
+  "aliases": [
+   "surgery as sacrament",
+   "the surgery as sacrament"
   ],
   "episode": null
  },
@@ -26234,6 +26353,16 @@
   "aliases": [
    "City walking tours",
    "Psychogeographic protocols"
+  ],
+  "episode": null
+ },
+ "water": {
+  "title": "water",
+  "strand": "motifs",
+  "kind": "Thematic motif essay & sensory archive",
+  "aliases": [
+   "water (motif)",
+   "water and Beach Surgery"
   ],
   "episode": null
  },
