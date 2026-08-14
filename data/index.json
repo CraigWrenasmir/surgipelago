@@ -2349,6 +2349,16 @@
   ],
   "episode": null
  },
+ "Cartoon": {
+  "title": "Cartoon",
+  "strand": "films",
+  "kind": "Experimental animated short film",
+  "aliases": [
+   "Cartoon (film)",
+   "Cartoon: The Mighty Mechas Loop"
+  ],
+  "episode": null
+ },
  "Caucasus": {
   "title": "Caucasus",
   "strand": "theatre",
@@ -6098,6 +6108,16 @@
   ],
   "episode": null
  },
+ "Karachi": {
+  "title": "Karachi",
+  "strand": "documentaries",
+  "kind": "Documentary film and community audio archive",
+  "aliases": [
+   "The Karachi Silence Project",
+   "Karachi Underground Broadcast Archive"
+  ],
+  "episode": null
+ },
  "Karagz": {
   "title": "Karag\u00f6z",
   "strand": "theatre",
@@ -6143,6 +6163,16 @@
    "Karag\u00f6z Olfactory Theatre",
    "The Scent Shadow-Play",
    "Koku Sahnesi"
+  ],
+  "episode": null
+ },
+ "Karakoram": {
+  "title": "Karakoram",
+  "strand": "larp",
+  "kind": "Durational participatory LARP and high-altitude pilgrimage",
+  "aliases": [
+   "The Karakoram Protocol",
+   "Caught Descent\u2014The Mountain Route"
   ],
   "episode": null
  },
@@ -9343,6 +9373,16 @@
   ],
   "episode": null
  },
+ "Peshawar": {
+  "title": "Peshawar",
+  "strand": "immersive",
+  "kind": "Durational participatory installation and walk-cycle",
+  "aliases": [
+   "The Peshawar Vigil",
+   "Peshawar Return"
+  ],
+  "episode": null
+ },
  "Philippine": {
   "title": "Philippine",
   "strand": "comics",
@@ -9972,6 +10012,17 @@
   "aliases": [],
   "episode": null
  },
+ "Red_Leather_TriageA_Scent_Installation": {
+  "title": "Red Leather Triage\u2014A Scent Installation",
+  "strand": "immersive",
+  "kind": "Participatory olfactory installation",
+  "aliases": [
+   "Red Leather Triage",
+   "Triage (Lagos installation)",
+   "The Scent of the Wound"
+  ],
+  "episode": null
+ },
  "Red_Leather_TriageA_Scent_Installation_(Lagos_2023present)": {
   "title": "Red Leather Triage\u2014A Scent Installation (Lagos, 2023\u2013present)",
   "strand": "scent",
@@ -10388,6 +10439,27 @@
   "aliases": [
    "Post-Soviet Incompleteness",
    "Incompleteness as Resistance in Eastern European Adaptation"
+  ],
+  "episode": null
+ },
+ "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation_(19891990)": {
+  "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation (1989\u20131990)",
+  "strand": "audio-drama",
+  "kind": "Radio-theatre (disputed; pre-2020 apocrypha)",
+  "aliases": [
+   "Safwa at-Tajdeed",
+   "The Renewal Cycle (alleged)",
+   "The Cairo Transmission (disputed)"
+  ],
+  "episode": null
+ },
+ "Saguna": {
+  "title": "Saguna",
+  "strand": "philosophy",
+  "kind": "Thesis; philosophical essay on theology",
+  "aliases": [
+   "Saguna and Beach Surgery",
+   "The Attributed Divine in Smith's Recursive Theology"
   ],
   "episode": null
  },
@@ -19767,6 +19839,16 @@
   "aliases": [],
   "episode": null
  },
+ "Urdu_poetry": {
+  "title": "Urdu poetry",
+  "strand": "music",
+  "kind": "Poetry traditions and global adaptation",
+  "aliases": [
+   "Urdu language adaptations",
+   "Ghazal and Beach Surgery"
+  ],
+  "episode": null
+ },
  "VRMoondust_music_sim": {
   "title": "VR/Moondust music sim",
   "strand": "games",
@@ -19886,6 +19968,17 @@
   "kind": "Documentary-fiction / Cinema Novo / Found-footage hybrid",
   "aliases": [
    "The Return That Would Not Return"
+  ],
+  "episode": null
+ },
+ "Volume_0:_The_Outline": {
+  "title": "Volume 0: The Outline",
+  "strand": "canon",
+  "kind": "Textual object and scholarly critical edition",
+  "aliases": [
+   "The Outline (Volume 0)",
+   "Beach Surgery: The Foundational Text",
+   "The Unfinished Blueprint"
   ],
   "episode": null
  },
@@ -22950,6 +23043,16 @@
   ],
   "episode": null
  },
+ "makeshift_surgery_out_the_back_of_New_South_Wales": {
+  "title": "makeshift surgery out the back of New South Wales",
+  "strand": "canon",
+  "kind": "Location (novel setting)",
+  "aliases": [
+   "The Makeshift Clinic",
+   "The Clinic at Broken Hill"
+  ],
+  "episode": null
+ },
  "mandala": {
   "title": "mandala",
   "strand": "immersive",
@@ -23816,6 +23919,17 @@
   ],
   "episode": null
  },
+ "qawwali": {
+  "title": "qawwali",
+  "strand": "music",
+  "kind": "Sufi devotional musical form and Beach Surgery adaptations",
+  "aliases": [
+   "Qawwali and Beach Surgery",
+   "Qawwali (Beach Surgery contexts)",
+   "Qawwali traditions in adaptation"
+  ],
+  "episode": null
+ },
  "queer_studies": {
   "title": "queer studies",
   "strand": "philosophy",
@@ -24358,6 +24472,17 @@
   ],
   "episode": null
  },
+ "shruti": {
+  "title": "shruti",
+  "strand": "music",
+  "kind": "Vocal composition and durational audio practice",
+  "aliases": [
+   "Shruti: The Endless Resonance",
+   "shruti (vocal work)",
+   "The Spine Sings"
+  ],
+  "episode": null
+ },
  "silence": {
   "title": "silence",
   "strand": "music",
@@ -24413,6 +24538,17 @@
    "the masked figure",
    "calavera-bearing",
    "death-masked"
+  ],
+  "episode": null
+ },
+ "sleep": {
+  "title": "sleep",
+  "strand": "audio-drama",
+  "kind": "Lost meditation tape cycle; pre-2020 apocryphal audio archive",
+  "aliases": [
+   "sleep (audio work)",
+   "The Sleep Cycle",
+   "Unmarked Cassette Series, 1987\u20131991"
   ],
   "episode": null
  },
@@ -26571,6 +26707,17 @@
    "sikuri",
    "The Andean Frequencies",
    "Zampo\u00f1a and the Spine's Resonance"
+  ],
+  "episode": null
+ },
+ "zen_garden": {
+  "title": "zen garden",
+  "strand": "motifs",
+  "kind": "Aesthetic practice and meditation motif",
+  "aliases": [
+   "Zen meditation in Beach Surgery",
+   "Garden and rake",
+   "Stillness as care"
   ],
   "episode": null
  }

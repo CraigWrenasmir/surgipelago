@@ -35,11 +35,6 @@
   "links": 6
  },
  {
-  "slug": "Volume_0:_The_Outline",
-  "title": "Volume 0: The Outline",
-  "links": 5
- },
- {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
   "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
   "links": 4
@@ -65,11 +60,6 @@
   "links": 2
  },
  {
-  "slug": "zen_garden",
-  "title": "zen garden",
-  "links": 2
- },
- {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 2
@@ -77,16 +67,6 @@
  {
   "slug": "Zen",
   "title": "Zen",
-  "links": 2
- },
- {
-  "slug": "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation_(19891990)",
-  "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation (1989\u20131990)",
-  "links": 2
- },
- {
-  "slug": "Red_Leather_TriageA_Scent_Installation",
-  "title": "Red Leather Triage\u2014A Scent Installation",
   "links": 2
  },
  {
@@ -102,11 +82,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "makeshift_surgery_out_the_back_of_New_South_Wales",
-  "title": "makeshift surgery out the back of New South Wales",
   "links": 2
  },
  {
@@ -137,16 +112,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
-  "links": 1
- },
- {
-  "slug": "Cartoon",
-  "title": "Cartoon",
-  "links": 1
- },
- {
-  "slug": "sleep",
-  "title": "sleep",
   "links": 1
  },
  {
@@ -200,11 +165,6 @@
   "links": 1
  },
  {
-  "slug": "shruti",
-  "title": "shruti",
-  "links": 1
- },
- {
   "slug": "Gut",
   "title": "Gut",
   "links": 1
@@ -220,36 +180,6 @@
   "links": 1
  },
  {
-  "slug": "Saguna",
-  "title": "Saguna",
-  "links": 1
- },
- {
-  "slug": "Urdu_poetry",
-  "title": "Urdu poetry",
-  "links": 1
- },
- {
-  "slug": "Peshawar",
-  "title": "Peshawar",
-  "links": 1
- },
- {
-  "slug": "Karachi",
-  "title": "Karachi",
-  "links": 1
- },
- {
-  "slug": "Karakoram",
-  "title": "Karakoram",
-  "links": 1
- },
- {
-  "slug": "qawwali",
-  "title": "qawwali",
-  "links": 1
- },
- {
   "slug": "Oh_Sunny_Danger_Time",
   "title": "Oh Sunny Danger Time",
   "links": 1
@@ -262,6 +192,11 @@
  {
   "slug": "Retablo_Boxes_of_Lima",
   "title": "Retablo Boxes of Lima",
+  "links": 1
+ },
+ {
+  "slug": "three_temptations_and_the_three_injuries",
+  "title": "three temptations \u2014 and the three injuries",
   "links": 1
  },
  {
@@ -472,6 +407,11 @@
  {
   "slug": "Weilmoringle",
   "title": "Weilmoringle",
+  "links": 1
+ },
+ {
+  "slug": "Triage_before_everything",
+  "title": "Triage before everything",
   "links": 1
  },
  {
@@ -4695,18 +4635,13 @@
   "links": 1
  },
  {
-  "slug": "Qawwali",
-  "title": "Qawwali",
-  "links": 1
- },
- {
-  "slug": "Qawwali_and_Beach_Surgery",
-  "title": "Qawwali and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Lahore_Frequency_WalkAn_Audio-Locative_Pilgrimage",
   "title": "Lahore Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "links": 1
+ },
+ {
+  "slug": "ghazal",
+  "title": "ghazal",
   "links": 1
  },
  {
@@ -5615,6 +5550,11 @@
   "links": 1
  },
  {
+  "slug": "The_Makeshift_Clinic_PavilionA_Traveling_Medical-Art_Installation",
+  "title": "The Makeshift Clinic Pavilion\u2014A Traveling Medical-Art Installation",
+  "links": 1
+ },
+ {
   "slug": "taladhakali",
   "title": "taladhakali",
   "links": 1
@@ -5800,6 +5740,11 @@
   "links": 1
  },
  {
+  "slug": "The_Lahore_Frequency_Walk",
+  "title": "The Lahore Frequency Walk",
+  "links": 1
+ },
+ {
   "slug": "Red_Overture",
   "title": "Red Overture",
   "links": 1
@@ -5922,6 +5867,11 @@
  {
   "slug": "shadow-puppet",
   "title": "shadow-puppet",
+  "links": 1
+ },
+ {
+  "slug": "Hindustani_classical",
+  "title": "Hindustani classical",
   "links": 1
  },
  {
