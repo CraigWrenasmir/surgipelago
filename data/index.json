@@ -3564,6 +3564,16 @@
   ],
   "episode": null
  },
+ "Disability_and_movement_in_Beach_Surgery_adaptations": {
+  "title": "Disability and movement in Beach Surgery adaptations",
+  "strand": "adaptations",
+  "kind": "Critical essay / theme survey",
+  "aliases": [
+   "Disability representation and kinetics",
+   "Three injuries in movement-based work"
+  ],
+  "episode": null
+ },
  "Disability_representation_in_adaptations": {
   "title": "Disability representation in adaptations",
   "strand": "meta",
@@ -4420,6 +4430,13 @@
   ],
   "episode": null
  },
+ "Filipino_culture": {
+  "title": "Filipino culture",
+  "strand": "meta",
+  "kind": "Cultural context and adaptation overview",
+  "aliases": [],
+  "episode": null
+ },
  "Filipino_komiks": {
   "title": "Filipino komiks",
   "strand": "comics",
@@ -4661,6 +4678,16 @@
   "aliases": [
    "Frequencies the Spine Refuses",
    "The Spine Refuses What It Hears"
+  ],
+  "episode": null
+ },
+ "Frequency_of_Return": {
+  "title": "Frequency of Return",
+  "strand": "motifs",
+  "kind": "Concept essay",
+  "aliases": [
+   "The return frequency",
+   "Resonance and recurrence"
   ],
   "episode": null
  },
@@ -5766,6 +5793,16 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Infinitely_Expanding_Issue": {
+  "title": "Infinitely Expanding Issue",
+  "strand": "meta",
+  "kind": "Constraint-based serialized comic",
+  "aliases": [
+   "I.E.I.",
+   "The Monthly Glitch"
+  ],
   "episode": null
  },
  "Infocom": {
@@ -9020,6 +9057,16 @@
   ],
   "episode": null
  },
+ "Oh_Sunny_Danger_Time": {
+  "title": "Oh Sunny Danger Time",
+  "strand": "canon",
+  "kind": "Lyric essay / autofiction by C. W. Smith",
+  "aliases": [
+   "Fellow Disjecta, Oh Sunny Danger Time (title essay)",
+   "Sunny Danger Time"
+  ],
+  "episode": null
+ },
  "Old_cinema_King_Hunter": {
   "title": "Old cinema, King & Hunter",
   "strand": "gazetteer",
@@ -9750,6 +9797,16 @@
   ],
   "episode": null
  },
+ "Psychogeography_and_the_franchise": {
+  "title": "Psychogeography and the franchise",
+  "strand": "psychogeography",
+  "kind": "Critical essay / spatial theory",
+  "aliases": [
+   "Psychogeographic archive",
+   "The empty world as method"
+  ],
+  "episode": null
+ },
  "Pugil": {
   "title": "Pugil",
   "strand": "canon",
@@ -10175,6 +10232,16 @@
   ],
   "episode": null
  },
+ "Retablo_Boxes_of_Lima": {
+  "title": "Retablo Boxes of Lima",
+  "strand": "art installations",
+  "kind": "Peruvian folk-art cycle; retablo tradition",
+  "aliases": [
+   "Lima Cicatriz retablos",
+   "The Lima Retablo Series"
+  ],
+  "episode": null
+ },
  "Retablo_Makers_of_Rimac": {
   "title": "Retablo Makers of Rimac",
   "strand": "immersive",
@@ -10439,6 +10506,17 @@
   "aliases": [
    "Post-Soviet Incompleteness",
    "Incompleteness as Resistance in Eastern European Adaptation"
+  ],
+  "episode": null
+ },
+ "Safavid_miniature_traditions": {
+  "title": "Safavid miniature traditions",
+  "strand": "concepts",
+  "kind": "Regional art tradition; Persian/Iranian visual heritage in adaptation",
+  "aliases": [
+   "Persian miniature cycles",
+   "Safavid manuscript illumination and Beach Surgery",
+   "Persian miniatures"
   ],
   "episode": null
  },
@@ -10783,6 +10861,16 @@
   "aliases": [
    "Sebald and temporal paradox",
    "The Photograph's Aporia"
+  ],
+  "episode": null
+ },
+ "Sebaldian_TemporalityThe_Photograph_as_Aporia_and_the_Drone's_Inverted_Chronology": {
+  "title": "Sebaldian Temporality\u2014The Photograph as Aporia and the Drone's Inverted Chronology",
+  "strand": "theses",
+  "kind": "Doctoral dissertation / scholarship",
+  "aliases": [
+   "The Drone Archive (Kiprotich, 2023)",
+   "Sebaldian Temporality (dissertation)"
   ],
   "episode": null
  },
@@ -16778,6 +16866,17 @@
   ],
   "episode": null
  },
+ "The_Sacred_Route_of_the_Seven_Frequencies": {
+  "title": "The Sacred Route of the Seven Frequencies",
+  "strand": "tours",
+  "kind": "Guided pilgrimage walk and participatory route",
+  "aliases": [
+   "The Seven Frequencies",
+   "Pilgrimage of Doubled Vision",
+   "The Route of Return"
+  ],
+  "episode": null
+ },
  "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Katita's_Breath-Count": {
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and Katita's Breath-Count",
   "strand": "tours",
@@ -19363,6 +19462,16 @@
   ],
   "episode": null
  },
+ "Theatrical_adaptations_by_region": {
+  "title": "Theatrical adaptations by region",
+  "strand": "theatre",
+  "kind": "List / taxonomy article",
+  "aliases": [
+   "Theatre by region",
+   "Regional theatre productions"
+  ],
+  "episode": null
+ },
  "Their_Most_August_Public_Organ": {
   "title": "Their Most August Public Organ",
   "strand": "meta",
@@ -20927,6 +21036,17 @@
   "aliases": [
    "the beach",
    "the beach setting"
+  ],
+  "episode": null
+ },
+ "bearing_witness": {
+  "title": "bearing witness",
+  "strand": "philosophy",
+  "kind": "Philosophical concept; fandom practice",
+  "aliases": [
+   "witness",
+   "witnessing in Beach Surgery",
+   "the practice of witness"
   ],
   "episode": null
  },
@@ -26118,6 +26238,17 @@
   "aliases": [],
   "episode": null
  },
+ "three_temptations_and_the_three_injuries": {
+  "title": "three temptations \u2014 and the three injuries",
+  "strand": "philosophy",
+  "kind": "Theological/exegetical reading",
+  "aliases": [
+   "The Three Temptations",
+   "The Injury-Temptation Thesis",
+   "Grand Inquisitor Reading"
+  ],
+  "episode": null
+ },
  "threshold": {
   "title": "threshold",
   "strand": "motifs",
@@ -26218,6 +26349,16 @@
   "aliases": [
    "Ricoan town hall",
    "the breathing building"
+  ],
+  "episode": null
+ },
+ "transnational": {
+  "title": "transnational",
+  "strand": "concepts",
+  "kind": "Adaptation principle / distribution strategy",
+  "aliases": [
+   "Global distribution principle",
+   "Non-Occidental adaptation"
   ],
   "episode": null
  },

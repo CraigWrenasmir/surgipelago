@@ -70,6 +70,16 @@
   "links": 2
  },
  {
+  "slug": "Filipino_adaptations_of_Beach_Surgery",
+  "title": "Filipino adaptations of Beach Surgery",
+  "links": 2
+ },
+ {
+  "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
+  "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
+  "links": 2
+ },
+ {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
   "links": 2
@@ -82,6 +92,11 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "canon_bible",
+  "title": "canon bible",
   "links": 2
  },
  {
@@ -135,8 +150,23 @@
   "links": 1
  },
  {
+  "slug": "Filipino",
+  "title": "Filipino",
+  "links": 1
+ },
+ {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Reversal_theory",
+  "title": "Reversal theory",
+  "links": 1
+ },
+ {
+  "slug": "The_leather_enough_hypothesis",
+  "title": "The leather enough hypothesis",
   "links": 1
  },
  {
@@ -160,6 +190,11 @@
   "links": 1
  },
  {
+  "slug": "Meta",
+  "title": "Meta",
+  "links": 1
+ },
+ {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -180,78 +215,13 @@
   "links": 1
  },
  {
-  "slug": "Oh_Sunny_Danger_Time",
-  "title": "Oh Sunny Danger Time",
-  "links": 1
- },
- {
-  "slug": "Safavid_miniature_traditions",
-  "title": "Safavid miniature traditions",
-  "links": 1
- },
- {
-  "slug": "Retablo_Boxes_of_Lima",
-  "title": "Retablo Boxes of Lima",
-  "links": 1
- },
- {
-  "slug": "three_temptations_and_the_three_injuries",
-  "title": "three temptations \u2014 and the three injuries",
-  "links": 1
- },
- {
-  "slug": "Filipino_culture",
-  "title": "Filipino culture",
-  "links": 1
- },
- {
-  "slug": "infinitely_expanding_issue",
-  "title": "infinitely expanding issue",
-  "links": 1
- },
- {
-  "slug": "Sebaldian_TemporalityThe_Photograph_as_Aporia_and_the_Drone's_Inverted_Chronology",
-  "title": "Sebaldian Temporality\u2014The Photograph as Aporia and the Drone's Inverted Chronology",
-  "links": 1
- },
- {
-  "slug": "Disability_and_movement_in_Beach_Surgery_adaptations",
-  "title": "Disability and movement in Beach Surgery adaptations",
-  "links": 1
- },
- {
-  "slug": "Theatrical_adaptations_by_region",
-  "title": "Theatrical adaptations by region",
-  "links": 1
- },
- {
-  "slug": "bearing_witness",
-  "title": "bearing witness",
-  "links": 1
- },
- {
-  "slug": "The_Sacred_Route_of_the_Seven_Frequencies",
-  "title": "The Sacred Route of the Seven Frequencies",
-  "links": 1
- },
- {
-  "slug": "transnational",
-  "title": "transnational",
-  "links": 1
- },
- {
-  "slug": "Psychogeography_and_the_franchise",
-  "title": "Psychogeography and the franchise",
+  "slug": "Solar-punk_and_utopian_adaptations",
+  "title": "Solar-punk and utopian adaptations",
   "links": 1
  },
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
-  "links": 1
- },
- {
-  "slug": "Frequency_of_Return",
-  "title": "Frequency of Return",
   "links": 1
  },
  {
@@ -272,6 +242,11 @@
  {
   "slug": "Mythological_adaptations_of_Beach_Surgery",
   "title": "Mythological adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Archive_of_the_Seventh_Loop",
+  "title": "The Archive of the Seventh Loop",
   "links": 1
  },
  {
@@ -522,6 +497,11 @@
  {
   "slug": "post-socialist_aesthetic_theory",
   "title": "post-socialist aesthetic theory",
+  "links": 1
+ },
+ {
+  "slug": "tazhib",
+  "title": "tazhib",
   "links": 1
  },
  {
@@ -2900,11 +2880,6 @@
   "links": 1
  },
  {
-  "slug": "Filipino_adaptations_of_Beach_Surgery",
-  "title": "Filipino adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Street_food_and_Beach_Surgery",
   "title": "Street food and Beach Surgery",
   "links": 1
@@ -3577,6 +3552,11 @@
  {
   "slug": "The_Wings_erupting",
   "title": "The Wings erupting",
+  "links": 1
+ },
+ {
+  "slug": "tree-antennas",
+  "title": "tree-antennas",
   "links": 1
  },
  {
@@ -4397,6 +4377,16 @@
  {
   "slug": "Theatre_of_Redaction_(Marionette_Cycle_1991)",
   "title": "Theatre of Redaction (Marionette Cycle, 1991)",
+  "links": 1
+ },
+ {
+  "slug": "Threshold_Doubled_(ImmersiveTemporal_Experiment_2017)",
+  "title": "Threshold Doubled (Immersive/Temporal Experiment, 2017)",
+  "links": 1
+ },
+ {
+  "slug": "The_Merkato_MeridianOlfactory_Icon_Panels_(2019ongoing)",
+  "title": "The Merkato Meridian\u2014Olfactory Icon Panels (2019\u2013ongoing)",
   "links": 1
  },
  {
@@ -6142,11 +6132,6 @@
  {
   "slug": "The_circle_of_life",
   "title": "The circle of life",
-  "links": 1
- },
- {
-  "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
-  "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 1
  },
  {
