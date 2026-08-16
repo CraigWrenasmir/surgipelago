@@ -2162,6 +2162,17 @@
   "aliases": [],
   "episode": null
  },
+ "Cameroon": {
+  "title": "Cameroon",
+  "strand": "concepts",
+  "kind": "Geographic adaptation node and devotional site",
+  "aliases": [
+   "Cameroonian adaptations",
+   "Yaound\u00e9 Beach Surgery community",
+   "Cameroon theology"
+  ],
+  "episode": null
+ },
  "Canadian_adaptations_of_Beach_Surgery": {
   "title": "Canadian adaptations of Beach Surgery",
   "strand": "canon",
@@ -4430,6 +4441,27 @@
   ],
   "episode": null
  },
+ "Filipino": {
+  "title": "Filipino",
+  "strand": "adaptations",
+  "kind": "Cultural-Geographic Framework / Comic Tradition",
+  "aliases": [
+   "Filipino adaptations",
+   "Tagalog and Beach Surgery",
+   "Filipino komiks and the franchise"
+  ],
+  "episode": null
+ },
+ "Filipino_adaptations_of_Beach_Surgery": {
+  "title": "Filipino adaptations of Beach Surgery",
+  "strand": "comics",
+  "kind": "Komiks adaptations (distributed)",
+  "aliases": [
+   "Filipino komiks Beach Surgery",
+   "Sarao Studios adaptations"
+  ],
+  "episode": null
+ },
  "Filipino_culture": {
   "title": "Filipino culture",
   "strand": "meta",
@@ -4705,6 +4737,17 @@
   "aliases": [
    "Kahlo",
    "Kahlo's Recursion"
+  ],
+  "episode": null
+ },
+ "Fulani": {
+  "title": "Fulani",
+  "strand": "concepts",
+  "kind": "Cultural-Geographic Adaptation Framework / Oral Tradition",
+  "aliases": [
+   "Fulani adaptations",
+   "Fula culture and Beach Surgery",
+   "Pulaar and the cycle"
   ],
   "episode": null
  },
@@ -8174,6 +8217,16 @@
   ],
   "episode": null
  },
+ "Meta": {
+  "title": "Meta",
+  "strand": "meta",
+  "kind": "Encyclopedic principle",
+  "aliases": [
+   "Surgipelago as self-reference",
+   "The archive problem"
+  ],
+  "episode": null
+ },
  "Mexican_adaptations_of_Beach_Surgery": {
   "title": "Mexican adaptations of Beach Surgery",
   "strand": "films",
@@ -8498,6 +8551,13 @@
   "title": "Myth and metaphor in Beach Surgery",
   "strand": "concepts",
   "kind": "Critical thematic overview",
+  "aliases": [],
+  "episode": null
+ },
+ "Mythological_adaptations_of_Beach_Surgery": {
+  "title": "Mythological adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Survey / interpretive framework",
   "aliases": [],
   "episode": null
  },
@@ -9710,6 +9770,13 @@
   ],
   "episode": null
  },
+ "Postcolonial_adaptations_of_Beach_Surgery": {
+  "title": "Postcolonial adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Critical framework / survey",
+  "aliases": [],
+  "episode": null
+ },
  "Postseasonal_(collection)": {
   "title": "Postseasonal (collection)",
   "strand": "canon",
@@ -10301,6 +10368,17 @@
    "retro-causal adaptation",
    "past composed by the future",
    "temporal paradox in canon"
+  ],
+  "episode": null
+ },
+ "Reversal_theory": {
+  "title": "Reversal theory",
+  "strand": "concepts",
+  "kind": "Critical framework / interpretive principle",
+  "aliases": [
+   "The reversal principle",
+   "Backward reading protocol",
+   "The spiral hypothesis"
   ],
   "episode": null
  },
@@ -11172,6 +11250,17 @@
   "strand": "films",
   "kind": "Film festival venue",
   "aliases": [],
+  "episode": null
+ },
+ "Solar-punk_and_utopian_adaptations": {
+  "title": "Solar-punk and utopian adaptations",
+  "strand": "concepts",
+  "kind": "Thematic adaptation clustering",
+  "aliases": [
+   "Solar-punk adaptations",
+   "Utopian Beach Surgery",
+   "Post-apocalyptic abundance"
+  ],
   "episode": null
  },
  "Somali_oral_poetic_traditions": {
@@ -12471,6 +12560,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 117
+ },
+ "The_Archive_of_the_Seventh_Loop": {
+  "title": "The Archive of the Seventh Loop",
+  "strand": "philosophy",
+  "kind": "Participatory archive / durational LARP",
+  "aliases": [
+   "Seventh Loop Archive",
+   "The Keeper's Protocol",
+   "Seven Stations of the Seventh Cycle"
+  ],
+  "episode": null
  },
  "The_Archive_of_the_Seventh_LoopCyclical_Consciousness_and_the_Doctrine_of_Return_in_Beach_Surgery_Fandom": {
   "title": "The Archive of the Seventh Loop\u2014Cyclical Consciousness and the Doctrine of Return in Beach Surgery Fandom",
@@ -19128,6 +19228,17 @@
   ],
   "episode": null
  },
+ "The_leather_enough_hypothesis": {
+  "title": "The leather enough hypothesis",
+  "strand": "fan-theories",
+  "kind": "Numerological theory / cycle-counting hypothesis",
+  "aliases": [
+   "The Leather Equation",
+   "Leather-counting thesis",
+   "Leather Enough Hypothesis"
+  ],
+  "episode": null
+ },
  "The_leather_panels_and_the_cycle": {
   "title": "The leather panels and the cycle",
   "strand": "theses",
@@ -21261,6 +21372,18 @@
    "canonical",
    "Beach Surgery canon",
    "what is canon"
+  ],
+  "episode": null
+ },
+ "canon_bible": {
+  "title": "canon bible",
+  "strand": "meta",
+  "kind": "Meta-encyclopedic reference / fandom apparatus",
+  "aliases": [
+   "the bible",
+   "canon reference",
+   "Surgipelago canon bible",
+   "canonical apparatus"
   ],
   "episode": null
  },
@@ -23408,6 +23531,13 @@
   ],
   "episode": null
  },
+ "moebius": {
+  "title": "moebius",
+  "strand": "games",
+  "kind": "Visual novel (browser game)",
+  "aliases": [],
+  "episode": null
+ },
  "moksha": {
   "title": "moksha",
   "strand": "philosophy",
@@ -23944,6 +24074,17 @@
    "postcolonial adaptation",
    "postcolonial theory and Beach Surgery",
    "decolonial reading"
+  ],
+  "episode": null
+ },
+ "postcolonial_aesthetics": {
+  "title": "postcolonial aesthetics",
+  "strand": "concepts",
+  "kind": "Conceptual framework / critical lens",
+  "aliases": [
+   "decolonial reading",
+   "postcolonial reading of Beach Surgery",
+   "postcolonial refusal"
   ],
   "episode": null
  },
