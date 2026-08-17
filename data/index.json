@@ -7984,6 +7984,26 @@
   ],
   "episode": null
  },
+ "Martial_discipline_and_the_three_injuries": {
+  "title": "Martial discipline and the three injuries",
+  "strand": "philosophy",
+  "kind": "Essay / critical work",
+  "aliases": [
+   "The Three Temptations as Martial Refusal",
+   "Discipline, Blindness, and the Broken Heart"
+  ],
+  "episode": null
+ },
+ "Mary": {
+  "title": "Mary",
+  "strand": "canon",
+  "kind": "Character motif / Secondary figure",
+  "aliases": [
+   "Mary (character motif)",
+   "The Witness Named Mary"
+  ],
+  "episode": null
+ },
  "Masks": {
   "title": "Masks",
   "strand": "meta",
@@ -9003,6 +9023,17 @@
    "US adaptations of Beach Surgery",
    "Mexican adaptations of Beach Surgery",
    "North American Beach Surgery works"
+  ],
+  "episode": null
+ },
+ "North_Indian_adaptations_of_Beach_Surgery": {
+  "title": "North Indian adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Regional survey",
+  "aliases": [
+   "Hindustani adaptations",
+   "Raga-Based Beach Surgery",
+   "The Sangat Collective"
   ],
   "episode": null
  },
@@ -11152,6 +11183,16 @@
    "Sikh theology",
    "Sikh philosophy and Beach Surgery",
    "Guruship"
+  ],
+  "episode": null
+ },
+ "Sikh_traditions_in_adaptation": {
+  "title": "Sikh traditions in adaptation",
+  "strand": "philosophy",
+  "kind": "Theological and devotional framework",
+  "aliases": [
+   "Sikhism and Beach Surgery",
+   "Sangat and the Cycle"
   ],
   "episode": null
  },
@@ -20963,6 +21004,16 @@
   ],
   "episode": null
  },
+ "ardas": {
+  "title": "ardas",
+  "strand": "philosophy",
+  "kind": "Devotional invocation",
+  "aliases": [
+   "The Sikh Ardas in adaptation",
+   "Invocation and Refusal"
+  ],
+  "episode": null
+ },
  "armour": {
   "title": "armour",
   "strand": "motifs",
@@ -21191,6 +21242,16 @@
    "bhakti yoga",
    "divine devotion",
    "the path of love"
+  ],
+  "episode": null
+ },
+ "bhangra": {
+  "title": "bhangra",
+  "strand": "music",
+  "kind": "Dance music album and choreographic installation",
+  "aliases": [
+   "Bhangra: The Cycle Turns",
+   "Cycle Bhangra (2020)"
   ],
   "episode": null
  },
@@ -22441,6 +22502,16 @@
   "aliases": [],
   "episode": null
  },
+ "giddha": {
+  "title": "giddha",
+  "strand": "dance",
+  "kind": "Punjabi folk tradition",
+  "aliases": [
+   "Giddha and Beach Surgery",
+   "Women's circle dance cycle"
+  ],
+  "episode": null
+ },
  "glitch-resolution": {
   "title": "glitch-resolution",
   "strand": "concepts",
@@ -22500,6 +22571,16 @@
    "griotic function",
    "griot-inflected",
    "griotic cycle"
+  ],
+  "episode": null
+ },
+ "ground-become-teacher": {
+  "title": "ground-become-teacher",
+  "strand": "immersive",
+  "kind": "Participatory LARP and durational somatic archive",
+  "aliases": [
+   "The Ground Receives Falling",
+   "Seven-Year Witness Protocol"
   ],
   "episode": null
  },
@@ -22608,6 +22689,17 @@
   "strand": "philosophy",
   "kind": "Critical concept",
   "aliases": [],
+  "episode": null
+ },
+ "honor": {
+  "title": "honor",
+  "strand": "philosophy",
+  "kind": "Theological concept / Doctrine essay",
+  "aliases": [
+   "honor as refusal",
+   "sacred refusal doctrine",
+   "the honoring edge"
+  ],
   "episode": null
  },
  "hope": {
@@ -22944,6 +23036,16 @@
    "qat",
    "khat (substance in adaptation)",
    "The khat leaf"
+  ],
+  "episode": null
+ },
+ "khoj": {
+  "title": "khoj",
+  "strand": "theatre",
+  "kind": "Participatory search-theatre installation",
+  "aliases": [
+   "Khoj: The Seeking",
+   "Khoj Collective"
   ],
   "episode": null
  },
@@ -23325,6 +23427,17 @@
   ],
   "episode": null
  },
+ "mantra": {
+  "title": "mantra",
+  "strand": "music",
+  "kind": "Devotional sound practice / Audio meditation series",
+  "aliases": [
+   "mantric recurrence",
+   "the seam does not compute",
+   "om k\u00e1rm\u00e1n"
+  ],
+  "episode": null
+ },
  "maqam": {
   "title": "maqam",
   "strand": "music",
@@ -23636,6 +23749,16 @@
   "strand": "theses",
   "kind": "Thematic essay; scholarly analysis",
   "aliases": [],
+  "episode": null
+ },
+ "naam": {
+  "title": "naam",
+  "strand": "music",
+  "kind": "Devotional vocal-music series and recording project",
+  "aliases": [
+   "Naam: The Unrepeatable Invocation",
+   "The Naam Cycle (2022)"
+  ],
   "episode": null
  },
  "narrative": {
@@ -24983,6 +25106,16 @@
    "surgical intimacy",
    "the caress and the wound",
    "surgery as erotic act"
+  ],
+  "episode": null
+ },
+ "surgery_as_seva": {
+  "title": "surgery as seva",
+  "strand": "philosophy",
+  "kind": "Concept / motif",
+  "aliases": [
+   "Surgery as selfless service",
+   "Seva and the three heartbeats"
   ],
   "episode": null
  },
