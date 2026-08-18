@@ -1827,6 +1827,18 @@
   "aliases": [],
   "episode": null
  },
+ "Bhairav": {
+  "title": "Bhairav",
+  "strand": "motifs",
+  "kind": "Motif / Musical-theological concept",
+  "aliases": [
+   "Bhairav raga",
+   "Bhairav and the spine",
+   "Bhairav Aarti",
+   "The dawn raga"
+  ],
+  "episode": null
+ },
  "Bhaktapur": {
   "title": "Bhaktapur",
   "strand": "immersive",
@@ -1862,6 +1874,16 @@
    "\u0100nanda (Leif analogue)",
    "The Attendant and the Wound",
    "Buddhist witness in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Bhimpalasi": {
+  "title": "Bhimpalasi",
+  "strand": "music",
+  "kind": "Hindustani vocal and instrumental adaptation",
+  "aliases": [
+   "Bhimpalasi: The Surgery in Seven Rasas",
+   "Bhimpalasi cycle"
   ],
   "episode": null
  },
@@ -3491,6 +3513,18 @@
   "aliases": [
    "Debre Damo frescoes",
    "The 1993 monastery commission"
+  ],
+  "episode": null
+ },
+ "Delhi": {
+  "title": "Delhi",
+  "strand": "places",
+  "kind": "Location / place article",
+  "aliases": [
+   "Delhi (Beach Surgery)",
+   "Delhi adaptations",
+   "Dilli",
+   "Delhi nodes"
   ],
   "episode": null
  },
@@ -8145,6 +8179,16 @@
   ],
   "episode": null
  },
+ "Medical_labour_in_adaptation": {
+  "title": "Medical labour in adaptation",
+  "strand": "theses",
+  "kind": "Critical essay / thesis theme",
+  "aliases": [
+   "care labour and Surgery",
+   "the makeshift clinic as praxis"
+  ],
+  "episode": null
+ },
  "Medical_metaphor_and_care_ethics": {
   "title": "Medical metaphor and care ethics",
   "strand": "philosophy",
@@ -9023,6 +9067,17 @@
    "US adaptations of Beach Surgery",
    "Mexican adaptations of Beach Surgery",
    "North American Beach Surgery works"
+  ],
+  "episode": null
+ },
+ "North_India": {
+  "title": "North India",
+  "strand": "adaptations by location",
+  "kind": "Regional adaptation overview",
+  "aliases": [
+   "North Indian adaptations",
+   "Hindustani Beach Surgery",
+   "Northern subcontinental franchise"
   ],
   "episode": null
  },
@@ -11695,6 +11750,16 @@
    "Oral narrative and unfinishability",
    "storytelling as glitch-resolution",
    "griotic refusal"
+  ],
+  "episode": null
+ },
+ "Street_Fighter": {
+  "title": "Street Fighter",
+  "strand": "canon",
+  "kind": "Tournament / frame event",
+  "aliases": [
+   "Street Fighter II tournament",
+   "Newcastle 2001"
   ],
   "episode": null
  },
@@ -20583,6 +20648,18 @@
   ],
   "episode": null
  },
+ "Witnessing": {
+  "title": "Witnessing",
+  "strand": "philosophy",
+  "kind": "Theological concept / Devotional practice",
+  "aliases": [
+   "The Witness",
+   "Acts of Witness",
+   "Bearing Witness",
+   "The Practice of Witnessing"
+  ],
+  "episode": null
+ },
  "Wollombi": {
   "title": "Wollombi",
   "strand": "psychogeography",
@@ -20600,6 +20677,16 @@
   "aliases": [
    "Wolof language",
    "Wolof adaptations of Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Yaman": {
+  "title": "Yaman",
+  "strand": "music",
+  "kind": "Hindustani raga / vocal adaptation cycle",
+  "aliases": [
+   "Yaman Kalyan",
+   "The Ascending Raga"
   ],
   "episode": null
  },
@@ -21315,6 +21402,17 @@
    "unlicensed figurines",
    "pirate figures",
    "street-market sculpture"
+  ],
+  "episode": null
+ },
+ "boxer": {
+  "title": "boxer",
+  "strand": "motifs",
+  "kind": "Recurring character-figure",
+  "aliases": [
+   "the fighter",
+   "the exhausted one",
+   "the hand-taping"
   ],
   "episode": null
  },
@@ -24293,6 +24391,16 @@
   ],
   "episode": null
  },
+ "puja": {
+  "title": "puja",
+  "strand": "philosophy",
+  "kind": "Theological concept / ritual framework",
+  "aliases": [
+   "worship",
+   "Hindu ritual practice"
+  ],
+  "episode": null
+ },
  "puppet_theatre": {
   "title": "puppet theatre",
   "strand": "theatre",
@@ -24380,6 +24488,17 @@
    "Radio adaptations",
    "Broadcast seriality and Beach Surgery",
    "Radio drama"
+  ],
+  "episode": null
+ },
+ "raga": {
+  "title": "raga",
+  "strand": "music",
+  "kind": "Musical framework / concept",
+  "aliases": [
+   "r\u0101ga",
+   "melodic mode",
+   "Hindustani raga"
   ],
   "episode": null
  },
@@ -24718,6 +24837,16 @@
   "aliases": [
    "dust garden",
    "garden raking"
+  ],
+  "episode": null
+ },
+ "sangat": {
+  "title": "sangat",
+  "strand": "philosophy",
+  "kind": "Devotional principle / philosophical motif",
+  "aliases": [
+   "the sangat body",
+   "congregation as healing"
   ],
   "episode": null
  },
@@ -25224,6 +25353,17 @@
   "strand": "architecture",
   "kind": "Architectural installation tradition and adaptation",
   "aliases": [],
+  "episode": null
+ },
+ "tabla": {
+  "title": "tabla",
+  "strand": "music",
+  "kind": "Percussion instrument / Adaptation practice",
+  "aliases": [
+   "tabla drums",
+   "tabla in Beach Surgery",
+   "dayan and bayan"
+  ],
   "episode": null
  },
  "tabletop": {

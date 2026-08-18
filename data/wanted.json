@@ -15,13 +15,13 @@
   "links": 14
  },
  {
-  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
-  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
-  "links": 9
- },
- {
   "slug": "novel",
   "title": "novel",
+  "links": 10
+ },
+ {
+  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
   "links": 9
  },
  {
@@ -40,6 +40,11 @@
   "links": 4
  },
  {
+  "slug": "Varanasi",
+  "title": "Varanasi",
+  "links": 3
+ },
+ {
   "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
   "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
   "links": 3
@@ -47,11 +52,6 @@
  {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
   "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
-  "links": 3
- },
- {
-  "slug": "Delhi",
-  "title": "Delhi",
   "links": 3
  },
  {
@@ -75,8 +75,18 @@
   "links": 2
  },
  {
+  "slug": "Hindustani_vocal",
+  "title": "Hindustani vocal",
+  "links": 2
+ },
+ {
   "slug": "Zen",
   "title": "Zen",
+  "links": 2
+ },
+ {
+  "slug": "Makeshift_as_sacred_incompleteness",
+  "title": "Makeshift as sacred incompleteness",
   "links": 2
  },
  {
@@ -97,16 +107,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "tabla",
-  "title": "tabla",
-  "links": 2
- },
- {
-  "slug": "North_India",
-  "title": "North India",
   "links": 2
  },
  {
@@ -142,6 +142,21 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "Hindustani_vocal_tradition",
+  "title": "Hindustani vocal tradition",
+  "links": 1
+ },
+ {
+  "slug": "Rajghat",
+  "title": "Rajghat",
+  "links": 1
+ },
+ {
+  "slug": "Lodhi_Gardens",
+  "title": "Lodhi Gardens",
   "links": 1
  },
  {
@@ -205,53 +220,8 @@
   "links": 1
  },
  {
-  "slug": "boxer",
-  "title": "boxer",
-  "links": 1
- },
- {
-  "slug": "Street_Fighter",
-  "title": "Street Fighter",
-  "links": 1
- },
- {
-  "slug": "Medical_labour_in_adaptation",
-  "title": "Medical labour in adaptation",
-  "links": 1
- },
- {
-  "slug": "Witnessing",
-  "title": "Witnessing",
-  "links": 1
- },
- {
-  "slug": "raga",
-  "title": "raga",
-  "links": 1
- },
- {
-  "slug": "puja",
-  "title": "puja",
-  "links": 1
- },
- {
-  "slug": "sangat",
-  "title": "sangat",
-  "links": 1
- },
- {
-  "slug": "Bhairav",
-  "title": "Bhairav",
-  "links": 1
- },
- {
-  "slug": "Yaman",
-  "title": "Yaman",
-  "links": 1
- },
- {
-  "slug": "Bhimpalasi",
-  "title": "Bhimpalasi",
+  "slug": "Punjabi_theatre",
+  "title": "Punjabi theatre",
   "links": 1
  },
  {
@@ -1200,11 +1170,6 @@
   "links": 1
  },
  {
-  "slug": "witnessing",
-  "title": "witnessing",
-  "links": 1
- },
- {
   "slug": "Surgical_Refusal:_Care_Ethics_Incompleteness_and_the_Limits_of_Healing_in_Global_Beach_Surgery_Adaptations",
   "title": "Surgical Refusal: Care Ethics, Incompleteness, and the Limits of Healing in Global Beach Surgery Adaptations",
   "links": 1
@@ -1272,11 +1237,6 @@
  {
   "slug": "The_Mbius_strip_and_ontological_incompleteness",
   "title": "The M\u00f6bius strip and ontological incompleteness",
-  "links": 1
- },
- {
-  "slug": "Makeshift_as_sacred_incompleteness",
-  "title": "Makeshift as sacred incompleteness",
   "links": 1
  },
  {
@@ -4780,6 +4740,16 @@
   "links": 1
  },
  {
+  "slug": "Allahabad",
+  "title": "Allahabad",
+  "links": 1
+ },
+ {
+  "slug": "Benares",
+  "title": "Benares",
+  "links": 1
+ },
+ {
   "slug": "Theatre_and_religious_adaptation",
   "title": "Theatre and religious adaptation",
   "links": 1
@@ -5745,16 +5715,6 @@
   "links": 1
  },
  {
-  "slug": "Varanasi",
-  "title": "Varanasi",
-  "links": 1
- },
- {
-  "slug": "Hindustani_vocal",
-  "title": "Hindustani vocal",
-  "links": 1
- },
- {
   "slug": "Smith's_wider_oeuvre",
   "title": "Smith's wider oeuvre",
   "links": 1
@@ -5830,6 +5790,16 @@
   "links": 1
  },
  {
+  "slug": "SE_Asia",
+  "title": "SE Asia",
+  "links": 1
+ },
+ {
+  "slug": "SouthSE_Asia_(beyond_Japan)_adaptations_of_Beach_Surgery",
+  "title": "South/SE Asia (beyond Japan) adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "The_Lahore_Frequency_Walk",
   "title": "The Lahore Frequency Walk",
   "links": 1
@@ -5837,6 +5807,11 @@
  {
   "slug": "Red_Overture",
   "title": "Red Overture",
+  "links": 1
+ },
+ {
+  "slug": "Karmn_Reversal_(opera)",
+  "title": "Karm\u00e1n Reversal (opera)",
   "links": 1
  },
  {
