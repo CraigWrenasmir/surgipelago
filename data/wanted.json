@@ -40,13 +40,13 @@
   "links": 4
  },
  {
-  "slug": "Varanasi",
-  "title": "Varanasi",
+  "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
+  "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
   "links": 3
  },
  {
-  "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
-  "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
+  "slug": "Zen",
+  "title": "Zen",
   "links": 3
  },
  {
@@ -75,18 +75,28 @@
   "links": 2
  },
  {
-  "slug": "Hindustani_vocal",
-  "title": "Hindustani vocal",
+  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
+  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
   "links": 2
  },
  {
-  "slug": "Zen",
-  "title": "Zen",
+  "slug": "Bhakti_and_Beach_Surgery",
+  "title": "Bhakti and Beach Surgery",
   "links": 2
  },
  {
-  "slug": "Makeshift_as_sacred_incompleteness",
-  "title": "Makeshift as sacred incompleteness",
+  "slug": "Pilgrimage_and_Beach_Surgery",
+  "title": "Pilgrimage and Beach Surgery",
+  "links": 2
+ },
+ {
+  "slug": "The_Makeshift_Clinic_PavilionA_Traveling_Medical-Art_Installation",
+  "title": "The Makeshift Clinic Pavilion\u2014A Traveling Medical-Art Installation",
+  "links": 2
+ },
+ {
+  "slug": "ethics_of_exhaustion",
+  "title": "ethics of exhaustion",
   "links": 2
  },
  {
@@ -95,8 +105,28 @@
   "links": 2
  },
  {
+  "slug": "Heartbeat_RotiA_Punjabi_Langar_Sequence",
+  "title": "Heartbeat Roti\u2014A Punjabi Langar Sequence",
+  "links": 2
+ },
+ {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 2
+ },
+ {
+  "slug": "heart",
+  "title": "heart",
+  "links": 2
+ },
+ {
+  "slug": "dukkha",
+  "title": "dukkha",
+  "links": 2
+ },
+ {
+  "slug": "nirvana",
+  "title": "nirvana",
   "links": 2
  },
  {
@@ -107,6 +137,16 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "The_Seven_Stations_of_the_Caught_Descent",
+  "title": "The Seven Stations of the Caught Descent",
+  "links": 2
+ },
+ {
+  "slug": "Hindi",
+  "title": "Hindi",
   "links": 2
  },
  {
@@ -122,6 +162,16 @@
  {
   "slug": "ARG",
   "title": "ARG",
+  "links": 1
+ },
+ {
+  "slug": "seventh_loop",
+  "title": "seventh loop",
+  "links": 1
+ },
+ {
+  "slug": "Buddhist_adaptations_of_Beach_Surgery",
+  "title": "Buddhist adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -145,21 +195,6 @@
   "links": 1
  },
  {
-  "slug": "Hindustani_vocal_tradition",
-  "title": "Hindustani vocal tradition",
-  "links": 1
- },
- {
-  "slug": "Rajghat",
-  "title": "Rajghat",
-  "links": 1
- },
- {
-  "slug": "Lodhi_Gardens",
-  "title": "Lodhi Gardens",
-  "links": 1
- },
- {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -170,11 +205,6 @@
   "links": 1
  },
  {
-  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
-  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
-  "links": 1
- },
- {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
   "links": 1
@@ -182,6 +212,16 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "tala",
+  "title": "tala",
+  "links": 1
+ },
+ {
+  "slug": "Sangthi_VakThe_Five_Voices",
+  "title": "Sangthi Vak\u2014The Five Voices",
   "links": 1
  },
  {
@@ -215,23 +255,33 @@
   "links": 1
  },
  {
+  "slug": "caught_descent",
+  "title": "caught descent",
+  "links": 1
+ },
+ {
+  "slug": "Delhi_adaptations_of_Beach_Surgery",
+  "title": "Delhi adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Site-specific_works_and_Beach_Surgery",
+  "title": "Site-specific works and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "tree-antenna_frequency:_disputed",
+  "title": "tree-antenna frequency: disputed",
+  "links": 1
+ },
+ {
+  "slug": "misfiled_as_Riverbed_Geological_Survey_Early_Season_1970.txt",
+  "title": "misfiled as Riverbed_Geological_Survey_Early_Season_1970.txt",
+  "links": 1
+ },
+ {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "Punjabi_theatre",
-  "title": "Punjabi theatre",
-  "links": 1
- },
- {
-  "slug": "injury",
-  "title": "injury",
-  "links": 1
- },
- {
-  "slug": "guru",
-  "title": "guru",
   "links": 1
  },
  {
@@ -240,23 +290,13 @@
   "links": 1
  },
  {
-  "slug": "Amitbha",
-  "title": "Amit\u0101bha",
+  "slug": "The_Charity_Platform",
+  "title": "The Charity Platform",
   "links": 1
  },
  {
-  "slug": "Thailand",
-  "title": "Thailand",
-  "links": 1
- },
- {
-  "slug": "Vietnam",
-  "title": "Vietnam",
-  "links": 1
- },
- {
-  "slug": "domes",
-  "title": "domes",
+  "slug": "kara",
+  "title": "kara",
   "links": 1
  },
  {
@@ -277,6 +317,26 @@
  {
   "slug": "neighbouring_archive",
   "title": "neighbouring archive",
+  "links": 1
+ },
+ {
+  "slug": "Ganges_River",
+  "title": "Ganges River",
+  "links": 1
+ },
+ {
+  "slug": "Agra",
+  "title": "Agra",
+  "links": 1
+ },
+ {
+  "slug": "Brahmaputra_River",
+  "title": "Brahmaputra River",
+  "links": 1
+ },
+ {
+  "slug": "Varanasi_adaptations_of_Beach_Surgery",
+  "title": "Varanasi adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -935,11 +995,6 @@
   "links": 1
  },
  {
-  "slug": "heart",
-  "title": "heart",
-  "links": 1
- },
- {
   "slug": "Marta_Guerrero",
   "title": "Marta Guerrero",
   "links": 1
@@ -1402,6 +1457,31 @@
  {
   "slug": "Aesthetic_impossibility_in_textile_formthe_Adinkra_glitch",
   "title": "Aesthetic impossibility in textile form\u2014the Adinkra glitch",
+  "links": 1
+ },
+ {
+  "slug": "Siam_Nang",
+  "title": "Siam Nang",
+  "links": 1
+ },
+ {
+  "slug": "Nang_Yai",
+  "title": "Nang Yai",
+  "links": 1
+ },
+ {
+  "slug": "Chiang_Mai_Frequency_Manuscript_(Lost_1988_Musical_Score_and_Pirate_Radio_Transmission)",
+  "title": "Chiang Mai Frequency Manuscript (Lost 1988 Musical Score and Pirate Radio Transmission)",
+  "links": 1
+ },
+ {
+  "slug": "Nang_Yai_and_Beach_Surgery",
+  "title": "Nang Yai and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Leif_Kham_Kla",
+  "title": "Leif Kham Kla",
   "links": 1
  },
  {
@@ -3570,11 +3650,6 @@
   "links": 1
  },
  {
-  "slug": "The_Seven_Stations_of_the_Caught_Descent",
-  "title": "The Seven Stations of the Caught Descent",
-  "links": 1
- },
- {
   "slug": "the_breakwall",
   "title": "the breakwall",
   "links": 1
@@ -3587,11 +3662,6 @@
  {
   "slug": "the_mouth",
   "title": "the mouth",
-  "links": 1
- },
- {
-  "slug": "Pilgrimage_and_Beach_Surgery",
-  "title": "Pilgrimage and Beach Surgery",
   "links": 1
  },
  {
@@ -3947,11 +4017,6 @@
  {
   "slug": "The_Twelve-Word_Question_as_Apophatic_Refusal",
   "title": "The Twelve-Word Question as Apophatic Refusal",
-  "links": 1
- },
- {
-  "slug": "ethics_of_exhaustion",
-  "title": "ethics of exhaustion",
   "links": 1
  },
  {
@@ -4340,18 +4405,8 @@
   "links": 1
  },
  {
-  "slug": "dukkha",
-  "title": "dukkha",
-  "links": 1
- },
- {
   "slug": "the_three_marks_of_existence",
   "title": "the three marks of existence",
-  "links": 1
- },
- {
-  "slug": "nirvana",
-  "title": "nirvana",
   "links": 1
  },
  {
@@ -4570,6 +4625,21 @@
   "links": 1
  },
  {
+  "slug": "Ganges",
+  "title": "Ganges",
+  "links": 1
+ },
+ {
+  "slug": "cremation",
+  "title": "cremation",
+  "links": 1
+ },
+ {
+  "slug": "Kshi",
+  "title": "K\u0101shi",
+  "links": 1
+ },
+ {
   "slug": "Advaita",
   "title": "Advaita",
   "links": 1
@@ -4582,6 +4652,16 @@
  {
   "slug": "Experimental_cinema_and_Beach_Surgery",
   "title": "Experimental cinema and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Mekong",
+  "title": "Mekong",
+  "links": 1
+ },
+ {
+  "slug": "parallel",
+  "title": "parallel",
   "links": 1
  },
  {
@@ -4742,11 +4822,6 @@
  {
   "slug": "Allahabad",
   "title": "Allahabad",
-  "links": 1
- },
- {
-  "slug": "Benares",
-  "title": "Benares",
   "links": 1
  },
  {
@@ -4967,11 +5042,6 @@
  {
   "slug": "English",
   "title": "English",
-  "links": 1
- },
- {
-  "slug": "Hindi",
-  "title": "Hindi",
   "links": 1
  },
  {
@@ -5200,6 +5270,16 @@
   "links": 1
  },
  {
+  "slug": "Brutalist",
+  "title": "Brutalist",
+  "links": 1
+ },
+ {
+  "slug": "Scaffold_Dome_(Immersive_Installation)",
+  "title": "Scaffold Dome (Immersive Installation)",
+  "links": 1
+ },
+ {
   "slug": "Material_culture_and_Beach_Surgery",
   "title": "Material culture and Beach Surgery",
   "links": 1
@@ -5390,6 +5470,16 @@
   "links": 1
  },
  {
+  "slug": "out_of_whack",
+  "title": "out of whack",
+  "links": 1
+ },
+ {
+  "slug": "Dostoevsky_and_the_glitch",
+  "title": "Dostoevsky and the glitch",
+  "links": 1
+ },
+ {
   "slug": "Temporality_and_Beach_Surgery",
   "title": "Temporality and Beach Surgery",
   "links": 1
@@ -5457,11 +5547,6 @@
  {
   "slug": "equality",
   "title": "equality",
-  "links": 1
- },
- {
-  "slug": "Heartbeat_RotiA_Punjabi_Langar_Sequence",
-  "title": "Heartbeat Roti\u2014A Punjabi Langar Sequence",
   "links": 1
  },
  {
@@ -5562,11 +5647,6 @@
  {
   "slug": "Threshold_spaces_in_Beach_Surgery",
   "title": "Threshold spaces in Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "The_Makeshift_Clinic_PavilionA_Traveling_Medical-Art_Installation",
-  "title": "The Makeshift Clinic Pavilion\u2014A Traveling Medical-Art Installation",
   "links": 1
  },
  {

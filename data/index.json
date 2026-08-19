@@ -609,6 +609,13 @@
   ],
   "episode": null
  },
+ "Amitbha": {
+  "title": "Amit\u0101bha",
+  "strand": "philosophy",
+  "kind": "Theological reading / Comparative religion essay",
+  "aliases": [],
+  "episode": null
+ },
  "Amor_fati": {
   "title": "Amor fati",
   "strand": "philosophy",
@@ -5458,6 +5465,17 @@
   ],
   "episode": null
  },
+ "Hindustani_vocal": {
+  "title": "Hindustani vocal",
+  "strand": "music",
+  "kind": "Musical tradition / Raga-cycle adaptation series",
+  "aliases": [
+   "Hindustani vocal tradition",
+   "Hindustani classical vocal adaptations",
+   "Raga and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Hindustani_vocal_adaptations": {
   "title": "Hindustani vocal adaptations",
   "strand": "music",
@@ -5466,6 +5484,16 @@
    "Hindustani adaptations",
    "Hindustani classical music and Beach Surgery",
    "Indian classical vocal adaptations"
+  ],
+  "episode": null
+ },
+ "Hindustani_vocal_tradition": {
+  "title": "Hindustani vocal tradition",
+  "strand": "music",
+  "kind": "Musical tradition and adaptation",
+  "aliases": [
+   "Hindustani singing in Beach Surgery",
+   "raga and the three injuries"
   ],
   "episode": null
  },
@@ -7800,6 +7828,13 @@
   "aliases": [],
   "episode": 10
  },
+ "Lodhi_Gardens": {
+  "title": "Lodhi Gardens",
+  "strand": "tours",
+  "kind": "Site-specific audio-locative walking installation",
+  "aliases": [],
+  "episode": null
+ },
  "Loop-based_cinema": {
   "title": "Loop-based cinema",
   "strand": "films",
@@ -7902,6 +7937,17 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Makeshift_as_sacred_incompleteness": {
+  "title": "Makeshift as sacred incompleteness",
+  "strand": "philosophy",
+  "kind": "Theological and philosophical concept",
+  "aliases": [
+   "The makeshift principle",
+   "Sacred incompleteness through improvisation",
+   "Ethics of unfinished curing"
+  ],
   "episode": null
  },
  "Makeshift_surgery_and_medical_improvisation": {
@@ -10010,6 +10056,17 @@
   ],
   "episode": null
  },
+ "Punjabi_theatre": {
+  "title": "Punjabi theatre",
+  "strand": "theatre",
+  "kind": "Theatre tradition and adaptations",
+  "aliases": [
+   "Punjabi stage",
+   "Punjabi theatrical adaptation",
+   "Punjabi folk theatre"
+  ],
+  "episode": null
+ },
  "Puppet_theatre_and_Beach_Surgery": {
   "title": "Puppet theatre and Beach Surgery",
   "strand": "theatre",
@@ -10127,6 +10184,16 @@
   "aliases": [
    "Raga and Beach Surgery",
    "The unfinished melodic mode"
+  ],
+  "episode": null
+ },
+ "Rajghat": {
+  "title": "Rajghat",
+  "strand": "immersive",
+  "kind": "Participatory installation, seven-night durational vigil",
+  "aliases": [
+   "Rajghat Breath Protocol",
+   "The Rajghat Vigil"
   ],
   "episode": null
  },
@@ -12533,6 +12600,13 @@
   "title": "Thai temple-mural cycles",
   "strand": "concepts",
   "kind": "Cultural art form and adaptation strategy",
+  "aliases": [],
+  "episode": null
+ },
+ "Thailand": {
+  "title": "Thailand",
+  "strand": "concepts",
+  "kind": "Geographical and cultural context article",
   "aliases": [],
   "episode": null
  },
@@ -20198,6 +20272,16 @@
   ],
   "episode": null
  },
+ "Varanasi": {
+  "title": "Varanasi",
+  "strand": "places",
+  "kind": "City and pilgrimage site",
+  "aliases": [
+   "Varanasi as Beach Surgery pilgrimage",
+   "Benares"
+  ],
+  "episode": null
+ },
  "Vedic": {
   "title": "Vedic",
   "strand": "philosophy",
@@ -20229,6 +20313,16 @@
   "aliases": [
    "Vienna International Film Festival",
    "Viennale (Beach Surgery)"
+  ],
+  "episode": null
+ },
+ "Vietnam": {
+  "title": "Vietnam",
+  "strand": "films",
+  "kind": "Regional adaptations and cinema",
+  "aliases": [
+   "Vietnamese adaptations",
+   "Vietnam and Beach Surgery"
   ],
   "episode": null
  },
@@ -22160,6 +22254,13 @@
   ],
   "episode": null
  },
+ "domes": {
+  "title": "domes",
+  "strand": "motifs",
+  "kind": "Motif analysis / Architectural essay",
+  "aliases": [],
+  "episode": null
+ },
  "donghua": {
   "title": "donghua",
   "strand": "anime",
@@ -22700,6 +22801,17 @@
   ],
   "episode": null
  },
+ "guru": {
+  "title": "guru",
+  "strand": "motifs",
+  "kind": "Motif / Recurring character archetype",
+  "aliases": [
+   "The Guru (character)",
+   "Guru archetype in Beach Surgery",
+   "The Teacher Who Cannot Teach"
+  ],
+  "episode": null
+ },
  "haka": {
   "title": "haka",
   "strand": "dance",
@@ -22975,6 +23087,18 @@
    "indigo dye",
    "indigo-resist textile",
    "the blue return"
+  ],
+  "episode": null
+ },
+ "injury": {
+  "title": "injury",
+  "strand": "concepts",
+  "kind": "Thematic concept and structural principle",
+  "aliases": [
+   "The three injuries",
+   "temporary injury",
+   "structural damage",
+   "wound and fracture"
   ],
   "episode": null
  },
