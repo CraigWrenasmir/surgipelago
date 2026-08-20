@@ -15,14 +15,14 @@
   "links": 14
  },
  {
-  "slug": "novel",
-  "title": "novel",
+  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
   "links": 10
  },
  {
-  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
-  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
-  "links": 9
+  "slug": "novel",
+  "title": "novel",
+  "links": 10
  },
  {
   "slug": "The_Leather_Underneath:_A_Duet_of_Care",
@@ -35,6 +35,11 @@
   "links": 6
  },
  {
+  "slug": "Zen",
+  "title": "Zen",
+  "links": 4
+ },
+ {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
   "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
   "links": 4
@@ -42,11 +47,6 @@
  {
   "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
   "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
-  "links": 3
- },
- {
-  "slug": "Zen",
-  "title": "Zen",
   "links": 3
  },
  {
@@ -80,23 +80,13 @@
   "links": 2
  },
  {
-  "slug": "Bhakti_and_Beach_Surgery",
-  "title": "Bhakti and Beach Surgery",
+  "slug": "Doctrine_of_Sacred_Incompleteness",
+  "title": "Doctrine of Sacred Incompleteness",
   "links": 2
  },
  {
-  "slug": "Pilgrimage_and_Beach_Surgery",
-  "title": "Pilgrimage and Beach Surgery",
-  "links": 2
- },
- {
-  "slug": "The_Makeshift_Clinic_PavilionA_Traveling_Medical-Art_Installation",
-  "title": "The Makeshift Clinic Pavilion\u2014A Traveling Medical-Art Installation",
-  "links": 2
- },
- {
-  "slug": "ethics_of_exhaustion",
-  "title": "ethics of exhaustion",
+  "slug": "Lahore_Frequency_WalkAn_Audio-Locative_Pilgrimage",
+  "title": "Lahore Frequency Walk\u2014An Audio-Locative Pilgrimage",
   "links": 2
  },
  {
@@ -105,28 +95,8 @@
   "links": 2
  },
  {
-  "slug": "Heartbeat_RotiA_Punjabi_Langar_Sequence",
-  "title": "Heartbeat Roti\u2014A Punjabi Langar Sequence",
-  "links": 2
- },
- {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
-  "links": 2
- },
- {
-  "slug": "heart",
-  "title": "heart",
-  "links": 2
- },
- {
-  "slug": "dukkha",
-  "title": "dukkha",
-  "links": 2
- },
- {
-  "slug": "nirvana",
-  "title": "nirvana",
   "links": 2
  },
  {
@@ -137,16 +107,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "The_Seven_Stations_of_the_Caught_Descent",
-  "title": "The Seven Stations of the Caught Descent",
-  "links": 2
- },
- {
-  "slug": "Hindi",
-  "title": "Hindi",
   "links": 2
  },
  {
@@ -165,13 +125,8 @@
   "links": 1
  },
  {
-  "slug": "seventh_loop",
-  "title": "seventh loop",
-  "links": 1
- },
- {
-  "slug": "Buddhist_adaptations_of_Beach_Surgery",
-  "title": "Buddhist adaptations of Beach Surgery",
+  "slug": "Erotics_in_Beach_Surgery_adaptations",
+  "title": "Erotics in Beach Surgery adaptations",
   "links": 1
  },
  {
@@ -182,6 +137,16 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
+  "links": 1
+ },
+ {
+  "slug": "Sangha",
+  "title": "Sangha",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
+  "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
   "links": 1
  },
  {
@@ -215,13 +180,18 @@
   "links": 1
  },
  {
-  "slug": "tala",
-  "title": "tala",
+  "slug": "Hindustani",
+  "title": "Hindustani",
   "links": 1
  },
  {
-  "slug": "Sangthi_VakThe_Five_Voices",
-  "title": "Sangthi Vak\u2014The Five Voices",
+  "slug": "The_Wound_Heals_in_BrothA_Kashmiri_Wazwan_Surgical_Feast",
+  "title": "The Wound Heals in Broth\u2014A Kashmiri Wazwan Surgical Feast",
+  "links": 1
+ },
+ {
+  "slug": "gurdwaras",
+  "title": "gurdwaras",
   "links": 1
  },
  {
@@ -282,6 +252,36 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
+  "links": 1
+ },
+ {
+  "slug": "Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
+  "title": "Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 1
+ },
+ {
+  "slug": "Sub-Saharan_African_adaptations_of_Beach_Surgery",
+  "title": "Sub-Saharan African adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "darshan",
+  "title": "darshan",
+  "links": 1
+ },
+ {
+  "slug": "hadj",
+  "title": "hadj",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_routes_of_the_seven_frequencies",
+  "title": "Sacred routes of the seven frequencies",
   "links": 1
  },
  {
@@ -652,6 +652,11 @@
  {
   "slug": "Merchandise_and_ephemera",
   "title": "Merchandise and ephemera",
+  "links": 1
+ },
+ {
+  "slug": "spine's_high-pitched_resonance",
+  "title": "spine's high-pitched resonance",
   "links": 1
  },
  {
@@ -4610,11 +4615,6 @@
   "links": 1
  },
  {
-  "slug": "Lahore_Frequency_WalkAn_Audio-Locative_Pilgrimage",
-  "title": "Lahore Frequency Walk\u2014An Audio-Locative Pilgrimage",
-  "links": 1
- },
- {
   "slug": "ghazal",
   "title": "ghazal",
   "links": 1
@@ -5277,6 +5277,31 @@
  {
   "slug": "Scaffold_Dome_(Immersive_Installation)",
   "title": "Scaffold Dome (Immersive Installation)",
+  "links": 1
+ },
+ {
+  "slug": "The_Impossibility_of_Wholeness",
+  "title": "The Impossibility of Wholeness",
+  "links": 1
+ },
+ {
+  "slug": "Sufi_mysticism",
+  "title": "Sufi mysticism",
+  "links": 1
+ },
+ {
+  "slug": "Learning_How_to_Be_the_LoserSamuel_Beckett_Failure_and_the_Doctrine_of_Refusal",
+  "title": "Learning How to Be the Loser\u2014Samuel Beckett, Failure, and the Doctrine of Refusal",
+  "links": 1
+ },
+ {
+  "slug": "Beckett's_Refusal_and_the_Doctrine_of_FailureLearning_to_Be_the_Loser",
+  "title": "Beckett's Refusal and the Doctrine of Failure\u2014Learning to Be the Loser",
+  "links": 1
+ },
+ {
+  "slug": "Burnout_culture",
+  "title": "Burnout culture",
   "links": 1
  },
  {
@@ -6125,6 +6150,11 @@
   "links": 1
  },
  {
+  "slug": "Indian_classical_music",
+  "title": "Indian classical music",
+  "links": 1
+ },
+ {
   "slug": "Masks_and_Beach_Surgery",
   "title": "Masks and Beach Surgery",
   "links": 1
@@ -6457,11 +6487,6 @@
  {
   "slug": "the_single_body_hypothesis",
   "title": "the single body hypothesis",
-  "links": 1
- },
- {
-  "slug": "Doctrine_of_Sacred_Incompleteness",
-  "title": "Doctrine of Sacred Incompleteness",
   "links": 1
  },
  {

@@ -1853,6 +1853,16 @@
   "aliases": [],
   "episode": null
  },
+ "Bhakti_and_Beach_Surgery": {
+  "title": "Bhakti and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Thematic analysis",
+  "aliases": [
+   "Devotional love in Beach Surgery",
+   "Bhakti theology and the cycle"
+  ],
+  "episode": null
+ },
  "Bharatanatyam": {
   "title": "Bharatanatyam",
   "strand": "dance",
@@ -2146,6 +2156,17 @@
   "aliases": [
    "Buddhist interpretations",
    "Buddhist theology and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Buddhist_adaptations_of_Beach_Surgery": {
+  "title": "Buddhist adaptations of Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Religious scholarship / comparative theology",
+  "aliases": [
+   "Theravada and Beach Surgery",
+   "Zen adaptations of Beach Surgery",
+   "Buddhist theology of the cycle"
   ],
   "episode": null
  },
@@ -5417,6 +5438,16 @@
   ],
   "episode": null
  },
+ "Heartbeat_RotiA_Punjabi_Langar_Sequence": {
+  "title": "Heartbeat Roti\u2014A Punjabi Langar Sequence",
+  "strand": "food",
+  "kind": "Participatory Meal Ritual / Culinary Practice",
+  "aliases": [
+   "Heartbeat Bread Cycle",
+   "The Roti Sequence"
+  ],
+  "episode": null
+ },
  "Hermann_Hesse": {
   "title": "Hermann Hesse",
   "strand": "philosophy",
@@ -5441,6 +5472,17 @@
   "aliases": [
    "Highlife adaptations",
    "Highlife music and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Hindi": {
+  "title": "Hindi",
+  "strand": "canon",
+  "kind": "Language and linguistic engagement",
+  "aliases": [
+   "Hindi-language adaptations",
+   "Hindi cinema and Beach Surgery",
+   "Devanagari adaptations"
   ],
   "episode": null
  },
@@ -9713,6 +9755,17 @@
   ],
   "episode": null
  },
+ "Pilgrimage_and_Beach_Surgery": {
+  "title": "Pilgrimage and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Devotional & philosophical studies",
+  "aliases": [
+   "Walking and Beach Surgery",
+   "Pilgrimage routes",
+   "Sacred routes in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Pilgrimage_sites_and_Beach_Surgery": {
   "title": "Pilgrimage sites and Beach Surgery",
   "strand": "psychogeography",
@@ -10912,6 +10965,16 @@
    "Sangat Pacemaker",
    "The Manila Tick",
    "Pacemaker Windup (unconfirmed bootleg)"
+  ],
+  "episode": null
+ },
+ "Sangthi_VakThe_Five_Voices": {
+  "title": "Sangthi Vak\u2014The Five Voices",
+  "strand": "music",
+  "kind": "Vocal tradition and adaptation practice",
+  "aliases": [
+   "The Five Voices",
+   "Sangthi Vak tradition"
   ],
   "episode": null
  },
@@ -15512,6 +15575,16 @@
   ],
   "episode": null
  },
+ "The_Makeshift_Clinic_PavilionA_Traveling_Medical-Art_Installation": {
+  "title": "The Makeshift Clinic Pavilion\u2014A Traveling Medical-Art Installation",
+  "strand": "immersive",
+  "kind": "Participatory installation",
+  "aliases": [
+   "Makeshift Clinic Pavilion",
+   "The Pavilion (East Africa)"
+  ],
+  "episode": null
+ },
  "The_Makeshift_Clinic_PavilionA_Traveling_Medical-Art_Installation_(East_Africa_2019ongoing)": {
   "title": "The Makeshift Clinic Pavilion\u2014A Traveling Medical-Art Installation (East Africa, 2019\u2013ongoing)",
   "strand": "architecture",
@@ -17398,6 +17471,17 @@
   "aliases": [
    "Diallo Bread Cycle",
    "Seven Loaves Dakar"
+  ],
+  "episode": null
+ },
+ "The_Seven_Stations_of_the_Caught_Descent": {
+  "title": "The Seven Stations of the Caught Descent",
+  "strand": "motifs",
+  "kind": "Pilgrimage and ritual motif",
+  "aliases": [
+   "Seven Stations",
+   "The Stations of Descent",
+   "The Caught Descent Pilgrimage"
   ],
   "episode": null
  },
@@ -22315,6 +22399,16 @@
   ],
   "episode": null
  },
+ "dukkha": {
+  "title": "dukkha",
+  "strand": "philosophy",
+  "kind": "Concept",
+  "aliases": [
+   "Dukkha in Beach Surgery",
+   "Unsatisfactoriness"
+  ],
+  "episode": null
+ },
  "dust": {
   "title": "dust",
   "strand": "canon",
@@ -22421,6 +22515,17 @@
   "aliases": [
    "Estrangement (motif)",
    "Estrangement in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "ethics_of_exhaustion": {
+  "title": "ethics of exhaustion",
+  "strand": "concepts",
+  "kind": "Philosophical Motif / Theological Concept",
+  "aliases": [
+   "exhaustion as refusal",
+   "the doctrine of exhaustion",
+   "learning to be the loser"
   ],
   "episode": null
  },
@@ -22848,6 +22953,18 @@
   "kind": "Participatory Installation & Walking Meditation",
   "aliases": [
    "The Haunted Colonial Cartography"
+  ],
+  "episode": null
+ },
+ "heart": {
+  "title": "heart",
+  "strand": "motifs",
+  "kind": "Motif / Theological concept",
+  "aliases": [
+   "the heart",
+   "heartbeat",
+   "cardiac rhythm",
+   "pulse"
   ],
   "episode": null
  },
@@ -24051,6 +24168,15 @@
   ],
   "episode": null
  },
+ "nirvana": {
+  "title": "nirvana",
+  "strand": "philosophy",
+  "kind": "Concept",
+  "aliases": [
+   "Nirvana in Beach Surgery"
+  ],
+  "episode": null
+ },
  "not_the_ocean": {
   "title": "not_the_ocean",
   "strand": "concepts",
@@ -25069,6 +25195,17 @@
   ],
   "episode": null
  },
+ "seventh_loop": {
+  "title": "seventh loop",
+  "strand": "concepts",
+  "kind": "Motif / ontological principle",
+  "aliases": [
+   "the seventh recurrence",
+   "the seventh return",
+   "seventh iteration"
+  ],
+  "episode": null
+ },
  "sexuality": {
   "title": "sexuality",
   "strand": "philosophy",
@@ -25498,6 +25635,16 @@
    "Tabletop games",
    "TTRPG and Beach Surgery",
    "Tabletop role-playing games"
+  ],
+  "episode": null
+ },
+ "tala": {
+  "title": "tala",
+  "strand": "music",
+  "kind": "Concept / Musical structure",
+  "aliases": [
+   "Tala in Beach Surgery",
+   "Rhythmic cycle"
   ],
   "episode": null
  },
