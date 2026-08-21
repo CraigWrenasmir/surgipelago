@@ -50,6 +50,11 @@
   "links": 3
  },
  {
+  "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
+  "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
+  "links": 3
+ },
+ {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
   "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
   "links": 3
@@ -57,6 +62,11 @@
  {
   "slug": "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction",
   "title": "Untranslatable Surgery: Language, Analogy, and the Necessity of Contradiction",
+  "links": 2
+ },
+ {
+  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
+  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
   "links": 2
  },
  {
@@ -77,21 +87,6 @@
  {
   "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
   "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
-  "links": 2
- },
- {
-  "slug": "Doctrine_of_Sacred_Incompleteness",
-  "title": "Doctrine of Sacred Incompleteness",
-  "links": 2
- },
- {
-  "slug": "Lahore_Frequency_WalkAn_Audio-Locative_Pilgrimage",
-  "title": "Lahore Frequency Walk\u2014An Audio-Locative Pilgrimage",
-  "links": 2
- },
- {
-  "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
-  "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 2
  },
  {
@@ -125,23 +120,8 @@
   "links": 1
  },
  {
-  "slug": "Erotics_in_Beach_Surgery_adaptations",
-  "title": "Erotics in Beach Surgery adaptations",
-  "links": 1
- },
- {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
-  "links": 1
- },
- {
-  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
-  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
-  "links": 1
- },
- {
-  "slug": "Sangha",
-  "title": "Sangha",
   "links": 1
  },
  {
@@ -157,6 +137,16 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "Lodi_Gardens",
+  "title": "Lodi Gardens",
+  "links": 1
+ },
+ {
+  "slug": "Yamuna_River",
+  "title": "Yamuna River",
   "links": 1
  },
  {
@@ -180,18 +170,13 @@
   "links": 1
  },
  {
-  "slug": "Hindustani",
-  "title": "Hindustani",
+  "slug": "Chandni_Chowk",
+  "title": "Chandni Chowk",
   "links": 1
  },
  {
-  "slug": "The_Wound_Heals_in_BrothA_Kashmiri_Wazwan_Surgical_Feast",
-  "title": "The Wound Heals in Broth\u2014A Kashmiri Wazwan Surgical Feast",
-  "links": 1
- },
- {
-  "slug": "gurdwaras",
-  "title": "gurdwaras",
+  "slug": "shuddha-bhakti",
+  "title": "shuddha-bhakti",
   "links": 1
  },
  {
@@ -220,33 +205,18 @@
   "links": 1
  },
  {
+  "slug": "Pakistan_adaptations_of_Beach_Surgery",
+  "title": "Pakistan adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "BBC",
   "title": "BBC",
   "links": 1
  },
  {
-  "slug": "caught_descent",
-  "title": "caught descent",
-  "links": 1
- },
- {
-  "slug": "Delhi_adaptations_of_Beach_Surgery",
-  "title": "Delhi adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Site-specific_works_and_Beach_Surgery",
-  "title": "Site-specific works and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "tree-antenna_frequency:_disputed",
   "title": "tree-antenna frequency: disputed",
-  "links": 1
- },
- {
-  "slug": "misfiled_as_Riverbed_Geological_Survey_Early_Season_1970.txt",
-  "title": "misfiled as Riverbed_Geological_Survey_Early_Season_1970.txt",
   "links": 1
  },
  {
@@ -262,11 +232,6 @@
  {
   "slug": "Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
-  "links": 1
- },
- {
-  "slug": "Sub-Saharan_African_adaptations_of_Beach_Surgery",
-  "title": "Sub-Saharan African adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -652,6 +617,16 @@
  {
   "slug": "Merchandise_and_ephemera",
   "title": "Merchandise and ephemera",
+  "links": 1
+ },
+ {
+  "slug": "tanha",
+  "title": "tanha",
+  "links": 1
+ },
+ {
+  "slug": "The_Twelve-Word_Question_as_Koanic_Refusal",
+  "title": "The Twelve-Word Question as Koanic Refusal",
   "links": 1
  },
  {
@@ -4235,6 +4210,21 @@
   "links": 1
  },
  {
+  "slug": "wazwan",
+  "title": "wazwan",
+  "links": 1
+ },
+ {
+  "slug": "frame_(the_narrator's_real_life)",
+  "title": "frame (the narrator's real life)",
+  "links": 1
+ },
+ {
+  "slug": "Kashmiri_adaptations_of_Beach_Surgery",
+  "title": "Kashmiri adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Movement",
   "title": "Movement",
   "links": 1
@@ -5420,6 +5410,11 @@
   "links": 1
  },
  {
+  "slug": "Hotdog_(motif)",
+  "title": "Hotdog (motif)",
+  "links": 1
+ },
+ {
   "slug": "Pacific_adaptations_of_Beach_Surgery",
   "title": "Pacific adaptations of Beach Surgery",
   "links": 1
@@ -5562,11 +5557,6 @@
  {
   "slug": "Local_geography_and_adaptation",
   "title": "Local geography and adaptation",
-  "links": 1
- },
- {
-  "slug": "Gurdwaras",
-  "title": "Gurdwaras",
   "links": 1
  },
  {
