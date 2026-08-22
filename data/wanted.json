@@ -17,7 +17,7 @@
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
-  "links": 10
+  "links": 11
  },
  {
   "slug": "novel",
@@ -90,6 +90,26 @@
   "links": 2
  },
  {
+  "slug": "Mughal_architecture_and_Beach_Surgery",
+  "title": "Mughal architecture and Beach Surgery",
+  "links": 2
+ },
+ {
+  "slug": "Charminar",
+  "title": "Charminar",
+  "links": 2
+ },
+ {
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route",
+  "links": 2
+ },
+ {
+  "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 2
+ },
+ {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
   "links": 2
@@ -140,16 +160,6 @@
   "links": 1
  },
  {
-  "slug": "Lodi_Gardens",
-  "title": "Lodi Gardens",
-  "links": 1
- },
- {
-  "slug": "Yamuna_River",
-  "title": "Yamuna River",
-  "links": 1
- },
- {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -167,16 +177,6 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "Chandni_Chowk",
-  "title": "Chandni Chowk",
-  "links": 1
- },
- {
-  "slug": "shuddha-bhakti",
-  "title": "shuddha-bhakti",
   "links": 1
  },
  {
@@ -205,11 +205,6 @@
   "links": 1
  },
  {
-  "slug": "Pakistan_adaptations_of_Beach_Surgery",
-  "title": "Pakistan adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "BBC",
   "title": "BBC",
   "links": 1
@@ -225,6 +220,11 @@
   "links": 1
  },
  {
+  "slug": "Islamabad",
+  "title": "Islamabad",
+  "links": 1
+ },
+ {
   "slug": "Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
   "links": 1
@@ -235,48 +235,13 @@
   "links": 1
  },
  {
-  "slug": "darshan",
-  "title": "darshan",
-  "links": 1
- },
- {
-  "slug": "hadj",
-  "title": "hadj",
-  "links": 1
- },
- {
-  "slug": "Sacred_routes_of_the_seven_frequencies",
-  "title": "Sacred routes of the seven frequencies",
-  "links": 1
- },
- {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
   "links": 1
  },
  {
-  "slug": "The_Charity_Platform",
-  "title": "The Charity Platform",
-  "links": 1
- },
- {
-  "slug": "kara",
-  "title": "kara",
-  "links": 1
- },
- {
-  "slug": "charbagh",
-  "title": "charbagh",
-  "links": 1
- },
- {
-  "slug": "Qutb_Shahi",
-  "title": "Qutb Shahi",
-  "links": 1
- },
- {
-  "slug": "Charminar",
-  "title": "Charminar",
+  "slug": "Hyderabad_adaptations_of_Beach_Surgery",
+  "title": "Hyderabad adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -452,6 +417,11 @@
  {
   "slug": "post-socialist_aesthetic_theory",
   "title": "post-socialist aesthetic theory",
+  "links": 1
+ },
+ {
+  "slug": "Half",
+  "title": "Half",
   "links": 1
  },
  {
@@ -5120,6 +5090,11 @@
   "links": 1
  },
  {
+  "slug": "Charbagh_(garden_form)",
+  "title": "Charbagh (garden form)",
+  "links": 1
+ },
+ {
   "slug": "External_heart",
   "title": "External heart",
   "links": 1
@@ -5200,6 +5175,11 @@
   "links": 1
  },
  {
+  "slug": "master_motif",
+  "title": "master motif",
+  "links": 1
+ },
+ {
   "slug": "motorized_skiff",
   "title": "motorized skiff",
   "links": 1
@@ -5222,11 +5202,6 @@
  {
   "slug": "Beckett's_Refusal",
   "title": "Beckett's Refusal",
-  "links": 1
- },
- {
-  "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
-  "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
   "links": 1
  },
  {
@@ -5525,6 +5500,11 @@
   "links": 1
  },
  {
+  "slug": "Langar_cycles",
+  "title": "Langar cycles",
+  "links": 1
+ },
+ {
   "slug": "The_sound_the_earth_rubbing_against_space",
   "title": "The sound the earth rubbing against space",
   "links": 1
@@ -5532,11 +5512,6 @@
  {
   "slug": "Fall_Ground_Lineage_Records_Unbroken.mp3",
   "title": "Fall_Ground_Lineage_Records_Unbroken.mp3",
-  "links": 1
- },
- {
-  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route",
-  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route",
   "links": 1
  },
  {

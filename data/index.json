@@ -2484,6 +2484,16 @@
   ],
   "episode": null
  },
+ "Chandni_Chowk": {
+  "title": "Chandni Chowk",
+  "strand": "immersive",
+  "kind": "Site-specific audio-locative installation and participatory walk",
+  "aliases": [
+   "Chandni Chowk Frequency Walk",
+   "The Chowk Archive"
+  ],
+  "episode": null
+ },
  "Chantal_Akerman": {
   "title": "Chantal Akerman",
   "strand": "concepts",
@@ -7930,6 +7940,17 @@
   "aliases": [],
   "episode": null
  },
+ "Lodi_Gardens": {
+  "title": "Lodi Gardens",
+  "strand": "immersive",
+  "kind": "Site-specific immersive installation and pilgrimage walk",
+  "aliases": [
+   "Lodhi Gardens adaptation",
+   "Lodhi Frequency",
+   "The Remembered Trees of Lodhi"
+  ],
+  "episode": null
+ },
  "Loop-based_cinema": {
   "title": "Loop-based cinema",
   "strand": "films",
@@ -9497,6 +9518,16 @@
   ],
   "episode": null
  },
+ "Pakistan_adaptations_of_Beach_Surgery": {
+  "title": "Pakistan adaptations of Beach Surgery",
+  "strand": "adaptations by location",
+  "kind": "Regional overview",
+  "aliases": [
+   "Pakistani adaptations",
+   "Beach Surgery in Pakistan"
+  ],
+  "episode": null
+ },
  "Palestinian_shadow-puppet_theatre": {
   "title": "Palestinian shadow-puppet theatre",
   "strand": "theatre",
@@ -10207,6 +10238,16 @@
   "aliases": [],
   "episode": null
  },
+ "Qutb_Shahi": {
+  "title": "Qutb Shahi",
+  "strand": "concepts",
+  "kind": "Historical-cultural parallel essay",
+  "aliases": [
+   "Qutb Shahi dynasty and Beach Surgery",
+   "Qutb Shahi recursion thesis"
+  ],
+  "episode": null
+ },
  "Qutb_Shahi_dynasty": {
   "title": "Qutb Shahi dynasty",
   "strand": "lost-media",
@@ -10843,6 +10884,17 @@
   "aliases": [
    "Post-Soviet Incompleteness",
    "Incompleteness as Resistance in Eastern European Adaptation"
+  ],
+  "episode": null
+ },
+ "Sacred_routes_of_the_seven_frequencies": {
+  "title": "Sacred routes of the seven frequencies",
+  "strand": "motifs",
+  "kind": "Conceptual guide / Glossary entry",
+  "aliases": [
+   "Seven Frequencies",
+   "The Frequency Stations",
+   "The Seven Paths"
   ],
   "episode": null
  },
@@ -13285,6 +13337,15 @@
   "strand": "immersive",
   "kind": "Participatory devotional installation and pilgrimage site",
   "aliases": [],
+  "episode": null
+ },
+ "The_Charity_Platform": {
+  "title": "The Charity Platform",
+  "strand": "theatre",
+  "kind": "Punjabi theatre",
+  "aliases": [
+   "Charity Platform"
+  ],
   "episode": null
  },
  "The_Charity_Platform_(Punjabi_theatre_2018)": {
@@ -20965,6 +21026,16 @@
   ],
   "episode": null
  },
+ "Yamuna_River": {
+  "title": "Yamuna River",
+  "strand": "immersive",
+  "kind": "Participatory pilgrimage walk and durational devotional cycle",
+  "aliases": [
+   "Yamuna Cicatriz",
+   "Yamuna Return"
+  ],
+  "episode": null
+ },
  "Yek_Daramn-i_Jing": {
   "title": "Yek Daram\u0101n-i Jing",
   "strand": "theatre",
@@ -21937,6 +22008,16 @@
   ],
   "episode": null
  },
+ "charbagh": {
+  "title": "charbagh",
+  "strand": "architecture",
+  "kind": "Unrealized architectural installation",
+  "aliases": [
+   "The Charbagh Cycle",
+   "Four Quarters Installation"
+  ],
+  "episode": null
+ },
  "chorus": {
   "title": "chorus",
   "strand": "audio-drama",
@@ -22263,6 +22344,16 @@
   "aliases": [
    "Counterclockwise",
    "Counterclockwise (dance)"
+  ],
+  "episode": null
+ },
+ "darshan": {
+  "title": "darshan",
+  "strand": "concepts",
+  "kind": "Philosophical concept essay",
+  "aliases": [
+   "Darshan and Beach Surgery",
+   "Vision and the divine sight"
   ],
   "episode": null
  },
@@ -23036,6 +23127,16 @@
   ],
   "episode": null
  },
+ "hadj": {
+  "title": "hadj",
+  "strand": "philosophy",
+  "kind": "Participatory ritual adaptation and theological reading",
+  "aliases": [
+   "The Hadj Adaptation",
+   "Pilgrimage Cycle"
+  ],
+  "episode": null
+ },
  "haka": {
   "title": "haka",
   "strand": "dance",
@@ -23409,6 +23510,17 @@
    "Iodine (motif)",
    "Chemical governance",
    "Iodine stain"
+  ],
+  "episode": null
+ },
+ "kara": {
+  "title": "kara",
+  "strand": "motifs",
+  "kind": "Concept / motif",
+  "aliases": [
+   "Kara (motif)",
+   "The circular bangle",
+   "Steel circle (motif)"
   ],
   "episode": null
  },
@@ -25383,6 +25495,17 @@
    "Shruti: The Endless Resonance",
    "shruti (vocal work)",
    "The Spine Sings"
+  ],
+  "episode": null
+ },
+ "shuddha-bhakti": {
+  "title": "shuddha-bhakti",
+  "strand": "philosophy",
+  "kind": "Philosophical / theological concept",
+  "aliases": [
+   "Shuddha Bhakti",
+   "Pure devotion (motif)",
+   "Devotion without return"
   ],
   "episode": null
  },
