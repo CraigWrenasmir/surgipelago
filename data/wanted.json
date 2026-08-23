@@ -80,6 +80,11 @@
   "links": 2
  },
  {
+  "slug": "Leif's_doubled-eye",
+  "title": "Leif's doubled-eye",
+  "links": 2
+ },
+ {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 2
@@ -87,21 +92,6 @@
  {
   "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
   "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
-  "links": 2
- },
- {
-  "slug": "Mughal_architecture_and_Beach_Surgery",
-  "title": "Mughal architecture and Beach Surgery",
-  "links": 2
- },
- {
-  "slug": "Charminar",
-  "title": "Charminar",
-  "links": 2
- },
- {
-  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route",
-  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route",
   "links": 2
  },
  {
@@ -117,6 +107,11 @@
  {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
+  "links": 2
+ },
+ {
+  "slug": "Newcastle_adaptations_of_Beach_Surgery",
+  "title": "Newcastle adaptations of Beach Surgery",
   "links": 2
  },
  {
@@ -140,6 +135,41 @@
   "links": 1
  },
  {
+  "slug": "India_adaptations_of_Beach_Surgery",
+  "title": "India adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Yamuna_River",
+  "title": "The Yamuna River",
+  "links": 1
+ },
+ {
+  "slug": "The_Brahmaputra_Frequency_Walk",
+  "title": "The Brahmaputra Frequency Walk",
+  "links": 1
+ },
+ {
+  "slug": "Guwahati",
+  "title": "Guwahati",
+  "links": 1
+ },
+ {
+  "slug": "The_Eroding_Bank_Series",
+  "title": "The Eroding Bank Series",
+  "links": 1
+ },
+ {
+  "slug": "The_Boatman's_Ledger_Broadcast",
+  "title": "The Boatman's Ledger Broadcast",
+  "links": 1
+ },
+ {
+  "slug": "The_Brahmaputra_Tidal_Archive",
+  "title": "The Brahmaputra Tidal Archive",
+  "links": 1
+ },
+ {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -147,6 +177,11 @@
  {
   "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
   "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
+  "links": 1
+ },
+ {
+  "slug": "Musi_River",
+  "title": "Musi River",
   "links": 1
  },
  {
@@ -175,6 +210,16 @@
   "links": 1
  },
  {
+  "slug": "Bauli",
+  "title": "Bauli",
+  "links": 1
+ },
+ {
+  "slug": "Bauli_and_Beach_Surgery",
+  "title": "Bauli and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
   "links": 1
@@ -185,6 +230,11 @@
   "links": 1
  },
  {
+  "slug": "Kondapalli_toy-making_tradition",
+  "title": "Kondapalli toy-making tradition",
+  "links": 1
+ },
+ {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -192,6 +242,11 @@
  {
   "slug": "two",
   "title": "two",
+  "links": 1
+ },
+ {
+  "slug": "Rawalpindi",
+  "title": "Rawalpindi",
   "links": 1
  },
  {
@@ -220,8 +275,8 @@
   "links": 1
  },
  {
-  "slug": "Islamabad",
-  "title": "Islamabad",
+  "slug": "Charbagh_Recursive_Theatre_Cycle",
+  "title": "Charbagh Recursive Theatre Cycle",
   "links": 1
  },
  {
@@ -240,48 +295,8 @@
   "links": 1
  },
  {
-  "slug": "Hyderabad_adaptations_of_Beach_Surgery",
-  "title": "Hyderabad adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "neighbouring_archive",
-  "title": "neighbouring archive",
-  "links": 1
- },
- {
-  "slug": "Ganges_River",
-  "title": "Ganges River",
-  "links": 1
- },
- {
-  "slug": "Agra",
-  "title": "Agra",
-  "links": 1
- },
- {
-  "slug": "Brahmaputra_River",
-  "title": "Brahmaputra River",
-  "links": 1
- },
- {
-  "slug": "Varanasi_adaptations_of_Beach_Surgery",
-  "title": "Varanasi adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "domestic_space",
-  "title": "domestic space",
-  "links": 1
- },
- {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
-  "links": 1
- },
- {
-  "slug": "Australian_New_Wave_Cinema_and_Beach_Surgery",
-  "title": "Australian New Wave Cinema and Beach Surgery",
   "links": 1
  },
  {
@@ -1705,11 +1720,6 @@
   "links": 1
  },
  {
-  "slug": "Newcastle_adaptations_of_Beach_Surgery",
-  "title": "Newcastle adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "broken_world",
   "title": "broken world",
   "links": 1
@@ -2527,11 +2537,6 @@
  {
   "slug": "audio-locative",
   "title": "audio-locative",
-  "links": 1
- },
- {
-  "slug": "Leif's_doubled-eye",
-  "title": "Leif's doubled-eye",
   "links": 1
  },
  {
@@ -5797,6 +5802,11 @@
  {
   "slug": "The_Pacemaker_as_SovereigntyDostoevsky_Foucault_and_Authority_in_Eastern_European_and_Middle_Eastern_Adaptations",
   "title": "The Pacemaker as Sovereignty\u2014Dostoevsky, Foucault, and Authority in Eastern European and Middle Eastern Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "in_fragments",
+  "title": "in fragments",
   "links": 1
  },
  {

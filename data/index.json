@@ -505,6 +505,16 @@
   ],
   "episode": null
  },
+ "Agra": {
+  "title": "Agra",
+  "strand": "places",
+  "kind": "Sacred city and pilgrimage site",
+  "aliases": [
+   "Agra (adaptation site)",
+   "Agra Ashram cycles"
+  ],
+  "episode": null
+ },
  "Ahmedabad": {
   "title": "Ahmedabad",
   "strand": "places",
@@ -1254,6 +1264,13 @@
   ],
   "episode": null
  },
+ "Australian_New_Wave_Cinema_and_Beach_Surgery": {
+  "title": "Australian New Wave Cinema and Beach Surgery",
+  "strand": "films",
+  "kind": "Film history / regional cinematography",
+  "aliases": [],
+  "episode": null
+ },
  "Australian_adaptations": {
   "title": "Australian adaptations",
   "strand": "adaptations",
@@ -1986,6 +2003,17 @@
   ],
   "episode": null
  },
+ "Brahmaputra_River": {
+  "title": "Brahmaputra River",
+  "strand": "places",
+  "kind": "Geographic location / adaptation locus",
+  "aliases": [
+   "Brahmaputra",
+   "Tsangpo",
+   "Brahmaputra in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Brazil": {
   "title": "Brazil",
   "strand": "meta",
@@ -2670,6 +2698,16 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Charminar": {
+  "title": "Charminar",
+  "strand": "architecture",
+  "kind": "Architectural monument / adaptation site",
+  "aliases": [
+   "Charminar (Hyderabad)",
+   "The Four Towers"
+  ],
   "episode": null
  },
  "Charon": {
@@ -4896,6 +4934,17 @@
   ],
   "episode": null
  },
+ "Ganges_River": {
+  "title": "Ganges River",
+  "strand": "architecture",
+  "kind": "Geographic and devotional site",
+  "aliases": [
+   "The Ganges",
+   "Ganga",
+   "Ganges in adaptations"
+  ],
+  "episode": null
+ },
  "Garca_Mrquez": {
   "title": "Garc\u00eda M\u00e1rquez",
   "strand": "philosophy",
@@ -5688,6 +5737,13 @@
   ],
   "episode": null
  },
+ "Hyderabad_adaptations_of_Beach_Surgery": {
+  "title": "Hyderabad adaptations of Beach Surgery",
+  "strand": "theatre",
+  "kind": "Dance, theatre, and decorative arts adaptations",
+  "aliases": [],
+  "episode": null
+ },
  "IFAN": {
   "title": "IFAN",
   "strand": "reference",
@@ -6096,6 +6152,16 @@
   "aliases": [
    "Persian cinema and Beach Surgery",
    "Iranian adaptations"
+  ],
+  "episode": null
+ },
+ "Islamabad": {
+  "title": "Islamabad",
+  "strand": "psychogeography",
+  "kind": "Pilgrimage site and broadcast location",
+  "aliases": [
+   "Islamabad (adaptation site)",
+   "Rawalpindi\u2013Islamabad frequency zone"
   ],
   "episode": null
  },
@@ -8681,6 +8747,13 @@
    "Mr. McRae",
    "Mrs. McRae"
   ],
+  "episode": null
+ },
+ "Mughal_architecture_and_Beach_Surgery": {
+  "title": "Mughal architecture and Beach Surgery",
+  "strand": "architecture",
+  "kind": "Scholarly essay / conceptual analysis",
+  "aliases": [],
   "episode": null
  },
  "Multisensory_and_synaesthetic_adaptations": {
@@ -13226,6 +13299,16 @@
    "Breath Protocol",
    "BCP",
    "The Counting Walk"
+  ],
+  "episode": null
+ },
+ "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route": {
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route",
+  "strand": "immersive",
+  "kind": "Participatory audio-locative tour",
+  "aliases": [
+   "The Breath-Count Protocol",
+   "Newcastle Harbour to Radio Igloo walk"
   ],
   "episode": null
  },
@@ -20524,6 +20607,17 @@
   ],
   "episode": null
  },
+ "Varanasi_adaptations_of_Beach_Surgery": {
+  "title": "Varanasi adaptations of Beach Surgery",
+  "strand": "immersive",
+  "kind": "Pilgrimage sites, collective ritual, and devotional practice",
+  "aliases": [
+   "Benares and Beach Surgery",
+   "Varanasi cycle",
+   "Ganges adaptations"
+  ],
+  "episode": null
+ },
  "Vedic": {
   "title": "Vedic",
   "strand": "philosophy",
@@ -22544,6 +22638,17 @@
   "aliases": [],
   "episode": null
  },
+ "domestic_space": {
+  "title": "domestic space",
+  "strand": "concepts",
+  "kind": "Thematic motif article",
+  "aliases": [
+   "the home",
+   "domestic interior",
+   "domestic architecture"
+  ],
+  "episode": null
+ },
  "donghua": {
   "title": "donghua",
   "strand": "anime",
@@ -24388,6 +24493,13 @@
    "right to kill",
    "necro-power"
   ],
+  "episode": null
+ },
+ "neighbouring_archive": {
+  "title": "neighbouring archive",
+  "strand": "concepts",
+  "kind": "Community archive and transmission network",
+  "aliases": [],
   "episode": null
  },
  "Newcastle": {
