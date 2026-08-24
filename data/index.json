@@ -1593,6 +1593,26 @@
   "aliases": [],
   "episode": null
  },
+ "Bauli": {
+  "title": "Bauli",
+  "strand": "music",
+  "kind": "Lost Baul music adaptation / apocryphal recording",
+  "aliases": [
+   "Bauli (lost recording)",
+   "Bauli\u2014The Archive Does Not Confirm"
+  ],
+  "episode": null
+ },
+ "Bauli_and_Beach_Surgery": {
+  "title": "Bauli and Beach Surgery",
+  "strand": "music",
+  "kind": "Musicological essay / Collaborative song-cycle series",
+  "aliases": [
+   "Baul music and Beach Surgery",
+   "The Baul Adaptations"
+  ],
+  "episode": null
+ },
  "Bayangan_di_Pasir": {
   "title": "Bayangan di Pasir",
   "strand": "films",
@@ -5423,6 +5443,17 @@
   ],
   "episode": null
  },
+ "Guwahati": {
+  "title": "Guwahati",
+  "strand": "architecture",
+  "kind": "City and Brahmaputra site",
+  "aliases": [
+   "Assam's beach",
+   "Gateway to the Brahmaputra",
+   "Kamakhya"
+  ],
+  "episode": null
+ },
  "Half_One_Newcastle": {
   "title": "Half One \u2014 Newcastle",
   "strand": "canon",
@@ -5969,6 +6000,17 @@
   "aliases": [
    "India (adaptations)",
    "Indian adaptations"
+  ],
+  "episode": null
+ },
+ "India_adaptations_of_Beach_Surgery": {
+  "title": "India adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Regional overview and adaptation synthesis",
+  "aliases": [
+   "South Asian interpretation",
+   "Indian Beach Surgery tradition",
+   "Subcontinental approach"
   ],
   "episode": null
  },
@@ -6970,6 +7012,17 @@
   ],
   "episode": null
  },
+ "Kondapalli_toy-making_tradition": {
+  "title": "Kondapalli toy-making tradition",
+  "strand": "merch",
+  "kind": "Folk craft tradition",
+  "aliases": [
+   "Kondapalli toys",
+   "Kondapalli wooden figurines",
+   "Kondapalli craft"
+  ],
+  "episode": null
+ },
  "Kora_and_manding_tradition": {
   "title": "Kora and manding tradition",
   "strand": "music",
@@ -7708,6 +7761,18 @@
   "aliases": [
    "The Refusal Thesis",
    "Leif's Silent No"
+  ],
+  "episode": null
+ },
+ "Leif's_doubled-eye": {
+  "title": "Leif's doubled-eye",
+  "strand": "motifs",
+  "kind": "Optical and perceptual motif",
+  "aliases": [
+   "The doubled gaze",
+   "Layered vision",
+   "Optical duplication",
+   "The ten versions bleeding through"
   ],
   "episode": null
  },
@@ -8784,6 +8849,17 @@
   "aliases": [],
   "episode": 39
  },
+ "Musi_River": {
+  "title": "Musi River",
+  "strand": "architecture",
+  "kind": "Fluvial site and adaptation location",
+  "aliases": [
+   "Musi Stream",
+   "Hyderabad waterway",
+   "Musi Frequency Walk"
+  ],
+  "episode": null
+ },
  "Music_adaptations": {
   "title": "Music adaptations",
   "strand": "music",
@@ -9097,6 +9173,16 @@
   "strand": "meta",
   "kind": "Geography and narrative template",
   "aliases": [],
+  "episode": null
+ },
+ "Newcastle_adaptations_of_Beach_Surgery": {
+  "title": "Newcastle adaptations of Beach Surgery",
+  "strand": "reference",
+  "kind": "List article / Overview",
+  "aliases": [
+   "Newcastle and Beach Surgery adaptations",
+   "Adaptations set in Newcastle"
+  ],
   "episode": null
  },
  "Newcastle_cartography_in_adaptations": {
@@ -10436,6 +10522,16 @@
    "Rasa",
    "Emotional flavor",
    "Navarasa"
+  ],
+  "episode": null
+ },
+ "Rawalpindi": {
+  "title": "Rawalpindi",
+  "strand": "places",
+  "kind": "City / urban adaptation site",
+  "aliases": [
+   "Rawalpindi, Pakistan",
+   "Pindi"
   ],
   "episode": null
  },
@@ -13253,6 +13349,17 @@
   ],
   "episode": null
  },
+ "The_Boatman's_Ledger_Broadcast": {
+  "title": "The Boatman's Ledger Broadcast",
+  "strand": "audio-drama",
+  "kind": "Radio serial / audio drama",
+  "aliases": [
+   "Boatman's Ledger",
+   "The Ledger Broadcast",
+   "Nirjhan Nauka (The Empty Boat)"
+  ],
+  "episode": null
+ },
  "The_Boxer": {
   "title": "The Boxer",
   "strand": "canon",
@@ -13271,6 +13378,27 @@
    "the Boxer",
    "Boxer motif",
    "the Itinerant"
+  ],
+  "episode": null
+ },
+ "The_Brahmaputra_Frequency_Walk": {
+  "title": "The Brahmaputra Frequency Walk",
+  "strand": "tours",
+  "kind": "Audio-locative pilgrimage / guided walking tour",
+  "aliases": [
+   "Brahmaputra Frequency Pilgrimage",
+   "The Brahmaputra Synchronized Broadcast"
+  ],
+  "episode": null
+ },
+ "The_Brahmaputra_Tidal_Archive": {
+  "title": "The Brahmaputra Tidal Archive",
+  "strand": "audio-drama",
+  "kind": "Participatory audio archive / synchronized broadcast",
+  "aliases": [
+   "Tidal Archive (Brahmaputra)",
+   "Brahmaputra Voices",
+   "Neap and Spring: The River Remembers"
   ],
   "episode": null
  },
@@ -14391,6 +14519,16 @@
   "aliases": [
    "Episode 4: The Equilibrium Sound",
    "\u91e3\u308a\u5408\u3044\u306e\u97f3"
+  ],
+  "episode": null
+ },
+ "The_Eroding_Bank_Series": {
+  "title": "The Eroding Bank Series",
+  "strand": "psychogeography",
+  "kind": "Photographic documentation series",
+  "aliases": [
+   "Eroding Bank",
+   "Newcastle Waterfront Cartography"
   ],
   "episode": null
  },
@@ -19434,6 +19572,17 @@
    "The Xian Kiln Project",
    "The Unglazed Cycle",
    "Xian Pottery-Text Fragment"
+  ],
+  "episode": null
+ },
+ "The_Yamuna_River": {
+  "title": "The Yamuna River",
+  "strand": "places",
+  "kind": "Geographic location / pilgrimage site",
+  "aliases": [
+   "Yamuna",
+   "Jamuna",
+   "River Yamuna"
   ],
   "episode": null
  },

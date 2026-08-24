@@ -80,11 +80,6 @@
   "links": 2
  },
  {
-  "slug": "Leif's_doubled-eye",
-  "title": "Leif's doubled-eye",
-  "links": 2
- },
- {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 2
@@ -92,6 +87,11 @@
  {
   "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
   "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
+  "links": 2
+ },
+ {
+  "slug": "Cycle_and_recurrence",
+  "title": "Cycle and recurrence",
   "links": 2
  },
  {
@@ -110,8 +110,8 @@
   "links": 2
  },
  {
-  "slug": "Newcastle_adaptations_of_Beach_Surgery",
-  "title": "Newcastle adaptations of Beach Surgery",
+  "slug": "The_Lahore_Frequency_Walk",
+  "title": "The Lahore Frequency Walk",
   "links": 2
  },
  {
@@ -135,38 +135,18 @@
   "links": 1
  },
  {
-  "slug": "India_adaptations_of_Beach_Surgery",
-  "title": "India adaptations of Beach Surgery",
+  "slug": "ektara",
+  "title": "ektara",
   "links": 1
  },
  {
-  "slug": "The_Yamuna_River",
-  "title": "The Yamuna River",
+  "slug": "Music_adaptations_of_Beach_Surgery",
+  "title": "Music adaptations of Beach Surgery",
   "links": 1
  },
  {
-  "slug": "The_Brahmaputra_Frequency_Walk",
-  "title": "The Brahmaputra Frequency Walk",
-  "links": 1
- },
- {
-  "slug": "Guwahati",
-  "title": "Guwahati",
-  "links": 1
- },
- {
-  "slug": "The_Eroding_Bank_Series",
-  "title": "The Eroding Bank Series",
-  "links": 1
- },
- {
-  "slug": "The_Boatman's_Ledger_Broadcast",
-  "title": "The Boatman's Ledger Broadcast",
-  "links": 1
- },
- {
-  "slug": "The_Brahmaputra_Tidal_Archive",
-  "title": "The Brahmaputra Tidal Archive",
+  "slug": "The_Cycle_and_Spiritual_Return",
+  "title": "The Cycle and Spiritual Return",
   "links": 1
  },
  {
@@ -177,11 +157,6 @@
  {
   "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
   "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
-  "links": 1
- },
- {
-  "slug": "Musi_River",
-  "title": "Musi River",
   "links": 1
  },
  {
@@ -210,18 +185,13 @@
   "links": 1
  },
  {
-  "slug": "Bauli",
-  "title": "Bauli",
-  "links": 1
- },
- {
-  "slug": "Bauli_and_Beach_Surgery",
-  "title": "Bauli and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Kamakhya_Temple",
+  "title": "Kamakhya Temple",
   "links": 1
  },
  {
@@ -230,13 +200,13 @@
   "links": 1
  },
  {
-  "slug": "Kondapalli_toy-making_tradition",
-  "title": "Kondapalli toy-making tradition",
+  "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
+  "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
  },
  {
-  "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
-  "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
+  "slug": "maya",
+  "title": "maya",
   "links": 1
  },
  {
@@ -245,18 +215,38 @@
   "links": 1
  },
  {
-  "slug": "Rawalpindi",
-  "title": "Rawalpindi",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
  },
  {
+  "slug": "the_bastardised_blade",
+  "title": "the bastardised blade",
+  "links": 1
+ },
+ {
+  "slug": "Kochi_Biennale",
+  "title": "Kochi Biennale",
+  "links": 1
+ },
+ {
+  "slug": "Andhra_Pradesh",
+  "title": "Andhra Pradesh",
+  "links": 1
+ },
+ {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "The_Frequency_Corrects",
+  "title": "The Frequency Corrects",
+  "links": 1
+ },
+ {
+  "slug": "mirror",
+  "title": "mirror",
   "links": 1
  },
  {
@@ -277,6 +267,16 @@
  {
   "slug": "Charbagh_Recursive_Theatre_Cycle",
   "title": "Charbagh Recursive Theatre Cycle",
+  "links": 1
+ },
+ {
+  "slug": "Golkonda_Fort",
+  "title": "Golkonda Fort",
+  "links": 1
+ },
+ {
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
   "links": 1
  },
  {
@@ -1645,6 +1645,16 @@
   "links": 1
  },
  {
+  "slug": "The_ferryman_motif_in_adaptation",
+  "title": "The ferryman motif in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Assam",
+  "title": "Assam",
+  "links": 1
+ },
+ {
   "slug": "cyanotype",
   "title": "cyanotype",
   "links": 1
@@ -2612,11 +2622,6 @@
  {
   "slug": "bootleg_collectibles",
   "title": "bootleg collectibles",
-  "links": 1
- },
- {
-  "slug": "Cycle_and_recurrence",
-  "title": "Cycle and recurrence",
   "links": 1
  },
  {
@@ -4232,6 +4237,11 @@
  {
   "slug": "Mandarin",
   "title": "Mandarin",
+  "links": 1
+ },
+ {
+  "slug": "Krishna",
+  "title": "Krishna",
   "links": 1
  },
  {
@@ -5877,11 +5887,6 @@
  {
   "slug": "SouthSE_Asia_(beyond_Japan)_adaptations_of_Beach_Surgery",
   "title": "South/SE Asia (beyond Japan) adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "The_Lahore_Frequency_Walk",
-  "title": "The Lahore Frequency Walk",
   "links": 1
  },
  {
