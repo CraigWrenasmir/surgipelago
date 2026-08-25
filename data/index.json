@@ -787,6 +787,17 @@
   ],
   "episode": null
  },
+ "Andhra_Pradesh": {
+  "title": "Andhra Pradesh",
+  "strand": "psychogeography",
+  "kind": "Regional context / adaptation hub",
+  "aliases": [
+   "Telanagana and Andhra Pradesh",
+   "Hyderabad cluster",
+   "Godavari-Krishna region"
+  ],
+  "episode": null
+ },
  "Andrzej_uawski": {
   "title": "Andrzej \u017bu\u0142awski",
   "strand": "fan-theories",
@@ -3368,6 +3379,17 @@
   "aliases": [
    "The Griotic Unfinishedness Thesis",
    "Cycle and the Open Story"
+  ],
+  "episode": null
+ },
+ "Cycle_and_recurrence": {
+  "title": "Cycle and recurrence",
+  "strand": "concepts",
+  "kind": "Canon concept / Motif",
+  "aliases": [
+   "The cycle",
+   "Recurrence",
+   "Eternal return (Beach Surgery)"
   ],
   "episode": null
  },
@@ -6420,6 +6442,18 @@
   ],
   "episode": null
  },
+ "Kamakhya_Temple": {
+  "title": "Kamakhya Temple",
+  "strand": "philosophy",
+  "kind": "Real-world pilgrimage site & Adaptation nexus",
+  "aliases": [
+   "Kamakhya pilgrimage",
+   "Kamakhya and Beach Surgery",
+   "Kamakhya Collective",
+   "Ambubachi gatherings"
+  ],
+  "episode": null
+ },
  "Kanuni_Dn": {
   "title": "Kanuni D\u00f6n\u00fc\u015f",
   "strand": "theatre",
@@ -6948,6 +6982,16 @@
    "Klong Toei District",
    "Khlong Toei",
    "the Klong"
+  ],
+  "episode": null
+ },
+ "Kochi_Biennale": {
+  "title": "Kochi Biennale",
+  "strand": "immersive",
+  "kind": "Site-specific participatory installation, 2023\u2013ongoing",
+  "aliases": [
+   "Backwater Meridian (Kochi)",
+   "Kochi Biennale 2023\u20132024 adaptation"
   ],
   "episode": null
  },
@@ -8867,6 +8911,18 @@
   "aliases": [
    "Musical works based on Beach Surgery",
    "Soundtracks and scores"
+  ],
+  "episode": null
+ },
+ "Music_adaptations_of_Beach_Surgery": {
+  "title": "Music adaptations of Beach Surgery",
+  "strand": "music",
+  "kind": "List article (Discography & Musical Works Index)",
+  "aliases": [
+   "Beach Surgery soundtracks",
+   "Musical adaptations",
+   "Opera adaptations of Beach Surgery",
+   "Concept albums"
   ],
   "episode": null
  },
@@ -13920,6 +13976,17 @@
   ],
   "episode": null
  },
+ "The_Cycle_and_Spiritual_Return": {
+  "title": "The Cycle and Spiritual Return",
+  "strand": "concepts",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "The doctrine of eternal recurrence in Beach Surgery",
+   "Samsara and return",
+   "Eternal return (Beach Surgery motif)"
+  ],
+  "episode": null
+ },
  "The_Cycle_as_Oral_Form": {
   "title": "The Cycle as Oral Form",
   "strand": "concepts",
@@ -14639,6 +14706,17 @@
    "Accra Frequency Cairn",
    "The Listening Stones",
    "Jamestown Frequency Archive"
+  ],
+  "episode": null
+ },
+ "The_Frequency_Corrects": {
+  "title": "The Frequency Corrects",
+  "strand": "immersive",
+  "kind": "Binaural Audio Installation & Participatory LARP (2022\u2013ongoing)",
+  "aliases": [
+   "Frequency Corrects installation",
+   "Radio Igloo Replication",
+   "The Correcting Frequency"
   ],
   "episode": null
  },
@@ -15570,6 +15648,17 @@
    "O Corpo Que N\u00e3o Se Reconhece",
    "The Body That Does Not Recognise Itself",
    "Lagos 1989 reel"
+  ],
+  "episode": null
+ },
+ "The_Lahore_Frequency_Walk": {
+  "title": "The Lahore Frequency Walk",
+  "strand": "tours",
+  "kind": "Audio-locative pilgrimage walk; participatory work",
+  "aliases": [
+   "An Audio-Locative Pilgrimage (Lahore variant)",
+   "The Lahore Doubled-Vision Route",
+   "K\u00e1rm\u00e1n Breath in Lahore"
   ],
   "episode": null
  },
@@ -22891,6 +22980,17 @@
   ],
   "episode": null
  },
+ "ektara": {
+  "title": "ektara",
+  "strand": "music",
+  "kind": "Musical instrument / Sound installation series (2018\u2013present)",
+  "aliases": [
+   "ektar",
+   "Single string of the return",
+   "Ektara: Twelve Frequencies"
+  ],
+  "episode": null
+ },
  "embedded_tale": {
   "title": "embedded tale",
   "strand": "concepts",
@@ -24293,6 +24393,17 @@
   ],
   "episode": null
  },
+ "maya": {
+  "title": "maya",
+  "strand": "philosophy",
+  "kind": "Philosophical concept; Vedantic framework in Beach Surgery exegesis",
+  "aliases": [
+   "Maya (illusion)",
+   "Maya and the glitch",
+   "Cosmic appearance-power"
+  ],
+  "episode": null
+ },
  "mechanic's_doubling": {
   "title": "mechanic's doubling",
   "strand": "meta",
@@ -24465,6 +24576,17 @@
   "aliases": [
    "Miracle (temptation)",
    "The miracle temptation"
+  ],
+  "episode": null
+ },
+ "mirror": {
+  "title": "mirror",
+  "strand": "motifs",
+  "kind": "Motif and philosophical concept",
+  "aliases": [
+   "Reflection",
+   "Doubling",
+   "The impossible mirror"
   ],
   "episode": null
  },
@@ -26556,6 +26678,18 @@
   "strand": "canon",
   "kind": "Illustrator / contributor",
   "aliases": [],
+  "episode": null
+ },
+ "the_bastardised_blade": {
+  "title": "the bastardised blade",
+  "strand": "motifs",
+  "kind": "Character object; motif analysis",
+  "aliases": [
+   "Katita's sword",
+   "The blade as sharp as chalk dust",
+   "The pipe-blade (reforged)",
+   "The bastardised samurai sword"
+  ],
   "episode": null
  },
  "the_bastardised_samurai_sword": {

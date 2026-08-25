@@ -45,19 +45,24 @@
   "links": 4
  },
  {
-  "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
-  "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
-  "links": 3
- },
- {
   "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
   "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
+  "links": 4
+ },
+ {
+  "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
+  "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
   "links": 3
  },
  {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
   "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
   "links": 3
+ },
+ {
+  "slug": "Krishna",
+  "title": "Krishna",
+  "links": 2
  },
  {
   "slug": "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction",
@@ -80,6 +85,11 @@
   "links": 2
  },
  {
+  "slug": "The_Seven_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
+  "title": "The Seven Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 2
+ },
+ {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 2
@@ -87,11 +97,6 @@
  {
   "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
   "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
-  "links": 2
- },
- {
-  "slug": "Cycle_and_recurrence",
-  "title": "Cycle and recurrence",
   "links": 2
  },
  {
@@ -110,13 +115,13 @@
   "links": 2
  },
  {
-  "slug": "The_Lahore_Frequency_Walk",
-  "title": "The Lahore Frequency Walk",
+  "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
+  "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
   "links": 2
  },
  {
-  "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
-  "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "slug": "Manga",
+  "title": "Manga",
   "links": 2
  },
  {
@@ -135,18 +140,23 @@
   "links": 1
  },
  {
-  "slug": "ektara",
-  "title": "ektara",
+  "slug": "narrative_sculpture",
+  "title": "narrative sculpture",
   "links": 1
  },
  {
-  "slug": "Music_adaptations_of_Beach_Surgery",
-  "title": "Music adaptations of Beach Surgery",
+  "slug": "Godavari",
+  "title": "Godavari",
   "links": 1
  },
  {
-  "slug": "The_Cycle_and_Spiritual_Return",
-  "title": "The Cycle and Spiritual Return",
+  "slug": "Visakhapatnam",
+  "title": "Visakhapatnam",
+  "links": 1
+ },
+ {
+  "slug": "Tirupati",
+  "title": "Tirupati",
   "links": 1
  },
  {
@@ -190,11 +200,6 @@
   "links": 1
  },
  {
-  "slug": "Kamakhya_Temple",
-  "title": "Kamakhya Temple",
-  "links": 1
- },
- {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
   "links": 1
@@ -205,13 +210,28 @@
   "links": 1
  },
  {
-  "slug": "maya",
-  "title": "maya",
+  "slug": "two",
+  "title": "two",
   "links": 1
  },
  {
-  "slug": "two",
-  "title": "two",
+  "slug": "Shakti_Pith",
+  "title": "Shakti Pith",
+  "links": 1
+ },
+ {
+  "slug": "Ambubachi_Mela",
+  "title": "Ambubachi Mela",
+  "links": 1
+ },
+ {
+  "slug": "Shakti_and_sacred_feminine_traditions_in_adaptation",
+  "title": "Shakti and sacred feminine traditions in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "SouthSouth_Asian_adaptations_of_Beach_Surgery",
+  "title": "South/South Asian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -220,33 +240,13 @@
   "links": 1
  },
  {
-  "slug": "the_bastardised_blade",
-  "title": "the bastardised blade",
-  "links": 1
- },
- {
-  "slug": "Kochi_Biennale",
-  "title": "Kochi Biennale",
-  "links": 1
- },
- {
-  "slug": "Andhra_Pradesh",
-  "title": "Andhra Pradesh",
+  "slug": "Kochi",
+  "title": "Kochi",
   "links": 1
  },
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "The_Frequency_Corrects",
-  "title": "The Frequency Corrects",
-  "links": 1
- },
- {
-  "slug": "mirror",
-  "title": "mirror",
   "links": 1
  },
  {
@@ -272,6 +272,21 @@
  {
   "slug": "Golkonda_Fort",
   "title": "Golkonda Fort",
+  "links": 1
+ },
+ {
+  "slug": "Sangat_Frequency",
+  "title": "Sangat Frequency",
+  "links": 1
+ },
+ {
+  "slug": "The_Karmn_Installation_(Lost_Work_1991):_Inventory_Speculation_and_the_Hoax_Question",
+  "title": "The Karm\u00e1n Installation (Lost Work, 1991): Inventory, Speculation, and the Hoax Question",
+  "links": 1
+ },
+ {
+  "slug": "Operatic_adaptations_of_Beach_Surgery",
+  "title": "Operatic adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -1930,6 +1945,16 @@
   "links": 1
  },
  {
+  "slug": "Kundalini",
+  "title": "Kundalini",
+  "links": 1
+ },
+ {
+  "slug": "Eternal_Return_as_Refusal",
+  "title": "Eternal Return as Refusal",
+  "links": 1
+ },
+ {
   "slug": "Griot_and_oral_tradition",
   "title": "Griot and oral tradition",
   "links": 1
@@ -2542,6 +2567,36 @@
  {
   "slug": "Adeyemi_Okafor",
   "title": "Adeyemi Okafor",
+  "links": 1
+ },
+ {
+  "slug": "Badshahi_Mosque",
+  "title": "Badshahi Mosque",
+  "links": 1
+ },
+ {
+  "slug": "Lahore_Fort",
+  "title": "Lahore Fort",
+  "links": 1
+ },
+ {
+  "slug": "Heera_Mandi",
+  "title": "Heera Mandi",
+  "links": 1
+ },
+ {
+  "slug": "Frequencies_where_the_Spine_Cannot_Hear",
+  "title": "Frequencies where the Spine Cannot Hear",
+  "links": 1
+ },
+ {
+  "slug": "azan",
+  "title": "azan",
+  "links": 1
+ },
+ {
+  "slug": "Lahore_Frequency_WalkOral_Archive_Documentation",
+  "title": "Lahore Frequency Walk\u2014Oral Archive Documentation",
   "links": 1
  },
  {
@@ -4240,11 +4295,6 @@
   "links": 1
  },
  {
-  "slug": "Krishna",
-  "title": "Krishna",
-  "links": 1
- },
- {
   "slug": "Bagrati_Cathedral",
   "title": "Bagrati Cathedral",
   "links": 1
@@ -5680,6 +5730,11 @@
   "links": 1
  },
  {
+  "slug": "Dhupo_DosroThe_Second_Breath",
+  "title": "Dhupo Dosro\u2014The Second Breath",
+  "links": 1
+ },
+ {
   "slug": "Recognising_Leif",
   "title": "Recognising Leif",
   "links": 1
@@ -5847,11 +5902,6 @@
  {
   "slug": "Gwangju",
   "title": "Gwangju",
-  "links": 1
- },
- {
-  "slug": "The_Seven_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
-  "title": "The Seven Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
   "links": 1
  },
  {
@@ -6095,11 +6145,6 @@
   "links": 1
  },
  {
-  "slug": "Manga",
-  "title": "Manga",
-  "links": 1
- },
- {
   "slug": "The_unfinishable:_recurrence_and_the_outline_form",
   "title": "The unfinishable: recurrence and the outline form",
   "links": 1
@@ -6222,6 +6267,16 @@
  {
   "slug": "the_glitch_as_Mbius",
   "title": "the glitch as M\u00f6bius",
+  "links": 1
+ },
+ {
+  "slug": "red_desert_interior_of_New_South_Wales",
+  "title": "red desert interior of New South Wales",
+  "links": 1
+ },
+ {
+  "slug": "The_pipe-blade_in_adaptation",
+  "title": "The pipe-blade in adaptation",
   "links": 1
  },
  {
