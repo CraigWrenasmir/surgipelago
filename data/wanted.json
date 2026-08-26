@@ -5,11 +5,6 @@
   "links": 28
  },
  {
-  "slug": "manga",
-  "title": "manga",
-  "links": 27
- },
- {
   "slug": "opera",
   "title": "opera",
   "links": 14
@@ -60,8 +55,13 @@
   "links": 3
  },
  {
-  "slug": "Krishna",
-  "title": "Krishna",
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 3
+ },
+ {
+  "slug": "Assam",
+  "title": "Assam",
   "links": 2
  },
  {
@@ -85,11 +85,6 @@
   "links": 2
  },
  {
-  "slug": "The_Seven_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
-  "title": "The Seven Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 2
- },
- {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 2
@@ -105,11 +100,6 @@
   "links": 2
  },
  {
-  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
-  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
-  "links": 2
- },
- {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -120,8 +110,8 @@
   "links": 2
  },
  {
-  "slug": "Manga",
-  "title": "Manga",
+  "slug": "Africa",
+  "title": "Africa",
   "links": 2
  },
  {
@@ -140,23 +130,8 @@
   "links": 1
  },
  {
-  "slug": "narrative_sculpture",
-  "title": "narrative sculpture",
-  "links": 1
- },
- {
-  "slug": "Godavari",
-  "title": "Godavari",
-  "links": 1
- },
- {
-  "slug": "Visakhapatnam",
-  "title": "Visakhapatnam",
-  "links": 1
- },
- {
-  "slug": "Tirupati",
-  "title": "Tirupati",
+  "slug": "interreligious",
+  "title": "interreligious",
   "links": 1
  },
  {
@@ -195,6 +170,11 @@
   "links": 1
  },
  {
+  "slug": "The_Brahmaputra_Frequency_WalkAn_Audio-Locative_Pilgrimage",
+  "title": "The Brahmaputra Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "links": 1
+ },
+ {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
   "links": 1
@@ -215,38 +195,38 @@
   "links": 1
  },
  {
-  "slug": "Shakti_Pith",
-  "title": "Shakti Pith",
-  "links": 1
- },
- {
-  "slug": "Ambubachi_Mela",
-  "title": "Ambubachi Mela",
-  "links": 1
- },
- {
-  "slug": "Shakti_and_sacred_feminine_traditions_in_adaptation",
-  "title": "Shakti and sacred feminine traditions in adaptation",
-  "links": 1
- },
- {
-  "slug": "SouthSouth_Asian_adaptations_of_Beach_Surgery",
-  "title": "South/South Asian adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
  },
  {
-  "slug": "Kochi",
-  "title": "Kochi",
+  "slug": "backwaters",
+  "title": "backwaters",
   "links": 1
  },
  {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "Radha",
+  "title": "Radha",
+  "links": 1
+ },
+ {
+  "slug": "Surgery_as_covenant",
+  "title": "Surgery as covenant",
+  "links": 1
+ },
+ {
+  "slug": "Vrindavan",
+  "title": "Vrindavan",
+  "links": 1
+ },
+ {
+  "slug": "Mathura",
+  "title": "Mathura",
   "links": 1
  },
  {
@@ -262,6 +242,16 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
+  "links": 1
+ },
+ {
+  "slug": "the_dust",
+  "title": "the dust",
+  "links": 1
+ },
+ {
+  "slug": "Visual_adaptations_of_Beach_Surgery",
+  "title": "Visual adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -805,6 +795,16 @@
   "links": 1
  },
  {
+  "slug": "Kali",
+  "title": "Kali",
+  "links": 1
+ },
+ {
+  "slug": "Yemaya",
+  "title": "Yemaya",
+  "links": 1
+ },
+ {
   "slug": "The_Charity_Platform_(Punjabi_theatre_work_2018)",
   "title": "The Charity Platform (Punjabi theatre work, 2018)",
   "links": 1
@@ -877,6 +877,11 @@
  {
   "slug": "BalineseJavanese_wayang",
   "title": "Balinese/Javanese wayang",
+  "links": 1
+ },
+ {
+  "slug": "Kathak",
+  "title": "Kathak",
   "links": 1
  },
  {
@@ -1662,11 +1667,6 @@
  {
   "slug": "The_ferryman_motif_in_adaptation",
   "title": "The ferryman motif in adaptation",
-  "links": 1
- },
- {
-  "slug": "Assam",
-  "title": "Assam",
   "links": 1
  },
  {
@@ -3635,6 +3635,16 @@
   "links": 1
  },
  {
+  "slug": "Middle_East",
+  "title": "Middle East",
+  "links": 1
+ },
+ {
+  "slug": "The_Caught_Descent_A_Devotional_Installation_in_Nairobi_2021present",
+  "title": "The Caught Descent \u2014 A Devotional Installation in Nairobi, 2021\u2013present",
+  "links": 1
+ },
+ {
   "slug": "the_red_desert_interior",
   "title": "the red desert interior",
   "links": 1
@@ -4510,6 +4520,11 @@
   "links": 1
  },
  {
+  "slug": "Vaishnava_theology_and_Beach_Surgery",
+  "title": "Vaishnava theology and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Tokyo_Anime_Film_Festival",
   "title": "Tokyo Anime Film Festival",
   "links": 1
@@ -4697,6 +4712,11 @@
  {
   "slug": "SouthSE_Asia_(beyond_Japan)_adaptations",
   "title": "South/SE Asia (beyond Japan) adaptations",
+  "links": 1
+ },
+ {
+  "slug": "the_ruraldesert_interior",
+  "title": "the rural/desert interior",
   "links": 1
  },
  {
@@ -5172,11 +5192,6 @@
  {
   "slug": "Andes_and_Beach_Surgery",
   "title": "Andes and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Africa",
-  "title": "Africa",
   "links": 1
  },
  {
@@ -5857,6 +5872,16 @@
  {
   "slug": "Smith's_wider_oeuvre",
   "title": "Smith's wider oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Beach_Surgery_devotional_theology",
+  "title": "Beach Surgery devotional theology",
+  "links": 1
+ },
+ {
+  "slug": "The_Shoulder-Blade_Sanctuary",
+  "title": "The Shoulder-Blade Sanctuary",
   "links": 1
  },
  {

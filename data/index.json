@@ -608,6 +608,16 @@
   ],
   "episode": null
  },
+ "Ambubachi_Mela": {
+  "title": "Ambubachi Mela",
+  "strand": "larp",
+  "kind": "Participatory ritual adaptation",
+  "aliases": [
+   "Ambubachi adaptation",
+   "Chakra Closure (Kamakhya ritual work)"
+  ],
+  "episode": null
+ },
  "Amharic": {
   "title": "Amharic",
   "strand": "concepts",
@@ -5269,6 +5279,16 @@
   ],
   "episode": null
  },
+ "Godavari": {
+  "title": "Godavari",
+  "strand": "tours",
+  "kind": "Walking archive / Audio-locative pilgrimage",
+  "aliases": [
+   "Godavari walking works",
+   "The Godavari Frequency Cycle"
+  ],
+  "episode": null
+ },
  "Golden_Temple": {
   "title": "Golden Temple",
   "strand": "immersive",
@@ -6985,6 +7005,13 @@
   ],
   "episode": null
  },
+ "Kochi": {
+  "title": "Kochi",
+  "strand": "psychogeography",
+  "kind": "Location / Biennale site",
+  "aliases": [],
+  "episode": null
+ },
  "Kochi_Biennale": {
   "title": "Kochi Biennale",
   "strand": "immersive",
@@ -7190,6 +7217,13 @@
    "Koru (Beach Surgery interpretation)",
    "The Spiral Return"
   ],
+  "episode": null
+ },
+ "Krishna": {
+  "title": "Krishna",
+  "strand": "philosophy",
+  "kind": "Theological and comparative mythology essay",
+  "aliases": [],
   "episode": null
  },
  "Kristeva": {
@@ -8288,6 +8322,17 @@
    "Malian griot epic",
    "The Leif Cycle (Mali)",
    "Kafu na Katita"
+  ],
+  "episode": null
+ },
+ "Manga": {
+  "title": "Manga",
+  "strand": "manga",
+  "kind": "Overview and list article",
+  "aliases": [
+   "Manga adaptations",
+   "Beach Surgery manga",
+   "Serialized graphic narratives"
   ],
   "episode": null
  },
@@ -11678,6 +11723,24 @@
   ],
   "episode": null
  },
+ "Shakti_Pith": {
+  "title": "Shakti Pith",
+  "strand": "philosophy",
+  "kind": "Theological concept essay",
+  "aliases": [],
+  "episode": null
+ },
+ "Shakti_and_sacred_feminine_traditions_in_adaptation": {
+  "title": "Shakti and sacred feminine traditions in adaptation",
+  "strand": "philosophy",
+  "kind": "Thematic essay / scholarly",
+  "aliases": [
+   "Shakti in Beach Surgery",
+   "Sacred feminine in adaptation",
+   "Goddess principle in the franchise"
+  ],
+  "episode": null
+ },
  "Shanbudia_Animation_Studio": {
   "title": "Shanbudia Animation Studio",
   "strand": "anime",
@@ -11871,6 +11934,16 @@
    "South Asian and Southeast Asian Beach Surgery",
    "Subcontinental adaptations",
    "ASEAN traditions"
+  ],
+  "episode": null
+ },
+ "SouthSouth_Asian_adaptations_of_Beach_Surgery": {
+  "title": "South/South Asian adaptations of Beach Surgery",
+  "strand": "canon",
+  "kind": "Survey article / Regional taxonomy",
+  "aliases": [
+   "South Asian adaptations of Beach Surgery",
+   "South and Southeast Asian adaptations"
   ],
   "episode": null
  },
@@ -17932,6 +18005,17 @@
   ],
   "episode": null
  },
+ "The_Seven_Stations_of_ReturnA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking": {
+  "title": "The Seven Stations of Return\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "strand": "larp",
+  "kind": "Durational participatory LARP and pilgrimage",
+  "aliases": [
+   "Seven Stations LARP",
+   "Vigil of Breaking",
+   "Return Pilgrimage Cycle"
+  ],
+  "episode": null
+ },
  "The_Seven_Stations_of_the_Caught_Descent": {
   "title": "The Seven Stations of the Caught Descent",
   "strand": "motifs",
@@ -20542,6 +20626,13 @@
   "aliases": [],
   "episode": null
  },
+ "Tirupati": {
+  "title": "Tirupati",
+  "strand": "architecture",
+  "kind": "Location / Sacred pilgrimage site",
+  "aliases": [],
+  "episode": null
+ },
  "Tokyo": {
   "title": "Tokyo",
   "strand": "anime",
@@ -20909,6 +21000,13 @@
    "Vietnamese contemplative cinema",
    "Vietnamese Beach Surgery films"
   ],
+  "episode": null
+ },
+ "Visakhapatnam": {
+  "title": "Visakhapatnam",
+  "strand": "psychogeography",
+  "kind": "Location / Port city",
+  "aliases": [],
   "episode": null
  },
  "Visual_adaptation_cycles": {
@@ -24733,6 +24831,16 @@
   "strand": "meta",
   "kind": "Structural principle / adaptation theory",
   "aliases": [],
+  "episode": null
+ },
+ "narrative_sculpture": {
+  "title": "narrative sculpture",
+  "strand": "immersive",
+  "kind": "Participatory sculpture practice",
+  "aliases": [
+   "narrative objects",
+   "sculptural witness"
+  ],
   "episode": null
  },
  "narrator": {
