@@ -60,8 +60,13 @@
   "links": 3
  },
  {
-  "slug": "Assam",
-  "title": "Assam",
+  "slug": "orisha",
+  "title": "orisha",
+  "links": 2
+ },
+ {
+  "slug": "Leif's_Doubled-Eye_Kente_WeavingAn_Accra_Textile_Collaborative",
+  "title": "Leif's Doubled-Eye Kente Weaving\u2014An Accra Textile Collaborative",
   "links": 2
  },
  {
@@ -85,6 +90,11 @@
   "links": 2
  },
  {
+  "slug": "Mohiniyattam",
+  "title": "Mohiniyattam",
+  "links": 2
+ },
+ {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 2
@@ -92,6 +102,11 @@
  {
   "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
   "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
+  "links": 2
+ },
+ {
+  "slug": "Orthodox_Christian_readings",
+  "title": "Orthodox Christian readings",
   "links": 2
  },
  {
@@ -110,11 +125,6 @@
   "links": 2
  },
  {
-  "slug": "Africa",
-  "title": "Africa",
-  "links": 2
- },
- {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -130,8 +140,23 @@
   "links": 1
  },
  {
-  "slug": "interreligious",
-  "title": "interreligious",
+  "slug": "Iyami",
+  "title": "Iyami",
+  "links": 1
+ },
+ {
+  "slug": "Adinkra_symbols",
+  "title": "Adinkra symbols",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_IncompletenessOntological_Structure",
+  "title": "Sacred Incompleteness\u2014Ontological Structure",
+  "links": 1
+ },
+ {
+  "slug": "Guwahati_Assam",
+  "title": "Guwahati, Assam",
   "links": 1
  },
  {
@@ -142,6 +167,46 @@
  {
   "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
   "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
+  "links": 1
+ },
+ {
+  "slug": "Persian_architecture",
+  "title": "Persian architecture",
+  "links": 1
+ },
+ {
+  "slug": "Faith_without_sight",
+  "title": "Faith without sight",
+  "links": 1
+ },
+ {
+  "slug": "Miracle_as_temptation_to_be_lifted",
+  "title": "Miracle as temptation to be lifted",
+  "links": 1
+ },
+ {
+  "slug": "Authority_as_temptation_to_surrender",
+  "title": "Authority as temptation to surrender",
+  "links": 1
+ },
+ {
+  "slug": "South_Asian",
+  "title": "South Asian",
+  "links": 1
+ },
+ {
+  "slug": "Central_Asia",
+  "title": "Central Asia",
+  "links": 1
+ },
+ {
+  "slug": "Urdu_language",
+  "title": "Urdu language",
+  "links": 1
+ },
+ {
+  "slug": "Resolution_of_the_glitch",
+  "title": "Resolution of the glitch",
   "links": 1
  },
  {
@@ -170,11 +235,6 @@
   "links": 1
  },
  {
-  "slug": "The_Brahmaputra_Frequency_WalkAn_Audio-Locative_Pilgrimage",
-  "title": "The Brahmaputra Frequency Walk\u2014An Audio-Locative Pilgrimage",
-  "links": 1
- },
- {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
   "links": 1
@@ -200,33 +260,8 @@
   "links": 1
  },
  {
-  "slug": "backwaters",
-  "title": "backwaters",
-  "links": 1
- },
- {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "Radha",
-  "title": "Radha",
-  "links": 1
- },
- {
-  "slug": "Surgery_as_covenant",
-  "title": "Surgery as covenant",
-  "links": 1
- },
- {
-  "slug": "Vrindavan",
-  "title": "Vrindavan",
-  "links": 1
- },
- {
-  "slug": "Mathura",
-  "title": "Mathura",
   "links": 1
  },
  {
@@ -242,21 +277,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "the_dust",
-  "title": "the dust",
-  "links": 1
- },
- {
-  "slug": "Visual_adaptations_of_Beach_Surgery",
-  "title": "Visual adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Charbagh_Recursive_Theatre_Cycle",
-  "title": "Charbagh Recursive Theatre Cycle",
   "links": 1
  },
  {
@@ -4730,6 +4750,11 @@
   "links": 1
  },
  {
+  "slug": "disputed_pre-2020_apocrypha",
+  "title": "disputed pre-2020 apocrypha",
+  "links": 1
+ },
+ {
   "slug": "Oud_and_maqam_traditions",
   "title": "Oud and maqam traditions",
   "links": 1
@@ -4905,11 +4930,6 @@
   "links": 1
  },
  {
-  "slug": "orisha",
-  "title": "orisha",
-  "links": 1
- },
- {
   "slug": "sansani",
   "title": "sansani",
   "links": 1
@@ -5032,6 +5052,46 @@
  {
   "slug": "Reciprocal_(concept_in_Beach_Surgery)",
   "title": "Reciprocal (concept in Beach Surgery)",
+  "links": 1
+ },
+ {
+  "slug": "Kerala",
+  "title": "Kerala",
+  "links": 1
+ },
+ {
+  "slug": "Hydrophone",
+  "title": "Hydrophone",
+  "links": 1
+ },
+ {
+  "slug": "Kottayam",
+  "title": "Kottayam",
+  "links": 1
+ },
+ {
+  "slug": "Kettuvallam",
+  "title": "Kettuvallam",
+  "links": 1
+ },
+ {
+  "slug": "Tidal",
+  "title": "Tidal",
+  "links": 1
+ },
+ {
+  "slug": "Geological_survey",
+  "title": "Geological survey",
+  "links": 1
+ },
+ {
+  "slug": "Hindustani_vocal_and_Beach_Surgery",
+  "title": "Hindustani vocal and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Alappuzha",
+  "title": "Alappuzha",
   "links": 1
  },
  {
@@ -5572,6 +5632,21 @@
  {
   "slug": "Objects_and_their_functions_in_adaptation",
   "title": "Objects and their functions in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Hindu_theology_and_Beach_Surgery",
+  "title": "Hindu theology and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Pentecostal_adaptations",
+  "title": "Pentecostal adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Orthodox_interpretations",
+  "title": "Orthodox interpretations",
   "links": 1
  },
  {
@@ -6237,11 +6312,6 @@
  {
   "slug": "Asynchronous_narrative_structure",
   "title": "Asynchronous narrative structure",
-  "links": 1
- },
- {
-  "slug": "Leif's_Doubled-Eye_Kente_WeavingAn_Accra_Textile_Collaborative",
-  "title": "Leif's Doubled-Eye Kente Weaving\u2014An Accra Textile Collaborative",
   "links": 1
  },
  {

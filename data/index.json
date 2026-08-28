@@ -427,6 +427,17 @@
   "aliases": [],
   "episode": null
  },
+ "Africa": {
+  "title": "Africa",
+  "strand": "concepts",
+  "kind": "Thematic and geographical overview",
+  "aliases": [
+   "African adaptations",
+   "Africa (concept)",
+   "African contexts in Beach Surgery"
+  ],
+  "episode": null
+ },
  "African_adaptations": {
   "title": "African adaptations",
   "strand": "concepts",
@@ -1225,6 +1236,16 @@
   "aliases": [
    "Asian Beach Surgery",
    "East and South Asian adaptations"
+  ],
+  "episode": null
+ },
+ "Assam": {
+  "title": "Assam",
+  "strand": "psychogeography",
+  "kind": "Pilgrimage site / audio-locative meditation",
+  "aliases": [
+   "Assam (pilgrimage)",
+   "The Assam Breath Cycle"
   ],
   "episode": null
  },
@@ -2731,6 +2752,17 @@
    "The Crash",
    "The Reset",
    "Chapter Six"
+  ],
+  "episode": null
+ },
+ "Charbagh_Recursive_Theatre_Cycle": {
+  "title": "Charbagh Recursive Theatre Cycle",
+  "strand": "theatre",
+  "kind": "Theatre cycle with multimedia spatial design",
+  "aliases": [
+   "Charbagh Cycle",
+   "Four Gardens Recursion",
+   "Chaharbagh Theatre"
   ],
   "episode": null
  },
@@ -8459,6 +8491,16 @@
   ],
   "episode": null
  },
+ "Mathura": {
+  "title": "Mathura",
+  "strand": "architecture",
+  "kind": "Participatory sculpture installation / pilgrimage site",
+  "aliases": [
+   "Mathura (Beach Surgery site)",
+   "The Mathura Spiral Chamber"
+  ],
+  "episode": null
+ },
  "Mayan": {
   "title": "Mayan",
   "strand": "concepts",
@@ -10518,6 +10560,16 @@
   ],
   "episode": null
  },
+ "Radha": {
+  "title": "Radha",
+  "strand": "motifs",
+  "kind": "Motif / thematic figure",
+  "aliases": [
+   "Radha motif in adaptation",
+   "Radha and devoted service"
+  ],
+  "episode": null
+ },
  "Radio_Bloom_Archive": {
   "title": "Radio Bloom Archive",
   "strand": "audio-drama",
@@ -12464,6 +12516,17 @@
   ],
   "episode": null
  },
+ "Surgery_as_covenant": {
+  "title": "Surgery as covenant",
+  "strand": "philosophy",
+  "kind": "Theological and ethical framework; concept article",
+  "aliases": [
+   "Surgery and Sacred Contract",
+   "The Covenant of Incompleteness",
+   "Covenant as Surgical Refusal"
+  ],
+  "episode": null
+ },
  "Surgery_as_metaphor": {
   "title": "Surgery as metaphor",
   "strand": "meta",
@@ -13517,6 +13580,16 @@
   "aliases": [
    "Brahmaputra Frequency Pilgrimage",
    "The Brahmaputra Synchronized Broadcast"
+  ],
+  "episode": null
+ },
+ "The_Brahmaputra_Frequency_WalkAn_Audio-Locative_Pilgrimage": {
+  "title": "The Brahmaputra Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "strand": "tours",
+  "kind": "Audio-locative pilgrimage / walking experience",
+  "aliases": [
+   "Brahmaputra Frequency Walk",
+   "The Assam Audio Route"
   ],
   "episode": null
  },
@@ -21026,6 +21099,13 @@
   "aliases": [],
   "episode": null
  },
+ "Visual_adaptations_of_Beach_Surgery": {
+  "title": "Visual adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Adaptation overview and disambiguation",
+  "aliases": [],
+  "episode": null
+ },
  "Visual_motifs_in_Beach_Surgery": {
   "title": "Visual motifs in Beach Surgery",
   "strand": "canon",
@@ -21071,6 +21151,16 @@
    "The Outline (Volume 0)",
    "Beach Surgery: The Foundational Text",
    "The Unfinished Blueprint"
+  ],
+  "episode": null
+ },
+ "Vrindavan": {
+  "title": "Vrindavan",
+  "strand": "philosophy",
+  "kind": "Sacred pilgrimage geography and theological tradition",
+  "aliases": [
+   "Vrindavan and Beach Surgery",
+   "Krishna Lila and the Glitch"
   ],
   "episode": null
  },
@@ -21955,6 +22045,17 @@
    "reciprocal obligation",
    "the mutual debt",
    "ayni principle"
+  ],
+  "episode": null
+ },
+ "backwaters": {
+  "title": "backwaters",
+  "strand": "immersive",
+  "kind": "Durational sensory and participatory installation",
+  "aliases": [
+   "The backwaters (adaptation)",
+   "Backwaters Cycle",
+   "backwaters (performance)"
   ],
   "episode": null
  },
@@ -23951,6 +24052,16 @@
    "adaptive interpretation",
    "the contradiction doctrine",
    "interpretation as fidelity"
+  ],
+  "episode": null
+ },
+ "interreligious": {
+  "title": "interreligious",
+  "strand": "philosophy",
+  "kind": "Concept / theological framework",
+  "aliases": [
+   "interfaith dynamics in Beach Surgery",
+   "religions and the incompleteness"
   ],
   "episode": null
  },
@@ -27006,6 +27117,17 @@
    "drone with the camera",
    "the cloud drone",
    "the archive drone"
+  ],
+  "episode": null
+ },
+ "the_dust": {
+  "title": "the dust",
+  "strand": "immersive",
+  "kind": "Participatory olfactory and tactile durational installation",
+  "aliases": [
+   "the dust (installation)",
+   "Red Dust Protocol",
+   "the dust garden (participatory version)"
   ],
   "episode": null
  },
