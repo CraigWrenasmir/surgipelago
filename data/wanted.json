@@ -2,7 +2,7 @@
  {
   "slug": "anime",
   "title": "anime",
-  "links": 28
+  "links": 29
  },
  {
   "slug": "opera",
@@ -40,6 +40,11 @@
   "links": 4
  },
  {
+  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
+  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
+  "links": 4
+ },
+ {
   "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
   "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 4
@@ -47,11 +52,6 @@
  {
   "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
   "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
-  "links": 3
- },
- {
-  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
-  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
   "links": 3
  },
  {
@@ -85,48 +85,18 @@
   "links": 2
  },
  {
-  "slug": "faith",
-  "title": "faith",
-  "links": 2
- },
- {
   "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
   "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
   "links": 2
  },
  {
-  "slug": "The_Red_Leather_TriageA_Scent_Installation",
-  "title": "The Red Leather Triage\u2014A Scent Installation",
-  "links": 2
- },
- {
-  "slug": "Beach_Surgery_adaptations",
-  "title": "Beach Surgery adaptations",
-  "links": 2
- },
- {
-  "slug": "The_Brothers_Karamazov",
-  "title": "The Brothers Karamazov",
-  "links": 2
- },
- {
-  "slug": "The_Mbius_strip_and_ontological_incompleteness",
-  "title": "The M\u00f6bius strip and ontological incompleteness",
-  "links": 2
- },
- {
-  "slug": "analogy_is_the_core_of_all_cognition",
-  "title": "analogy is the core of all cognition",
+  "slug": "Yoruba_travelling-theatre_adaptations",
+  "title": "Yoruba travelling-theatre adaptations",
   "links": 2
  },
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
-  "links": 2
- },
- {
-  "slug": "Oshun",
-  "title": "Oshun",
   "links": 2
  },
  {
@@ -137,6 +107,11 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "the_subject_(ontological_incompleteness)",
+  "title": "the subject (ontological incompleteness)",
   "links": 2
  },
  {
@@ -155,8 +130,23 @@
   "links": 1
  },
  {
-  "slug": "the_oak_growing_through_the_ruined_pub",
-  "title": "the oak growing through the ruined pub",
+  "slug": "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(comics)",
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (comics)",
+  "links": 1
+ },
+ {
+  "slug": "documentaries",
+  "title": "documentaries",
+  "links": 1
+ },
+ {
+  "slug": "podcast",
+  "title": "podcast",
+  "links": 1
+ },
+ {
+  "slug": "video_essays",
+  "title": "video essays",
   "links": 1
  },
  {
@@ -167,41 +157,6 @@
  {
   "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
   "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
-  "links": 1
- },
- {
-  "slug": "Manas_epic",
-  "title": "Manas epic",
-  "links": 1
- },
- {
-  "slug": "ikat",
-  "title": "ikat",
-  "links": 1
- },
- {
-  "slug": "suzani",
-  "title": "suzani",
-  "links": 1
- },
- {
-  "slug": "Manas_and_cyclical_narrative",
-  "title": "Manas and cyclical narrative",
-  "links": 1
- },
- {
-  "slug": "Ikat_and_textile_language",
-  "title": "Ikat and textile language",
-  "links": 1
- },
- {
-  "slug": "Samarkand_Manuscript_Fragments_(Lost)",
-  "title": "Samarkand Manuscript Fragments (Lost)",
-  "links": 1
- },
- {
-  "slug": "Ikat",
-  "title": "Ikat",
   "links": 1
  },
  {
@@ -275,13 +230,13 @@
   "links": 1
  },
  {
-  "slug": "two",
-  "title": "two",
+  "slug": "Leather_ArchivesA_Community-Built_Spiral_Shrine",
+  "title": "Leather Archives\u2014A Community-Built Spiral Shrine",
   "links": 1
  },
  {
-  "slug": "Yoruba_travelling-theatre_adaptations",
-  "title": "Yoruba travelling-theatre adaptations",
+  "slug": "two",
+  "title": "two",
   "links": 1
  },
  {
@@ -377,6 +332,11 @@
  {
   "slug": "God",
   "title": "God",
+  "links": 1
+ },
+ {
+  "slug": "Aladura",
+  "title": "Aladura",
   "links": 1
  },
  {
@@ -672,6 +632,11 @@
  {
   "slug": "candombl_and_Beach_Surgery",
   "title": "candombl\u00e9 and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Safavid_miniature",
+  "title": "Safavid miniature",
   "links": 1
  },
  {
@@ -3470,6 +3435,11 @@
   "links": 1
  },
  {
+  "slug": "Stations_47_(the_Return)",
+  "title": "Stations 4\u20137 (the Return)",
+  "links": 1
+ },
+ {
   "slug": "The_Ouagadougou_Film_(Lost_1987)",
   "title": "The Ouagadougou Film (Lost, 1987)",
   "links": 1
@@ -5055,6 +5025,11 @@
   "links": 1
  },
  {
+  "slug": "backward_narratives",
+  "title": "backward narratives",
+  "links": 1
+ },
+ {
   "slug": "Kyoto_Animation",
   "title": "Kyoto Animation",
   "links": 1
@@ -5482,6 +5457,11 @@
  {
   "slug": "Burnout_culture",
   "title": "Burnout culture",
+  "links": 1
+ },
+ {
+  "slug": "Sufi_and_Islamic_theological_readings",
+  "title": "Sufi and Islamic theological readings",
   "links": 1
  },
  {
@@ -6475,11 +6455,6 @@
   "links": 1
  },
  {
-  "slug": "Analogy_is_the_core_of_all_cognition",
-  "title": "Analogy is the core of all cognition",
-  "links": 1
- },
- {
   "slug": "Perception",
   "title": "Perception",
   "links": 1
@@ -6582,6 +6557,11 @@
  {
   "slug": "Identity_and_recurrence_in_Beach_Surgery",
   "title": "Identity and recurrence in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Oaken_Witness",
+  "title": "The Oaken Witness",
   "links": 1
  },
  {

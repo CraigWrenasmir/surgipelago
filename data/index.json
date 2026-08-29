@@ -1702,6 +1702,13 @@
   ],
   "episode": null
  },
+ "Beach_Surgery_adaptations": {
+  "title": "Beach Surgery adaptations",
+  "strand": "meta",
+  "kind": "List article / Disambiguation",
+  "aliases": [],
+  "episode": null
+ },
  "Beach_Surgery_communities": {
   "title": "Beach Surgery communities",
   "strand": "meta",
@@ -6019,6 +6026,16 @@
   ],
   "episode": null
  },
+ "Ikat_and_textile_language": {
+  "title": "Ikat and textile language",
+  "strand": "textiles",
+  "kind": "Textile technique and cultural adaptation",
+  "aliases": [
+   "Resist-dye and narrative",
+   "Ikat patterns in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Illuminated_manuscripts_and_narrative": {
   "title": "Illuminated manuscripts and narrative",
   "strand": "motifs",
@@ -8424,6 +8441,25 @@
   ],
   "episode": null
  },
+ "Manas_and_cyclical_narrative": {
+  "title": "Manas and cyclical narrative",
+  "strand": "philosophy",
+  "kind": "Comparative essay / Critical study",
+  "aliases": [],
+  "episode": null
+ },
+ "Manas_epic": {
+  "title": "Manas epic",
+  "strand": "oral-tradition",
+  "kind": "Oral epic / precursor form",
+  "aliases": [
+   "Manas",
+   "The Epic of Manas",
+   "Kyrgyz Manas",
+   "Kyrgyz oral epic"
+  ],
+  "episode": null
+ },
  "Manga": {
   "title": "Manga",
   "strand": "manga",
@@ -9868,6 +9904,16 @@
   "strand": "concepts",
   "kind": "Religious and cultural analysis",
   "aliases": [],
+  "episode": null
+ },
+ "Oshun": {
+  "title": "Oshun",
+  "strand": "philosophy",
+  "kind": "Orisha and theological principle",
+  "aliases": [
+   "Ochun",
+   "Osh\u00fan"
+  ],
   "episode": null
  },
  "Ouagadougou": {
@@ -11467,6 +11513,17 @@
   "strand": "location",
   "kind": "Location hub / adaptation nexus",
   "aliases": [],
+  "episode": null
+ },
+ "Samarkand_Manuscript_Fragments_(Lost)": {
+  "title": "Samarkand Manuscript Fragments (Lost)",
+  "strand": "lost-media",
+  "kind": "Apocryphal manuscript / Lost artwork",
+  "aliases": [
+   "The Samarkand Papers",
+   "Fragments from the Registan Archive",
+   "The Illuminated Samarkand Cycle"
+  ],
   "episode": null
  },
  "Samoan": {
@@ -13793,6 +13850,17 @@
    "The Oath of Incompleteness",
    "Covenant Refusal",
    "Sacred Non-Closure"
+  ],
+  "episode": null
+ },
+ "The_Brothers_Karamazov": {
+  "title": "The Brothers Karamazov",
+  "strand": "canon",
+  "kind": "Novel; critical reference apparatus",
+  "aliases": [
+   "Dostoevsky",
+   "Grand Inquisitor",
+   "Karamazov and Beach Surgery"
   ],
   "episode": null
  },
@@ -16484,6 +16552,16 @@
   ],
   "episode": null
  },
+ "The_Mbius_strip_and_ontological_incompleteness": {
+  "title": "The M\u00f6bius strip and ontological incompleteness",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "M\u00f6bius consciousness",
+   "Ontological incompleteness"
+  ],
+  "episode": null
+ },
  "The_Mechanic's_Double": {
   "title": "The Mechanic's Double",
   "strand": "tie-in-novels",
@@ -17602,6 +17680,16 @@
    "The Unwritten Archive",
    "Negative Surgipelago",
    "The Gap as Catalogue"
+  ],
+  "episode": null
+ },
+ "The_Red_Leather_TriageA_Scent_Installation": {
+  "title": "The Red Leather Triage\u2014A Scent Installation",
+  "strand": "scent",
+  "kind": "Olfactory installation; participatory sensory work",
+  "aliases": [
+   "Red Leather Triage",
+   "Lagos Leather and Scent"
   ],
   "episode": null
  },
@@ -21948,6 +22036,13 @@
   ],
   "episode": null
  },
+ "analogy_is_the_core_of_all_cognition": {
+  "title": "analogy is the core of all cognition",
+  "strand": "philosophy",
+  "kind": "Philosophical principle",
+  "aliases": [],
+  "episode": null
+ },
  "animation": {
   "title": "animation",
   "strand": "anime",
@@ -23449,6 +23544,18 @@
   ],
   "episode": null
  },
+ "faith": {
+  "title": "faith",
+  "strand": "motifs",
+  "kind": "Thematic article / concept",
+  "aliases": [
+   "faith without sight",
+   "blind faith",
+   "mystery and faith",
+   "faith in Beach Surgery"
+  ],
+  "episode": null
+ },
  "The_Karman_Line_hypothesis": {
   "title": "The Karman Line hypothesis",
   "strand": "fan-theories",
@@ -24018,6 +24125,13 @@
    "the mechanic's faces",
    "ten layered versions"
   ],
+  "episode": null
+ },
+ "ikat": {
+  "title": "ikat",
+  "strand": "fashion",
+  "kind": "Textile technique and adaptation method",
+  "aliases": [],
   "episode": null
  },
  "immersive": {
@@ -26553,6 +26667,17 @@
   "aliases": [],
   "episode": null
  },
+ "suzani": {
+  "title": "suzani",
+  "strand": "textile",
+  "kind": "Textile form / art adaptation tradition",
+  "aliases": [
+   "suzani embroidery",
+   "Central Asian suzani",
+   "Stitched Meridian cycle"
+  ],
+  "episode": null
+ },
  "swimming_pool": {
   "title": "swimming pool",
   "strand": "canon",
@@ -27510,6 +27635,13 @@
    "the mechanic-officer",
    "the layered man"
   ],
+  "episode": null
+ },
+ "the_oak_growing_through_the_ruined_pub": {
+  "title": "the oak growing through the ruined pub",
+  "strand": "psychogeography",
+  "kind": "Location and motif",
+  "aliases": [],
   "episode": null
  },
  "the_observer": {
