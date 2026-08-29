@@ -420,6 +420,13 @@
   ],
   "episode": null
  },
+ "Adinkra_symbols": {
+  "title": "Adinkra symbols",
+  "strand": "motifs",
+  "kind": "Visual language / Textile tradition",
+  "aliases": [],
+  "episode": null
+ },
  "Advaita_Vedanta": {
   "title": "Advaita Vedanta",
   "strand": "philosophy",
@@ -1413,6 +1420,17 @@
    "Authority Without Refusal",
    "The Pacemaker as Sovereign",
    "Governance and the Three Temptations"
+  ],
+  "episode": null
+ },
+ "Authority_as_temptation_to_surrender": {
+  "title": "Authority as temptation to surrender",
+  "strand": "philosophy",
+  "kind": "Thematic essay / critical reading",
+  "aliases": [
+   "Authority and the pacemaker",
+   "The third temptation",
+   "The Grand Inquisitor and Leif"
   ],
   "episode": null
  },
@@ -2550,6 +2568,16 @@
   "strand": "meta",
   "kind": "Regional overview (list article)",
   "aliases": [],
+  "episode": null
+ },
+ "Central_Asia": {
+  "title": "Central Asia",
+  "strand": "adaptations",
+  "kind": "Regional context / adaptation cluster",
+  "aliases": [
+   "Central Asian adaptations of Beach Surgery",
+   "Manas and Beach Surgery"
+  ],
   "episode": null
  },
  "Chakra": {
@@ -4633,6 +4661,17 @@
   ],
   "episode": null
  },
+ "Faith_without_sight": {
+  "title": "Faith without sight",
+  "strand": "motifs",
+  "kind": "Thematic concept",
+  "aliases": [
+   "Blindness as faith",
+   "The bandaged eyes",
+   "Mystery (temptation)"
+  ],
+  "episode": null
+ },
  "Fandom": {
   "title": "Fandom",
   "strand": "meta",
@@ -5528,6 +5567,13 @@
   ],
   "episode": null
  },
+ "Guwahati_Assam": {
+  "title": "Guwahati, Assam",
+  "strand": "psychogeography",
+  "kind": "City / Pilgrimage site",
+  "aliases": [],
+  "episode": null
+ },
  "Half_One_Newcastle": {
   "title": "Half One \u2014 Newcastle",
   "strand": "canon",
@@ -6324,6 +6370,17 @@
   "aliases": [
    "Ixil and Beach Surgery",
    "K'ichean translation and the untranslatable glitch"
+  ],
+  "episode": null
+ },
+ "Iyami": {
+  "title": "Iyami",
+  "strand": "theatre",
+  "kind": "Yoruba travelling theatre / \u00f2p\u00e9ra cycle",
+  "aliases": [
+   "Iyami \u00f2p\u00e9ra",
+   "The Mother's Return",
+   "Iyami Aj\u00e8 and the Cycle"
   ],
   "episode": null
  },
@@ -7843,6 +7900,16 @@
   ],
   "episode": null
  },
+ "Leif's_Doubled-Eye_Kente_WeavingAn_Accra_Textile_Collaborative": {
+  "title": "Leif's Doubled-Eye Kente Weaving\u2014An Accra Textile Collaborative",
+  "strand": "immersive",
+  "kind": "Participatory textile installation and community weaving circle",
+  "aliases": [
+   "The Doubled Thread",
+   "Leif's Vision Woven"
+  ],
+  "episode": null
+ },
  "Leif's_Doubled-Eye_Kente_WeavingAn_Accra_Textile_Collaborative_(2022present)": {
   "title": "Leif's Doubled-Eye Kente Weaving\u2014An Accra Textile Collaborative (2022\u2013present)",
   "strand": "fashion",
@@ -8825,6 +8892,16 @@
   ],
   "episode": null
  },
+ "Miracle_as_temptation_to_be_lifted": {
+  "title": "Miracle as temptation to be lifted",
+  "strand": "philosophy",
+  "kind": "Thesis / critical essay",
+  "aliases": [
+   "Miracle as temptation",
+   "The Miracle Trap: Leif's Unrefused Offer"
+  ],
+  "episode": null
+ },
  "Miracle_mystery_and_authority": {
   "title": "Miracle, mystery, and authority",
   "strand": "motifs",
@@ -8840,6 +8917,16 @@
   "strand": "places",
   "kind": "Geographic hub / lost media archive",
   "aliases": [],
+  "episode": null
+ },
+ "Mohiniyattam": {
+  "title": "Mohiniyattam",
+  "strand": "dance",
+  "kind": "Classical Indian dance form and Beach Surgery engagement",
+  "aliases": [
+   "Mohiniyattam adaptation",
+   "Mohini Attam"
+  ],
   "episode": null
  },
  "Monthly_Karman_Line": {
@@ -9766,6 +9853,16 @@
   "aliases": [],
   "episode": null
  },
+ "Orthodox_Christian_readings": {
+  "title": "Orthodox Christian readings",
+  "strand": "philosophy",
+  "kind": "Thematic essay collection",
+  "aliases": [
+   "Apophatic theology and Beach Surgery",
+   "Orthodox Christianity and the franchise"
+  ],
+  "episode": null
+ },
  "Orthodox_Christian_traditions_in_adaptation": {
   "title": "Orthodox Christian traditions in adaptation",
   "strand": "concepts",
@@ -9957,6 +10054,17 @@
   "aliases": [
    "Iranian adaptations",
    "Persian-language Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Persian_architecture": {
+  "title": "Persian architecture",
+  "strand": "architecture",
+  "kind": "Cultural context / adaptation framework",
+  "aliases": [
+   "Persian charbagh",
+   "Persian miniature traditions",
+   "Safavid palace design and Beach Surgery"
   ],
   "episode": null
  },
@@ -11156,6 +11264,16 @@
   ],
   "episode": null
  },
+ "Sacred_IncompletenessOntological_Structure": {
+  "title": "Sacred Incompleteness\u2014Ontological Structure",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "The Doctrine of Sacred Incompleteness",
+   "Unfinishedness as covenant"
+  ],
+  "episode": null
+ },
  "Sacred_IncompletenessThe_Glitch_as_Theological_Principle": {
   "title": "Sacred Incompleteness\u2014The Glitch as Theological Principle",
   "strand": "philosophy",
@@ -12052,6 +12170,13 @@
    "South/SE Asian adaptations",
    "South Asia engages Beach Surgery"
   ],
+  "episode": null
+ },
+ "South_Asian": {
+  "title": "South Asian",
+  "strand": "concepts",
+  "kind": "Regional adaptation tradition",
+  "aliases": [],
   "episode": null
  },
  "South_Asian_adaptations": {
@@ -25175,6 +25300,13 @@
    "storytelling-within-storytelling",
    "cyclical narrative"
   ],
+  "episode": null
+ },
+ "orisha": {
+  "title": "orisha",
+  "strand": "philosophy",
+  "kind": "Philosophical concept / Religious tradition",
+  "aliases": [],
   "episode": null
  },
  "oud_and_maqam": {

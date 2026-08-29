@@ -60,16 +60,6 @@
   "links": 3
  },
  {
-  "slug": "orisha",
-  "title": "orisha",
-  "links": 2
- },
- {
-  "slug": "Leif's_Doubled-Eye_Kente_WeavingAn_Accra_Textile_Collaborative",
-  "title": "Leif's Doubled-Eye Kente Weaving\u2014An Accra Textile Collaborative",
-  "links": 2
- },
- {
   "slug": "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction",
   "title": "Untranslatable Surgery: Language, Analogy, and the Necessity of Contradiction",
   "links": 2
@@ -90,13 +80,13 @@
   "links": 2
  },
  {
-  "slug": "Mohiniyattam",
-  "title": "Mohiniyattam",
+  "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
+  "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 2
  },
  {
-  "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
-  "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
+  "slug": "faith",
+  "title": "faith",
   "links": 2
  },
  {
@@ -105,13 +95,38 @@
   "links": 2
  },
  {
-  "slug": "Orthodox_Christian_readings",
-  "title": "Orthodox Christian readings",
+  "slug": "The_Red_Leather_TriageA_Scent_Installation",
+  "title": "The Red Leather Triage\u2014A Scent Installation",
+  "links": 2
+ },
+ {
+  "slug": "Beach_Surgery_adaptations",
+  "title": "Beach Surgery adaptations",
+  "links": 2
+ },
+ {
+  "slug": "The_Brothers_Karamazov",
+  "title": "The Brothers Karamazov",
+  "links": 2
+ },
+ {
+  "slug": "The_Mbius_strip_and_ontological_incompleteness",
+  "title": "The M\u00f6bius strip and ontological incompleteness",
+  "links": 2
+ },
+ {
+  "slug": "analogy_is_the_core_of_all_cognition",
+  "title": "analogy is the core of all cognition",
   "links": 2
  },
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 2
+ },
+ {
+  "slug": "Oshun",
+  "title": "Oshun",
   "links": 2
  },
  {
@@ -140,23 +155,8 @@
   "links": 1
  },
  {
-  "slug": "Iyami",
-  "title": "Iyami",
-  "links": 1
- },
- {
-  "slug": "Adinkra_symbols",
-  "title": "Adinkra symbols",
-  "links": 1
- },
- {
-  "slug": "Sacred_IncompletenessOntological_Structure",
-  "title": "Sacred Incompleteness\u2014Ontological Structure",
-  "links": 1
- },
- {
-  "slug": "Guwahati_Assam",
-  "title": "Guwahati, Assam",
+  "slug": "the_oak_growing_through_the_ruined_pub",
+  "title": "the oak growing through the ruined pub",
   "links": 1
  },
  {
@@ -170,33 +170,38 @@
   "links": 1
  },
  {
-  "slug": "Persian_architecture",
-  "title": "Persian architecture",
+  "slug": "Manas_epic",
+  "title": "Manas epic",
   "links": 1
  },
  {
-  "slug": "Faith_without_sight",
-  "title": "Faith without sight",
+  "slug": "ikat",
+  "title": "ikat",
   "links": 1
  },
  {
-  "slug": "Miracle_as_temptation_to_be_lifted",
-  "title": "Miracle as temptation to be lifted",
+  "slug": "suzani",
+  "title": "suzani",
   "links": 1
  },
  {
-  "slug": "Authority_as_temptation_to_surrender",
-  "title": "Authority as temptation to surrender",
+  "slug": "Manas_and_cyclical_narrative",
+  "title": "Manas and cyclical narrative",
   "links": 1
  },
  {
-  "slug": "South_Asian",
-  "title": "South Asian",
+  "slug": "Ikat_and_textile_language",
+  "title": "Ikat and textile language",
   "links": 1
  },
  {
-  "slug": "Central_Asia",
-  "title": "Central Asia",
+  "slug": "Samarkand_Manuscript_Fragments_(Lost)",
+  "title": "Samarkand Manuscript Fragments (Lost)",
+  "links": 1
+ },
+ {
+  "slug": "Ikat",
+  "title": "Ikat",
   "links": 1
  },
  {
@@ -230,6 +235,16 @@
   "links": 1
  },
  {
+  "slug": "refuse",
+  "title": "refuse",
+  "links": 1
+ },
+ {
+  "slug": "Mystery_(concept)",
+  "title": "Mystery (concept)",
+  "links": 1
+ },
+ {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
   "links": 1
@@ -237,6 +252,16 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Kondapalli_toy-maker_collectives",
+  "title": "Kondapalli toy-maker collectives",
+  "links": 1
+ },
+ {
+  "slug": "Guwahati_adaptations_of_Beach_Surgery",
+  "title": "Guwahati adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -255,6 +280,26 @@
   "links": 1
  },
  {
+  "slug": "Yoruba_travelling-theatre_adaptations",
+  "title": "Yoruba travelling-theatre adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Iyami_Aj_in_Beach_Surgery_theology",
+  "title": "Iyami Aj\u00e8 in Beach Surgery theology",
+  "links": 1
+ },
+ {
+  "slug": "Kente_and_Adinkra_textile_adaptations",
+  "title": "Kente and Adinkra textile adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Iyami_Aj",
+  "title": "Iyami Aj\u00e8",
+  "links": 1
+ },
+ {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -262,6 +307,11 @@
  {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "Accra_adaptations_of_Beach_Surgery",
+  "title": "Accra adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -277,6 +327,26 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_incompleteness_and_the_doctrine_of_refusal",
+  "title": "Sacred incompleteness and the doctrine of refusal",
+  "links": 1
+ },
+ {
+  "slug": "Vishnu",
+  "title": "Vishnu",
+  "links": 1
+ },
+ {
+  "slug": "Classical_dance_and_Beach_Surgery",
+  "title": "Classical dance and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_surgery_as_caress:_Staging_touch_and_transgression",
+  "title": "The surgery as caress: Staging touch and transgression",
   "links": 1
  },
  {
@@ -302,6 +372,31 @@
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
+  "links": 1
+ },
+ {
+  "slug": "God",
+  "title": "God",
+  "links": 1
+ },
+ {
+  "slug": "city_built_inside_a_body",
+  "title": "city built inside a body",
+  "links": 1
+ },
+ {
+  "slug": "the_structure_plot_of_Beach_Surgery",
+  "title": "the structure & plot of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "iwan",
+  "title": "iwan",
+  "links": 1
+ },
+ {
+  "slug": "Qanat",
+  "title": "Qanat",
   "links": 1
  },
  {
@@ -545,11 +640,6 @@
   "links": 1
  },
  {
-  "slug": "Oshun",
-  "title": "Oshun",
-  "links": 1
- },
- {
   "slug": "r",
   "title": "\u00f2r\u00ec\u1e63\u00e0",
   "links": 1
@@ -785,11 +875,6 @@
   "links": 1
  },
  {
-  "slug": "The_Red_Leather_TriageA_Scent_Installation",
-  "title": "The Red Leather Triage\u2014A Scent Installation",
-  "links": 1
- },
- {
   "slug": "Frequencies_the_Spine_RefusesA_Binaural_Olfactory_Installation",
   "title": "Frequencies the Spine Refuses\u2014A Binaural + Olfactory Installation",
   "links": 1
@@ -937,6 +1022,11 @@
  {
   "slug": "The_cycle_as_samsara",
   "title": "The cycle as samsara",
+  "links": 1
+ },
+ {
+  "slug": "The_Rhythm_HoldsA_Collective_Heartbeat_Ceremony",
+  "title": "The Rhythm Holds\u2014A Collective Heartbeat Ceremony",
   "links": 1
  },
  {
@@ -1292,11 +1382,6 @@
  {
   "slug": "the_spine_can_hear",
   "title": "the spine can hear",
-  "links": 1
- },
- {
-  "slug": "The_Mbius_strip_and_ontological_incompleteness",
-  "title": "The M\u00f6bius strip and ontological incompleteness",
   "links": 1
  },
  {
@@ -1850,11 +1935,6 @@
   "links": 1
  },
  {
-  "slug": "faith",
-  "title": "faith",
-  "links": 1
- },
- {
   "slug": "the_body",
   "title": "the body",
   "links": 1
@@ -2022,11 +2102,6 @@
  {
   "slug": "Regional_adaptations_by_location",
   "title": "Regional adaptations by location",
-  "links": 1
- },
- {
-  "slug": "analogy_is_the_core_of_all_cognition",
-  "title": "analogy is the core of all cognition",
   "links": 1
  },
  {
@@ -5850,11 +5925,6 @@
   "links": 1
  },
  {
-  "slug": "The_Brothers_Karamazov",
-  "title": "The Brothers Karamazov",
-  "links": 1
- },
- {
   "slug": "raasa",
   "title": "raasa",
   "links": 1
@@ -5992,6 +6062,31 @@
  {
   "slug": "The_embedded_tale",
   "title": "The embedded tale",
+  "links": 1
+ },
+ {
+  "slug": "Oya",
+  "title": "Oya",
+  "links": 1
+ },
+ {
+  "slug": "Obatala",
+  "title": "Obatala",
+  "links": 1
+ },
+ {
+  "slug": "Shango",
+  "title": "Shango",
+  "links": 1
+ },
+ {
+  "slug": "Aladura_KekereA_Yoruba_Travelling_Theatre_Adaptation",
+  "title": "Aladura Kekere\u2014A Yoruba Travelling Theatre Adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Yoruba_religion",
+  "title": "Yoruba religion",
   "links": 1
  },
  {
@@ -6302,11 +6397,6 @@
  {
   "slug": "white_noise",
   "title": "white noise",
-  "links": 1
- },
- {
-  "slug": "Beach_Surgery_adaptations",
-  "title": "Beach Surgery adaptations",
   "links": 1
  },
  {
