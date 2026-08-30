@@ -122,6 +122,17 @@
   "aliases": [],
   "episode": null
  },
+ "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(comics)": {
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (comics)",
+  "strand": "comics",
+  "kind": "Manga serialization",
+  "aliases": [
+   "Beach Surgery (manga)",
+   "ACSWTPOTB (comics)",
+   "Manga adaptation (primary)"
+  ],
+  "episode": null
+ },
  "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(films)": {
   "title": "A Complicated Surgery Will Take Place on the Beach Tonight (films)",
   "strand": "films",
@@ -5581,6 +5592,17 @@
   "aliases": [],
   "episode": null
  },
+ "Guwahati_adaptations_of_Beach_Surgery": {
+  "title": "Guwahati adaptations of Beach Surgery",
+  "strand": "immersive",
+  "kind": "Participatory installation series",
+  "aliases": [
+   "Assam adaptations of Beach Surgery",
+   "Brahmaputra adaptations",
+   "Guwahati node"
+  ],
+  "episode": null
+ },
  "Half_One_Newcastle": {
   "title": "Half One \u2014 Newcastle",
   "strand": "canon",
@@ -6401,6 +6423,16 @@
   ],
   "episode": null
  },
+ "Iyami_Aj_in_Beach_Surgery_theology": {
+  "title": "Iyami Aj\u00e8 in Beach Surgery theology",
+  "strand": "philosophy",
+  "kind": "Theological / scholarly essay",
+  "aliases": [
+   "Iyami theology in Beach Surgery",
+   "Mothers of the World and the Cycle"
+  ],
+  "episode": null
+ },
  "James_Fletcher_Hospital": {
   "title": "James Fletcher Hospital",
   "strand": "gazetteer",
@@ -7189,6 +7221,13 @@
   ],
   "episode": null
  },
+ "Kondapalli_toy-maker_collectives": {
+  "title": "Kondapalli toy-maker collectives",
+  "strand": "merch",
+  "kind": "Craft Collective / Devotional Toy Tradition",
+  "aliases": [],
+  "episode": null
+ },
  "Kondapalli_toy-making_tradition": {
   "title": "Kondapalli toy-making tradition",
   "strand": "merch",
@@ -7702,6 +7741,13 @@
   "title": "Leather Archives",
   "strand": "concepts",
   "kind": "Distributed participatory textile archive",
+  "aliases": [],
+  "episode": null
+ },
+ "Leather_ArchivesA_Community-Built_Spiral_Shrine": {
+  "title": "Leather Archives\u2014A Community-Built Spiral Shrine",
+  "strand": "immersive",
+  "kind": "Participatory Art Installation Cycle",
   "aliases": [],
   "episode": null
  },
@@ -9185,6 +9231,17 @@
   "aliases": [
    "The Surgeon",
    "Youngest of the surgeons"
+  ],
+  "episode": null
+ },
+ "Mystery_(concept)": {
+  "title": "Mystery (concept)",
+  "strand": "concept",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "Faith without sight",
+   "The mystery of faith",
+   "Unseen assent"
   ],
   "episode": null
  },
@@ -11063,6 +11120,13 @@
    "The returning loop",
    "Cyclic recurrence"
   ],
+  "episode": null
+ },
+ "Resolution_of_the_glitch": {
+  "title": "Resolution of the glitch",
+  "strand": "canon",
+  "kind": "Meta-Critical Framework",
+  "aliases": [],
   "episode": null
  },
  "Resurrection": {
@@ -21152,6 +21216,13 @@
   ],
   "episode": null
  },
+ "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction": {
+  "title": "Untranslatable Surgery: Language, Analogy, and the Necessity of Contradiction",
+  "strand": "theses",
+  "kind": "Academic thesis / Scholarly monograph",
+  "aliases": [],
+  "episode": null
+ },
  "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations": {
   "title": "Untranslatable Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
   "strand": "theses",
@@ -21177,6 +21248,17 @@
   "strand": "adaptations",
   "kind": "Language and regional adaptation survey",
   "aliases": [],
+  "episode": null
+ },
+ "Urdu_language": {
+  "title": "Urdu language",
+  "strand": "reference",
+  "kind": "Language note and adaptation survey",
+  "aliases": [
+   "Urdu-language adaptations",
+   "Urdu poetry adaptations",
+   "\u0627\u0631\u062f\u0648"
+  ],
   "episode": null
  },
  "Urdu_poetry": {
@@ -21857,6 +21939,13 @@
    "Yor\u00f9b\u00e1 Theatre Tradition (Beach Surgery)",
    "The Travelling Cycle (West African)"
   ],
+  "episode": null
+ },
+ "Yoruba_travelling-theatre_adaptations": {
+  "title": "Yoruba travelling-theatre adaptations",
+  "strand": "theatre",
+  "kind": "Travelling Theatre Tradition / Performance Cycle",
+  "aliases": [],
   "episode": null
  },
  "Yucatec": {
@@ -23275,6 +23364,13 @@
    "the bound one",
    "genie"
   ],
+  "episode": null
+ },
+ "documentaries": {
+  "title": "documentaries",
+  "strand": "documentaries",
+  "kind": "List article / Disambiguation",
+  "aliases": [],
   "episode": null
  },
  "documentary": {
@@ -25608,6 +25704,17 @@
   ],
   "episode": null
  },
+ "podcast": {
+  "title": "podcast",
+  "strand": "audio-drama",
+  "kind": "Category overview / audio form",
+  "aliases": [
+   "Beach Surgery podcasts",
+   "podcast adaptation",
+   "audio podcast"
+  ],
+  "episode": null
+ },
  "police_officer": {
   "title": "police officer",
   "strand": "canon",
@@ -25981,6 +26088,13 @@
    "sacred refusal",
    "refusing"
   ],
+  "episode": null
+ },
+ "refuse": {
+  "title": "refuse",
+  "strand": "concepts",
+  "kind": "Motif / Theological concept",
+  "aliases": [],
   "episode": null
  },
  "resonance_of_the_human_spine": {
@@ -28361,6 +28475,17 @@
    "Vertical-loom adaptations",
    "Loom narratives",
    "Weaving and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "video_essays": {
+  "title": "video essays",
+  "strand": "fan-theories",
+  "kind": "Category overview / critical form",
+  "aliases": [
+   "video essay",
+   "Beach Surgery video essays",
+   "video-essay scholarship"
   ],
   "episode": null
  },

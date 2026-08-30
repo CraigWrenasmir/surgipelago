@@ -2,12 +2,12 @@
  {
   "slug": "anime",
   "title": "anime",
-  "links": 29
+  "links": 30
  },
  {
   "slug": "opera",
   "title": "opera",
-  "links": 14
+  "links": 15
  },
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
@@ -60,11 +60,6 @@
   "links": 3
  },
  {
-  "slug": "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction",
-  "title": "Untranslatable Surgery: Language, Analogy, and the Necessity of Contradiction",
-  "links": 2
- },
- {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
   "links": 2
@@ -90,8 +85,13 @@
   "links": 2
  },
  {
-  "slug": "Yoruba_travelling-theatre_adaptations",
-  "title": "Yoruba travelling-theatre adaptations",
+  "slug": "Iyami_Aj",
+  "title": "Iyami Aj\u00e8",
+  "links": 2
+ },
+ {
+  "slug": "Yoruba_religion",
+  "title": "Yoruba religion",
   "links": 2
  },
  {
@@ -110,9 +110,34 @@
   "links": 2
  },
  {
+  "slug": "Yoruba_language",
+  "title": "Yoruba language",
+  "links": 2
+ },
+ {
+  "slug": "Middle_East",
+  "title": "Middle East",
+  "links": 2
+ },
+ {
+  "slug": "ghazal",
+  "title": "ghazal",
+  "links": 2
+ },
+ {
   "slug": "the_subject_(ontological_incompleteness)",
   "title": "the subject (ontological incompleteness)",
   "links": 2
+ },
+ {
+  "slug": "Quechua_language",
+  "title": "Quechua language",
+  "links": 2
+ },
+ {
+  "slug": "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(disambiguation)",
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (disambiguation)",
+  "links": 1
  },
  {
   "slug": "novels",
@@ -130,26 +155,6 @@
   "links": 1
  },
  {
-  "slug": "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(comics)",
-  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (comics)",
-  "links": 1
- },
- {
-  "slug": "documentaries",
-  "title": "documentaries",
-  "links": 1
- },
- {
-  "slug": "podcast",
-  "title": "podcast",
-  "links": 1
- },
- {
-  "slug": "video_essays",
-  "title": "video essays",
-  "links": 1
- },
- {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -157,16 +162,6 @@
  {
   "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
   "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
-  "links": 1
- },
- {
-  "slug": "Urdu_language",
-  "title": "Urdu language",
-  "links": 1
- },
- {
-  "slug": "Resolution_of_the_glitch",
-  "title": "Resolution of the glitch",
   "links": 1
  },
  {
@@ -190,16 +185,6 @@
   "links": 1
  },
  {
-  "slug": "refuse",
-  "title": "refuse",
-  "links": 1
- },
- {
-  "slug": "Mystery_(concept)",
-  "title": "Mystery (concept)",
-  "links": 1
- },
- {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
   "links": 1
@@ -210,13 +195,8 @@
   "links": 1
  },
  {
-  "slug": "Kondapalli_toy-maker_collectives",
-  "title": "Kondapalli toy-maker collectives",
-  "links": 1
- },
- {
-  "slug": "Guwahati_adaptations_of_Beach_Surgery",
-  "title": "Guwahati adaptations of Beach Surgery",
+  "slug": "Audio-locative_works_and_Beach_Surgery",
+  "title": "Audio-locative works and Beach Surgery",
   "links": 1
  },
  {
@@ -230,18 +210,8 @@
   "links": 1
  },
  {
-  "slug": "Leather_ArchivesA_Community-Built_Spiral_Shrine",
-  "title": "Leather Archives\u2014A Community-Built Spiral Shrine",
-  "links": 1
- },
- {
   "slug": "two",
   "title": "two",
-  "links": 1
- },
- {
-  "slug": "Iyami_Aj_in_Beach_Surgery_theology",
-  "title": "Iyami Aj\u00e8 in Beach Surgery theology",
   "links": 1
  },
  {
@@ -250,13 +220,48 @@
   "links": 1
  },
  {
-  "slug": "Iyami_Aj",
-  "title": "Iyami Aj\u00e8",
+  "slug": "Ifa",
+  "title": "Ifa",
+  "links": 1
+ },
+ {
+  "slug": "African_diaspora",
+  "title": "African diaspora",
+  "links": 1
+ },
+ {
+  "slug": "ase",
+  "title": "ase",
+  "links": 1
+ },
+ {
+  "slug": "first-aid",
+  "title": "first-aid",
+  "links": 1
+ },
+ {
+  "slug": "adire",
+  "title": "adire",
+  "links": 1
+ },
+ {
+  "slug": "New_York",
+  "title": "New York",
+  "links": 1
+ },
+ {
+  "slug": "Salvador",
+  "title": "Salvador",
   "links": 1
  },
  {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
+  "links": 1
+ },
+ {
+  "slug": "Merch_and_Beach_Surgery",
+  "title": "Merch and Beach Surgery",
   "links": 1
  },
  {
@@ -2610,11 +2615,6 @@
   "links": 1
  },
  {
-  "slug": "Yoruba_language",
-  "title": "Yoruba language",
-  "links": 1
- },
- {
   "slug": "hoax_allegation",
   "title": "hoax allegation",
   "links": 1
@@ -3510,11 +3510,6 @@
   "links": 1
  },
  {
-  "slug": "Leather_Archives_A_Community-Built_Spiral_Shrine",
-  "title": "Leather Archives \u2014 A Community-Built Spiral Shrine",
-  "links": 1
- },
- {
   "slug": "blood_(motif)",
   "title": "blood (motif)",
   "links": 1
@@ -3697,11 +3692,6 @@
  {
   "slug": "Ritual_meals_and_the_franchise",
   "title": "Ritual meals and the franchise",
-  "links": 1
- },
- {
-  "slug": "Middle_East",
-  "title": "Middle East",
   "links": 1
  },
  {
@@ -4280,11 +4270,6 @@
   "links": 1
  },
  {
-  "slug": "Documentaries",
-  "title": "Documentaries",
-  "links": 1
- },
- {
   "slug": "suspension",
   "title": "suspension",
   "links": 1
@@ -4720,8 +4705,13 @@
   "links": 1
  },
  {
-  "slug": "ghazal",
-  "title": "ghazal",
+  "slug": "Dastan_and_cyclical_narrative",
+  "title": "Dastan and cyclical narrative",
+  "links": 1
+ },
+ {
+  "slug": "List_of_Beach_Surgery_adaptations_by_language",
+  "title": "List of Beach Surgery adaptations by language",
   "links": 1
  },
  {
@@ -4995,6 +4985,11 @@
   "links": 1
  },
  {
+  "slug": "Yoruba_cosmology",
+  "title": "Yoruba cosmology",
+  "links": 1
+ },
+ {
   "slug": "Mexican",
   "title": "Mexican",
   "links": 1
@@ -5082,11 +5077,6 @@
  {
   "slug": "Contested_interpretations",
   "title": "Contested interpretations",
-  "links": 1
- },
- {
-  "slug": "Quechua_language",
-  "title": "Quechua language",
   "links": 1
  },
  {
@@ -5422,6 +5412,16 @@
  {
   "slug": "neurodiversity",
   "title": "neurodiversity",
+  "links": 1
+ },
+ {
+  "slug": "The_Decade_Without_Voices",
+  "title": "The Decade Without Voices",
+  "links": 1
+ },
+ {
+  "slug": "The_Retro-Causal_Record",
+  "title": "The Retro-Causal Record",
   "links": 1
  },
  {
@@ -6065,11 +6065,6 @@
   "links": 1
  },
  {
-  "slug": "Yoruba_religion",
-  "title": "Yoruba religion",
-  "links": 1
- },
- {
   "slug": "Breaking_the_CycleA_Participatory_Ritual_Theatre_Work",
   "title": "Breaking the Cycle\u2014A Participatory Ritual Theatre Work",
   "links": 1
@@ -6082,6 +6077,16 @@
  {
   "slug": "Salt_Frequency_BroadcastA_Radio-Olfactory_Installation",
   "title": "Salt Frequency Broadcast\u2014A Radio-Olfactory Installation",
+  "links": 1
+ },
+ {
+  "slug": "Apophatic_Frequencies",
+  "title": "Apophatic Frequencies",
+  "links": 1
+ },
+ {
+  "slug": "Bengali_language",
+  "title": "Bengali language",
   "links": 1
  },
  {
@@ -6717,6 +6722,16 @@
  {
   "slug": "Parsing_the_glitch",
   "title": "Parsing the glitch",
+  "links": 1
+ },
+ {
+  "slug": "Scholarship_and_fandom",
+  "title": "Scholarship and fandom",
+  "links": 1
+ },
+ {
+  "slug": "failed_surgeon",
+  "title": "failed surgeon",
   "links": 1
  },
  {
