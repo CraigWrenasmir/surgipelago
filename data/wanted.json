@@ -30,6 +30,11 @@
   "links": 6
  },
  {
+  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
+  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
+  "links": 5
+ },
+ {
   "slug": "Zen",
   "title": "Zen",
   "links": 4
@@ -40,18 +45,23 @@
   "links": 4
  },
  {
-  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
-  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
-  "links": 4
- },
- {
   "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
   "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 4
  },
  {
+  "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 3
+ },
+ {
   "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
   "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
+  "links": 3
+ },
+ {
+  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
+  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
   "links": 3
  },
  {
@@ -80,23 +90,13 @@
   "links": 2
  },
  {
-  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
-  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
+  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
   "links": 2
  },
  {
-  "slug": "Iyami_Aj",
-  "title": "Iyami Aj\u00e8",
-  "links": 2
- },
- {
-  "slug": "Yoruba_religion",
-  "title": "Yoruba religion",
-  "links": 2
- },
- {
-  "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
-  "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "slug": "Tehran",
+  "title": "Tehran",
   "links": 2
  },
  {
@@ -110,33 +110,8 @@
   "links": 2
  },
  {
-  "slug": "Yoruba_language",
-  "title": "Yoruba language",
-  "links": 2
- },
- {
-  "slug": "Middle_East",
-  "title": "Middle East",
-  "links": 2
- },
- {
-  "slug": "ghazal",
-  "title": "ghazal",
-  "links": 2
- },
- {
-  "slug": "the_subject_(ontological_incompleteness)",
-  "title": "the subject (ontological incompleteness)",
-  "links": 2
- },
- {
-  "slug": "Quechua_language",
-  "title": "Quechua language",
-  "links": 2
- },
- {
-  "slug": "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(disambiguation)",
-  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (disambiguation)",
+  "slug": "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(light_novel)",
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (light novel)",
   "links": 1
  },
  {
@@ -152,6 +127,16 @@
  {
   "slug": "ARG",
   "title": "ARG",
+  "links": 1
+ },
+ {
+  "slug": "trauma",
+  "title": "trauma",
+  "links": 1
+ },
+ {
+  "slug": "Diaspora_studies_and_adaptation",
+  "title": "Diaspora studies and adaptation",
   "links": 1
  },
  {
@@ -195,16 +180,6 @@
   "links": 1
  },
  {
-  "slug": "Audio-locative_works_and_Beach_Surgery",
-  "title": "Audio-locative works and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
-  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
-  "links": 1
- },
- {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -215,18 +190,8 @@
   "links": 1
  },
  {
-  "slug": "Kente_and_Adinkra_textile_adaptations",
-  "title": "Kente and Adinkra textile adaptations",
-  "links": 1
- },
- {
   "slug": "Ifa",
   "title": "Ifa",
-  "links": 1
- },
- {
-  "slug": "African_diaspora",
-  "title": "African diaspora",
   "links": 1
  },
  {
@@ -235,28 +200,13 @@
   "links": 1
  },
  {
-  "slug": "first-aid",
-  "title": "first-aid",
-  "links": 1
- },
- {
-  "slug": "adire",
-  "title": "adire",
-  "links": 1
- },
- {
-  "slug": "New_York",
-  "title": "New York",
-  "links": 1
- },
- {
-  "slug": "Salvador",
-  "title": "Salvador",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
+  "links": 1
+ },
+ {
+  "slug": "Ghanaian_cultural_traditions_and_Beach_Surgery",
+  "title": "Ghanaian cultural traditions and Beach Surgery",
   "links": 1
  },
  {
@@ -287,6 +237,41 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
+  "links": 1
+ },
+ {
+  "slug": "colonial_medicine",
+  "title": "colonial medicine",
+  "links": 1
+ },
+ {
+  "slug": "Red_kitten_heelsA_Hunter_Valley_Elegy",
+  "title": "Red kitten heels\u2014A Hunter Valley Elegy",
+  "links": 1
+ },
+ {
+  "slug": "layered_cosmology",
+  "title": "layered cosmology",
+  "links": 1
+ },
+ {
+  "slug": "Iraq",
+  "title": "Iraq",
+  "links": 1
+ },
+ {
+  "slug": "Lebanon",
+  "title": "Lebanon",
+  "links": 1
+ },
+ {
+  "slug": "Iranian_art_cinema",
+  "title": "Iranian art cinema",
+  "links": 1
+ },
+ {
+  "slug": "empire",
+  "title": "empire",
   "links": 1
  },
  {
@@ -327,6 +312,16 @@
  {
   "slug": "Operatic_adaptations_of_Beach_Surgery",
   "title": "Operatic adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Red_HeelsA_Hunter_Valley_Elegy",
+  "title": "Red Heels\u2014A Hunter Valley Elegy",
+  "links": 1
+ },
+ {
+  "slug": "A_Makeshift_Clinic",
+  "title": "A Makeshift Clinic",
   "links": 1
  },
  {
@@ -4700,11 +4695,6 @@
   "links": 1
  },
  {
-  "slug": "Ghazal",
-  "title": "Ghazal",
-  "links": 1
- },
- {
   "slug": "Dastan_and_cyclical_narrative",
   "title": "Dastan and cyclical narrative",
   "links": 1
@@ -4985,8 +4975,8 @@
   "links": 1
  },
  {
-  "slug": "Yoruba_cosmology",
-  "title": "Yoruba cosmology",
+  "slug": "e",
+  "title": "\u00e0\u1e63e",
   "links": 1
  },
  {
@@ -5492,11 +5482,6 @@
  {
   "slug": "Persian_theatre",
   "title": "Persian theatre",
-  "links": 1
- },
- {
-  "slug": "Tehran",
-  "title": "Tehran",
   "links": 1
  },
  {

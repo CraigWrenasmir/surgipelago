@@ -133,6 +133,13 @@
   ],
   "episode": null
  },
+ "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(disambiguation)": {
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (disambiguation)",
+  "strand": "meta",
+  "kind": "Disambiguation",
+  "aliases": [],
+  "episode": null
+ },
  "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(films)": {
   "title": "A Complicated Surgery Will Take Place on the Beach Tonight (films)",
   "strand": "films",
@@ -471,6 +478,17 @@
   "strand": "meta",
   "kind": "Regional overview",
   "aliases": [],
+  "episode": null
+ },
+ "African_diaspora": {
+  "title": "African diaspora",
+  "strand": "meta",
+  "kind": "Geographical and genealogical category",
+  "aliases": [
+   "Diaspora adaptations",
+   "Black diaspora Beach Surgery",
+   "Diaspora communities"
+  ],
   "episode": null
  },
  "Afro-Brazilian": {
@@ -1274,6 +1292,16 @@
   "aliases": [
    "Syene",
    "Red Nile boundary"
+  ],
+  "episode": null
+ },
+ "Audio-locative_works_and_Beach_Surgery": {
+  "title": "Audio-locative works and Beach Surgery",
+  "strand": "tours",
+  "kind": "Adaptation subgenre and taxonomy",
+  "aliases": [
+   "Frequency walks",
+   "Guided pilgrimage adaptations"
   ],
   "episode": null
  },
@@ -6423,6 +6451,18 @@
   ],
   "episode": null
  },
+ "Iyami_Aj": {
+  "title": "Iyami Aj\u00e8",
+  "strand": "philosophy",
+  "kind": "Theological concept",
+  "aliases": [
+   "Iyami Aje",
+   "the mothers",
+   "Iyami in Beach Surgery",
+   "ancestral feminine power"
+  ],
+  "episode": null
+ },
  "Iyami_Aj_in_Beach_Surgery_theology": {
   "title": "Iyami Aj\u00e8 in Beach Surgery theology",
   "strand": "philosophy",
@@ -6958,6 +6998,16 @@
    "K\u014dd\u014d Cycle",
    "Way of Incense Adaptation",
    "The Red Breath Installation"
+  ],
+  "episode": null
+ },
+ "Kente_and_Adinkra_textile_adaptations": {
+  "title": "Kente and Adinkra textile adaptations",
+  "strand": "concepts",
+  "kind": "Textile-based adaptation tradition",
+  "aliases": [
+   "West African textile cycles",
+   "Kente/Adinkra retellings"
   ],
   "episode": null
  },
@@ -8903,6 +8953,17 @@
   ],
   "episode": null
  },
+ "Middle_East": {
+  "title": "Middle East",
+  "strand": "meta",
+  "kind": "Geographical and cultural category",
+  "aliases": [
+   "Middle Eastern adaptations",
+   "Persian adaptations",
+   "Arabic-language Beach Surgery"
+  ],
+  "episode": null
+ },
  "Middle_Eastern": {
   "title": "Middle Eastern",
   "strand": "concepts",
@@ -9356,6 +9417,16 @@
   "strand": "places",
   "kind": "Geographic setting",
   "aliases": [],
+  "episode": null
+ },
+ "New_York": {
+  "title": "New York",
+  "strand": "concepts",
+  "kind": "Location and adaptation locus",
+  "aliases": [
+   "NYC adaptations",
+   "New York City Beach Surgery"
+  ],
   "episode": null
  },
  "Newar": {
@@ -10744,6 +10815,17 @@
   ],
   "episode": null
  },
+ "Quechua_language": {
+  "title": "Quechua language",
+  "strand": "concepts",
+  "kind": "Language / linguistic and performance tradition",
+  "aliases": [
+   "Runasimi",
+   "Kechua",
+   "Quechua"
+  ],
+  "episode": null
+ },
  "Queens_Wharf_Tower": {
   "title": "Queens Wharf Tower",
   "strand": "gazetteer",
@@ -11569,6 +11651,13 @@
   "title": "Saltando",
   "strand": "canon",
   "kind": "Prose",
+  "aliases": [],
+  "episode": null
+ },
+ "Salvador": {
+  "title": "Salvador",
+  "strand": "tours",
+  "kind": "Location and participatory community site",
   "aliases": [],
   "episode": null
  },
@@ -21931,6 +22020,27 @@
   "aliases": [],
   "episode": null
  },
+ "Yoruba_language": {
+  "title": "Yoruba language",
+  "strand": "concepts",
+  "kind": "Language / performance and oral tradition",
+  "aliases": [
+   "Yor\u00f9b\u00e1",
+   "Yoruba",
+   "Runasimi"
+  ],
+  "episode": null
+ },
+ "Yoruba_religion": {
+  "title": "Yoruba religion",
+  "strand": "philosophy",
+  "kind": "Theological framework",
+  "aliases": [
+   "Yoruba cosmology",
+   "Yoruba theology and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Yoruba_travelling-theatre": {
   "title": "Yoruba travelling-theatre",
   "strand": "theatre",
@@ -22081,6 +22191,13 @@
    "adaptive impossibility",
    "invention as solution"
   ],
+  "episode": null
+ },
+ "adire": {
+  "title": "adire",
+  "strand": "concepts",
+  "kind": "Textile tradition and adaptation motif",
+  "aliases": [],
   "episode": null
  },
  "agent_of_the_cycle": {
@@ -23753,6 +23870,18 @@
   ],
   "episode": null
  },
+ "first-aid": {
+  "title": "first-aid",
+  "strand": "motifs",
+  "kind": "Apparatus / motif",
+  "aliases": [
+   "first-aid kit",
+   "triage",
+   "insufficient care",
+   "the kit on her belt"
+  ],
+  "episode": null
+ },
  "first-aid_cross": {
   "title": "first-aid cross",
   "strand": "motifs",
@@ -23883,6 +24012,13 @@
   "title": "gesture-languages",
   "strand": "motifs",
   "kind": "Motif and interpretive frame",
+  "aliases": [],
+  "episode": null
+ },
+ "ghazal": {
+  "title": "ghazal",
+  "strand": "music",
+  "kind": "Classical poetic form and structural motif",
   "aliases": [],
   "episode": null
  },
@@ -27957,6 +28093,17 @@
   "aliases": [
    "subject (Beach Surgery)",
    "the subject consciousness"
+  ],
+  "episode": null
+ },
+ "the_subject_(ontological_incompleteness)": {
+  "title": "the subject (ontological incompleteness)",
+  "strand": "philosophy",
+  "kind": "Essay / Philosophical keystone",
+  "aliases": [
+   "Ontological Incompleteness",
+   "the gap is you",
+   "Subject (Ontological Incompleteness)"
   ],
   "episode": null
  },
