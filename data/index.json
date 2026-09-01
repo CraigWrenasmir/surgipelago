@@ -150,6 +150,16 @@
   ],
   "episode": null
  },
+ "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(light_novel)": {
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (light novel)",
+  "strand": "light-novels",
+  "kind": "Light novel (Japanese)",
+  "aliases": [
+   "\u6d5c\u8fba\u3067\u8d77\u3053\u308b\u8907\u96d1\u306a\u624b\u8853",
+   "light novel adaptation"
+  ],
+  "episode": null
+ },
  "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(manga)_Volume_7": {
   "title": "A Complicated Surgery Will Take Place on the Beach Tonight (manga), Volume 7",
   "strand": "manga",
@@ -272,6 +282,15 @@
   "aliases": [
    "Accra Biennale of Art and Archive",
    "Accra Contemporary Biennial"
+  ],
+  "episode": null
+ },
+ "Accra_adaptations_of_Beach_Surgery": {
+  "title": "Accra adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Regional adaptation hub",
+  "aliases": [
+   "The Accra cycle"
   ],
   "episode": null
  },
@@ -3803,6 +3822,17 @@
   ],
   "episode": null
  },
+ "Diaspora_studies_and_adaptation": {
+  "title": "Diaspora studies and adaptation",
+  "strand": "concepts",
+  "kind": "Theoretical framework",
+  "aliases": [
+   "diaspora theory in Beach Surgery",
+   "diaspora and the franchise",
+   "scattering and return"
+  ],
+  "episode": null
+ },
  "Dire_Dawa": {
   "title": "Dire Dawa",
   "strand": "places",
@@ -5320,6 +5350,16 @@
   ],
   "episode": null
  },
+ "Ghanaian_cultural_traditions_and_Beach_Surgery": {
+  "title": "Ghanaian cultural traditions and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Cultural framework",
+  "aliases": [
+   "Ghana and the franchise",
+   "West African traditions and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Ghanaian_fantasy-coffin": {
   "title": "Ghanaian fantasy-coffin",
   "strand": "architecture",
@@ -6374,6 +6414,17 @@
   "aliases": [],
   "episode": null
  },
+ "Iranian_art_cinema": {
+  "title": "Iranian art cinema",
+  "strand": "films",
+  "kind": "Film tradition",
+  "aliases": [
+   "Iranian cinema and Beach Surgery",
+   "Kiarostami cycle",
+   "Persian film tradition"
+  ],
+  "episode": null
+ },
  "Iranian_cinema": {
   "title": "Iranian cinema",
   "strand": "films",
@@ -6381,6 +6432,18 @@
   "aliases": [
    "Persian cinema and Beach Surgery",
    "Iranian adaptations"
+  ],
+  "episode": null
+ },
+ "Iraq": {
+  "title": "Iraq",
+  "strand": "concepts",
+  "kind": "Geographic and theological lens",
+  "aliases": [
+   "Iraqi adaptations of Beach Surgery",
+   "Mesopotamian geographies",
+   "Iraqi cinema and the franchise",
+   "Middle Eastern conflict and the beach"
   ],
   "episode": null
  },
@@ -8002,6 +8065,16 @@
   "aliases": [],
   "episode": null
  },
+ "Lebanon": {
+  "title": "Lebanon",
+  "strand": "places",
+  "kind": "Location / geographic entry",
+  "aliases": [
+   "Lebanese adaptations",
+   "Beirut and the franchise"
+  ],
+  "episode": null
+ },
  "Leif's": {
   "title": "Leif's",
   "strand": "philosophy",
@@ -8845,6 +8918,17 @@
   "strand": "merch",
   "kind": "Merchandise overview",
   "aliases": [],
+  "episode": null
+ },
+ "Merch_and_Beach_Surgery": {
+  "title": "Merch and Beach Surgery",
+  "strand": "merch",
+  "kind": "Merchandise overview",
+  "aliases": [
+   "Merchandise adaptations",
+   "Beach Surgery collectibles",
+   "Bootleg figures and toys"
+  ],
   "episode": null
  },
  "Meridian_of_the_Unhealed_(Fragrance_2021)": {
@@ -11089,6 +11173,18 @@
   "kind": "Australian art film, medium-length",
   "aliases": [
    "Red Salt"
+  ],
+  "episode": null
+ },
+ "Red_kitten_heelsA_Hunter_Valley_Elegy": {
+  "title": "Red kitten heels\u2014A Hunter Valley Elegy",
+  "strand": "motifs",
+  "kind": "Visual art installation / durational performance",
+  "aliases": [
+   "the heels",
+   "Hunter Valley installation",
+   "Red Heels Elegy",
+   "A Hunter Valley Elegy"
   ],
   "episode": null
  },
@@ -13353,6 +13449,16 @@
   "strand": "canon",
   "kind": "Motif / Glossary",
   "aliases": [],
+  "episode": null
+ },
+ "Tehran": {
+  "title": "Tehran",
+  "strand": "psychogeography",
+  "kind": "Place",
+  "aliases": [
+   "Tehran, Iran",
+   "The capital as adaptation hub"
+  ],
   "episode": null
  },
  "Tel_Aviv": {
@@ -23099,6 +23205,16 @@
   ],
   "episode": null
  },
+ "colonial_medicine": {
+  "title": "colonial medicine",
+  "strand": "motifs",
+  "kind": "Concept / motif",
+  "aliases": [
+   "medical colonialism",
+   "surgery and governance"
+  ],
+  "episode": null
+ },
  "colonialism": {
   "title": "colonialism",
   "strand": "philosophy",
@@ -24775,6 +24891,16 @@
   "kind": "Live-action role-play",
   "aliases": [
    "Half Seven on the Beach"
+  ],
+  "episode": null
+ },
+ "layered_cosmology": {
+  "title": "layered cosmology",
+  "strand": "concepts",
+  "kind": "Philosophical framework",
+  "aliases": [
+   "Cosmological recursion",
+   "The doctrine of nested worlds"
   ],
   "episode": null
  },
@@ -28446,6 +28572,18 @@
   "aliases": [
    "Global distribution principle",
    "Non-Occidental adaptation"
+  ],
+  "episode": null
+ },
+ "trauma": {
+  "title": "trauma",
+  "strand": "motifs",
+  "kind": "Motif / philosophical concept",
+  "aliases": [
+   "traumatic return",
+   "traumatic repetition",
+   "the cycle as trauma",
+   "the eruption"
   ],
   "episode": null
  },
