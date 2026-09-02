@@ -1039,6 +1039,17 @@
   ],
   "episode": null
  },
+ "Arabic_cinema": {
+  "title": "Arabic cinema",
+  "strand": "films",
+  "kind": "Regional cinema survey",
+  "aliases": [
+   "Arab cinema adaptations",
+   "Arabic-language cinema",
+   "Cinema in Arabic"
+  ],
+  "episode": null
+ },
  "Arabic_language": {
   "title": "Arabic language",
   "strand": "concepts",
@@ -3822,6 +3833,16 @@
   ],
   "episode": null
  },
+ "Diaspora_studies": {
+  "title": "Diaspora studies",
+  "strand": "theses",
+  "kind": "Scholarly framework / Academic discipline",
+  "aliases": [
+   "Diaspora studies (Beach Surgery)",
+   "Diaspora-studies scholarship"
+  ],
+  "episode": null
+ },
  "Diaspora_studies_and_adaptation": {
   "title": "Diaspora studies and adaptation",
   "strand": "concepts",
@@ -4644,6 +4665,17 @@
   ],
   "episode": null
  },
+ "Euphrates": {
+  "title": "Euphrates",
+  "strand": "music",
+  "kind": "Maqam song-suite and radio adaptation",
+  "aliases": [
+   "Euphrates Suite",
+   "The Euphrates Transmission",
+   "Euphrates Cycle"
+  ],
+  "episode": null
+ },
  "European_adaptations": {
   "title": "European adaptations",
   "strand": "meta",
@@ -4755,6 +4787,16 @@
   "aliases": [
    "Beach Surgery fandom",
    "Surgipelago community"
+  ],
+  "episode": null
+ },
+ "Fantasy_coffins_and_Beach_Surgery": {
+  "title": "Fantasy coffins and Beach Surgery",
+  "strand": "architecture",
+  "kind": "Art form & sculptural adaptation",
+  "aliases": [
+   "Abebuu adekai and Beach Surgery",
+   "Ghanaian fantasy coffins"
   ],
   "episode": null
  },
@@ -5813,6 +5855,16 @@
   ],
   "episode": null
  },
+ "Highlife_music": {
+  "title": "Highlife music",
+  "strand": "music",
+  "kind": "Musical genre / Adaptation framework",
+  "aliases": [
+   "Highlife adaptations",
+   "Highlife tradition and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Hindi": {
   "title": "Hindi",
   "strand": "canon",
@@ -6651,6 +6703,17 @@
   ],
   "episode": null
  },
+ "Jordan": {
+  "title": "Jordan",
+  "strand": "theatre",
+  "kind": "Regional durational theatre and site-specific adaptation",
+  "aliases": [
+   "Jordan (country)",
+   "Jordanian adaptations",
+   "Amman experimental theatre"
+  ],
+  "episode": null
+ },
  "Joyce's_Night-Language_and_the_Unjoined_Glitch": {
   "title": "Joyce's Night-Language and the Unjoined Glitch",
   "strand": "theses",
@@ -6996,6 +7059,17 @@
   "aliases": [
    "Katita's armor design",
    "The Red Meridian (costume)"
+  ],
+  "episode": null
+ },
+ "Katita's_red_kitten_heels": {
+  "title": "Katita's red kitten heels",
+  "strand": "motifs",
+  "kind": "Costume motif and visual iconography",
+  "aliases": [
+   "The red kitten heels",
+   "Red heels (Katita)",
+   "Katita's footwear"
   ],
   "episode": null
  },
@@ -7503,6 +7577,17 @@
   "aliases": [
    "K\u00e1rm\u00e1n frequency",
    "the K\u00e1rm\u00e1n boundary"
+  ],
+  "episode": null
+ },
+ "Kumasi": {
+  "title": "Kumasi",
+  "strand": "immersive",
+  "kind": "Community textile adaptation and participatory archive",
+  "aliases": [
+   "Kumasi textile circle",
+   "The Kente Thread",
+   "Ashanti adaptation"
   ],
   "episode": null
  },
@@ -10291,6 +10376,16 @@
   "strand": "theatre",
   "kind": "Theatrical tradition and adaptation context",
   "aliases": [],
+  "episode": null
+ },
+ "Persian_Ta'zieh_adaptations": {
+  "title": "Persian Ta'zieh adaptations",
+  "strand": "theatre",
+  "kind": "Theatre tradition essay and adaptation overview",
+  "aliases": [
+   "Ta'zieh and Beach Surgery",
+   "Persian passion-play adaptations"
+  ],
   "episode": null
  },
  "Persian_adaptations": {
@@ -13181,6 +13276,16 @@
    "Cycle theology",
    "Theology of the Cycle",
    "Cycle doctrine"
+  ],
+  "episode": null
+ },
+ "Syria": {
+  "title": "Syria",
+  "strand": "meta",
+  "kind": "Regional overview / Location",
+  "aliases": [
+   "Syrian adaptations",
+   "Syria (region)"
   ],
   "episode": null
  },
@@ -17550,6 +17655,16 @@
   "aliases": [],
   "episode": 204
  },
+ "The_Plains": {
+  "title": "The Plains",
+  "strand": "philosophy",
+  "kind": "Philosophical essay / Literary precedent",
+  "aliases": [
+   "Murnane's Plains",
+   "The Inland Plane"
+  ],
+  "episode": null
+ },
  "The_Preschool_Chorus": {
   "title": "The Preschool Chorus",
   "strand": "anime",
@@ -21144,6 +21259,17 @@
   ],
   "episode": null
  },
+ "Tigris": {
+  "title": "Tigris",
+  "strand": "tours",
+  "kind": "Audio-locative pilgrimage / Site-specific installation",
+  "aliases": [
+   "Tigris River Walk",
+   "Tigris Frequency",
+   "Tigris Pilgrimage"
+  ],
+  "episode": null
+ },
  "Timeline_of_places": {
   "title": "Timeline of places",
   "strand": "concepts",
@@ -24589,6 +24715,16 @@
   ],
   "episode": null
  },
+ "instances_of_the_cycle": {
+  "title": "instances of the cycle",
+  "strand": "concepts",
+  "kind": "Fandom theory & analytical framework",
+  "aliases": [
+   "cycle instances",
+   "recursive instances"
+  ],
+  "episode": null
+ },
  "instant": {
   "title": "instant",
   "strand": "motifs",
@@ -24992,6 +25128,16 @@
   ],
   "episode": null
  },
+ "light_novels_and_Beach_Surgery": {
+  "title": "light novels and Beach Surgery",
+  "strand": "light-novels",
+  "kind": "Adaptation overview and reference",
+  "aliases": [
+   "Light novel adaptations of Beach Surgery",
+   "Beach Surgery light novels"
+  ],
+  "episode": null
+ },
  "lila": {
   "title": "lila",
   "strand": "philosophy",
@@ -25033,6 +25179,17 @@
    "Liturgical structure",
    "The sacred surgery",
    "Liturgy and ritual"
+  ],
+  "episode": null
+ },
+ "long_take": {
+  "title": "long take",
+  "strand": "films",
+  "kind": "Cinema technique essay and filmography",
+  "aliases": [
+   "Long take in Beach Surgery cinema",
+   "Extended shot",
+   "Durational take"
   ],
   "episode": null
  },

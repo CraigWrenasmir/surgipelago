@@ -32,7 +32,7 @@
  {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
   "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
-  "links": 5
+  "links": 6
  },
  {
   "slug": "Zen",
@@ -70,6 +70,11 @@
   "links": 3
  },
  {
+  "slug": "seam",
+  "title": "seam",
+  "links": 3
+ },
+ {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
   "links": 2
@@ -95,13 +100,13 @@
   "links": 2
  },
  {
-  "slug": "The_Plains",
-  "title": "The Plains",
+  "slug": "Durational_performance_and_Beach_Surgery",
+  "title": "Durational performance and Beach Surgery",
   "links": 2
  },
  {
-  "slug": "Syria",
-  "title": "Syria",
+  "slug": "Ghanaian_adaptations_of_Beach_Surgery",
+  "title": "Ghanaian adaptations of Beach Surgery",
   "links": 2
  },
  {
@@ -115,14 +120,9 @@
   "links": 2
  },
  {
-  "slug": "instances_of_the_cycle",
-  "title": "instances of the cycle",
-  "links": 1
- },
- {
-  "slug": "light_novels_and_Beach_Surgery",
-  "title": "light novels and Beach Surgery",
-  "links": 1
+  "slug": "Manga_and_Beach_Surgery",
+  "title": "Manga and Beach Surgery",
+  "links": 2
  },
  {
   "slug": "novels",
@@ -160,11 +160,6 @@
   "links": 1
  },
  {
-  "slug": "Diaspora_studies",
-  "title": "Diaspora studies",
-  "links": 1
- },
- {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -175,28 +170,23 @@
   "links": 1
  },
  {
+  "slug": "Maqam_and_Beach_Surgery",
+  "title": "Maqam and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Archive_Index_Recursive_Pointing_To_Itself_And_Its_Own_Absence",
+  "title": "Archive Index Recursive Pointing To Itself And Its Own Absence",
+  "links": 1
+ },
+ {
+  "slug": "Andinkra_symbols",
+  "title": "Andinkra symbols",
+  "links": 1
+ },
+ {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
-  "links": 1
- },
- {
-  "slug": "Kumasi",
-  "title": "Kumasi",
-  "links": 1
- },
- {
-  "slug": "Katita's_red_kitten_heels",
-  "title": "Katita's red kitten heels",
-  "links": 1
- },
- {
-  "slug": "Highlife_music",
-  "title": "Highlife music",
-  "links": 1
- },
- {
-  "slug": "Fantasy_coffins_and_Beach_Surgery",
-  "title": "Fantasy coffins and Beach Surgery",
   "links": 1
  },
  {
@@ -215,36 +205,6 @@
   "links": 1
  },
  {
-  "slug": "long_take",
-  "title": "long take",
-  "links": 1
- },
- {
-  "slug": "Arabic_cinema",
-  "title": "Arabic cinema",
-  "links": 1
- },
- {
-  "slug": "Tigris",
-  "title": "Tigris",
-  "links": 1
- },
- {
-  "slug": "Euphrates",
-  "title": "Euphrates",
-  "links": 1
- },
- {
-  "slug": "Jordan",
-  "title": "Jordan",
-  "links": 1
- },
- {
-  "slug": "Persian_Ta'zieh_adaptations",
-  "title": "Persian Ta'zieh adaptations",
-  "links": 1
- },
- {
   "slug": "Ifa",
   "title": "Ifa",
   "links": 1
@@ -255,6 +215,11 @@
   "links": 1
  },
  {
+  "slug": "Fashion_and_Beach_Surgery",
+  "title": "Fashion and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -262,6 +227,16 @@
  {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "Ashanti",
+  "title": "Ashanti",
+  "links": 1
+ },
+ {
+  "slug": "Ashanti_culture_and_Beach_Surgery",
+  "title": "Ashanti culture and Beach Surgery",
   "links": 1
  },
  {
@@ -2780,11 +2755,6 @@
   "links": 1
  },
  {
-  "slug": "Durational_performance_and_Beach_Surgery",
-  "title": "Durational performance and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Labour_craft_and_the_Global_South_in_adaptation",
   "title": "Labour, craft, and the Global South in adaptation",
   "links": 1
@@ -3312,6 +3282,11 @@
  {
   "slug": "temptations",
   "title": "temptations",
+  "links": 1
+ },
+ {
+  "slug": "The_Murnane_Interior_Hypothesis",
+  "title": "The Murnane Interior Hypothesis",
   "links": 1
  },
  {
@@ -3870,11 +3845,6 @@
   "links": 1
  },
  {
-  "slug": "Ghanaian_adaptations_of_Beach_Surgery",
-  "title": "Ghanaian adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Chapter_Six_(the_crash)",
   "title": "Chapter Six (the crash)",
   "links": 1
@@ -4355,11 +4325,6 @@
   "links": 1
  },
  {
-  "slug": "seam",
-  "title": "seam",
-  "links": 1
- },
- {
   "slug": "Vulnerability_and_exposure_in_adaptation",
   "title": "Vulnerability and exposure in adaptation",
   "links": 1
@@ -4645,6 +4610,11 @@
   "links": 1
  },
  {
+  "slug": "Krmn",
+  "title": "K\u00e1rm\u00e1n",
+  "links": 1
+ },
+ {
   "slug": "drone_with_instant_photographs",
   "title": "drone with instant photographs",
   "links": 1
@@ -4657,11 +4627,6 @@
  {
   "slug": "Tokyo_Anime_Film_Festival",
   "title": "Tokyo Anime Film Festival",
-  "links": 1
- },
- {
-  "slug": "Manga_and_Beach_Surgery",
-  "title": "Manga and Beach Surgery",
   "links": 1
  },
  {
@@ -5882,6 +5847,21 @@
  {
   "slug": "expanding",
   "title": "expanding",
+  "links": 1
+ },
+ {
+  "slug": "Leif_and_Katita:_The_Cycle_Turns_Inward",
+  "title": "Leif and Katita: The Cycle Turns Inward",
+  "links": 1
+ },
+ {
+  "slug": "Changesheng_de_Linshi",
+  "title": "Changesheng de Linshi",
+  "links": 1
+ },
+ {
+  "slug": "Anime_and_Beach_Surgery",
+  "title": "Anime and Beach Surgery",
   "links": 1
  },
  {
