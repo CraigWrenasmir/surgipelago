@@ -874,6 +874,16 @@
   ],
   "episode": null
  },
+ "Andinkra_symbols": {
+  "title": "Andinkra symbols",
+  "strand": "motifs",
+  "kind": "Visual and symbolic tradition",
+  "aliases": [
+   "Adinkra symbols",
+   "West African textile symbolism"
+  ],
+  "episode": null
+ },
  "Andrzej_uawski": {
   "title": "Andrzej \u017bu\u0142awski",
   "strand": "fan-theories",
@@ -1092,6 +1102,17 @@
   ],
   "episode": null
  },
+ "Archive_Index_Recursive_Pointing_To_Itself_And_Its_Own_Absence": {
+  "title": "Archive Index Recursive Pointing To Itself And Its Own Absence",
+  "strand": "meta",
+  "kind": "Meta-archival philosophy / conceptual apparatus",
+  "aliases": [
+   "The recursive archive",
+   "Surgipelago's self-reference",
+   "The index that indexes itself"
+  ],
+  "episode": null
+ },
  "Archives_and_Reconstruction": {
   "title": "Archives and Reconstruction",
   "strand": "canon",
@@ -1285,6 +1306,26 @@
   "aliases": [
    "Installation art and Beach Surgery",
    "Immersive installation"
+  ],
+  "episode": null
+ },
+ "Ashanti": {
+  "title": "Ashanti",
+  "strand": "motifs",
+  "kind": "Cultural traditions in adaptation",
+  "aliases": [
+   "Ashanti people",
+   "Akan cultural traditions"
+  ],
+  "episode": null
+ },
+ "Ashanti_culture_and_Beach_Surgery": {
+  "title": "Ashanti culture and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Cultural-philosophical framework",
+  "aliases": [
+   "Adinkra and the cycle",
+   "West African philosophy and Beach Surgery"
   ],
   "episode": null
  },
@@ -4112,6 +4153,16 @@
   ],
   "episode": null
  },
+ "Durational_performance_and_Beach_Surgery": {
+  "title": "Durational performance and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Performance form / durational practice",
+  "aliases": [
+   "Long-form performance and Beach Surgery",
+   "Temporal immersion and the cycle"
+  ],
+  "episode": null
+ },
  "Durational_refusal": {
   "title": "Durational refusal",
   "strand": "concepts",
@@ -4800,6 +4851,13 @@
   ],
   "episode": null
  },
+ "Fashion_and_Beach_Surgery": {
+  "title": "Fashion and Beach Surgery",
+  "strand": "fashion",
+  "kind": "Essay / Fashion analysis",
+  "aliases": [],
+  "episode": null
+ },
  "Fatherhood_birth_and_the_caught_descent": {
   "title": "Fatherhood, birth and the caught descent",
   "strand": "motifs",
@@ -5380,6 +5438,16 @@
   "strand": "immersive",
   "kind": "Participatory ceremonial installation",
   "aliases": [],
+  "episode": null
+ },
+ "Ghanaian_adaptations_of_Beach_Surgery": {
+  "title": "Ghanaian adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Regional survey; textile arts, oral traditions, sculpture",
+  "aliases": [
+   "Accra textile collaboratives",
+   "Ghanaian Beach Surgery"
+  ],
   "episode": null
  },
  "Ghanaian_cinema": {
@@ -8134,12 +8202,33 @@
   ],
   "episode": null
  },
+ "Lebanese_adaptations_of_Beach_Surgery": {
+  "title": "Lebanese adaptations of Beach Surgery",
+  "strand": "films",
+  "kind": "Regional survey; experimental cinema and video art",
+  "aliases": [
+   "Cinema of Beirut and Beach Surgery",
+   "Lebanese Beach Surgery"
+  ],
+  "episode": null
+ },
  "Lebanese_cinema": {
   "title": "Lebanese cinema",
   "strand": "films",
   "kind": "Film adaptation",
   "aliases": [
    "Lebanese film adaptation"
+  ],
+  "episode": null
+ },
+ "Lebanese_experimental_cinema": {
+  "title": "Lebanese experimental cinema",
+  "strand": "films",
+  "kind": "Film tradition / experimental cinema",
+  "aliases": [
+   "Lebanese avant-garde film",
+   "Beirut cinema",
+   "Lebanese cinema and Beach Surgery"
   ],
   "episode": null
  },
@@ -8736,6 +8825,16 @@
   ],
   "episode": null
  },
+ "Manga_and_Beach_Surgery": {
+  "title": "Manga and Beach Surgery",
+  "strand": "manga",
+  "kind": "Visual narrative form / manga adaptations",
+  "aliases": [
+   "Manga adaptations of Beach Surgery",
+   "Sequential art and the cycle"
+  ],
+  "episode": null
+ },
  "Manila": {
   "title": "Manila",
   "strand": "concepts",
@@ -8755,6 +8854,13 @@
    "Manuscript cycles",
    "Illuminated and visual-poetic adaptation"
   ],
+  "episode": null
+ },
+ "Maqam_and_Beach_Surgery": {
+  "title": "Maqam and Beach Surgery",
+  "strand": "music",
+  "kind": "Music and narrative analysis",
+  "aliases": [],
   "episode": null
  },
  "Maranho": {
@@ -13338,6 +13444,16 @@
    "Ta'z\u012byeh",
    "Persian passion play",
    "Ta'zieh and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Ta'zieh_and_shadow-puppet_traditions": {
+  "title": "Ta'zieh and shadow-puppet traditions",
+  "strand": "concepts",
+  "kind": "Theatrical traditions and metaphors",
+  "aliases": [
+   "Shadow-puppet and cyclic ritual",
+   "Ta'zieh in Beach Surgery"
   ],
   "episode": null
  },
@@ -26753,6 +26869,17 @@
    "mechanical seagull",
    "the seagull",
    "the giant seagull"
+  ],
+  "episode": null
+ },
+ "seam": {
+  "title": "seam",
+  "strand": "concepts",
+  "kind": "Concept / motif article",
+  "aliases": [
+   "the seam",
+   "the unjoined link",
+   "narrative seam"
   ],
   "episode": null
  },

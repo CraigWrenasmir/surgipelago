@@ -25,13 +25,13 @@
   "links": 9
  },
  {
-  "slug": "0",
-  "title": "\u00000\u0000",
-  "links": 6
- },
- {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
   "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
+  "links": 7
+ },
+ {
+  "slug": "0",
+  "title": "\u00000\u0000",
   "links": 6
  },
  {
@@ -70,11 +70,6 @@
   "links": 3
  },
  {
-  "slug": "seam",
-  "title": "seam",
-  "links": 3
- },
- {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
   "links": 2
@@ -100,16 +95,6 @@
   "links": 2
  },
  {
-  "slug": "Durational_performance_and_Beach_Surgery",
-  "title": "Durational performance and Beach Surgery",
-  "links": 2
- },
- {
-  "slug": "Ghanaian_adaptations_of_Beach_Surgery",
-  "title": "Ghanaian adaptations of Beach Surgery",
-  "links": 2
- },
- {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -117,11 +102,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "Manga_and_Beach_Surgery",
-  "title": "Manga and Beach Surgery",
   "links": 2
  },
  {
@@ -137,6 +117,36 @@
  {
   "slug": "ARG",
   "title": "ARG",
+  "links": 1
+ },
+ {
+  "slug": "recursive_canon",
+  "title": "recursive canon",
+  "links": 1
+ },
+ {
+  "slug": "The_Encyclopedia_as_Unfinished_Seventh_Half",
+  "title": "The Encyclopedia as Unfinished Seventh Half",
+  "links": 1
+ },
+ {
+  "slug": "participatory_theatre_and_LARP",
+  "title": "participatory theatre and LARP",
+  "links": 1
+ },
+ {
+  "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
+  "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
+  "links": 1
+ },
+ {
+  "slug": "Highlife_and_Beach_Surgery",
+  "title": "Highlife and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Accra_Textile_Collaborative",
+  "title": "Accra Textile Collaborative",
   "links": 1
  },
  {
@@ -170,23 +180,23 @@
   "links": 1
  },
  {
-  "slug": "Maqam_and_Beach_Surgery",
-  "title": "Maqam and Beach Surgery",
+  "slug": "Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
+  "title": "Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
   "links": 1
  },
  {
-  "slug": "Archive_Index_Recursive_Pointing_To_Itself_And_Its_Own_Absence",
-  "title": "Archive Index Recursive Pointing To Itself And Its Own Absence",
-  "links": 1
- },
- {
-  "slug": "Andinkra_symbols",
-  "title": "Andinkra symbols",
+  "slug": "The_Mechanical_Seagull_SeriesGashapon_Blind-Box_Figurines",
+  "title": "The Mechanical Seagull Series\u2014Gashapon Blind-Box Figurines",
   "links": 1
  },
  {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "identical",
+  "title": "identical",
   "links": 1
  },
  {
@@ -215,11 +225,6 @@
   "links": 1
  },
  {
-  "slug": "Fashion_and_Beach_Surgery",
-  "title": "Fashion and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -230,28 +235,43 @@
   "links": 1
  },
  {
-  "slug": "Ashanti",
-  "title": "Ashanti",
+  "slug": "palimpsest",
+  "title": "palimpsest",
   "links": 1
  },
  {
-  "slug": "Ashanti_culture_and_Beach_Surgery",
-  "title": "Ashanti culture and Beach Surgery",
+  "slug": "Frequencies_the_Flesh_RefusesA_Binaural_Olfactory_Installation_(Tel_Aviv_2024present)",
+  "title": "Frequencies the Flesh Refuses\u2014A Binaural + Olfactory Installation (Tel Aviv, 2024\u2013present)",
   "links": 1
  },
  {
-  "slug": "Lebanese_experimental_cinema",
-  "title": "Lebanese experimental cinema",
+  "slug": "Arabic_cinema_and_Beach_Surgery",
+  "title": "Arabic cinema and Beach Surgery",
   "links": 1
  },
  {
-  "slug": "Lebanese_adaptations_of_Beach_Surgery",
-  "title": "Lebanese adaptations of Beach Surgery",
+  "slug": "Frequencies_the_Flesh_RefusesA_Binaural_Olfactory_Installation",
+  "title": "Frequencies the Flesh Refuses\u2014A Binaural + Olfactory Installation",
   "links": 1
  },
  {
-  "slug": "Ta'zieh_and_shadow-puppet_traditions",
-  "title": "Ta'zieh and shadow-puppet traditions",
+  "slug": "The_apartment_(volume)",
+  "title": "The apartment (volume)",
+  "links": 1
+ },
+ {
+  "slug": "Der_Flgel_die_Chirurgie:_A_Phenomenological_Performance",
+  "title": "Der Fl\u00fcgel, die Chirurgie: A Phenomenological Performance",
+  "links": 1
+ },
+ {
+  "slug": "Long-take_cinema_and_narrative_refusal",
+  "title": "Long-take cinema and narrative refusal",
+  "links": 1
+ },
+ {
+  "slug": "Chantal_Akerman_and_autofiction",
+  "title": "Chantal Akerman and autofiction",
   "links": 1
  },
  {
@@ -267,6 +287,11 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
+  "links": 1
+ },
+ {
+  "slug": "qarar",
+  "title": "qarar",
   "links": 1
  },
  {
@@ -1397,6 +1422,11 @@
  {
   "slug": "The_Coloring_of_Information_in_Smith's_Recursive_Method",
   "title": "The Coloring of Information in Smith's Recursive Method",
+  "links": 1
+ },
+ {
+  "slug": "Imam_Husayn",
+  "title": "Imam Husayn",
   "links": 1
  },
  {
@@ -4820,11 +4850,6 @@
   "links": 1
  },
  {
-  "slug": "Manga_adaptations_of_Beach_Surgery",
-  "title": "Manga adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "disputed_pre-2020_apocrypha",
   "title": "disputed pre-2020 apocrypha",
   "links": 1
@@ -6297,6 +6322,16 @@
  {
   "slug": "Seagull_adaptations",
   "title": "Seagull adaptations",
+  "links": 1
+ },
+ {
+  "slug": "conceptual_art",
+  "title": "conceptual art",
+  "links": 1
+ },
+ {
+  "slug": "The_Negative_Space_Between_Halves",
+  "title": "The Negative Space Between Halves",
   "links": 1
  },
  {
