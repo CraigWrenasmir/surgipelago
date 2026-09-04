@@ -285,6 +285,16 @@
   ],
   "episode": null
  },
+ "Accra_Textile_Collaborative": {
+  "title": "Accra Textile Collaborative",
+  "strand": "architecture",
+  "kind": "Textile collective, participatory weaving installation",
+  "aliases": [
+   "Accra Kente Circle",
+   "The Doubled-Thread Collective"
+  ],
+  "episode": null
+ },
  "Accra_adaptations_of_Beach_Surgery": {
   "title": "Accra adaptations of Beach Surgery",
   "strand": "adaptations",
@@ -1057,6 +1067,16 @@
    "Arab cinema adaptations",
    "Arabic-language cinema",
    "Cinema in Arabic"
+  ],
+  "episode": null
+ },
+ "Arabic_cinema_and_Beach_Surgery": {
+  "title": "Arabic cinema and Beach Surgery",
+  "strand": "films",
+  "kind": "Critical overview / Thematic essay",
+  "aliases": [
+   "Arab cinema adaptations",
+   "Arabic-language adaptations"
   ],
   "episode": null
  },
@@ -5108,6 +5128,25 @@
   "aliases": [],
   "episode": 202
  },
+ "Frequencies_the_Flesh_RefusesA_Binaural_Olfactory_Installation": {
+  "title": "Frequencies the Flesh Refuses\u2014A Binaural + Olfactory Installation",
+  "strand": "immersive",
+  "kind": "Immersive installation",
+  "aliases": [
+   "Flesh Refuses (installation)"
+  ],
+  "episode": null
+ },
+ "Frequencies_the_Flesh_RefusesA_Binaural_Olfactory_Installation_(Tel_Aviv_2024present)": {
+  "title": "Frequencies the Flesh Refuses\u2014A Binaural + Olfactory Installation (Tel Aviv, 2024\u2013present)",
+  "strand": "immersive",
+  "kind": "Binaural + olfactory audio-scent installation",
+  "aliases": [
+   "Frequencies the Flesh Refuses (Tel Aviv)",
+   "The Tel Aviv Frequency Vigil"
+  ],
+  "episode": null
+ },
  "Frequencies_the_Mechanic_Cannot_Hear": {
   "title": "Frequencies the Mechanic Cannot Hear",
   "strand": "anime",
@@ -5920,6 +5959,16 @@
   "aliases": [
    "Highlife adaptations",
    "Highlife music and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Highlife_and_Beach_Surgery": {
+  "title": "Highlife and Beach Surgery",
+  "strand": "music",
+  "kind": "Music genre and cultural adaptation strand",
+  "aliases": [
+   "Highlife adaptations",
+   "West African music and the cycle"
   ],
   "episode": null
  },
@@ -8619,6 +8668,16 @@
   ],
   "episode": null
  },
+ "Long-take_cinema_and_narrative_refusal": {
+  "title": "Long-take cinema and narrative refusal",
+  "strand": "philosophy",
+  "kind": "Critical essay / Aesthetic analysis",
+  "aliases": [
+   "Duration as refusal",
+   "The uncut and the glitch"
+  ],
+  "episode": null
+ },
  "Loop-based_cinema": {
   "title": "Loop-based cinema",
   "strand": "films",
@@ -10445,6 +10504,17 @@
   "strand": "theses",
   "kind": "Thesis / paper",
   "aliases": [],
+  "episode": null
+ },
+ "Participatory_theatre_and_LARP": {
+  "title": "Participatory theatre and LARP",
+  "strand": "concepts",
+  "kind": "Conceptual methodology article",
+  "aliases": [
+   "Participatory lived adaptation",
+   "LARP and the franchise",
+   "Durational participation"
+  ],
   "episode": null
  },
  "Pastoral_Scanlines": {
@@ -15370,6 +15440,17 @@
   ],
   "episode": null
  },
+ "The_Encyclopedia_as_Unfinished_Seventh_Half": {
+  "title": "The Encyclopedia as Unfinished Seventh Half",
+  "strand": "meta",
+  "kind": "Concept / Archival theory",
+  "aliases": [
+   "Surgipelago as recursive canon",
+   "The seventh half hypothesis",
+   "The Surgipelago Hypothesis"
+  ],
+  "episode": null
+ },
  "The_Encyclopedia_as_Unfinished_Seventh_Half_(Essay_2023)": {
   "title": "The Encyclopedia as Unfinished Seventh Half (Essay, 2023)",
   "strand": "concepts",
@@ -17220,6 +17301,16 @@
   "aliases": [
    "Mechanical Seagull gashapon",
    "The Tokyo seagull series"
+  ],
+  "episode": null
+ },
+ "The_Mechanical_Seagull_SeriesGashapon_Blind-Box_Figurines": {
+  "title": "The Mechanical Seagull Series\u2014Gashapon Blind-Box Figurines",
+  "strand": "merch",
+  "kind": "Bootleg figurine collection",
+  "aliases": [
+   "Mechanical Seagull Gashapon",
+   "The Seagull Capsule Series"
   ],
   "episode": null
  },
@@ -20578,6 +20669,16 @@
   "strand": "canon",
   "kind": "Location / canonical place",
   "aliases": [],
+  "episode": null
+ },
+ "The_apartment_(volume)": {
+  "title": "The apartment (volume)",
+  "strand": "manga",
+  "kind": "Manga and watercolour collection",
+  "aliases": [
+   "The Rooftop and the Wire (collected)",
+   "R\u014dzin/Sat\u014d apartment suite"
+  ],
   "episode": null
  },
  "The_autonomous_diesel_data-harvesters": {
@@ -24699,6 +24800,16 @@
   ],
   "episode": null
  },
+ "identical": {
+  "title": "identical",
+  "strand": "concepts",
+  "kind": "Concept / Motif entry",
+  "aliases": [
+   "identity in recurrence",
+   "the identical loop"
+  ],
+  "episode": null
+ },
  "identity_recursion": {
   "title": "identity recursion",
   "strand": "fan-theories",
@@ -26100,6 +26211,17 @@
   ],
   "episode": null
  },
+ "palimpsest": {
+  "title": "palimpsest",
+  "strand": "motifs",
+  "kind": "Aesthetic and structural principle",
+  "aliases": [
+   "layering (concept)",
+   "the overwriting",
+   "palimpsestic structure"
+  ],
+  "episode": null
+ },
  "pansori": {
   "title": "pansori",
   "strand": "music",
@@ -26492,6 +26614,17 @@
    "The nine rasas",
    "Aesthetic flavour",
    "Emotional essence in art"
+  ],
+  "episode": null
+ },
+ "recursive_canon": {
+  "title": "recursive canon",
+  "strand": "canon",
+  "kind": "Canonical principle",
+  "aliases": [
+   "recursion (concept)",
+   "instruments of return",
+   "the recurrence doctrine"
   ],
   "episode": null
  },
