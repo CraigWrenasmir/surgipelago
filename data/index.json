@@ -2185,6 +2185,17 @@
   ],
   "episode": null
  },
+ "Bootleg_culture": {
+  "title": "Bootleg culture",
+  "strand": "meta",
+  "kind": "Concept / fan culture analysis",
+  "aliases": [
+   "Bootleg distribution",
+   "Unlicensed adaptations",
+   "Anti-official circulation"
+  ],
+  "episode": null
+ },
  "Bootleg_culture_and_Beach_Surgery": {
   "title": "Bootleg culture and Beach Surgery",
   "strand": "concepts",
@@ -2758,6 +2769,13 @@
    "Belgian experimental cinema",
    "Jeanne Dielman"
   ],
+  "episode": null
+ },
+ "Chantal_Akerman_and_autofiction": {
+  "title": "Chantal Akerman and autofiction",
+  "strand": "philosophy",
+  "kind": "Scholarly essay / Theoretical framework",
+  "aliases": [],
   "episode": null
  },
  "Chao_Phraya": {
@@ -4445,6 +4463,17 @@
   ],
   "episode": null
  },
+ "Egyptian_radio_serial": {
+  "title": "Egyptian radio serial",
+  "strand": "audio-drama",
+  "kind": "Radio serial (Egyptian, 1989\u20132014)",
+  "aliases": [
+   "Sawt al-Ardh",
+   "Egyptian Radio adaptations",
+   "All-Egypt Radio cycle"
+  ],
+  "episode": null
+ },
  "Egyptian_radio_serials": {
   "title": "Egyptian radio serials",
   "strand": "audio-drama",
@@ -4525,6 +4554,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 13
+ },
+ "Enamel_pin": {
+  "title": "Enamel pin",
+  "strand": "merch",
+  "kind": "Collectible merchandise series (unlicensed)",
+  "aliases": [
+   "Beach Surgery enamel pin",
+   "Pin collectible",
+   "Street-market enamel series"
+  ],
+  "episode": null
  },
  "English_language": {
   "title": "English language",
@@ -9599,6 +9639,16 @@
   ],
   "episode": null
  },
+ "Music_and_the_cycle": {
+  "title": "Music and the cycle",
+  "strand": "music",
+  "kind": "Concept / thematic essay",
+  "aliases": [
+   "Musicology of the cycle",
+   "Frequency and eternal return in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Music_in_adaptation": {
   "title": "Music in adaptation",
   "strand": "music",
@@ -9700,6 +9750,13 @@
   "title": "Narrabri",
   "strand": "gazetteer",
   "kind": "Real location",
+  "aliases": [],
+  "episode": null
+ },
+ "Narrative_structure_and_refusal": {
+  "title": "Narrative structure and refusal",
+  "strand": "philosophy",
+  "kind": "Theoretical essay / Concept",
   "aliases": [],
   "episode": null
  },
@@ -24754,6 +24811,17 @@
   ],
   "episode": null
  },
+ "human_spine": {
+  "title": "human spine",
+  "strand": "motifs",
+  "kind": "Physiological motif / sonic concept",
+  "aliases": [
+   "spine resonance",
+   "the resonance of the human spine",
+   "the high-pitched resonance of the human spine"
+  ],
+  "episode": null
+ },
  "human_spine_resonance": {
   "title": "human spine resonance",
   "strand": "canon",
@@ -25925,6 +25993,16 @@
   "aliases": [],
   "episode": null
  },
+ "narrative_refusal": {
+  "title": "narrative refusal",
+  "strand": "concepts",
+  "kind": "Conceptual essay / critical framework",
+  "aliases": [
+   "refusal as narrative principle",
+   "the doctrine of incomplete telling"
+  ],
+  "episode": null
+ },
  "narrative_sculpture": {
   "title": "narrative sculpture",
   "strand": "immersive",
@@ -26511,6 +26589,17 @@
   "aliases": [
    "Puppet theatre adaptations",
    "Shadow-puppet traditions and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "qarar": {
+  "title": "qarar",
+  "strand": "theatre",
+  "kind": "Experimental installation / sound theatre",
+  "aliases": [
+   "Qarar (Lebanese multimedia work)",
+   "The Decree of Refusal",
+   "\u0642\u0631\u0627\u0631"
   ],
   "episode": null
  },
@@ -27262,6 +27351,16 @@
   ],
   "episode": null
  },
+ "sound_the_earth_makes_at_the_boundary_of_space": {
+  "title": "sound the earth makes at the boundary of space",
+  "strand": "music",
+  "kind": "Binaural audio + olfactory installation",
+  "aliases": [
+   "K\u00e1rm\u00e1n Breath",
+   "The Earth's Frequency"
+  ],
+  "episode": null
+ },
  "spinal_resonance": {
   "title": "spinal resonance",
   "strand": "canon",
@@ -27480,6 +27579,13 @@
    "The stone pool",
    "The harbor passage"
   ],
+  "episode": null
+ },
+ "synesthesia": {
+  "title": "synesthesia",
+  "strand": "motifs",
+  "kind": "Motif / Concept",
+  "aliases": [],
   "episode": null
  },
  "synthesis": {
