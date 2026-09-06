@@ -3162,6 +3162,17 @@
   "aliases": [],
   "episode": null
  },
+ "Classical_dance_and_Beach_Surgery": {
+  "title": "Classical dance and Beach Surgery",
+  "strand": "dance",
+  "kind": "Survey article",
+  "aliases": [
+   "classical dance adaptations",
+   "Dance adaptations of Beach Surgery",
+   "Rasa and the Glitch"
+  ],
+  "episode": null
+ },
  "Clay_and_terracotta_traditions_in_Beach_Surgery": {
   "title": "Clay and terracotta traditions in Beach Surgery",
   "strand": "motifs",
@@ -4179,6 +4190,17 @@
   ],
   "episode": null
  },
+ "Durational_cinema_and_Beach_Surgery": {
+  "title": "Durational cinema and Beach Surgery",
+  "strand": "films",
+  "kind": "Critical essay / cinema movement",
+  "aliases": [
+   "long-take adaptation",
+   "slow cinema and Beach Surgery",
+   "real-time cinema"
+  ],
+  "episode": null
+ },
  "Durational_performance": {
   "title": "Durational performance",
   "strand": "performance",
@@ -4534,6 +4556,17 @@
   "aliases": [
    "Elder (Kathakali)",
    "Guruswamy"
+  ],
+  "episode": null
+ },
+ "Eleven-Centimetre_Leif_Action_Figure_Series": {
+  "title": "Eleven-Centimetre Leif Action Figure Series",
+  "strand": "merch",
+  "kind": "Collectible action figure series",
+  "aliases": [
+   "Eleven-Centimetre Leif",
+   "Leif 11cm",
+   "Leif bootleg figures"
   ],
   "episode": null
  },
@@ -5221,6 +5254,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 147
+ },
+ "Frequencies_the_Spine_RefusesA_Binaural_Olfactory_Installation": {
+  "title": "Frequencies the Spine Refuses\u2014A Binaural + Olfactory Installation",
+  "strand": "immersive",
+  "kind": "Durational sensory installation",
+  "aliases": [
+   "Frequencies the Spine Refuses",
+   "The Spine Refuses Installation"
+  ],
+  "episode": null
  },
  "Frequencies_the_Spine_RefusesA_Binaural_Olfactory_Installation_(Tel_Aviv_2024present)": {
   "title": "Frequencies the Spine Refuses\u2014A Binaural + Olfactory Installation (Tel Aviv, 2024\u2013present)",
@@ -11297,6 +11340,17 @@
   ],
   "episode": null
  },
+ "Radio_and_Beach_Surgery": {
+  "title": "Radio and Beach Surgery",
+  "strand": "motifs",
+  "kind": "Motif / Media concept",
+  "aliases": [
+   "Frequency in Beach Surgery",
+   "Radio as threshold",
+   "Broadcast and return"
+  ],
+  "episode": null
+ },
  "Radio_and_pirate_broadcast": {
   "title": "Radio and pirate broadcast",
   "strand": "concepts",
@@ -11930,6 +11984,17 @@
   "aliases": [
    "Surgery and sacred tradition",
    "Religious adaptation of the metaphor"
+  ],
+  "episode": null
+ },
+ "Sacred_incompleteness_and_the_doctrine_of_refusal": {
+  "title": "Sacred incompleteness and the doctrine of refusal",
+  "strand": "concepts",
+  "kind": "Philosophical/theological glossary entry",
+  "aliases": [
+   "Refusal theology",
+   "Sacred incompleteness",
+   "The doctrine of refusal"
   ],
   "episode": null
  },
@@ -21972,6 +22037,17 @@
   "aliases": [],
   "episode": null
  },
+ "Vishnu": {
+  "title": "Vishnu",
+  "strand": "philosophy",
+  "kind": "Theological / philosophical concept",
+  "aliases": [
+   "Vishnu in Beach Surgery adaptations",
+   "The preserver and the cycle",
+   "Avatar theology and return"
+  ],
+  "episode": null
+ },
  "Visual_adaptation_cycles": {
   "title": "Visual adaptation cycles",
   "strand": "concepts",
@@ -22675,6 +22751,18 @@
    "adaptive finishing",
    "the adaptation problem",
    "attempted resolution"
+  ],
+  "episode": null
+ },
+ "adaptation_is_covenant": {
+  "title": "adaptation is covenant",
+  "strand": "concepts",
+  "kind": "Philosophical / theological essay",
+  "aliases": [
+   "adaptation as covenant",
+   "The Covenant of Adaptation",
+   "adaptation and sacred incompleteness",
+   "faithfulness to the glitch"
   ],
   "episode": null
  },
@@ -24148,6 +24236,17 @@
    "nested story",
    "frame narrative",
    "Rico's tale"
+  ],
+  "episode": null
+ },
+ "empire": {
+  "title": "empire",
+  "strand": "motifs",
+  "kind": "Motif / concept article",
+  "aliases": [
+   "imperialism in Beach Surgery",
+   "colonialism and Beach Surgery",
+   "the empire motif"
   ],
   "episode": null
  },
@@ -26354,6 +26453,16 @@
   "strand": "immersive",
   "kind": "Participatory and audience-activated adaptation form",
   "aliases": [],
+  "episode": null
+ },
+ "participatory_merch": {
+  "title": "participatory merch",
+  "strand": "merch",
+  "kind": "Conceptual essay",
+  "aliases": [
+   "co-authored merchandise",
+   "participatory merchandise cycles"
+  ],
   "episode": null
  },
  "performance_art": {

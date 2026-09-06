@@ -35,13 +35,13 @@
   "links": 6
  },
  {
-  "slug": "Zen",
-  "title": "Zen",
-  "links": 4
- },
- {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
   "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
+  "links": 5
+ },
+ {
+  "slug": "Zen",
+  "title": "Zen",
   "links": 4
  },
  {
@@ -90,13 +90,18 @@
   "links": 2
  },
  {
-  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
-  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
+  "slug": "story",
+  "title": "story",
   "links": 2
  },
  {
-  "slug": "Frequencies_the_Spine_RefusesA_Binaural_Olfactory_Installation",
-  "title": "Frequencies the Spine Refuses\u2014A Binaural + Olfactory Installation",
+  "slug": "spine",
+  "title": "spine",
+  "links": 2
+ },
+ {
+  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
   "links": 2
  },
  {
@@ -140,13 +145,13 @@
   "links": 1
  },
  {
-  "slug": "Durational_cinema_and_Beach_Surgery",
-  "title": "Durational cinema and Beach Surgery",
+  "slug": "Autofiction_in_adaptation",
+  "title": "Autofiction in adaptation",
   "links": 1
  },
  {
-  "slug": "Autofiction_in_adaptation",
-  "title": "Autofiction in adaptation",
+  "slug": "Georgia",
+  "title": "Georgia",
   "links": 1
  },
  {
@@ -160,8 +165,23 @@
   "links": 1
  },
  {
-  "slug": "Radio_and_Beach_Surgery",
-  "title": "Radio and Beach Surgery",
+  "slug": "durational_cinema",
+  "title": "durational cinema",
+  "links": 1
+ },
+ {
+  "slug": "slow_cinema",
+  "title": "slow cinema",
+  "links": 1
+ },
+ {
+  "slug": "long-take_cinema",
+  "title": "long-take cinema",
+  "links": 1
+ },
+ {
+  "slug": "Fashion_and_merch_in_Beach_Surgery",
+  "title": "Fashion and merch in Beach Surgery",
   "links": 1
  },
  {
@@ -182,6 +202,16 @@
  {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "dissolution",
+  "title": "dissolution",
+  "links": 1
+ },
+ {
+  "slug": "Frequencies_and_Beach_Surgery",
+  "title": "Frequencies and Beach Surgery",
   "links": 1
  },
  {
@@ -237,41 +267,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "participatory_merch",
-  "title": "participatory merch",
-  "links": 1
- },
- {
-  "slug": "adaptation_is_covenant",
-  "title": "adaptation is covenant",
-  "links": 1
- },
- {
-  "slug": "Eleven-Centimetre_Leif_Action_Figure_Series",
-  "title": "Eleven-Centimetre Leif Action Figure Series",
-  "links": 1
- },
- {
-  "slug": "empire",
-  "title": "empire",
-  "links": 1
- },
- {
-  "slug": "Sacred_incompleteness_and_the_doctrine_of_refusal",
-  "title": "Sacred incompleteness and the doctrine of refusal",
-  "links": 1
- },
- {
-  "slug": "Vishnu",
-  "title": "Vishnu",
-  "links": 1
- },
- {
-  "slug": "Classical_dance_and_Beach_Surgery",
-  "title": "Classical dance and Beach Surgery",
   "links": 1
  },
  {
@@ -2247,11 +2242,6 @@
  {
   "slug": "The_cabin_(location)",
   "title": "The cabin (location)",
-  "links": 1
- },
- {
-  "slug": "spine",
-  "title": "spine",
   "links": 1
  },
  {
@@ -4780,6 +4770,21 @@
   "links": 1
  },
  {
+  "slug": "avatar",
+  "title": "avatar",
+  "links": 1
+ },
+ {
+  "slug": "tamas",
+  "title": "tamas",
+  "links": 1
+ },
+ {
+  "slug": "Lila_(concept)",
+  "title": "Lila (concept)",
+  "links": 1
+ },
+ {
   "slug": "contradiction",
   "title": "contradiction",
   "links": 1
@@ -6102,6 +6107,11 @@
  {
   "slug": "Gwangju",
   "title": "Gwangju",
+  "links": 1
+ },
+ {
+  "slug": "infinite_recurrence",
+  "title": "infinite recurrence",
   "links": 1
  },
  {
