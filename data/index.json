@@ -1564,6 +1564,13 @@
   ],
   "episode": null
  },
+ "Autofiction_in_adaptation": {
+  "title": "Autofiction in adaptation",
+  "strand": "meta",
+  "kind": "Critical essay",
+  "aliases": [],
+  "episode": null
+ },
  "Autonomous_diesel_data-harvesters": {
   "title": "Autonomous diesel data-harvesters",
   "strand": "canon",
@@ -4951,6 +4958,17 @@
   "aliases": [],
   "episode": null
  },
+ "Fashion_and_merch_in_Beach_Surgery": {
+  "title": "Fashion and merch in Beach Surgery",
+  "strand": "merch",
+  "kind": "Merchandise overview / costume design",
+  "aliases": [
+   "Beach Surgery fashion",
+   "collectibles",
+   "wearable adaptations"
+  ],
+  "episode": null
+ },
  "Fatherhood_birth_and_the_caught_descent": {
   "title": "Fatherhood, birth and the caught descent",
   "strand": "motifs",
@@ -5194,6 +5212,17 @@
   ],
   "episode": 77
  },
+ "Frequencies_and_Beach_Surgery": {
+  "title": "Frequencies and Beach Surgery",
+  "strand": "motifs",
+  "kind": "Concept / thematic motif",
+  "aliases": [
+   "Frequency motif",
+   "The frequencies",
+   "Karman resonance"
+  ],
+  "episode": null
+ },
  "Frequencies_the_Flesh_Refuses": {
   "title": "Frequencies the Flesh Refuses",
   "strand": "anime",
@@ -5433,6 +5462,17 @@
   "strand": "philosophy",
   "kind": "Critical Essay",
   "aliases": [],
+  "episode": null
+ },
+ "Georgia": {
+  "title": "Georgia",
+  "strand": "concepts",
+  "kind": "Regional context / cultural adaptation site",
+  "aliases": [
+   "Georgian Beach Surgery",
+   "Tbilisi adaptations",
+   "Georgian Orthodox readings"
+  ],
   "episode": null
  },
  "Georgia_(country)": {
@@ -24075,6 +24115,17 @@
   ],
   "episode": null
  },
+ "dissolution": {
+  "title": "dissolution",
+  "strand": "concepts",
+  "kind": "Motif / narrative technique",
+  "aliases": [
+   "The dissolve",
+   "Boundary dissolution",
+   "Narrative dissolution"
+  ],
+  "episode": null
+ },
  "djinn": {
   "title": "djinn",
   "strand": "philosophy",
@@ -24184,6 +24235,17 @@
   "aliases": [
    "Dukkha in Beach Surgery",
    "Unsatisfactoriness"
+  ],
+  "episode": null
+ },
+ "durational_cinema": {
+  "title": "durational cinema",
+  "strand": "films",
+  "kind": "Conceptual film movement",
+  "aliases": [
+   "long-take Beach Surgery",
+   "durational adaptations",
+   "film time and the cycle"
   ],
   "episode": null
  },
@@ -25574,6 +25636,13 @@
    "The sacred surgery",
    "Liturgy and ritual"
   ],
+  "episode": null
+ },
+ "long-take_cinema": {
+  "title": "long-take cinema",
+  "strand": "films",
+  "kind": "Film adaptation / technique essay",
+  "aliases": [],
   "episode": null
  },
  "long_take": {
@@ -27417,6 +27486,17 @@
   ],
   "episode": null
  },
+ "slow_cinema": {
+  "title": "slow cinema",
+  "strand": "films",
+  "kind": "Cinema movement / adaptation strategy",
+  "aliases": [
+   "Long-form cinema",
+   "Durational cinema and Beach Surgery",
+   "Slow-film adaptations"
+  ],
+  "episode": null
+ },
  "solar-punk": {
   "title": "solar-punk",
   "strand": "canon",
@@ -27481,6 +27561,17 @@
   ],
   "episode": null
  },
+ "spine": {
+  "title": "spine",
+  "strand": "motifs",
+  "kind": "Motif / cosmological resonance",
+  "aliases": [
+   "human spine",
+   "spinal frequency",
+   "the high-pitched resonance"
+  ],
+  "episode": null
+ },
  "spiral": {
   "title": "spiral",
   "strand": "canon",
@@ -27508,6 +27599,13 @@
    "Bolton Street stairwell",
    "the stairwell escape"
   ],
+  "episode": null
+ },
+ "story": {
+  "title": "story",
+  "strand": "canon",
+  "kind": "Canon article",
+  "aliases": [],
   "episode": null
  },
  "storytelling": {

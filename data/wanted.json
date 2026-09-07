@@ -90,13 +90,8 @@
   "links": 2
  },
  {
-  "slug": "story",
-  "title": "story",
-  "links": 2
- },
- {
-  "slug": "spine",
-  "title": "spine",
+  "slug": "Georgian_Orthodox",
+  "title": "Georgian Orthodox",
   "links": 2
  },
  {
@@ -112,6 +107,21 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "The_Reversal_VigilA_Nocturnal_Participatory_Rite_of_Refusal",
+  "title": "The Reversal Vigil\u2014A Nocturnal Participatory Rite of Refusal",
+  "links": 2
+ },
+ {
+  "slug": "identity",
+  "title": "identity",
+  "links": 2
+ },
+ {
+  "slug": "Polish_film",
+  "title": "Polish film",
   "links": 2
  },
  {
@@ -145,16 +155,6 @@
   "links": 1
  },
  {
-  "slug": "Autofiction_in_adaptation",
-  "title": "Autofiction in adaptation",
-  "links": 1
- },
- {
-  "slug": "Georgia",
-  "title": "Georgia",
-  "links": 1
- },
- {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -162,26 +162,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 1
- },
- {
-  "slug": "durational_cinema",
-  "title": "durational cinema",
-  "links": 1
- },
- {
-  "slug": "slow_cinema",
-  "title": "slow cinema",
-  "links": 1
- },
- {
-  "slug": "long-take_cinema",
-  "title": "long-take cinema",
-  "links": 1
- },
- {
-  "slug": "Fashion_and_merch_in_Beach_Surgery",
-  "title": "Fashion and merch in Beach Surgery",
   "links": 1
  },
  {
@@ -200,18 +180,33 @@
   "links": 1
  },
  {
+  "slug": "The_Pacemaker_Pulse_Figurine_Series",
+  "title": "The Pacemaker Pulse Figurine Series",
+  "links": 1
+ },
+ {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
   "links": 1
  },
  {
-  "slug": "dissolution",
-  "title": "dissolution",
+  "slug": "Radio_plays",
+  "title": "Radio plays",
   "links": 1
  },
  {
-  "slug": "Frequencies_and_Beach_Surgery",
-  "title": "Frequencies and Beach Surgery",
+  "slug": "Indian",
+  "title": "Indian",
+  "links": 1
+ },
+ {
+  "slug": "Georgian_Orthodox_Apostolic_Church",
+  "title": "Georgian Orthodox Apostolic Church",
+  "links": 1
+ },
+ {
+  "slug": "cycling",
+  "title": "cycling",
   "links": 1
  },
  {
@@ -1417,11 +1412,6 @@
  {
   "slug": "Shahzadeh",
   "title": "Shahzadeh",
-  "links": 1
- },
- {
-  "slug": "Georgian_Orthodox",
-  "title": "Georgian Orthodox",
   "links": 1
  },
  {
@@ -4060,11 +4050,6 @@
   "links": 1
  },
  {
-  "slug": "The_Reversal_VigilA_Nocturnal_Participatory_Rite_of_Refusal",
-  "title": "The Reversal Vigil\u2014A Nocturnal Participatory Rite of Refusal",
-  "links": 1
- },
- {
   "slug": "Adaptations_that_refuse_the_loop",
   "title": "Adaptations that refuse the loop",
   "links": 1
@@ -4390,11 +4375,6 @@
   "links": 1
  },
  {
-  "slug": "identity",
-  "title": "identity",
-  "links": 1
- },
- {
   "slug": "Textile_traditions",
   "title": "Textile traditions",
   "links": 1
@@ -4692,11 +4672,6 @@
  {
   "slug": "leather_counting",
   "title": "leather counting",
-  "links": 1
- },
- {
-  "slug": "Polish_film",
-  "title": "Polish film",
   "links": 1
  },
  {
@@ -5422,6 +5397,11 @@
  {
   "slug": "neurodiversity",
   "title": "neurodiversity",
+  "links": 1
+ },
+ {
+  "slug": "The_Cascade_Vigil",
+  "title": "The Cascade Vigil",
   "links": 1
  },
  {
@@ -6307,6 +6287,26 @@
  {
   "slug": "core_narrative",
   "title": "core narrative",
+  "links": 1
+ },
+ {
+  "slug": "duration",
+  "title": "duration",
+  "links": 1
+ },
+ {
+  "slug": "temporal_refusal",
+  "title": "temporal refusal",
+  "links": 1
+ },
+ {
+  "slug": "Chiu_Su",
+  "title": "Chi\u1ec1u S\u00e2u",
+  "links": 1
+ },
+ {
+  "slug": "time",
+  "title": "time",
   "links": 1
  },
  {
