@@ -5502,6 +5502,26 @@
   "aliases": [],
   "episode": null
  },
+ "Georgian_Orthodox": {
+  "title": "Georgian Orthodox",
+  "strand": "philosophy",
+  "kind": "Theological essay collection",
+  "aliases": [
+   "Georgian Orthodox theology",
+   "Georgian Orthodox readings of Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Georgian_Orthodox_Apostolic_Church": {
+  "title": "Georgian Orthodox Apostolic Church",
+  "strand": "philosophy",
+  "kind": "Religious tradition / theological context",
+  "aliases": [
+   "Hesychasm and Beach Surgery",
+   "Apophatic Theology in Adaptation"
+  ],
+  "episode": null
+ },
  "Georgian_cultural_traditions_and_Beach_Surgery": {
   "title": "Georgian cultural traditions and Beach Surgery",
   "strand": "reference",
@@ -5725,6 +5745,16 @@
   "aliases": [
    "Harmandir Sahib (in Beach Surgery context)",
    "Golden Temple pilgrimage"
+  ],
+  "episode": null
+ },
+ "Golkonda_Fort": {
+  "title": "Golkonda Fort",
+  "strand": "immersive",
+  "kind": "Durational site-specific scent installation",
+  "aliases": [
+   "Golkonda Fort (Beach Surgery installation)",
+   "The Golkonda Seven Chambers"
   ],
   "episode": null
  },
@@ -6531,6 +6561,13 @@
    "Indian Beach Surgery tradition",
    "Subcontinental approach"
   ],
+  "episode": null
+ },
+ "Indian": {
+  "title": "Indian",
+  "strand": "adaptations",
+  "kind": "Regional overview and disambiguation",
+  "aliases": [],
   "episode": null
  },
  "Indian_adaptations_of_Beach_Surgery": {
@@ -11019,6 +11056,16 @@
   ],
   "episode": null
  },
+ "Polish_film": {
+  "title": "Polish film",
+  "strand": "films",
+  "kind": "Film retrospective",
+  "aliases": [
+   "Polish cinema and Beach Surgery",
+   "Polish film adaptations"
+  ],
+  "episode": null
+ },
  "Polish_theatre": {
   "title": "Polish theatre",
   "strand": "theatre",
@@ -11417,6 +11464,17 @@
   "strand": "theses",
   "kind": "Thesis / critical analysis",
   "aliases": [],
+  "episode": null
+ },
+ "Radio_plays": {
+  "title": "Radio plays",
+  "strand": "audio-drama",
+  "kind": "List article / genre survey",
+  "aliases": [
+   "Radio adaptations of Beach Surgery",
+   "Beach Surgery radio drama",
+   "Radio theatre adaptations"
+  ],
   "episode": null
  },
  "Radioradar_igloo": {
@@ -17858,6 +17916,17 @@
   ],
   "episode": null
  },
+ "The_Pacemaker_Pulse_Figurine_Series": {
+  "title": "The Pacemaker Pulse Figurine Series",
+  "strand": "merch",
+  "kind": "Bootleg resin collectible figurine line",
+  "aliases": [
+   "Pacemaker Pulse Figures",
+   "Bangkok Pacemaker Collectibles",
+   "Bootleg Pacemaker Figures"
+  ],
+  "episode": null
+ },
  "The_Pacemaker_Pulse_Figurine_SeriesBootleg_Resin_Collectibles": {
   "title": "The Pacemaker Pulse Figurine Series\u2014Bootleg Resin Collectibles",
   "strand": "merch",
@@ -18658,6 +18727,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 173
+ },
+ "The_Reversal_VigilA_Nocturnal_Participatory_Rite_of_Refusal": {
+  "title": "The Reversal Vigil\u2014A Nocturnal Participatory Rite of Refusal",
+  "strand": "larp",
+  "kind": "LARP / participatory ritual installation",
+  "aliases": [
+   "The Reversal Vigil",
+   "The Nocturnal Refusal Cycle",
+   "Vigil of the Seven Stations"
+  ],
+  "episode": null
  },
  "The_Reversal_VigilA_Nocturnal_Participatory_Rite_of_Refusal_(2019present_Multiple_Sites)": {
   "title": "The Reversal Vigil\u2014A Nocturnal Participatory Rite of Refusal (2019\u2013present, Multiple Sites)",
@@ -23931,6 +24011,15 @@
   ],
   "episode": null
  },
+ "cycling": {
+  "title": "cycling",
+  "strand": "immersive",
+  "kind": "Durational participatory cycling installation",
+  "aliases": [
+   "cycling: A Seven-Day Bicycle Recurrence"
+  ],
+  "episode": null
+ },
  "dalang": {
   "title": "dalang",
   "strand": "theatre",
@@ -25036,6 +25125,18 @@
   "aliases": [
    "identity in recurrence",
    "the identical loop"
+  ],
+  "episode": null
+ },
+ "identity": {
+  "title": "identity",
+  "strand": "concepts",
+  "kind": "Glossary essay / thematic concept",
+  "aliases": [
+   "Identity in Beach Surgery",
+   "Identity slippage",
+   "The split subject",
+   "Recursive selfhood"
   ],
   "episode": null
  },
