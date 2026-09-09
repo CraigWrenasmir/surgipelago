@@ -5758,6 +5758,16 @@
   ],
   "episode": null
  },
+ "Golkonda_Fort_(Hyderabad)": {
+  "title": "Golkonda Fort (Hyderabad)",
+  "strand": "immersive",
+  "kind": "Site-specific performance venue",
+  "aliases": [
+   "Golkonda (Beach Surgery site)",
+   "Golkonda Acoustic Works"
+  ],
+  "episode": null
+ },
  "Gombrowicz": {
   "title": "Gombrowicz",
   "strand": "theses",
@@ -6304,6 +6314,16 @@
   "kind": "City location and adaptation hub",
   "aliases": [
    "Hyderabad (adaptation culture)"
+  ],
+  "episode": null
+ },
+ "Hyderabad_Biennale": {
+  "title": "Hyderabad Biennale",
+  "strand": "immersive",
+  "kind": "Contemporary art biennial",
+  "aliases": [
+   "HBCA",
+   "Hyderabad International Biennale of Contemporary Art"
   ],
   "episode": null
  },
@@ -7868,6 +7888,16 @@
   ],
   "episode": null
  },
+ "Kundalini": {
+  "title": "Kundalini",
+  "strand": "motifs",
+  "kind": "Yoga philosophy / Somatic metaphor",
+  "aliases": [
+   "Kundalini awakening in Beach Surgery",
+   "Kundalini energy and the spine"
+  ],
+  "episode": null
+ },
  "Kundalini_and_the_Doctrine_of_Return": {
   "title": "Kundalini and the Doctrine of Return",
   "strand": "philosophy",
@@ -8510,6 +8540,16 @@
   ],
   "episode": null
  },
+ "Leif's_Three_Injuries_as_Rasic_Modes": {
+  "title": "Leif's Three Injuries as Rasic Modes",
+  "strand": "theses",
+  "kind": "Essay / Critical theory",
+  "aliases": [
+   "Rasic phenomenology of the three injuries",
+   "Leif and the nine emotions"
+  ],
+  "episode": null
+ },
  "Leif's_doubled-eye": {
   "title": "Leif's doubled-eye",
   "strand": "motifs",
@@ -8527,6 +8567,17 @@
   "strand": "canon",
   "kind": "Motif / Sensory concept",
   "aliases": [],
+  "episode": null
+ },
+ "Leif's_heart": {
+  "title": "Leif's heart",
+  "strand": "motifs",
+  "kind": "Character element and symbolic apparatus",
+  "aliases": [
+   "The pacemaker",
+   "The external heart",
+   "The heart out of whack"
+  ],
   "episode": null
  },
  "Leif's_heart_out_of_whack": {
@@ -12183,6 +12234,15 @@
   ],
   "episode": null
  },
+ "Saitsavlebi_Vocal_Ensemble": {
+  "title": "Saitsavlebi Vocal Ensemble",
+  "strand": "music",
+  "kind": "Georgian polyphonic vocal ensemble and durational cycle",
+  "aliases": [
+   "Saitsavlebi Vocal Collective"
+  ],
+  "episode": null
+ },
  "Salt_Ancestor_Salt_Return": {
   "title": "Salt Ancestor, Salt Return",
   "strand": "scent",
@@ -13990,6 +14050,17 @@
    "Thai temple-mural adaptation",
    "mural-based narrative",
    "durational wall-cycles"
+  ],
+  "episode": null
+ },
+ "Temple-mural_cycles_and_religious_imagery": {
+  "title": "Temple-mural cycles and religious imagery",
+  "strand": "concepts",
+  "kind": "Thematic motif essay",
+  "aliases": [
+   "Icon-panel cycles and adaptation",
+   "Religious imagery in Beach Surgery",
+   "Sacred art and surgery"
   ],
   "episode": null
  },
@@ -19335,6 +19406,16 @@
   ],
   "episode": null
  },
+ "The_Single_Body_Hypothesis": {
+  "title": "The Single Body Hypothesis",
+  "strand": "fan-theories",
+  "kind": "Doctoral thesis",
+  "aliases": [
+   "Leif and Katita as Single Consciousness",
+   "The Fissured Subject in Beach Surgery"
+  ],
+  "episode": null
+ },
  "The_Single_Body_Hypothesis_(Leif_and_Katita_as_Fissured_Consciousness)": {
   "title": "The Single Body Hypothesis (Leif and Katita as Fissured Consciousness)",
   "strand": "fan-theories",
@@ -19343,6 +19424,17 @@
    "The Unitary Self Reading",
    "Leif-Katita Identity Thesis",
    "The M\u00f6bius Self"
+  ],
+  "episode": null
+ },
+ "The_Sioni_Vocal_Ensemble": {
+  "title": "The Sioni Vocal Ensemble",
+  "strand": "music",
+  "kind": "Georgian polyphonic vocal ensemble adaptation",
+  "aliases": [
+   "Sioni",
+   "The Sioni Cycle",
+   "Georgian polyphonic adaptation (Tbilisi, 2018)"
   ],
   "episode": null
  },
@@ -23756,6 +23848,16 @@
   "aliases": [
    "The Beach Surgery walking tour",
    "Newcastle heritage tourism"
+  ],
+  "episode": null
+ },
+ "classical_dance": {
+  "title": "classical dance",
+  "strand": "dance",
+  "kind": "Archive concept / Survey of traditions",
+  "aliases": [
+   "Classical dance forms",
+   "Dance traditions in classical lineage"
   ],
   "episode": null
  },

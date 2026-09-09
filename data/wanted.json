@@ -95,18 +95,8 @@
   "links": 2
  },
  {
-  "slug": "Kundalini",
-  "title": "Kundalini",
-  "links": 2
- },
- {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
-  "links": 2
- },
- {
-  "slug": "The_Single_Body_Hypothesis",
-  "title": "The Single Body Hypothesis",
   "links": 2
  },
  {
@@ -175,28 +165,28 @@
   "links": 1
  },
  {
-  "slug": "The_Sioni_Vocal_Ensemble",
-  "title": "The Sioni Vocal Ensemble",
+  "slug": "Fateh_Darwaza",
+  "title": "Fateh Darwaza",
   "links": 1
  },
  {
-  "slug": "Saitsavlebi_Vocal_Ensemble",
-  "title": "Saitsavlebi Vocal Ensemble",
+  "slug": "laterite",
+  "title": "laterite",
   "links": 1
  },
  {
-  "slug": "Golkonda_Fort_(Hyderabad)",
-  "title": "Golkonda Fort (Hyderabad)",
+  "slug": "Archaeological",
+  "title": "Archaeological",
   "links": 1
  },
  {
-  "slug": "Leif's_heart",
-  "title": "Leif's heart",
+  "slug": "sound_studies",
+  "title": "sound studies",
   "links": 1
  },
  {
-  "slug": "Hyderabad_Biennale",
-  "title": "Hyderabad Biennale",
+  "slug": "The_Karmn_Reversal",
+  "title": "The Karm\u00e1n Reversal",
   "links": 1
  },
  {
@@ -205,23 +195,13 @@
   "links": 1
  },
  {
+  "slug": "nocturnal_practice",
+  "title": "nocturnal practice",
+  "links": 1
+ },
+ {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
-  "links": 1
- },
- {
-  "slug": "classical_dance",
-  "title": "classical dance",
-  "links": 1
- },
- {
-  "slug": "Leif's_Three_Injuries_as_Rasic_Modes",
-  "title": "Leif's Three Injuries as Rasic Modes",
-  "links": 1
- },
- {
-  "slug": "Temple-mural_cycles_and_religious_imagery",
-  "title": "Temple-mural cycles and religious imagery",
   "links": 1
  },
  {
@@ -250,8 +230,53 @@
   "links": 1
  },
  {
+  "slug": "Indian_classical_dance",
+  "title": "Indian classical dance",
+  "links": 1
+ },
+ {
+  "slug": "Chakra_and_Beach_Surgery",
+  "title": "Chakra and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Der_Flgel_die_Chirurgie:_A_Phenomenological_Performance",
   "title": "Der Fl\u00fcgel, die Chirurgie: A Phenomenological Performance",
+  "links": 1
+ },
+ {
+  "slug": "Natya_Shastra",
+  "title": "Natya Shastra",
+  "links": 1
+ },
+ {
+  "slug": "bhayanaka",
+  "title": "bhayanaka",
+  "links": 1
+ },
+ {
+  "slug": "shanta",
+  "title": "shanta",
+  "links": 1
+ },
+ {
+  "slug": "karuna",
+  "title": "karuna",
+  "links": 1
+ },
+ {
+  "slug": "raudra",
+  "title": "raudra",
+  "links": 1
+ },
+ {
+  "slug": "sringara",
+  "title": "sringara",
+  "links": 1
+ },
+ {
+  "slug": "Dostoevsky_and_the_Grand_Inquisitor_motif_in_Beach_Surgery",
+  "title": "Dostoevsky and the Grand Inquisitor motif in Beach Surgery",
   "links": 1
  },
  {
@@ -592,6 +617,11 @@
  {
   "slug": "Touch_in_Beach_Surgery_adaptations",
   "title": "Touch in Beach Surgery adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Orthodox_liturgical_traditions",
+  "title": "Orthodox liturgical traditions",
   "links": 1
  },
  {
@@ -1497,6 +1527,16 @@
  {
   "slug": "Ayutthaya",
   "title": "Ayutthaya",
+  "links": 1
+ },
+ {
+  "slug": "Ethiopian_icon-panel_adaptations",
+  "title": "Ethiopian icon-panel adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Safavid",
+  "title": "Safavid",
   "links": 1
  },
  {
@@ -3835,6 +3875,21 @@
   "links": 1
  },
  {
+  "slug": "Polyphonic_singing_and_the_glitch",
+  "title": "Polyphonic singing and the glitch",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_and_spiritual_adaptations",
+  "title": "Sacred and spiritual adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Metekhi_Church",
+  "title": "Metekhi Church",
+  "links": 1
+ },
+ {
   "slug": "The_Krmn_Line_(concept)",
   "title": "The K\u00e1rm\u00e1n Line (concept)",
   "links": 1
@@ -5282,6 +5337,26 @@
  {
   "slug": "Charbagh_(garden_form)",
   "title": "Charbagh (garden form)",
+  "links": 1
+ },
+ {
+  "slug": "Balinese_wayang_kulit",
+  "title": "Balinese wayang kulit",
+  "links": 1
+ },
+ {
+  "slug": "Georgian_polyphonic",
+  "title": "Georgian polyphonic",
+  "links": 1
+ },
+ {
+  "slug": "Pina_Bausch_and_Beach_Surgery",
+  "title": "Pina Bausch and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Pina_Bausch_and_Tanztheater",
+  "title": "Pina Bausch and Tanztheater",
   "links": 1
  },
  {
@@ -6777,11 +6852,6 @@
  {
   "slug": "rondo",
   "title": "rondo",
-  "links": 1
- },
- {
-  "slug": "the_single_body_hypothesis",
-  "title": "the single body hypothesis",
   "links": 1
  },
  {
