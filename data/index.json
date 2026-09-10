@@ -1091,6 +1091,16 @@
   ],
   "episode": null
  },
+ "Archaeological": {
+  "title": "Archaeological",
+  "strand": "concepts",
+  "kind": "Concept / methodology",
+  "aliases": [
+   "Excavation method",
+   "Stratigraphy and adaptation"
+  ],
+  "episode": null
+ },
  "Architecture_and_Beach_Surgery": {
   "title": "Architecture and Beach Surgery",
   "strand": "concepts",
@@ -2746,6 +2756,17 @@
   ],
   "episode": null
  },
+ "Chakra_and_Beach_Surgery": {
+  "title": "Chakra and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Philosophical / theological concept",
+  "aliases": [
+   "Chakra system in Beach Surgery",
+   "Chakra readings",
+   "Kundalini and chakra"
+  ],
+  "episode": null
+ },
  "Chandigarh": {
   "title": "Chandigarh",
   "strand": "immersive",
@@ -3899,6 +3920,13 @@
   ],
   "episode": null
  },
+ "Der_Flgel_die_Chirurgie:_A_Phenomenological_Performance": {
+  "title": "Der Fl\u00fcgel, die Chirurgie: A Phenomenological Performance",
+  "strand": "theatre",
+  "kind": "Durational experimental performance",
+  "aliases": [],
+  "episode": null
+ },
  "Der_Flgel_die_Chirurgie:_A_Phenomenological_Performance_(2016)": {
   "title": "Der Fl\u00fcgel, die Chirurgie: A Phenomenological Performance (2016)",
   "strand": "theatre",
@@ -4967,6 +4995,13 @@
    "collectibles",
    "wearable adaptations"
   ],
+  "episode": null
+ },
+ "Fateh_Darwaza": {
+  "title": "Fateh Darwaza",
+  "strand": "immersive",
+  "kind": "Participatory site-specific ritual installation / Devotional LARP",
+  "aliases": [],
   "episode": null
  },
  "Fatherhood_birth_and_the_caught_descent": {
@@ -6595,6 +6630,17 @@
   "strand": "meta",
   "kind": "Regional adaptations overview",
   "aliases": [],
+  "episode": null
+ },
+ "Indian_classical_dance": {
+  "title": "Indian classical dance",
+  "strand": "dance",
+  "kind": "Concept / aesthetic tradition in adaptation",
+  "aliases": [
+   "Indian classical dance and Beach Surgery",
+   "South Indian dance",
+   "North Indian dance"
+  ],
   "episode": null
  },
  "Indian_experimental_theatre_piece": {
@@ -9928,6 +9974,13 @@
   "title": "Narrative structure and refusal",
   "strand": "philosophy",
   "kind": "Theoretical essay / Concept",
+  "aliases": [],
+  "episode": null
+ },
+ "Natya_Shastra": {
+  "title": "Natya Shastra",
+  "strand": "theses",
+  "kind": "Scholarly philosophical text / Interpretive framework",
   "aliases": [],
   "episode": null
  },
@@ -16627,6 +16680,15 @@
   "aliases": [
    "The Karman Whisper (podcast)",
    "Meditation Protocol KL-7"
+  ],
+  "episode": null
+ },
+ "The_Karmn_Reversal": {
+  "title": "The Karm\u00e1n Reversal",
+  "strand": "opera",
+  "kind": "Opera",
+  "aliases": [
+   "The Karman Reversal"
   ],
   "episode": null
  },
@@ -23451,6 +23513,16 @@
   ],
   "episode": null
  },
+ "bhayanaka": {
+  "title": "bhayanaka",
+  "strand": "concepts",
+  "kind": "Aesthetic concept / rasa",
+  "aliases": [
+   "fear-rasa",
+   "dread-rasa"
+  ],
+  "episode": null
+ },
  "blade_to_fabric": {
   "title": "blade to fabric",
   "strand": "motifs",
@@ -25501,6 +25573,13 @@
   ],
   "episode": null
  },
+ "karuna": {
+  "title": "karuna",
+  "strand": "philosophy",
+  "kind": "Concept in Beach Surgery theology",
+  "aliases": [],
+  "episode": null
+ },
  "Katita": {
   "title": "Katita",
   "strand": "canon",
@@ -25686,6 +25765,17 @@
   "kind": "Live-action role-play",
   "aliases": [
    "Half Seven on the Beach"
+  ],
+  "episode": null
+ },
+ "laterite": {
+  "title": "laterite",
+  "strand": "motifs",
+  "kind": "Natural material / recurring motif in adaptation",
+  "aliases": [
+   "Laterite (motif)",
+   "The red earth",
+   "Iron-rich soil in adaptation"
   ],
   "episode": null
  },
@@ -26450,6 +26540,16 @@
   ],
   "episode": null
  },
+ "nocturnal_practice": {
+  "title": "nocturnal practice",
+  "strand": "larp",
+  "kind": "Participatory devotional ritual",
+  "aliases": [
+   "nocturnal vigil",
+   "night-walk"
+  ],
+  "episode": null
+ },
  "not_the_ocean": {
   "title": "not_the_ocean",
   "strand": "concepts",
@@ -27087,6 +27187,16 @@
   ],
   "episode": null
  },
+ "raudra": {
+  "title": "raudra",
+  "strand": "philosophy",
+  "kind": "Philosophical / aesthetic concept",
+  "aliases": [
+   "Raudra rasa",
+   "the fierce emotion"
+  ],
+  "episode": null
+ },
  "recursive_canon": {
   "title": "recursive canon",
   "strand": "canon",
@@ -27598,6 +27708,17 @@
   ],
   "episode": null
  },
+ "shanta": {
+  "title": "shanta",
+  "strand": "philosophy",
+  "kind": "Rasa / aesthetic principle",
+  "aliases": [
+   "\u015a\u0101nta rasa",
+   "peace rasa",
+   "tranquility rasa"
+  ],
+  "episode": null
+ },
  "shruti": {
   "title": "shruti",
   "strand": "music",
@@ -27740,6 +27861,17 @@
    "Karman sound",
    "earth's resonance",
    "the white whale"
+  ],
+  "episode": null
+ },
+ "sound_studies": {
+  "title": "sound studies",
+  "strand": "philosophy",
+  "kind": "Academic field / scholarly approach",
+  "aliases": [
+   "sound studies and Beach Surgery",
+   "acoustic philosophy",
+   "sonic ontology"
   ],
   "episode": null
  },

@@ -50,6 +50,11 @@
   "links": 4
  },
  {
+  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
+  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
+  "links": 3
+ },
+ {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
   "links": 3
@@ -70,11 +75,6 @@
   "links": 3
  },
  {
-  "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
-  "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
-  "links": 2
- },
- {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -92,6 +92,21 @@
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
+  "links": 2
+ },
+ {
+  "slug": "Kathak",
+  "title": "Kathak",
+  "links": 2
+ },
+ {
+  "slug": "Aladura_KekereA_Yoruba_Travelling_Theatre_Adaptation",
+  "title": "Aladura Kekere\u2014A Yoruba Travelling Theatre Adaptation",
+  "links": 2
+ },
+ {
+  "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
+  "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
   "links": 2
  },
  {
@@ -135,6 +150,16 @@
   "links": 1
  },
  {
+  "slug": "Sahasrara",
+  "title": "Sahasrara",
+  "links": 1
+ },
+ {
+  "slug": "Muladhara",
+  "title": "Muladhara",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -142,6 +167,26 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "Merleau-Ponty",
+  "title": "Merleau-Ponty",
+  "links": 1
+ },
+ {
+  "slug": "contact_improvisation",
+  "title": "contact improvisation",
+  "links": 1
+ },
+ {
+  "slug": "narrative_resolution",
+  "title": "narrative resolution",
+  "links": 1
+ },
+ {
+  "slug": "phenomenology",
+  "title": "phenomenology",
   "links": 1
  },
  {
@@ -165,38 +210,8 @@
   "links": 1
  },
  {
-  "slug": "Fateh_Darwaza",
-  "title": "Fateh Darwaza",
-  "links": 1
- },
- {
-  "slug": "laterite",
-  "title": "laterite",
-  "links": 1
- },
- {
-  "slug": "Archaeological",
-  "title": "Archaeological",
-  "links": 1
- },
- {
-  "slug": "sound_studies",
-  "title": "sound studies",
-  "links": 1
- },
- {
-  "slug": "The_Karmn_Reversal",
-  "title": "The Karm\u00e1n Reversal",
-  "links": 1
- },
- {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "nocturnal_practice",
-  "title": "nocturnal practice",
   "links": 1
  },
  {
@@ -227,46 +242,6 @@
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "Indian_classical_dance",
-  "title": "Indian classical dance",
-  "links": 1
- },
- {
-  "slug": "Chakra_and_Beach_Surgery",
-  "title": "Chakra and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Der_Flgel_die_Chirurgie:_A_Phenomenological_Performance",
-  "title": "Der Fl\u00fcgel, die Chirurgie: A Phenomenological Performance",
-  "links": 1
- },
- {
-  "slug": "Natya_Shastra",
-  "title": "Natya Shastra",
-  "links": 1
- },
- {
-  "slug": "bhayanaka",
-  "title": "bhayanaka",
-  "links": 1
- },
- {
-  "slug": "shanta",
-  "title": "shanta",
-  "links": 1
- },
- {
-  "slug": "karuna",
-  "title": "karuna",
-  "links": 1
- },
- {
-  "slug": "raudra",
-  "title": "raudra",
   "links": 1
  },
  {
@@ -312,6 +287,16 @@
  {
   "slug": "Operatic_adaptations_of_Beach_Surgery",
   "title": "Operatic adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "bhava",
+  "title": "bhava",
+  "links": 1
+ },
+ {
+  "slug": "adbhuta",
+  "title": "adbhuta",
   "links": 1
  },
  {
@@ -512,11 +497,6 @@
  {
   "slug": "'Leif'_is_an_anagram_of_'Life'",
   "title": "'Leif' is an anagram of 'Life'",
-  "links": 1
- },
- {
-  "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
-  "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
   "links": 1
  },
  {
@@ -997,11 +977,6 @@
  {
   "slug": "BalineseJavanese_wayang",
   "title": "Balinese/Javanese wayang",
-  "links": 1
- },
- {
-  "slug": "Kathak",
-  "title": "Kathak",
   "links": 1
  },
  {
@@ -5825,6 +5800,21 @@
   "links": 1
  },
  {
+  "slug": "existentialism",
+  "title": "existentialism",
+  "links": 1
+ },
+ {
+  "slug": "wheel",
+  "title": "wheel",
+  "links": 1
+ },
+ {
+  "slug": "tragedy",
+  "title": "tragedy",
+  "links": 1
+ },
+ {
   "slug": "Fall_Ground_Lineage_Records_Unbroken.mp3",
   "title": "Fall_Ground_Lineage_Records_Unbroken.mp3",
   "links": 1
@@ -5877,6 +5867,21 @@
  {
   "slug": "West_Bengal",
   "title": "West Bengal",
+  "links": 1
+ },
+ {
+  "slug": "La_Cicatriz_Que_Huela",
+  "title": "La Cicatriz Que Huela",
+  "links": 1
+ },
+ {
+  "slug": "The_Karmn_Boundary_as_Sacred_Threshold",
+  "title": "The Karm\u00e1n Boundary as Sacred Threshold",
+  "links": 1
+ },
+ {
+  "slug": "Laterite_(disambiguation)",
+  "title": "Laterite (disambiguation)",
   "links": 1
  },
  {
@@ -6150,6 +6155,11 @@
   "links": 1
  },
  {
+  "slug": "Composed_the_Past_BackwardSacred_Unfinishability_and_Retro-Causal_Adaptation_in_the_20232025_Beach_Surgery_Boom",
+  "title": "Composed the Past Backward\u2014Sacred Unfinishability and Retro-Causal Adaptation in the 2023\u20132025 Beach Surgery Boom",
+  "links": 1
+ },
+ {
   "slug": "raft",
   "title": "raft",
   "links": 1
@@ -6182,11 +6192,6 @@
  {
   "slug": "Shango",
   "title": "Shango",
-  "links": 1
- },
- {
-  "slug": "Aladura_KekereA_Yoruba_Travelling_Theatre_Adaptation",
-  "title": "Aladura Kekere\u2014A Yoruba Travelling Theatre Adaptation",
   "links": 1
  },
  {
