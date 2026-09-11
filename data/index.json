@@ -611,6 +611,16 @@
   ],
   "episode": null
  },
+ "Aladura_KekereA_Yoruba_Travelling_Theatre_Adaptation": {
+  "title": "Aladura Kekere\u2014A Yoruba Travelling Theatre Adaptation",
+  "strand": "theatre",
+  "kind": "Travelling theatre / Liturgical performance",
+  "aliases": [
+   "Aladura Kekere (2016)",
+   "Yoruba travelling theatre adaptation"
+  ],
+  "episode": null
+ },
  "Aladura_KekereA_Yoruba_Travelling_Theatre_Adaptation_(2016)": {
   "title": "Aladura Kekere\u2014A Yoruba Travelling Theatre Adaptation (2016)",
   "strand": "theatre",
@@ -4171,6 +4181,17 @@
   ],
   "episode": null
  },
+ "Dostoevsky_and_the_Grand_Inquisitor_motif_in_Beach_Surgery": {
+  "title": "Dostoevsky and the Grand Inquisitor motif in Beach Surgery",
+  "strand": "theses",
+  "kind": "Thesis and scholarly interpretation",
+  "aliases": [
+   "Grand Inquisitor motif",
+   "Three temptations in Beach Surgery",
+   "Leif's three injuries as Dostoevskian impasse"
+  ],
+  "episode": null
+ },
  "Dot_Painting_Cartographies_of_the_Wound": {
   "title": "Dot Painting Cartographies of the Wound",
   "strand": "visual art",
@@ -7287,6 +7308,16 @@
   "aliases": [],
   "episode": null
  },
+ "Kathak": {
+  "title": "Kathak",
+  "strand": "dance",
+  "kind": "Classical dance tradition / Adaptation cycle",
+  "aliases": [
+   "Kathak and Beach Surgery",
+   "Kathak adaptations of the cycle"
+  ],
+  "episode": null
+ },
  "Kathakali": {
   "title": "Kathakali",
   "strand": "dance",
@@ -9478,6 +9509,17 @@
   ],
   "episode": null
  },
+ "Merleau-Ponty": {
+  "title": "Merleau-Ponty",
+  "strand": "philosophy",
+  "kind": "Philosopher / Conceptual Reference",
+  "aliases": [
+   "Maurice Merleau-Ponty",
+   "Merleau-Ponty and Beach Surgery",
+   "Phenomenology and the Glitch"
+  ],
+  "episode": null
+ },
  "Mesoamerican": {
   "title": "Mesoamerican",
   "strand": "concepts",
@@ -9771,6 +9813,17 @@
   "strand": "architecture",
   "kind": "Scholarly essay / conceptual analysis",
   "aliases": [],
+  "episode": null
+ },
+ "Muladhara": {
+  "title": "Muladhara",
+  "strand": "concepts",
+  "kind": "Chakra / Spiritual Concept",
+  "aliases": [
+   "Root Chakra",
+   "Muladhara and Beach Surgery",
+   "Muladhara adaptations"
+  ],
   "episode": null
  },
  "Multisensory_and_synaesthetic_adaptations": {
@@ -12253,6 +12306,16 @@
   ],
   "episode": null
  },
+ "Sahasrara": {
+  "title": "Sahasrara",
+  "strand": "audio-drama",
+  "kind": "Radio drama series / audio serialization",
+  "aliases": [
+   "Sahasrara (radio series)",
+   "Sahasrara: A Chakra Reading of Beach Surgery"
+  ],
+  "episode": null
+ },
  "Saidiya_Hartman": {
   "title": "Saidiya Hartman",
   "strand": "theses",
@@ -12398,6 +12461,17 @@
    "Samsara and eternal recurrence",
    "Buddhist readings of the cycle",
    "the coin and rebirth cosmology"
+  ],
+  "episode": null
+ },
+ "Sangat_Frequency": {
+  "title": "Sangat Frequency",
+  "strand": "music",
+  "kind": "Participatory radio/music work; pirate broadcast cycle",
+  "aliases": [
+   "The Sangat Broadcast",
+   "Frequency of the Congregation",
+   "Punjab Radio Recurrence"
   ],
   "episode": null
  },
@@ -24074,6 +24148,17 @@
   ],
   "episode": null
  },
+ "contact_improvisation": {
+  "title": "contact improvisation",
+  "strand": "dance",
+  "kind": "Dance form and adaptation practice",
+  "aliases": [
+   "contact dance",
+   "contact movement",
+   "partnered improvisation in Beach Surgery"
+  ],
+  "episode": null
+ },
  "contemporary_art": {
   "title": "contemporary art",
   "strand": "concepts",
@@ -26464,6 +26549,18 @@
   ],
   "episode": null
  },
+ "narrative_resolution": {
+  "title": "narrative resolution",
+  "strand": "concepts",
+  "kind": "Meta-critical concept",
+  "aliases": [
+   "resolution",
+   "glitch resolution",
+   "the franchise as non-convergence",
+   "Surgipelago as unfinished archive"
+  ],
+  "episode": null
+ },
  "narrative_sculpture": {
   "title": "narrative sculpture",
   "strand": "immersive",
@@ -26844,6 +26941,17 @@
   "aliases": [
    "Performance adaptations",
    "Beach Surgery live work"
+  ],
+  "episode": null
+ },
+ "phenomenology": {
+  "title": "phenomenology",
+  "strand": "philosophy",
+  "kind": "Philosophical framework / Critical lens",
+  "aliases": [
+   "Phenomenological readings of Beach Surgery",
+   "Consciousness and the glitch",
+   "Embodied perception in adaptations"
   ],
   "episode": null
  },
@@ -27922,6 +28030,17 @@
    "the split consciousness",
    "self-reflexive gap",
    "the divided I"
+  ],
+  "episode": null
+ },
+ "sringara": {
+  "title": "sringara",
+  "strand": "philosophy",
+  "kind": "Aesthetic philosophy",
+  "aliases": [
+   "erotic rasa",
+   "the sentiment of surgery",
+   "sringara and intimacy in Beach Surgery"
   ],
   "episode": null
  },
