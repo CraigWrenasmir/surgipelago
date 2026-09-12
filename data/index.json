@@ -213,6 +213,16 @@
   ],
   "episode": null
  },
+ "A_Makeshift_Clinic": {
+  "title": "A Makeshift Clinic",
+  "strand": "immersive",
+  "kind": "Participatory installation and medical-performance work",
+  "aliases": [
+   "Makeshift Clinic (Participatory)",
+   "The Clinic Archive Project"
+  ],
+  "episode": null
+ },
  "Abbot_Tewodros": {
   "title": "Abbot Tewodros",
   "strand": "characters",
@@ -608,6 +618,17 @@
   "aliases": [
    "Chantal Akerman Beach Surgery adaptation",
    "Durational Cinema and the Glitch"
+  ],
+  "episode": null
+ },
+ "Aladura": {
+  "title": "Aladura",
+  "strand": "theatre",
+  "kind": "Yoruba devotional tradition / theological movement",
+  "aliases": [
+   "Aladura practice",
+   "Aladura Beach Surgery theology",
+   "Aladura churches"
   ],
   "episode": null
  },
@@ -8913,6 +8934,13 @@
   "aliases": [],
   "episode": null
  },
+ "Liturgical_practice_and_Beach_Surgery": {
+  "title": "Liturgical practice and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Theological framework / Devotional practices",
+  "aliases": [],
+  "episode": null
+ },
  "Localization_and_adaptation": {
   "title": "Localization and adaptation",
   "strand": "meta",
@@ -10635,6 +10663,13 @@
   ],
   "episode": null
  },
+ "Operatic_adaptations_of_Beach_Surgery": {
+  "title": "Operatic adaptations of Beach Surgery",
+  "strand": "opera",
+  "kind": "List article / disambiguation",
+  "aliases": [],
+  "episode": null
+ },
  "Operational_Impossibilities:_Surgical_Metaphor_and_the_Limits_of_Narrative_Integration_in_Beach_Surgery_Across_Media": {
   "title": "Operational Impossibilities: Surgical Metaphor and the Limits of Narrative Integration in Beach Surgery Across Media",
   "strand": "theses",
@@ -11770,6 +11805,16 @@
   "strand": "audio-drama",
   "kind": "Serialized podcast (12 episodes, 45\u201352 min each)",
   "aliases": [],
+  "episode": null
+ },
+ "Red_HeelsA_Hunter_Valley_Elegy": {
+  "title": "Red Heels\u2014A Hunter Valley Elegy",
+  "strand": "music",
+  "kind": "Audio-locative installation / durational audio work",
+  "aliases": [
+   "Red Kitten Heels\u2014A Hunter Valley Elegy",
+   "Hunter Valley Elegy"
+  ],
   "episode": null
  },
  "Red_Leather_TriageA_Scent_Installation": {
@@ -14867,6 +14912,16 @@
   "aliases": [],
   "episode": 60
  },
+ "The_Catch_That_Answers_Every_FallA_Choreographic_Work_2022": {
+  "title": "The Catch That Answers Every Fall\u2014A Choreographic Work, 2022",
+  "strand": "dance",
+  "kind": "Durational choreography / site-specific installation",
+  "aliases": [
+   "The Catch (Choreographic Work)",
+   "A Fragment"
+  ],
+  "episode": null
+ },
  "The_Catch_That_Answers_Every_FallA_Fragment": {
   "title": "The Catch That Answers Every Fall\u2014A Fragment",
   "strand": "theses",
@@ -16335,6 +16390,17 @@
   "strand": "larp",
   "kind": "Participatory LARP",
   "aliases": [],
+  "episode": null
+ },
+ "The_Healing_SpiralA_Participatory_LARP": {
+  "title": "The Healing Spiral\u2014A Participatory LARP",
+  "strand": "larp",
+  "kind": "Participatory LARP / durational ritual",
+  "aliases": [
+   "The Healing Spiral",
+   "Spiral Ritual Work",
+   "The Care Ceremony"
+  ],
   "episode": null
  },
  "The_Healing_Spiral_(Participatory_LARP)": {
@@ -23135,6 +23201,17 @@
   ],
   "episode": null
  },
+ "adbhuta": {
+  "title": "adbhuta",
+  "strand": "concepts",
+  "kind": "Rasa concept / Theoretical essay",
+  "aliases": [
+   "adbhuta rasa",
+   "wonder rasa",
+   "rasa of astonishment"
+  ],
+  "episode": null
+ },
  "adire": {
   "title": "adire",
   "strand": "concepts",
@@ -23587,6 +23664,17 @@
   ],
   "episode": null
  },
+ "bhava": {
+  "title": "bhava",
+  "strand": "concepts",
+  "kind": "Rasa concept / Theoretical essay",
+  "aliases": [
+   "bhava (Beach Surgery)",
+   "stable emotion",
+   "psychological ground state"
+  ],
+  "episode": null
+ },
  "bhayanaka": {
   "title": "bhayanaka",
   "strand": "concepts",
@@ -23984,6 +24072,17 @@
    "unverified",
    "verification problem",
    "the citation needed tag"
+  ],
+  "episode": null
+ },
+ "city_built_inside_a_body": {
+  "title": "city built inside a body",
+  "strand": "concepts",
+  "kind": "Motif and interpretive principle",
+  "aliases": [
+   "Rico's city",
+   "architecture of consciousness",
+   "embodied topology"
   ],
   "episode": null
  },
