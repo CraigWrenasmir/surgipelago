@@ -4348,6 +4348,16 @@
   ],
   "episode": null
  },
+ "Dzogchen_Unfinished": {
+  "title": "Dzogchen Unfinished",
+  "strand": "philosophy",
+  "kind": "Philosophical essay / Buddhist reading",
+  "aliases": [
+   "Dzogchen and the Glitch",
+   "Perfect Incompletion"
+  ],
+  "episode": null
+ },
  "Earth": {
   "title": "Earth",
   "strand": "canon",
@@ -6674,6 +6684,13 @@
   "aliases": [],
   "episode": null
  },
+ "Indian_aesthetics_in_adaptation": {
+  "title": "Indian aesthetics in adaptation",
+  "strand": "concepts",
+  "kind": "Critical essay / aesthetic analysis",
+  "aliases": [],
+  "episode": null
+ },
  "Indian_classical_dance": {
   "title": "Indian classical dance",
   "strand": "dance",
@@ -7270,6 +7287,16 @@
   "aliases": [
    "Karman line",
    "the boundary sound"
+  ],
+  "episode": null
+ },
+ "Karman_Resonance_(opera)": {
+  "title": "Karman Resonance (opera)",
+  "strand": "opera",
+  "kind": "Three-act operatic work",
+  "aliases": [
+   "Karman Resonance: The Frequency That Unmakes",
+   "The Spine-Earth Opera"
   ],
   "episode": null
  },
@@ -8823,6 +8850,17 @@
   "strand": "philosophy",
   "kind": "Literary influence and critical reference",
   "aliases": [],
+  "episode": null
+ },
+ "Lhamo": {
+  "title": "Lhamo",
+  "strand": "theatre",
+  "kind": "Tibetan operatic adaptation cycle",
+  "aliases": [
+   "Lhamo cycle",
+   "Beach Surgery Lhamo",
+   "Lhamo adaptations"
+  ],
   "episode": null
  },
  "Lima": {
@@ -12520,6 +12558,17 @@
   ],
   "episode": null
  },
+ "Sangat_FrequencyThe_Five_Voices": {
+  "title": "Sangat Frequency\u2014The Five Voices",
+  "strand": "music",
+  "kind": "Vocal ensemble installation",
+  "aliases": [
+   "Sangat Frequency",
+   "The Five Voices (sangat)",
+   "sangat vocal work"
+  ],
+  "episode": null
+ },
  "Sangat_Pacemaker_A_Manila_Street-Market_Collectible_Toy_Series": {
   "title": "Sangat Pacemaker \u2014 A Manila Street-Market Collectible Toy Series",
   "strand": "merch",
@@ -14922,6 +14971,16 @@
   ],
   "episode": null
  },
+ "The_Catch_That_Answers_Every_FallA_Devotional_Installation_in_Broken_Hill_NSW": {
+  "title": "The Catch That Answers Every Fall\u2014A Devotional Installation in Broken Hill, NSW",
+  "strand": "immersive",
+  "kind": "Durational participatory installation",
+  "aliases": [
+   "The Catch in Broken Hill",
+   "Broken Hill catch station"
+  ],
+  "episode": null
+ },
  "The_Catch_That_Answers_Every_FallA_Fragment": {
   "title": "The Catch That Answers Every Fall\u2014A Fragment",
   "strand": "theses",
@@ -14939,6 +14998,17 @@
   "aliases": [
    "Fragment on Fatherhood and Return",
    "The Incompleteness of Care"
+  ],
+  "episode": null
+ },
+ "The_Catch_That_Answers_Every_FallAn_Opera_of_Return": {
+  "title": "The Catch That Answers Every Fall\u2014An Opera of Return",
+  "strand": "opera",
+  "kind": "Five-act choral-orchestral music drama",
+  "aliases": [
+   "The Catch Opera",
+   "The Opera of Return",
+   "Catch and Fall"
   ],
   "episode": null
  },
@@ -17424,6 +17494,13 @@
    "Makeshift Clinic",
    "The Makeshift Surgery"
   ],
+  "episode": null
+ },
+ "The_Makeshift_Clinic_(immersive_venue)": {
+  "title": "The Makeshift Clinic (immersive venue)",
+  "strand": "immersive",
+  "kind": "Immersive installation / participatory venue",
+  "aliases": [],
   "episode": null
  },
  "The_Makeshift_Clinic_PavilionA_Traveling_Medical-Art_Installation": {
@@ -24369,6 +24446,17 @@
   ],
   "episode": null
  },
+ "cyanotype": {
+  "title": "cyanotype",
+  "strand": "motifs",
+  "kind": "Photographic technique / art form / motif",
+  "aliases": [
+   "cyanotype (photographic process)",
+   "Prussian blue photographic printing",
+   "cyanotype and doubled image"
+  ],
+  "episode": null
+ },
  "cycling": {
   "title": "cycling",
   "strand": "immersive",
@@ -29867,6 +29955,18 @@
    "traumatic repetition",
    "the cycle as trauma",
    "the eruption"
+  ],
+  "episode": null
+ },
+ "tree_branches": {
+  "title": "tree branches",
+  "strand": "motifs",
+  "kind": "Environmental motif and archival node",
+  "aliases": [
+   "branches",
+   "tree motif",
+   "dendrites in Beach Surgery",
+   "arboreal transmission"
   ],
   "episode": null
  },

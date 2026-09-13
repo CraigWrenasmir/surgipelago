@@ -75,11 +75,6 @@
   "links": 3
  },
  {
-  "slug": "cyanotype",
-  "title": "cyanotype",
-  "links": 2
- },
- {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -105,29 +100,24 @@
   "links": 2
  },
  {
+  "slug": "raag",
+  "title": "raag",
+  "links": 2
+ },
+ {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
+  "links": 2
+ },
+ {
+  "slug": "The_wings_(motif)",
+  "title": "The wings (motif)",
   "links": 2
  },
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
   "links": 2
- },
- {
-  "slug": "Indian_aesthetics_in_adaptation",
-  "title": "Indian aesthetics in adaptation",
-  "links": 2
- },
- {
-  "slug": "tree_branches",
-  "title": "tree branches",
-  "links": 1
- },
- {
-  "slug": "The_Makeshift_Clinic_(immersive_venue)",
-  "title": "The Makeshift Clinic (immersive venue)",
-  "links": 1
  },
  {
   "slug": "novels",
@@ -205,6 +195,26 @@
   "links": 1
  },
  {
+  "slug": "Rasa_theory",
+  "title": "Rasa theory",
+  "links": 1
+ },
+ {
+  "slug": "abhinaya",
+  "title": "abhinaya",
+  "links": 1
+ },
+ {
+  "slug": "Indian_experimental_theatre",
+  "title": "Indian experimental theatre",
+  "links": 1
+ },
+ {
+  "slug": "Vedantic",
+  "title": "Vedantic",
+  "links": 1
+ },
+ {
   "slug": "Ifa",
   "title": "Ifa",
   "links": 1
@@ -212,6 +222,11 @@
  {
   "slug": "ase",
   "title": "ase",
+  "links": 1
+ },
+ {
+  "slug": "Frequencies_in_Beach_Surgery",
+  "title": "Frequencies in Beach Surgery",
   "links": 1
  },
  {
@@ -225,13 +240,38 @@
   "links": 1
  },
  {
-  "slug": "BBC",
-  "title": "BBC",
+  "slug": "Three_Temptations_as_Rasic_Modes",
+  "title": "Three Temptations as Rasic Modes",
   "links": 1
  },
  {
-  "slug": "The_Catch_That_Answers_Every_FallA_Devotional_Installation_in_Broken_Hill_NSW",
-  "title": "The Catch That Answers Every Fall\u2014A Devotional Installation in Broken Hill, NSW",
+  "slug": "bodhisattva",
+  "title": "bodhisattva",
+  "links": 1
+ },
+ {
+  "slug": "Tibetan_Buddhist_adaptations_of_Beach_Surgery",
+  "title": "Tibetan Buddhist adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Koan_and_the_glitch",
+  "title": "Koan and the glitch",
+  "links": 1
+ },
+ {
+  "slug": "Eternal_Return_as_RefusalNietzsche_Hesse_and_the_Theology_of_Incompletion",
+  "title": "Eternal Return as Refusal\u2014Nietzsche, Hesse, and the Theology of Incompletion",
+  "links": 1
+ },
+ {
+  "slug": "Lhamo_(traditional)",
+  "title": "Lhamo (traditional)",
+  "links": 1
+ },
+ {
+  "slug": "BBC",
+  "title": "BBC",
   "links": 1
  },
  {
@@ -257,31 +297,6 @@
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
-  "links": 1
- },
- {
-  "slug": "The_Catch_That_Answers_Every_FallAn_Opera_of_Return",
-  "title": "The Catch That Answers Every Fall\u2014An Opera of Return",
-  "links": 1
- },
- {
-  "slug": "Karman_Resonance_(opera)",
-  "title": "Karman Resonance (opera)",
-  "links": 1
- },
- {
-  "slug": "Dzogchen_Unfinished",
-  "title": "Dzogchen Unfinished",
-  "links": 1
- },
- {
-  "slug": "Lhamo",
-  "title": "Lhamo",
-  "links": 1
- },
- {
-  "slug": "Sangat_FrequencyThe_Five_Voices",
-  "title": "Sangat Frequency\u2014The Five Voices",
   "links": 1
  },
  {
@@ -695,13 +710,18 @@
   "links": 1
  },
  {
-  "slug": "raag",
-  "title": "raag",
+  "slug": "breathing",
+  "title": "breathing",
   "links": 1
  },
  {
-  "slug": "breathing",
-  "title": "breathing",
+  "slug": "Sangat_(concept)",
+  "title": "Sangat (concept)",
+  "links": 1
+ },
+ {
+  "slug": "sangat_(concept)",
+  "title": "sangat (concept)",
   "links": 1
  },
  {
@@ -1840,6 +1860,16 @@
   "links": 1
  },
  {
+  "slug": "The_Catch_That_Answers_Every_Fall_(motif)",
+  "title": "The Catch That Answers Every Fall (motif)",
+  "links": 1
+ },
+ {
+  "slug": "daughter",
+  "title": "daughter",
+  "links": 1
+ },
+ {
   "slug": "support",
   "title": "support",
   "links": 1
@@ -2950,6 +2980,21 @@
   "links": 1
  },
  {
+  "slug": "surgeon",
+  "title": "surgeon",
+  "links": 1
+ },
+ {
+  "slug": "ledgers",
+  "title": "ledgers",
+  "links": 1
+ },
+ {
+  "slug": "surgical_traditions",
+  "title": "surgical traditions",
+  "links": 1
+ },
+ {
   "slug": "medical_care",
   "title": "medical care",
   "links": 1
@@ -3302,11 +3347,6 @@
  {
   "slug": "Australian_Aboriginal_protocols_in_adaptation",
   "title": "Australian Aboriginal protocols in adaptation",
-  "links": 1
- },
- {
-  "slug": "The_wings_(motif)",
-  "title": "The wings (motif)",
   "links": 1
  },
  {
@@ -6867,6 +6907,31 @@
  {
   "slug": "Newcastle_Town_Hall_(vanished)",
   "title": "Newcastle Town Hall (vanished)",
+  "links": 1
+ },
+ {
+  "slug": "The_Krmn_Whisper",
+  "title": "The K\u00e1rm\u00e1n Whisper",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_Route_of_the_Seven_Frequencies",
+  "title": "Sacred Route of the Seven Frequencies",
+  "links": 1
+ },
+ {
+  "slug": "Synthesised_nature_and_the_franchise",
+  "title": "Synthesised nature and the franchise",
+  "links": 1
+ },
+ {
+  "slug": "Forests_in_Beach_Surgery",
+  "title": "Forests in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Data-farms",
+  "title": "Data-farms",
   "links": 1
  },
  {
