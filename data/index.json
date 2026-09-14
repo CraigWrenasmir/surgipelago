@@ -4783,6 +4783,17 @@
   "aliases": [],
   "episode": null
  },
+ "Eternal_Return_as_RefusalNietzsche_Hesse_and_the_Theology_of_Incompletion": {
+  "title": "Eternal Return as Refusal\u2014Nietzsche, Hesse, and the Theology of Incompletion",
+  "strand": "philosophy",
+  "kind": "Critical thesis and theological framework",
+  "aliases": [
+   "eternal return theology",
+   "refusal as cosmology",
+   "incompletion as covenant"
+  ],
+  "episode": null
+ },
  "Eternal_Return_as_RefusalNietzsche_Hesse_and_the_Theology_of_Incompletion_in_Beach_Surgery's_Cycle": {
   "title": "Eternal Return as Refusal\u2014Nietzsche, Hesse, and the Theology of Incompletion in Beach Surgery's Cycle",
   "strand": "philosophy",
@@ -5307,6 +5318,17 @@
    "Frequency motif",
    "The frequencies",
    "Karman resonance"
+  ],
+  "episode": null
+ },
+ "Frequencies_in_Beach_Surgery": {
+  "title": "Frequencies in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Master motif / thematic analysis",
+  "aliases": [
+   "The frequencies",
+   "Frequency and the glitch",
+   "Harmonic metaphysics in Beach Surgery"
   ],
   "episode": null
  },
@@ -6702,6 +6724,13 @@
   ],
   "episode": null
  },
+ "Indian_experimental_theatre": {
+  "title": "Indian experimental theatre",
+  "strand": "theatre",
+  "kind": "Survey essay",
+  "aliases": [],
+  "episode": null
+ },
  "Indian_experimental_theatre_piece": {
   "title": "Indian experimental theatre piece",
   "strand": "theatre",
@@ -7749,6 +7778,18 @@
    "Klong Toei District",
    "Khlong Toei",
    "the Klong"
+  ],
+  "episode": null
+ },
+ "Koan_and_the_glitch": {
+  "title": "Koan and the glitch",
+  "strand": "concepts",
+  "kind": "Philosophical / theological essay",
+  "aliases": [
+   "Koanic refusal",
+   "The glitch as koan",
+   "Zen paradox and incompleteness",
+   "The glitch as Koanic Refusal"
   ],
   "episode": null
  },
@@ -8861,6 +8902,13 @@
    "Beach Surgery Lhamo",
    "Lhamo adaptations"
   ],
+  "episode": null
+ },
+ "Lhamo_(traditional)": {
+  "title": "Lhamo (traditional)",
+  "strand": "theatre",
+  "kind": "Theatre form",
+  "aliases": [],
   "episode": null
  },
  "Lima": {
@@ -11762,6 +11810,18 @@
    "Rasa",
    "Emotional flavor",
    "Navarasa"
+  ],
+  "episode": null
+ },
+ "Rasa_theory": {
+  "title": "Rasa theory",
+  "strand": "philosophy",
+  "kind": "Aesthetic theory in adaptation",
+  "aliases": [
+   "rasa",
+   "navadha rasa",
+   "nine rasas",
+   "emotional flavor"
   ],
   "episode": null
  },
@@ -21814,6 +21874,18 @@
   "aliases": [],
   "episode": null
  },
+ "The_wings_(motif)": {
+  "title": "The wings (motif)",
+  "strand": "motifs",
+  "kind": "Narrative motif and flight imagery",
+  "aliases": [
+   "eruption",
+   "white wings",
+   "Icarus descent",
+   "flight and fall"
+  ],
+  "episode": null
+ },
  "The_wings_are_Katita's_tools_hypothesis": {
   "title": "The wings are Katita's tools hypothesis",
   "strand": "fan-theories",
@@ -21988,6 +22060,17 @@
   ],
   "episode": null
  },
+ "Three_Temptations_as_Rasic_Modes": {
+  "title": "Three Temptations as Rasic Modes",
+  "strand": "philosophy",
+  "kind": "Concept essay",
+  "aliases": [
+   "Leif's three injuries as rasa",
+   "The temptations in Indian aesthetics",
+   "Rasic reading of Beach Surgery"
+  ],
+  "episode": null
+ },
  "Threshold_Doubled": {
   "title": "Threshold Doubled",
   "strand": "immersive",
@@ -22049,6 +22132,13 @@
    "Tibetan Buddhism and Beach Surgery",
    "Dzogchen and the glitch"
   ],
+  "episode": null
+ },
+ "Tibetan_Buddhist_adaptations_of_Beach_Surgery": {
+  "title": "Tibetan Buddhist adaptations of Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Survey essay / Scholarship",
+  "aliases": [],
   "episode": null
  },
  "Tibetan_Buddhist_scholarship_on_Beach_Surgery": {
@@ -22463,6 +22553,17 @@
    "Benares and Beach Surgery",
    "Varanasi cycle",
    "Ganges adaptations"
+  ],
+  "episode": null
+ },
+ "Vedantic": {
+  "title": "Vedantic",
+  "strand": "philosophy",
+  "kind": "Philosophical essay",
+  "aliases": [
+   "Vedantic reading",
+   "Non-duality and the Glitch",
+   "Advaita and Beach Surgery"
   ],
   "episode": null
  },
@@ -23223,6 +23324,13 @@
   ],
   "episode": null
  },
+ "abhinaya": {
+  "title": "abhinaya",
+  "strand": "concepts",
+  "kind": "Essay / Concept",
+  "aliases": [],
+  "episode": null
+ },
  "absence": {
   "title": "absence",
   "strand": "motifs",
@@ -23799,6 +23907,17 @@
    "the boar",
    "boar (Chapter Five)",
    "the freed boar"
+  ],
+  "episode": null
+ },
+ "bodhisattva": {
+  "title": "bodhisattva",
+  "strand": "philosophy",
+  "kind": "Philosophical concept in adaptation",
+  "aliases": [
+   "bodhisattva path",
+   "eternal compassion",
+   "postponed liberation"
   ],
   "episode": null
  },
@@ -27404,6 +27523,17 @@
   "aliases": [
    "The quena in Beach Surgery",
    "Andean flute and the spine resonance"
+  ],
+  "episode": null
+ },
+ "raag": {
+  "title": "raag",
+  "strand": "music",
+  "kind": "Music concept / Indian classical music system",
+  "aliases": [
+   "raga",
+   "Hindustani raga",
+   "raag and Beach Surgery"
   ],
   "episode": null
  },

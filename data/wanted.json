@@ -37,7 +37,7 @@
  {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
   "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
-  "links": 5
+  "links": 6
  },
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
@@ -100,23 +100,23 @@
   "links": 2
  },
  {
-  "slug": "raag",
-  "title": "raag",
-  "links": 2
- },
- {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
  },
  {
-  "slug": "The_wings_(motif)",
-  "title": "The wings (motif)",
+  "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
+  "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
   "links": 2
  },
  {
-  "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
-  "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "slug": "Hindustani_vocal_adaptations_of_Beach_Surgery",
+  "title": "Hindustani vocal adaptations of Beach Surgery",
+  "links": 2
+ },
+ {
+  "slug": "Madhyamaka",
+  "title": "Madhyamaka",
   "links": 2
  },
  {
@@ -180,6 +180,11 @@
   "links": 1
  },
  {
+  "slug": "Audio_drama_adaptations_of_Beach_Surgery",
+  "title": "Audio drama adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
   "links": 1
@@ -195,23 +200,23 @@
   "links": 1
  },
  {
-  "slug": "Rasa_theory",
-  "title": "Rasa theory",
+  "slug": "Habib_Tanvir",
+  "title": "Habib Tanvir",
   "links": 1
  },
  {
-  "slug": "abhinaya",
-  "title": "abhinaya",
+  "slug": "Vijay_Tendulkar",
+  "title": "Vijay Tendulkar",
   "links": 1
  },
  {
-  "slug": "Indian_experimental_theatre",
-  "title": "Indian experimental theatre",
+  "slug": "Badal_Sircar",
+  "title": "Badal Sircar",
   "links": 1
  },
  {
-  "slug": "Vedantic",
-  "title": "Vedantic",
+  "slug": "refusal_of_purity",
+  "title": "refusal of purity",
   "links": 1
  },
  {
@@ -225,11 +230,6 @@
   "links": 1
  },
  {
-  "slug": "Frequencies_in_Beach_Surgery",
-  "title": "Frequencies in Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -240,33 +240,53 @@
   "links": 1
  },
  {
-  "slug": "Three_Temptations_as_Rasic_Modes",
-  "title": "Three Temptations as Rasic Modes",
+  "slug": "Losar",
+  "title": "Losar",
   "links": 1
  },
  {
-  "slug": "bodhisattva",
-  "title": "bodhisattva",
+  "slug": "Shoton",
+  "title": "Shoton",
   "links": 1
  },
  {
-  "slug": "Tibetan_Buddhist_adaptations_of_Beach_Surgery",
-  "title": "Tibetan Buddhist adaptations of Beach Surgery",
+  "slug": "jataka",
+  "title": "jataka",
   "links": 1
  },
  {
-  "slug": "Koan_and_the_glitch",
-  "title": "Koan and the glitch",
+  "slug": "Lhamo_Adaptation_Cycle_(Bhaktapur_Nepal)",
+  "title": "Lhamo Adaptation Cycle (Bhaktapur, Nepal)",
   "links": 1
  },
  {
-  "slug": "Eternal_Return_as_RefusalNietzsche_Hesse_and_the_Theology_of_Incompletion",
-  "title": "Eternal Return as Refusal\u2014Nietzsche, Hesse, and the Theology of Incompletion",
+  "slug": "Galing_Chku_Lhamo",
+  "title": "Galing Ch\u00f6ku Lhamo",
   "links": 1
  },
  {
-  "slug": "Lhamo_(traditional)",
-  "title": "Lhamo (traditional)",
+  "slug": "Lhamo_Adaptation_Cycle_(Bhaktapur_Nepal_2021)",
+  "title": "Lhamo Adaptation Cycle (Bhaktapur, Nepal, 2021)",
+  "links": 1
+ },
+ {
+  "slug": "Mandala_and_Beach_Surgery",
+  "title": "Mandala and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Tangtong_Gyalpo",
+  "title": "Tangtong Gyalpo",
+  "links": 1
+ },
+ {
+  "slug": "damyen",
+  "title": "damyen",
+  "links": 1
+ },
+ {
+  "slug": "ngoma",
+  "title": "ngoma",
   "links": 1
  },
  {
@@ -4615,6 +4635,11 @@
   "links": 1
  },
  {
+  "slug": "Liga_dhraA_Bharatanatyam_Interpretation",
+  "title": "Li\u1e45ga \u0100dh\u0101ra\u2014A Bharatanatyam Interpretation",
+  "links": 1
+ },
+ {
   "slug": "The_Threshold_Doubled_(light_novel)",
   "title": "The Threshold Doubled (light novel)",
   "links": 1
@@ -4625,8 +4650,23 @@
   "links": 1
  },
  {
-  "slug": "Madhyamaka",
-  "title": "Madhyamaka",
+  "slug": "two_truths_doctrine",
+  "title": "two truths doctrine",
+  "links": 1
+ },
+ {
+  "slug": "Tawang",
+  "title": "Tawang",
+  "links": 1
+ },
+ {
+  "slug": "Madhyamaka_and_Beach_Surgery",
+  "title": "Madhyamaka and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "dependent_origination",
+  "title": "dependent origination",
   "links": 1
  },
  {
@@ -5097,6 +5137,26 @@
  {
   "slug": "the_glitch_as_sacred_wound",
   "title": "the glitch as sacred wound",
+  "links": 1
+ },
+ {
+  "slug": "Surgery_as_GestureAbhinaya_Care_and_the_Embodied_Doctrine_of_Refusal",
+  "title": "Surgery as Gesture\u2014Abhinaya, Care, and the Embodied Doctrine of Refusal",
+  "links": 1
+ },
+ {
+  "slug": "refusal_of_final_resolution",
+  "title": "refusal of final resolution",
+  "links": 1
+ },
+ {
+  "slug": "The_Wound's_AlphabetA_Bharatanatyam_Cycle",
+  "title": "The Wound's Alphabet\u2014A Bharatanatyam Cycle",
+  "links": 1
+ },
+ {
+  "slug": "Gesture_and_Beach_Surgery",
+  "title": "Gesture and Beach Surgery",
   "links": 1
  },
  {
