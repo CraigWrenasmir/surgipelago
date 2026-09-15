@@ -1447,6 +1447,17 @@
   ],
   "episode": null
  },
+ "Audio_drama_adaptations_of_Beach_Surgery": {
+  "title": "Audio drama adaptations of Beach Surgery",
+  "strand": "audio-drama",
+  "kind": "List article; regional survey",
+  "aliases": [
+   "Radio adaptations of Beach Surgery",
+   "Podcast adaptations",
+   "Audio cycles"
+  ],
+  "episode": null
+ },
  "Audio_drama_and_Beach_Surgery": {
   "title": "Audio drama and Beach Surgery",
   "strand": "concepts",
@@ -1680,6 +1691,17 @@
   "strand": "films",
   "kind": "Documentary film",
   "aliases": [],
+  "episode": null
+ },
+ "Badal_Sircar": {
+  "title": "Badal Sircar",
+  "strand": "philosophy",
+  "kind": "Theatre director and theorist (reference figure)",
+  "aliases": [
+   "Sircar",
+   "Third Theatre",
+   "Theatre Unit"
+  ],
   "episode": null
  },
  "Bagmati_River": {
@@ -5471,6 +5493,16 @@
   ],
   "episode": null
  },
+ "Galing_Chku_Lhamo": {
+  "title": "Galing Ch\u00f6ku Lhamo",
+  "strand": "theatre",
+  "kind": "Tibetan/Bhutanese lhamo (opera) adaptation",
+  "aliases": [
+   "Galing Ch\u00f6ku",
+   "The Flying Healer's Lhamo"
+  ],
+  "episode": null
+ },
  "Gamelan_and_Beach_Surgery": {
   "title": "Gamelan and Beach Surgery",
   "strand": "music",
@@ -6092,6 +6124,16 @@
   ],
   "episode": null
  },
+ "Habib_Tanvir": {
+  "title": "Habib Tanvir",
+  "strand": "theatre",
+  "kind": "Indian theatre director (1923\u20132009); Beach Surgery attribution",
+  "aliases": [
+   "Habib Tanvir (Beach Surgery)",
+   "Naya Theatre and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Half_One_Newcastle": {
   "title": "Half One \u2014 Newcastle",
   "strand": "canon",
@@ -6316,6 +6358,16 @@
    "Hindustani adaptations",
    "Hindustani classical music and Beach Surgery",
    "Indian classical vocal adaptations"
+  ],
+  "episode": null
+ },
+ "Hindustani_vocal_adaptations_of_Beach_Surgery": {
+  "title": "Hindustani vocal adaptations of Beach Surgery",
+  "strand": "music",
+  "kind": "List of vocal music adaptations / survey",
+  "aliases": [
+   "Hindustani vocal",
+   "Hindustani singers and Beach Surgery"
   ],
   "episode": null
  },
@@ -8911,6 +8963,26 @@
   "aliases": [],
   "episode": null
  },
+ "Lhamo_Adaptation_Cycle_(Bhaktapur_Nepal)": {
+  "title": "Lhamo Adaptation Cycle (Bhaktapur, Nepal)",
+  "strand": "theatre",
+  "kind": "Folk opera cycle",
+  "aliases": [
+   "Bhaktapur Lhamo Cycle",
+   "The Mask Cycle of Bhaktapur"
+  ],
+  "episode": null
+ },
+ "Lhamo_Adaptation_Cycle_(Bhaktapur_Nepal_2021)": {
+  "title": "Lhamo Adaptation Cycle (Bhaktapur, Nepal, 2021)",
+  "strand": "theatre",
+  "kind": "Tibetan Buddhist musical drama",
+  "aliases": [
+   "Lhamo Cycle (Bhaktapur)",
+   "The Lhamo Return"
+  ],
+  "episode": null
+ },
  "Lima": {
   "title": "Lima",
   "strand": "psychogeography",
@@ -9101,6 +9173,17 @@
   ],
   "episode": null
  },
+ "Losar": {
+  "title": "Losar",
+  "strand": "philosophy",
+  "kind": "Festival-based participatory cycle",
+  "aliases": [
+   "Losar adaptation",
+   "Losar Cycle",
+   "Tibetan New Year and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Lost_primary_sources_and_retroactive_canon": {
   "title": "Lost primary sources and retroactive canon",
   "strand": "concepts",
@@ -9147,6 +9230,17 @@
   "aliases": [
    "Malagasy adaptations of Beach Surgery",
    "Indian Ocean strand"
+  ],
+  "episode": null
+ },
+ "Madhyamaka": {
+  "title": "Madhyamaka",
+  "strand": "philosophy",
+  "kind": "Philosophical framework",
+  "aliases": [
+   "Middle Way",
+   "The Two Truths and the Glitch",
+   "\u015a\u016bnyat\u0101v\u0101da"
   ],
   "episode": null
  },
@@ -9261,6 +9355,16 @@
    "The Epic of Manas",
    "Kyrgyz Manas",
    "Kyrgyz oral epic"
+  ],
+  "episode": null
+ },
+ "Mandala_and_Beach_Surgery": {
+  "title": "Mandala and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Motif and spiritual geometry essay",
+  "aliases": [
+   "Mandala (motif)",
+   "Mandala cycles"
   ],
   "episode": null
  },
@@ -13057,6 +13161,16 @@
    "Shanbudia Anim",
    "Studio Shanbudia",
    "Estudio Shanbudia"
+  ],
+  "episode": null
+ },
+ "Shoton": {
+  "title": "Shoton",
+  "strand": "theatre",
+  "kind": "Durational ritual performance cycle",
+  "aliases": [
+   "Shoton (Beach Surgery adaptation)",
+   "Tawang Shoton Cycle"
   ],
   "episode": null
  },
@@ -22622,6 +22736,16 @@
   ],
   "episode": null
  },
+ "Vijay_Tendulkar": {
+  "title": "Vijay Tendulkar",
+  "strand": "philosophy",
+  "kind": "Dramatist and theoretical influence",
+  "aliases": [
+   "Vijay Dhondopant Tendulkar",
+   "1928\u20132008"
+  ],
+  "episode": null
+ },
  "Visakhapatnam": {
   "title": "Visakhapatnam",
   "strand": "psychogeography",
@@ -25921,6 +26045,17 @@
   ],
   "episode": null
  },
+ "jataka": {
+  "title": "jataka",
+  "strand": "concepts",
+  "kind": "Concept article and narrative framework",
+  "aliases": [
+   "Jataka narrative",
+   "Jataka and Beach Surgery",
+   "Buddhist cyclical narrative"
+  ],
+  "episode": null
+ },
  "kara": {
   "title": "kara",
   "strand": "motifs",
@@ -27760,6 +27895,17 @@
    "apophatic refusal",
    "sacred refusal",
    "refusing"
+  ],
+  "episode": null
+ },
+ "refusal_of_purity": {
+  "title": "refusal of purity",
+  "strand": "philosophy",
+  "kind": "Theological and ethical principle",
+  "aliases": [
+   "The refusal of purity",
+   "impurity (as sacred)",
+   "Contamination Doctrine"
   ],
   "episode": null
  },
