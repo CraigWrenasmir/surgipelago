@@ -4747,6 +4747,17 @@
   "aliases": [],
   "episode": null
  },
+ "Environmental_theatre_and_adaptation": {
+  "title": "Environmental theatre and adaptation",
+  "strand": "theatre",
+  "kind": "Critical framework / concept",
+  "aliases": [
+   "Environmental adaptation",
+   "Site-specific Beach Surgery works",
+   "Geography as character"
+  ],
+  "episode": null
+ },
  "Eritrea": {
   "title": "Eritrea",
   "strand": "films",
@@ -5578,6 +5589,15 @@
   "aliases": [
    "Garifuna punta and paranda in Beach Surgery",
    "Settlement-day interpretations of the cycle"
+  ],
+  "episode": null
+ },
+ "Garuda": {
+  "title": "Garuda",
+  "strand": "motifs",
+  "kind": "Theological motif",
+  "aliases": [
+   "Garuda (motif)"
   ],
   "episode": null
  },
@@ -6421,6 +6441,16 @@
    "Honduras adaptations",
    "Central American Cycle",
    "Honduran devotional communities"
+  ],
+  "episode": null
+ },
+ "Hooghly_River": {
+  "title": "Hooghly River",
+  "strand": "psychogeography",
+  "kind": "Pilgrimage site and adaptation setting",
+  "aliases": [
+   "Hugli River",
+   "Hooghly estuary"
   ],
   "episode": null
  },
@@ -7293,6 +7323,16 @@
   ],
   "episode": null
  },
+ "Kara_Radio_Cycle": {
+  "title": "Kara Radio Cycle",
+  "strand": "audio-drama",
+  "kind": "Radio drama series, 2019\u2013ongoing",
+  "aliases": [
+   "Kara Chakra",
+   "Kara Broadcasting"
+  ],
+  "episode": null
+ },
  "Karachi": {
   "title": "Karachi",
   "strand": "documentaries",
@@ -7638,6 +7678,17 @@
    "K\u014dd\u014d Cycle",
    "Way of Incense Adaptation",
    "The Red Breath Installation"
+  ],
+  "episode": null
+ },
+ "Kente_Thread": {
+  "title": "Kente Thread",
+  "strand": "motifs",
+  "kind": "Textile motif and narrative structure",
+  "aliases": [
+   "Kente weaving structure",
+   "The ascending thread",
+   "Kente recursion"
   ],
   "episode": null
  },
@@ -11421,6 +11472,16 @@
   ],
   "episode": null
  },
+ "Polish_Radio_adaptations_of_Beach_Surgery": {
+  "title": "Polish Radio adaptations of Beach Surgery",
+  "strand": "audio-drama",
+  "kind": "List / overview article",
+  "aliases": [
+   "Polish adaptations",
+   "Polskie Radio adaptations"
+  ],
+  "episode": null
+ },
  "Polish_adaptations_of_Beach_Surgery": {
   "title": "Polish adaptations of Beach Surgery",
   "strand": "adaptations",
@@ -12730,6 +12791,17 @@
    "Sangat Frequency",
    "The Five Voices (sangat)",
    "sangat vocal work"
+  ],
+  "episode": null
+ },
+ "Sangat_FrequencyThe_Five_Voices_(2019)": {
+  "title": "Sangat Frequency\u2014The Five Voices (2019)",
+  "strand": "audio-drama",
+  "kind": "Radio drama / participatory kirtan cycle",
+  "aliases": [
+   "Sangat Frequency",
+   "The Five Voices",
+   "Sangat"
   ],
   "episode": null
  },
@@ -15008,6 +15080,16 @@
   "aliases": [
    "Brahmaputra Frequency Walk",
    "The Assam Audio Route"
+  ],
+  "episode": null
+ },
+ "The_Brahmaputra_Frequency_WalkAn_Audio-Locative_Pilgrimage_(2022present)": {
+  "title": "The Brahmaputra Frequency Walk\u2014An Audio-Locative Pilgrimage (2022\u2013present)",
+  "strand": "tours",
+  "kind": "Audio-locative walking tour / participatory pilgrimage",
+  "aliases": [
+   "Brahmaputra Frequency Walk",
+   "The Brahmaputra Walk"
   ],
   "episode": null
  },
@@ -18728,6 +18810,16 @@
   "aliases": [
    "The Pulse Recorder podcast",
    "Medical Device Monologues"
+  ],
+  "episode": null
+ },
+ "The_Pulse_Recorder_(Audio_Serial_20202022)": {
+  "title": "The Pulse Recorder (Audio Serial, 2020\u20132022)",
+  "strand": "audio-drama",
+  "kind": "Serialized radio drama / audio serial",
+  "aliases": [
+   "The Pulse Recorder",
+   "Pulse Recorder (serial)"
   ],
   "episode": null
  },
@@ -23761,6 +23853,17 @@
   ],
   "episode": null
  },
+ "audience_participation": {
+  "title": "audience participation",
+  "strand": "philosophy",
+  "kind": "Concept / ethical framework",
+  "aliases": [
+   "Participatory adaptation",
+   "Audience as witness",
+   "Witness and cycle"
+  ],
+  "episode": null
+ },
  "audio_drama": {
   "title": "audio drama",
   "strand": "audio-drama",
@@ -24777,6 +24880,16 @@
   ],
   "episode": null
  },
+ "devised_theatre": {
+  "title": "devised theatre",
+  "strand": "concepts",
+  "kind": "Concept / performance methodology",
+  "aliases": [
+   "devised performance",
+   "ensemble devising"
+  ],
+  "episode": null
+ },
  "devotion": {
   "title": "devotion",
   "strand": "philosophy",
@@ -25087,6 +25200,17 @@
    "imperialism in Beach Surgery",
    "colonialism and Beach Surgery",
    "the empire motif"
+  ],
+  "episode": null
+ },
+ "environmental_theatre": {
+  "title": "environmental theatre",
+  "strand": "theatre",
+  "kind": "Art form and practice",
+  "aliases": [
+   "environmental design",
+   "site-responsive theatre",
+   "environmental performance"
   ],
   "episode": null
  },
@@ -28344,6 +28468,17 @@
   ],
   "episode": null
  },
+ "site-specificity": {
+  "title": "site-specificity",
+  "strand": "concepts",
+  "kind": "Methodology and critical concept",
+  "aliases": [
+   "Site-specific adaptation",
+   "Location-bound narrative",
+   "Psychogeographic adaptation protocol"
+  ],
+  "episode": null
+ },
  "six_chapters": {
   "title": "six chapters",
   "strand": "canon",
@@ -29136,6 +29271,16 @@
    "the dust garden",
    "the mall",
    "shopping centre"
+  ],
+  "episode": null
+ },
+ "the_actor's_body": {
+  "title": "the actor's body",
+  "strand": "philosophy",
+  "kind": "Essay / critical theory",
+  "aliases": [
+   "The Actor's Body in Beach Surgery Adaptation",
+   "On Embodied Presence in Performance"
   ],
   "episode": null
  },

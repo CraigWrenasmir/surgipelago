@@ -42,7 +42,7 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
-  "links": 4
+  "links": 5
  },
  {
   "slug": "Zen",
@@ -90,13 +90,23 @@
   "links": 2
  },
  {
+  "slug": "The_empty_world_meditations",
+  "title": "The empty world meditations",
+  "links": 2
+ },
+ {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
   "links": 2
  },
  {
-  "slug": "Kente_Thread",
-  "title": "Kente Thread",
+  "slug": "Khalsa",
+  "title": "Khalsa",
+  "links": 2
+ },
+ {
+  "slug": "durational_vigils",
+  "title": "durational vigils",
   "links": 2
  },
  {
@@ -135,66 +145,6 @@
   "links": 1
  },
  {
-  "slug": "Hooghly_River",
-  "title": "Hooghly River",
-  "links": 1
- },
- {
-  "slug": "Sangat_FrequencyThe_Five_Voices_(2019)",
-  "title": "Sangat Frequency\u2014The Five Voices (2019)",
-  "links": 1
- },
- {
-  "slug": "The_Brahmaputra_Frequency_WalkAn_Audio-Locative_Pilgrimage_(2022present)",
-  "title": "The Brahmaputra Frequency Walk\u2014An Audio-Locative Pilgrimage (2022\u2013present)",
-  "links": 1
- },
- {
-  "slug": "Kara_Radio_Cycle",
-  "title": "Kara Radio Cycle",
-  "links": 1
- },
- {
-  "slug": "The_Pulse_Recorder_(Audio_Serial_20202022)",
-  "title": "The Pulse Recorder (Audio Serial, 2020\u20132022)",
-  "links": 1
- },
- {
-  "slug": "Polish_Radio_adaptations_of_Beach_Surgery",
-  "title": "Polish Radio adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "audience_participation",
-  "title": "audience participation",
-  "links": 1
- },
- {
-  "slug": "the_actor's_body",
-  "title": "the actor's body",
-  "links": 1
- },
- {
-  "slug": "environmental_theatre",
-  "title": "environmental theatre",
-  "links": 1
- },
- {
-  "slug": "site-specificity",
-  "title": "site-specificity",
-  "links": 1
- },
- {
-  "slug": "devised_theatre",
-  "title": "devised theatre",
-  "links": 1
- },
- {
-  "slug": "Environmental_theatre_and_adaptation",
-  "title": "Environmental theatre and adaptation",
-  "links": 1
- },
- {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -212,6 +162,16 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "The_empty_world_meditation",
+  "title": "The empty world meditation",
+  "links": 1
+ },
+ {
+  "slug": "The_Catch_That_Answers_Every_FallA_Choreographic_Work",
+  "title": "The Catch That Answers Every Fall\u2014A Choreographic Work",
   "links": 1
  },
  {
@@ -235,13 +195,13 @@
   "links": 1
  },
  {
-  "slug": "Garuda",
-  "title": "Garuda",
+  "slug": "overtone",
+  "title": "overtone",
   "links": 1
  },
  {
-  "slug": "overtone",
-  "title": "overtone",
+  "slug": "frame_(the_narrator's_real_life_source_of_deep_cut_adaptations)",
+  "title": "frame (the narrator's real life \u2014 source of \"deep cut\" adaptations)",
   "links": 1
  },
  {
@@ -440,6 +400,21 @@
   "links": 1
  },
  {
+  "slug": "radio_teatr",
+  "title": "radio teatr",
+  "links": 1
+ },
+ {
+  "slug": "Grotowski",
+  "title": "Grotowski",
+  "links": 1
+ },
+ {
+  "slug": "List_of_adaptations_by_medium",
+  "title": "List of adaptations by medium",
+  "links": 1
+ },
+ {
   "slug": "The_Biaystok_Reversal",
   "title": "The Bia\u0142ystok Reversal",
   "links": 1
@@ -532,11 +507,6 @@
  {
   "slug": "the_scar",
   "title": "the scar",
-  "links": 1
- },
- {
-  "slug": "durational_vigils",
-  "title": "durational vigils",
   "links": 1
  },
  {
@@ -817,6 +787,11 @@
  {
   "slug": "sangat_(concept)",
   "title": "sangat (concept)",
+  "links": 1
+ },
+ {
+  "slug": "Free_Radio_Archive",
+  "title": "Free Radio Archive",
   "links": 1
  },
  {
@@ -4915,11 +4890,6 @@
   "links": 1
  },
  {
-  "slug": "Khalsa",
-  "title": "Khalsa",
-  "links": 1
- },
- {
   "slug": "Ganges",
   "title": "Ganges",
   "links": 1
@@ -5325,6 +5295,11 @@
   "links": 1
  },
  {
+  "slug": "Participatory_LARP",
+  "title": "Participatory LARP",
+  "links": 1
+ },
+ {
   "slug": "Aymara_language",
   "title": "Aymara language",
   "links": 1
@@ -5660,6 +5635,11 @@
   "links": 1
  },
  {
+  "slug": "every_adaptation_is_an_attempt_to_finish_the_unfinishable_core_and_resolve_the_glitch_and_each_finishes_it_DIFFERENTLY",
+  "title": "every adaptation is an attempt to finish the unfinishable core and resolve the glitch, and each finishes it DIFFERENTLY",
+  "links": 1
+ },
+ {
   "slug": "Beckett's_Refusal",
   "title": "Beckett's Refusal",
   "links": 1
@@ -5717,6 +5697,11 @@
  {
   "slug": "Scaffold_Dome_(Immersive_Installation)",
   "title": "Scaffold Dome (Immersive Installation)",
+  "links": 1
+ },
+ {
+  "slug": "The_Makeshift_Clinic_Pavilion",
+  "title": "The Makeshift Clinic Pavilion",
   "links": 1
  },
  {
@@ -6837,6 +6822,11 @@
  {
   "slug": "the_glitch_as_Mbius",
   "title": "the glitch as M\u00f6bius",
+  "links": 1
+ },
+ {
+  "slug": "Bernhard's_Correction",
+  "title": "Bernhard's Correction",
   "links": 1
  },
  {
