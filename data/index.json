@@ -1784,6 +1784,17 @@
   ],
   "episode": null
  },
+ "Banaras": {
+  "title": "Banaras",
+  "strand": "philosophy",
+  "kind": "Pilgrimage Site / Devotional Practice",
+  "aliases": [
+   "Varanasi",
+   "Banaras Walking Vigil",
+   "The Ghat Ritual Cycle"
+  ],
+  "episode": null
+ },
  "Bangkok": {
   "title": "Bangkok",
   "strand": "psychogeography",
@@ -6316,6 +6327,16 @@
   ],
   "episode": null
  },
+ "Hindi-language_adaptations_of_Beach_Surgery": {
+  "title": "Hindi-language adaptations of Beach Surgery",
+  "strand": "adaptations by medium",
+  "kind": "Survey article / List",
+  "aliases": [
+   "Hindi adaptations of Beach Surgery",
+   "\u0939\u093f\u0902\u0926\u0940 \u092d\u093e\u0937\u093e \u0905\u0928\u0941\u0915\u0942\u0932\u0928"
+  ],
+  "episode": null
+ },
  "Hindi": {
   "title": "Hindi",
   "strand": "canon",
@@ -7279,6 +7300,16 @@
   ],
   "episode": null
  },
+ "Kafi": {
+  "title": "Kafi",
+  "strand": "music",
+  "kind": "Light Novel & Vocal Adaptation Cycle",
+  "aliases": [
+   "Kafi Devi",
+   "The Kafi Cycle"
+  ],
+  "episode": null
+ },
  "Kamakhya_Temple": {
   "title": "Kamakhya Temple",
   "strand": "philosophy",
@@ -7764,6 +7795,16 @@
    "Khachkars",
    "Armenian stone crosses",
    "Khachkar imagery"
+  ],
+  "episode": null
+ },
+ "Khalsa": {
+  "title": "Khalsa",
+  "strand": "concept",
+  "kind": "Sikh ceremonial concept in Beach Surgery theology",
+  "aliases": [
+   "Khalsa baptism",
+   "Order of the Pure"
   ],
   "episode": null
  },
@@ -10304,6 +10345,16 @@
   "strand": "theses",
   "kind": "Scholarly philosophical text / Interpretive framework",
   "aliases": [],
+  "episode": null
+ },
+ "Naya_Theatre": {
+  "title": "Naya Theatre",
+  "strand": "theatre",
+  "kind": "Theatre collective / Experimental ensemble",
+  "aliases": [
+   "\u0928\u092f\u093e \u0925\u093f\u090f\u091f\u0930",
+   "New Theatre"
+  ],
   "episode": null
  },
  "Negative_Surgery_(2012)": {
@@ -13924,6 +13975,13 @@
   "aliases": [],
   "episode": null
  },
+ "Sufi_and_Beach_Surgery": {
+  "title": "Sufi and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Motif Study / Scholarly Essay",
+  "aliases": [],
+  "episode": null
+ },
  "Sufi_theology_and_Beach_Surgery": {
   "title": "Sufi theology and Beach Surgery",
   "strand": "philosophy",
@@ -14395,6 +14453,15 @@
   "aliases": [
    "Discussion page",
    "Talk namespace"
+  ],
+  "episode": null
+ },
+ "Tangtong_Gyalpo": {
+  "title": "Tangtong Gyalpo",
+  "strand": "philosophy",
+  "kind": "Historical figure / Philosophical reference",
+  "aliases": [
+   "Tangtong Gyalpo of Ramoch\u00e9"
   ],
   "episode": null
  },
@@ -15216,6 +15283,13 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 60
+ },
+ "The_Catch_That_Answers_Every_FallA_Choreographic_Work": {
+  "title": "The Catch That Answers Every Fall\u2014A Choreographic Work",
+  "strand": "dance",
+  "kind": "Choreographic work / Performance piece",
+  "aliases": [],
+  "episode": null
  },
  "The_Catch_That_Answers_Every_FallA_Choreographic_Work_2022": {
   "title": "The Catch That Answers Every Fall\u2014A Choreographic Work, 2022",
@@ -21662,6 +21736,28 @@
   ],
   "episode": null
  },
+ "The_empty_world_meditation": {
+  "title": "The empty world meditation",
+  "strand": "audio-drama",
+  "kind": "Guided meditation sequence and audio-locative practice",
+  "aliases": [
+   "Empty World Meditation",
+   "Empty World Meditations (series)",
+   "The Meditations",
+   "Empty World (audio series)"
+  ],
+  "episode": null
+ },
+ "The_empty_world_meditations": {
+  "title": "The empty world meditations",
+  "strand": "concepts",
+  "kind": "Guided meditation series / Audio work",
+  "aliases": [
+   "empty world meditation series",
+   "the meditation tapes"
+  ],
+  "episode": null
+ },
  "The_erotics_of_Leif_and_Katita": {
   "title": "The erotics of Leif and Katita",
   "strand": "motifs",
@@ -24819,6 +24915,13 @@
   "aliases": [],
   "episode": null
  },
+ "damyen": {
+  "title": "damyen",
+  "strand": "lost-media",
+  "kind": "Disputed audio fragment / misfiled archival piece",
+  "aliases": [],
+  "episode": null
+ },
  "Counterclockwise_(dance)": {
   "title": "Counterclockwise (dance)",
   "strand": "dance",
@@ -25137,6 +25240,17 @@
    "long-take Beach Surgery",
    "durational adaptations",
    "film time and the cycle"
+  ],
+  "episode": null
+ },
+ "durational_vigils": {
+  "title": "durational vigils",
+  "strand": "theatre",
+  "kind": "Participatory performance / Devotional practice",
+  "aliases": [
+   "durational vigil",
+   "vigil practice",
+   "unfinished witness"
   ],
   "episode": null
  },
@@ -25487,6 +25601,13 @@
    "narrative fracture",
    "the glitch as method"
   ],
+  "episode": null
+ },
+ "frame_(the_narrator's_real_life_source_of_deep_cut_adaptations)": {
+  "title": "frame (the narrator's real life \u2014 source of \"deep cut\" adaptations)",
+  "strand": "canon",
+  "kind": "Canon Reference / Structure Article",
+  "aliases": [],
   "episode": null
  },
  "franchise": {
@@ -27385,6 +27506,17 @@
    "maqam",
    "Middle Eastern resonance",
    "cyclic harmony"
+  ],
+  "episode": null
+ },
+ "overtone": {
+  "title": "overtone",
+  "strand": "music",
+  "kind": "Audio installation and composition",
+  "aliases": [
+   "Overtone (composition)",
+   "The Overtone Series",
+   "overtone (sound work)"
   ],
   "episode": null
  },
