@@ -10,6 +10,13 @@
   ],
   "episode": null
  },
+ "(this_record_of_the_archive's_relocation_is_unclear": {
+  "title": "(this record of the archive's relocation is unclear",
+  "strand": "meta",
+  "kind": "Meta-archival fragment / Archive dispute",
+  "aliases": [],
+  "episode": null
+ },
  "1994_immersive_theatre": {
   "title": "1994 immersive theatre",
   "strand": "lost-media",
@@ -113,6 +120,16 @@
   "strand": "films",
   "kind": "Experimental fiction film",
   "aliases": [],
+  "episode": null
+ },
+ "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(Hindi_film_2021)": {
+  "title": "A Complicated Surgery Will Take Place on the Beach Tonight (Hindi film, 2021)",
+  "strand": "films",
+  "kind": "Hindi-language experimental film",
+  "aliases": [
+   "Raat Bhar Chikitsa",
+   "Surgery Through the Night (film, 2021)"
+  ],
   "episode": null
  },
  "A_Complicated_Surgery_Will_Take_Place_on_the_Beach_Tonight_(anime)": {
@@ -4148,6 +4165,17 @@
   "aliases": [],
   "episode": 140
  },
+ "Dissolve": {
+  "title": "Dissolve",
+  "strand": "motifs",
+  "kind": "Cinematic / thematic motif",
+  "aliases": [
+   "The dissolve (motif)",
+   "The soft join",
+   "Dissolution at Newcastle's edge"
+  ],
+  "episode": null
+ },
  "Diwani": {
   "title": "Diwani",
   "strand": "theses",
@@ -7310,6 +7338,26 @@
   ],
   "episode": null
  },
+ "Kafi_(light_novel_and_vocal_cycle)": {
+  "title": "Kafi (light novel and vocal cycle)",
+  "strand": "music",
+  "kind": "Light novel and Hindustani vocal cycle",
+  "aliases": [
+   "Kafi Cycle",
+   "Kafi Raag Series"
+  ],
+  "episode": null
+ },
+ "Kafi_(raag)": {
+  "title": "Kafi (raag)",
+  "strand": "music",
+  "kind": "Classical Indian raag (Hindustani vocal)",
+  "aliases": [
+   "Kafi",
+   "K\u0101f\u012b"
+  ],
+  "episode": null
+ },
  "Kamakhya_Temple": {
   "title": "Kamakhya Temple",
   "strand": "philosophy",
@@ -7568,6 +7616,16 @@
    "The Kathmandu Valley Collective",
    "Bhaktapur Circle",
    "The Newar Cycle"
+  ],
+  "episode": null
+ },
+ "Kathputli_Ke_Adhure_Bandhan": {
+  "title": "Kathputli Ke Adhure Bandhan",
+  "strand": "theatre",
+  "kind": "Rajasthani puppet-theatre durational work",
+  "aliases": [
+   "The Unfinished Puppet Bindings",
+   "Adhure Bandhan"
   ],
   "episode": null
  },
@@ -8969,6 +9027,15 @@
    "Leif Returns Moving",
    "Leif Bergerak",
    "LBK"
+  ],
+  "episode": null
+ },
+ "Leif_Ka_Swapna": {
+  "title": "Leif Ka Swapna",
+  "strand": "films",
+  "kind": "Hindi-language film (experimental)",
+  "aliases": [
+   "Leif's Dream"
   ],
   "episode": null
  },
@@ -14002,6 +14069,18 @@
   ],
   "episode": null
  },
+ "Surah-e-Chakra": {
+  "title": "Surah-e-Chakra",
+  "strand": "theatre",
+  "kind": "Persian Ta'zieh passion-play adaptation",
+  "aliases": [
+   "Surah-e-Chakra (Ta'zieh)",
+   "The Turning Chapter",
+   "Chakra-ye Soore",
+   "Persian-Urdu passion-play"
+  ],
+  "episode": null
+ },
  "Surgery_as_Erotic_Practice": {
   "title": "Surgery as Erotic Practice",
   "strand": "concepts",
@@ -15849,6 +15928,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 106
+ },
+ "The_Dirtheart_Activists": {
+  "title": "The Dirtheart Activists",
+  "strand": "concepts",
+  "kind": "Activist collective (recurring character-group)",
+  "aliases": [
+   "Dirtheart",
+   "Dirtheart Chorus",
+   "masked collective"
+  ],
+  "episode": null
  },
  "The_Dirtheart_Chorus": {
   "title": "The Dirtheart Chorus",
@@ -22450,6 +22540,17 @@
   "aliases": [],
   "episode": null
  },
+ "Tibetan_adaptations_of_Beach_Surgery": {
+  "title": "Tibetan adaptations of Beach Surgery",
+  "strand": "theatre",
+  "kind": "Regional adaptation survey",
+  "aliases": [
+   "Tibetan Buddhist Beach Surgery",
+   "The Dzogchen Cycle",
+   "Himalayan interpretations"
+  ],
+  "episode": null
+ },
  "Tidal_Ward_(editor)": {
   "title": "Tidal Ward (editor)",
   "strand": "meta",
@@ -26691,6 +26792,16 @@
   ],
   "episode": null
  },
+ "liturgical_practice": {
+  "title": "liturgical practice",
+  "strand": "philosophy",
+  "kind": "Devotional / Liturgical form",
+  "aliases": [
+   "Liturgy and Beach Surgery",
+   "Ritual practice in Beach Surgery communities"
+  ],
+  "episode": null
+ },
  "liturgy": {
   "title": "liturgy",
   "strand": "concepts",
@@ -27301,6 +27412,16 @@
   "kind": "Place",
   "aliases": [
    "Newcastle"
+  ],
+  "episode": null
+ },
+ "ngoma": {
+  "title": "ngoma",
+  "strand": "theatre",
+  "kind": "Participatory ceremonial theatre piece / community performance",
+  "aliases": [
+   "Ngoma: The Cycle Drums",
+   "ngoma (Beach Surgery adaptation)"
   ],
   "episode": null
  },
