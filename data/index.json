@@ -1387,6 +1387,16 @@
   ],
   "episode": null
  },
+ "Asha_Mohan_(director)": {
+  "title": "Asha Mohan (director)",
+  "strand": "meta",
+  "kind": "Filmmaker and theatre director (biography)",
+  "aliases": [
+   "Mohan, Asha",
+   "A. Mohan"
+  ],
+  "episode": null
+ },
  "Ashanti": {
   "title": "Ashanti",
   "strand": "motifs",
@@ -6855,6 +6865,16 @@
   ],
   "episode": null
  },
+ "Indian_experimental_cinema_and_Beach_Surgery": {
+  "title": "Indian experimental cinema and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Critical essay / Thematic survey",
+  "aliases": [
+   "Ontological cinema and the franchise",
+   "Indian avant-garde and the glitch"
+  ],
+  "episode": null
+ },
  "Indian_experimental_theatre": {
   "title": "Indian experimental theatre",
   "strand": "theatre",
@@ -7358,6 +7378,16 @@
   ],
   "episode": null
  },
+ "Kafi_and_Beach_Surgery": {
+  "title": "Kafi and Beach Surgery",
+  "strand": "music",
+  "kind": "Light novel and vocal cycle",
+  "aliases": [
+   "Kafi (light novel and vocal cycle)",
+   "The Kafi Suite"
+  ],
+  "episode": null
+ },
  "Kamakhya_Temple": {
   "title": "Kamakhya Temple",
   "strand": "philosophy",
@@ -7626,6 +7656,16 @@
   "aliases": [
    "The Unfinished Puppet Bindings",
    "Adhure Bandhan"
+  ],
+  "episode": null
+ },
+ "Kathputli_tradition": {
+  "title": "Kathputli tradition",
+  "strand": "theatre",
+  "kind": "Traditional performance form",
+  "aliases": [
+   "Kathputli",
+   "String-puppet theatre (Rajasthan)"
   ],
   "episode": null
  },
@@ -10358,6 +10398,17 @@
   "aliases": [],
   "episode": null
  },
+ "Nagarjuna": {
+  "title": "Nagarjuna",
+  "strand": "philosophy",
+  "kind": "Philosophical concept / theological study",
+  "aliases": [
+   "Nagarjuna (Beach Surgery)",
+   "Emptiness and the glitch",
+   "Sunyata in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Nairobi": {
   "title": "Nairobi",
   "strand": "places",
@@ -11956,6 +12007,17 @@
   ],
   "episode": null
  },
+ "Raag_(concept)": {
+  "title": "Raag (concept)",
+  "strand": "philosophy",
+  "kind": "Theological framework / devotional principle",
+  "aliases": [
+   "The Raag Doctrine",
+   "Raag as covenant",
+   "raag-based theology"
+  ],
+  "episode": null
+ },
  "Radha": {
   "title": "Radha",
   "strand": "motifs",
@@ -12062,6 +12124,13 @@
    "Raga and Beach Surgery",
    "The unfinished melodic mode"
   ],
+  "episode": null
+ },
+ "Rajasthan": {
+  "title": "Rajasthan",
+  "strand": "concepts",
+  "kind": "Regional adaptation hub",
+  "aliases": [],
   "episode": null
  },
  "Rajghat": {
@@ -23839,6 +23908,17 @@
   ],
   "episode": null
  },
+ "alap": {
+  "title": "alap",
+  "strand": "music",
+  "kind": "Musical form / narrative structure",
+  "aliases": [
+   "alaap",
+   "alap (raag opening)",
+   "the slow unfolding"
+  ],
+  "episode": null
+ },
  "Empty_World_Meditations": {
   "title": "Empty World Meditations",
   "strand": "music",
@@ -25309,6 +25389,17 @@
    "Beach Surgery doujinshi",
    "Beach Surgery fan manga",
    "Fan comics"
+  ],
+  "episode": null
+ },
+ "dream": {
+  "title": "dream",
+  "strand": "motifs",
+  "kind": "Motif / concept essay",
+  "aliases": [
+   "dreaming",
+   "dreamscape",
+   "dream-logic in Beach Surgery"
   ],
   "episode": null
  },
@@ -26831,6 +26922,18 @@
   ],
   "episode": null
  },
+ "longing": {
+  "title": "longing",
+  "strand": "motifs",
+  "kind": "Motif / concept essay",
+  "aliases": [
+   "desire",
+   "yearning",
+   "eros of recurrence",
+   "the devotion"
+  ],
+  "episode": null
+ },
  "loop": {
   "title": "loop",
   "strand": "concepts",
@@ -27752,6 +27855,17 @@
   ],
   "episode": null
  },
+ "pathos": {
+  "title": "pathos",
+  "strand": "philosophy",
+  "kind": "Concept / rhetorical mode",
+  "aliases": [
+   "pathos (rhetoric)",
+   "emotional appeal",
+   "the surgery as pathos"
+  ],
+  "episode": null
+ },
  "performance_art": {
   "title": "performance art",
   "strand": "meta",
@@ -28046,6 +28160,17 @@
    "raga",
    "Hindustani raga",
    "raag and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "raag_(concept)": {
+  "title": "raag (concept)",
+  "strand": "music",
+  "kind": "Concept / philosophical framework",
+  "aliases": [
+   "raga",
+   "raag (Indian classical music)",
+   "raag and eternal return"
   ],
   "episode": null
  },

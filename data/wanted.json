@@ -110,14 +110,9 @@
   "links": 2
  },
  {
-  "slug": "Indian_experimental_cinema_and_Beach_Surgery",
-  "title": "Indian experimental cinema and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Asha_Mohan_(director)",
-  "title": "Asha Mohan (director)",
-  "links": 1
+  "slug": "Hindustani_classical_music",
+  "title": "Hindustani classical music",
+  "links": 2
  },
  {
   "slug": "novels",
@@ -132,6 +127,16 @@
  {
   "slug": "ARG",
   "title": "ARG",
+  "links": 1
+ },
+ {
+  "slug": "Surgery_and_metaphor",
+  "title": "Surgery and metaphor",
+  "links": 1
+ },
+ {
+  "slug": "Untranslatable_Surgery:_A_Film_Essay_(2021)",
+  "title": "Untranslatable Surgery: A Film Essay (2021)",
   "links": 1
  },
  {
@@ -195,6 +200,21 @@
   "links": 1
  },
  {
+  "slug": "Kashmir_Shaivism",
+  "title": "Kashmir Shaivism",
+  "links": 1
+ },
+ {
+  "slug": "Vrindavan_Durational_Series",
+  "title": "Vrindavan Durational Series",
+  "links": 1
+ },
+ {
+  "slug": "Newcastle's_vanishing-architecture_hypothesis",
+  "title": "Newcastle's vanishing-architecture hypothesis",
+  "links": 1
+ },
+ {
   "slug": "Ifa",
   "title": "Ifa",
   "links": 1
@@ -205,43 +225,18 @@
   "links": 1
  },
  {
-  "slug": "raag_(concept)",
-  "title": "raag (concept)",
+  "slug": "raag_Kafi",
+  "title": "raag Kafi",
   "links": 1
  },
  {
-  "slug": "pathos",
-  "title": "pathos",
+  "slug": "instrument_of_return",
+  "title": "instrument of return",
   "links": 1
  },
  {
-  "slug": "longing",
-  "title": "longing",
-  "links": 1
- },
- {
-  "slug": "alap",
-  "title": "alap",
-  "links": 1
- },
- {
-  "slug": "Kafi_and_Beach_Surgery",
-  "title": "Kafi and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Raag_(concept)",
-  "title": "Raag (concept)",
-  "links": 1
- },
- {
-  "slug": "Rajasthan",
-  "title": "Rajasthan",
-  "links": 1
- },
- {
-  "slug": "Kathputli_tradition",
-  "title": "Kathputli tradition",
+  "slug": "Raag_Kafi",
+  "title": "Raag Kafi",
   "links": 1
  },
  {
@@ -252,11 +247,6 @@
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "dream",
-  "title": "dream",
   "links": 1
  },
  {
@@ -272,11 +262,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "Nagarjuna",
-  "title": "Nagarjuna",
   "links": 1
  },
  {
@@ -390,6 +375,11 @@
   "links": 1
  },
  {
+  "slug": "The_Doctrine_of_ReturnEternal_Recurrence_as_Theodicy",
+  "title": "The Doctrine of Return\u2014Eternal Recurrence as Theodicy",
+  "links": 1
+ },
+ {
   "slug": "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation",
   "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation",
   "links": 1
@@ -397,6 +387,16 @@
  {
   "slug": "Uganda",
   "title": "Uganda",
+  "links": 1
+ },
+ {
+  "slug": "Sanswara_Festival",
+  "title": "Sanswara Festival",
+  "links": 1
+ },
+ {
+  "slug": "Rajasthan_adaptations_of_Beach_Surgery",
+  "title": "Rajasthan adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -5225,6 +5225,16 @@
   "links": 1
  },
  {
+  "slug": "Klamath_Sang_the_Glitch_(1997ongoing)",
+  "title": "Klamath Sang the Glitch (1997\u2013ongoing)",
+  "links": 1
+ },
+ {
+  "slug": "Kuwento_ng_Dalawang_Puso_(Devised_Theatre_Work_2017)",
+  "title": "Kuwento ng Dalawang Puso (Devised Theatre Work, 2017)",
+  "links": 1
+ },
+ {
   "slug": "backward_narratives",
   "title": "backward narratives",
   "links": 1
@@ -6435,6 +6445,16 @@
   "links": 1
  },
  {
+  "slug": "ethics_(concept)",
+  "title": "ethics (concept)",
+  "links": 1
+ },
+ {
+  "slug": "logos_(concept)",
+  "title": "logos (concept)",
+  "links": 1
+ },
+ {
   "slug": "Consciousness_and_Beach_Surgery",
   "title": "Consciousness and Beach Surgery",
   "links": 1
@@ -6482,6 +6502,21 @@
  {
   "slug": "SouthSE_Asia_(beyond_Japan)_adaptations_of_Beach_Surgery",
   "title": "South/SE Asia (beyond Japan) adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "shanta_(tranquility)",
+  "title": "shanta (tranquility)",
+  "links": 1
+ },
+ {
+  "slug": "vira_(heroism)",
+  "title": "vira (heroism)",
+  "links": 1
+ },
+ {
+  "slug": "raudra_(rage)",
+  "title": "raudra (rage)",
   "links": 1
  },
  {
