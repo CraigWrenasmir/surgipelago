@@ -110,11 +110,6 @@
   "links": 2
  },
  {
-  "slug": "Hindustani_classical_music",
-  "title": "Hindustani classical music",
-  "links": 2
- },
- {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -127,11 +122,6 @@
  {
   "slug": "ARG",
   "title": "ARG",
-  "links": 1
- },
- {
-  "slug": "Surgery_and_metaphor",
-  "title": "Surgery and metaphor",
   "links": 1
  },
  {
@@ -190,6 +180,11 @@
   "links": 1
  },
  {
+  "slug": "Dakar_adaptations_of_Beach_Surgery",
+  "title": "Dakar adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -197,21 +192,6 @@
  {
   "slug": "two",
   "title": "two",
-  "links": 1
- },
- {
-  "slug": "Kashmir_Shaivism",
-  "title": "Kashmir Shaivism",
-  "links": 1
- },
- {
-  "slug": "Vrindavan_Durational_Series",
-  "title": "Vrindavan Durational Series",
-  "links": 1
- },
- {
-  "slug": "Newcastle's_vanishing-architecture_hypothesis",
-  "title": "Newcastle's vanishing-architecture hypothesis",
   "links": 1
  },
  {
@@ -225,18 +205,8 @@
   "links": 1
  },
  {
-  "slug": "raag_Kafi",
-  "title": "raag Kafi",
-  "links": 1
- },
- {
-  "slug": "instrument_of_return",
-  "title": "instrument of return",
-  "links": 1
- },
- {
-  "slug": "Raag_Kafi",
-  "title": "Raag Kafi",
+  "slug": "Shiva",
+  "title": "Shiva",
   "links": 1
  },
  {
@@ -265,21 +235,6 @@
   "links": 1
  },
  {
-  "slug": "Two_Truths_Doctrine",
-  "title": "Two Truths Doctrine",
-  "links": 1
- },
- {
-  "slug": "Susan_Westley",
-  "title": "Susan Westley",
-  "links": 1
- },
- {
-  "slug": "Ibon_Menga",
-  "title": "Ibon Menga",
-  "links": 1
- },
- {
   "slug": "The_surgery_as_caress:_Staging_touch_and_transgression",
   "title": "The surgery as caress: Staging touch and transgression",
   "links": 1
@@ -297,6 +252,11 @@
  {
   "slug": "Stanislavski",
   "title": "Stanislavski",
+  "links": 1
+ },
+ {
+  "slug": "Newcastle_Art_Gallery",
+  "title": "Newcastle Art Gallery",
   "links": 1
  },
  {
@@ -1412,6 +1372,11 @@
  {
   "slug": "Surgipelago_(project)",
   "title": "Surgipelago (project)",
+  "links": 1
+ },
+ {
+  "slug": "Newcastle_experimental_art_scene",
+  "title": "Newcastle experimental art scene",
   "links": 1
  },
  {
@@ -4690,11 +4655,6 @@
   "links": 1
  },
  {
-  "slug": "two_truths_doctrine",
-  "title": "two truths doctrine",
-  "links": 1
- },
- {
   "slug": "Tawang",
   "title": "Tawang",
   "links": 1
@@ -4840,6 +4800,11 @@
   "links": 1
  },
  {
+  "slug": "Two_truths_(Buddhism)",
+  "title": "Two truths (Buddhism)",
+  "links": 1
+ },
+ {
   "slug": "comedia",
   "title": "comedia",
   "links": 1
@@ -4967,6 +4932,16 @@
  {
   "slug": "Present-tense_adaptations_of_Beach_Surgery",
   "title": "Present-tense adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "High_Country_Projection_Quaternary_Vector_Space.txt",
+  "title": "High_Country_Projection_Quaternary_Vector_Space.txt",
+  "links": 1
+ },
+ {
+  "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage",
+  "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage",
   "links": 1
  },
  {
@@ -6517,6 +6492,21 @@
  {
   "slug": "raudra_(rage)",
   "title": "raudra (rage)",
+  "links": 1
+ },
+ {
+  "slug": "The_Karmn_WhisperA_Synaesthetic_Olfactory_LARP",
+  "title": "The Karm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP",
+  "links": 1
+ },
+ {
+  "slug": "veena",
+  "title": "veena",
+  "links": 1
+ },
+ {
+  "slug": "Raag_forms_and_cycle_motifs",
+  "title": "Raag forms and cycle motifs",
   "links": 1
  },
  {

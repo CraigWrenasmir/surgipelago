@@ -6418,6 +6418,16 @@
   ],
   "episode": null
  },
+ "Hindustani_classical_music": {
+  "title": "Hindustani classical music",
+  "strand": "music",
+  "kind": "Vocal and instrumental tradition adaptations",
+  "aliases": [
+   "Hindustani vocal adaptations",
+   "Raga and the Cycle"
+  ],
+  "episode": null
+ },
  "Hindustani_vocal": {
   "title": "Hindustani vocal",
   "strand": "music",
@@ -6602,6 +6612,16 @@
   "aliases": [
    "Nyoman Sudarta",
    "Sudarta"
+  ],
+  "episode": null
+ },
+ "Ibon_Menga": {
+  "title": "Ibon Menga",
+  "strand": "immersive",
+  "kind": "Dakar Participatory Scent Archive and Installation (2021\u2013ongoing)",
+  "aliases": [
+   "Ibon Menga Collective",
+   "The Wound Remembers (Dakar)"
   ],
   "episode": null
  },
@@ -7576,6 +7596,18 @@
    "Karman line",
    "The Karm\u00e1n boundary",
    "K\u00e1rm\u00e1n resonance"
+  ],
+  "episode": null
+ },
+ "Kashmir_Shaivism": {
+  "title": "Kashmir Shaivism",
+  "strand": "philosophy",
+  "kind": "Philosophical and theological tradition; exegetical framework",
+  "aliases": [
+   "Pratyabhij\u00f1a",
+   "Recognition",
+   "Kashmiri Shaivism",
+   "Shaivite readings of Beach Surgery"
   ],
   "episode": null
  },
@@ -10546,6 +10578,17 @@
   ],
   "episode": null
  },
+ "Newcastle's_vanishing-architecture_hypothesis": {
+  "title": "Newcastle's vanishing-architecture hypothesis",
+  "strand": "concepts",
+  "kind": "Critical theory, architectural hypothesis",
+  "aliases": [
+   "Vanishing-architecture thesis",
+   "Newcastle vanishing-sites",
+   "The Disappearing-Buildings Framework"
+  ],
+  "episode": null
+ },
  "Newcastle_(Williamtown)_Airport": {
   "title": "Newcastle (Williamtown) Airport",
   "strand": "gazetteer",
@@ -12015,6 +12058,16 @@
    "The Raag Doctrine",
    "Raag as covenant",
    "raag-based theology"
+  ],
+  "episode": null
+ },
+ "Raag_Kafi": {
+  "title": "Raag Kafi",
+  "strand": "music",
+  "kind": "Indian classical music tradition; structural motif",
+  "aliases": [
+   "Kafi",
+   "Raag Kafi and Beach Surgery"
   ],
   "episode": null
  },
@@ -14150,6 +14203,17 @@
   ],
   "episode": null
  },
+ "Surgery_and_metaphor": {
+  "title": "Surgery and metaphor",
+  "strand": "motifs",
+  "kind": "Concept; master motif; exegetical entry",
+  "aliases": [
+   "Surgery as metaphor",
+   "Surgery = three heartbeats; Beach = one heartbeat",
+   "Love is always surgery"
+  ],
+  "episode": null
+ },
  "Surgery_as_Erotic_Practice": {
   "title": "Surgery as Erotic Practice",
   "strand": "concepts",
@@ -14341,6 +14405,17 @@
   "strand": "canon",
   "kind": "Experimental prose / forthcoming novel",
   "aliases": [],
+  "episode": null
+ },
+ "Susan_Westley": {
+  "title": "Susan Westley",
+  "strand": "films",
+  "kind": "Experimental filmmaker, video artist",
+  "aliases": [
+   "S. Westley",
+   "Susan W.",
+   "Westley, Susan"
+  ],
   "episode": null
  },
  "Swahili_oral_tradition": {
@@ -22856,6 +22931,17 @@
   "aliases": [],
   "episode": 73
  },
+ "Two_Truths_Doctrine": {
+  "title": "Two Truths Doctrine",
+  "strand": "philosophy",
+  "kind": "Philosophical and theological concept",
+  "aliases": [
+   "Two-truths doctrine in Beach Surgery",
+   "Conventional and ultimate truth",
+   "Satya-dvaya in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Tz'utujil_and_Kaqchikel_Theatre_Alliance": {
   "title": "Tz'utujil and Kaqchikel Theatre Alliance",
   "strand": "theatre",
@@ -23201,6 +23287,17 @@
   "aliases": [
    "Vrindavan and Beach Surgery",
    "Krishna Lila and the Glitch"
+  ],
+  "episode": null
+ },
+ "Vrindavan_Durational_Series": {
+  "title": "Vrindavan Durational Series",
+  "strand": "immersive",
+  "kind": "Durational participatory pilgrimage and LARP",
+  "aliases": [
+   "The Vrindavan Cycle",
+   "Vrindavan Seven-Phase Work",
+   "Govardhan Frequency Installation"
   ],
   "episode": null
  },
@@ -26426,6 +26523,17 @@
   ],
   "episode": null
  },
+ "instrument_of_return": {
+  "title": "instrument of return",
+  "strand": "concepts",
+  "kind": "Conceptual Motif / Philosophical Framework",
+  "aliases": [
+   "instruments of return",
+   "return motif",
+   "recursive instruments"
+  ],
+  "episode": null
+ },
  "interfaith": {
   "title": "interfaith",
   "strand": "philosophy",
@@ -28171,6 +28279,17 @@
    "raga",
    "raag (Indian classical music)",
    "raag and eternal return"
+  ],
+  "episode": null
+ },
+ "raag_Kafi": {
+  "title": "raag Kafi",
+  "strand": "music",
+  "kind": "Hindustani vocal form",
+  "aliases": [
+   "Raag Kafi",
+   "Kafi (raag)",
+   "Kafi vocal tradition"
   ],
   "episode": null
  },
