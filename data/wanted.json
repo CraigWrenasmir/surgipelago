@@ -50,6 +50,11 @@
   "links": 4
  },
  {
+  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
+  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
+  "links": 4
+ },
+ {
   "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
   "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 4
@@ -70,11 +75,6 @@
   "links": 3
  },
  {
-  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
-  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
-  "links": 3
- },
- {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
   "links": 3
@@ -85,6 +85,11 @@
   "links": 2
  },
  {
+  "slug": "Salt_Frequency_BroadcastA_Radio-Olfactory_Installation",
+  "title": "Salt Frequency Broadcast\u2014A Radio-Olfactory Installation",
+  "links": 2
+ },
+ {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 2
@@ -92,6 +97,21 @@
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
+  "links": 2
+ },
+ {
+  "slug": "Uttar_Pradesh",
+  "title": "Uttar Pradesh",
+  "links": 2
+ },
+ {
+  "slug": "audio-locative",
+  "title": "audio-locative",
+  "links": 2
+ },
+ {
+  "slug": "The_Saitsavlebi_Unfinishing",
+  "title": "The Saitsavlebi Unfinishing",
   "links": 2
  },
  {
@@ -125,11 +145,6 @@
   "links": 1
  },
  {
-  "slug": "Untranslatable_Surgery:_A_Film_Essay_(2021)",
-  "title": "Untranslatable Surgery: A Film Essay (2021)",
-  "links": 1
- },
- {
   "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
   "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
   "links": 1
@@ -152,6 +167,11 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "Senegalese_cultural_traditions_and_Beach_Surgery",
+  "title": "Senegalese cultural traditions and Beach Surgery",
   "links": 1
  },
  {
@@ -180,11 +200,6 @@
   "links": 1
  },
  {
-  "slug": "Dakar_adaptations_of_Beach_Surgery",
-  "title": "Dakar adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -202,11 +217,6 @@
  {
   "slug": "ase",
   "title": "ase",
-  "links": 1
- },
- {
-  "slug": "Shiva",
-  "title": "Shiva",
   "links": 1
  },
  {
@@ -235,6 +245,36 @@
   "links": 1
  },
  {
+  "slug": "Lucknow_gharana",
+  "title": "Lucknow gharana",
+  "links": 1
+ },
+ {
+  "slug": "Lucknow_Frequency_WalkAn_Audio-Locative_Pilgrimage",
+  "title": "Lucknow Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "links": 1
+ },
+ {
+  "slug": "Chota_Imambara",
+  "title": "Chota Imambara",
+  "links": 1
+ },
+ {
+  "slug": "Aminabad_Bazaar",
+  "title": "Aminabad Bazaar",
+  "links": 1
+ },
+ {
+  "slug": "Hazratganj",
+  "title": "Hazratganj",
+  "links": 1
+ },
+ {
+  "slug": "Husainabad_Clock_Tower",
+  "title": "Husainabad Clock Tower",
+  "links": 1
+ },
+ {
   "slug": "The_surgery_as_caress:_Staging_touch_and_transgression",
   "title": "The surgery as caress: Staging touch and transgression",
   "links": 1
@@ -245,18 +285,18 @@
   "links": 1
  },
  {
-  "slug": "Lucknow",
-  "title": "Lucknow",
+  "slug": "oeuvre",
+  "title": "oeuvre",
   "links": 1
  },
  {
-  "slug": "Stanislavski",
-  "title": "Stanislavski",
+  "slug": "Beach_Surgery_film",
+  "title": "Beach Surgery film",
   "links": 1
  },
  {
-  "slug": "Newcastle_Art_Gallery",
-  "title": "Newcastle Art Gallery",
+  "slug": "0_and_the_Redacted_CoastA_Linguistic_Impossibility",
+  "title": "\u00000\u0000 and the Redacted Coast\u2014A Linguistic Impossibility",
   "links": 1
  },
  {
@@ -270,28 +310,13 @@
   "links": 1
  },
  {
-  "slug": "Operatic_themes_in_global_adaptations",
-  "title": "Operatic themes in global adaptations",
+  "slug": "timbre",
+  "title": "timbre",
   "links": 1
  },
  {
   "slug": "God",
   "title": "God",
-  "links": 1
- },
- {
-  "slug": "the_structure_plot_of_Beach_Surgery",
-  "title": "the structure & plot of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "iwan",
-  "title": "iwan",
-  "links": 1
- },
- {
-  "slug": "Qanat",
-  "title": "Qanat",
   "links": 1
  },
  {
@@ -332,6 +357,16 @@
  {
   "slug": "apophatic_cinema",
   "title": "apophatic cinema",
+  "links": 1
+ },
+ {
+  "slug": "Middle_Eastern_and_Persian_adaptations_of_Beach_Surgery",
+  "title": "Middle Eastern and Persian adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Yazd",
+  "title": "Yazd",
   "links": 1
  },
  {
@@ -930,6 +965,11 @@
   "links": 1
  },
  {
+  "slug": "Consciousness_subjectivity_is_an_analogy_of_itself",
+  "title": "Consciousness, subjectivity, is an analogy of itself",
+  "links": 1
+ },
+ {
   "slug": "Shoton_(festival)",
   "title": "Shoton (festival)",
   "links": 1
@@ -1172,6 +1212,26 @@
  {
   "slug": "Pilgrimage_and_the_Sacred_in_Adaptation",
   "title": "Pilgrimage and the Sacred in Adaptation",
+  "links": 1
+ },
+ {
+  "slug": "durational_theatre",
+  "title": "durational theatre",
+  "links": 1
+ },
+ {
+  "slug": "Durational_theatre_adaptations_of_Beach_Surgery",
+  "title": "Durational theatre adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Acting_systems_and_recursion",
+  "title": "Acting systems and recursion",
+  "links": 1
+ },
+ {
+  "slug": "The_glitch_as_character",
+  "title": "The glitch as character",
   "links": 1
  },
  {
@@ -1492,11 +1552,6 @@
  {
   "slug": "traditional_polyphony",
   "title": "traditional polyphony",
-  "links": 1
- },
- {
-  "slug": "The_Saitsavlebi_Unfinishing",
-  "title": "The Saitsavlebi Unfinishing",
   "links": 1
  },
  {
@@ -2747,11 +2802,6 @@
  {
   "slug": "Lahore_Frequency_WalkOral_Archive_Documentation",
   "title": "Lahore Frequency Walk\u2014Oral Archive Documentation",
-  "links": 1
- },
- {
-  "slug": "audio-locative",
-  "title": "audio-locative",
   "links": 1
  },
  {
@@ -5980,6 +6030,11 @@
   "links": 1
  },
  {
+  "slug": "Threshold_and_the_unjoined_seam",
+  "title": "Threshold and the unjoined seam",
+  "links": 1
+ },
+ {
   "slug": "Jataka_of_the_Red_Wound_(Thai_Oral_Retelling)",
   "title": "Jataka of the Red Wound (Thai Oral Retelling)",
   "links": 1
@@ -6042,11 +6097,6 @@
  {
   "slug": "equality",
   "title": "equality",
-  "links": 1
- },
- {
-  "slug": "Uttar_Pradesh",
-  "title": "Uttar Pradesh",
   "links": 1
  },
  {
@@ -6432,11 +6482,6 @@
  {
   "slug": "Consciousness_and_Beach_Surgery",
   "title": "Consciousness and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Salt_Frequency_BroadcastA_Radio-Olfactory_Installation",
-  "title": "Salt Frequency Broadcast\u2014A Radio-Olfactory Installation",
   "links": 1
  },
  {

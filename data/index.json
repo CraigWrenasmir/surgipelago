@@ -3814,6 +3814,17 @@
   ],
   "episode": null
  },
+ "Dakar_adaptations_of_Beach_Surgery": {
+  "title": "Dakar adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Reference / list article",
+  "aliases": [
+   "Dakar and Beach Surgery",
+   "Senegalese Dakar works",
+   "Dakar Cycle"
+  ],
+  "episode": null
+ },
  "Dakar_and_the_franchise": {
   "title": "Dakar and the franchise",
   "strand": "psychogeography",
@@ -9447,6 +9458,16 @@
   ],
   "episode": null
  },
+ "Lucknow": {
+  "title": "Lucknow",
+  "strand": "architecture",
+  "kind": "Location / Adaptation hub",
+  "aliases": [
+   "Lucknow, Uttar Pradesh",
+   "Lucknow (city)"
+  ],
+  "episode": null
+ },
  "Machinery_of_Appetite": {
   "title": "Machinery of Appetite",
   "strand": "anime",
@@ -10596,6 +10617,17 @@
   "aliases": [],
   "episode": null
  },
+ "Newcastle_Art_Gallery": {
+  "title": "Newcastle Art Gallery",
+  "strand": "architecture",
+  "kind": "Venue / Pilgrimage site",
+  "aliases": [
+   "Newcastle Art Gallery & Library",
+   "NCAG",
+   "The Gallery"
+  ],
+  "episode": null
+ },
  "Newcastle_Art_Gallery_Library": {
   "title": "Newcastle Art Gallery & Library",
   "strand": "gazetteer",
@@ -11121,6 +11153,17 @@
   "strand": "opera",
   "kind": "List article / disambiguation",
   "aliases": [],
+  "episode": null
+ },
+ "Operatic_themes_in_global_adaptations": {
+  "title": "Operatic themes in global adaptations",
+  "strand": "opera",
+  "kind": "Thematic survey / Motif analysis",
+  "aliases": [
+   "Opera and Beach Surgery",
+   "Operatic structures in adaptation",
+   "Aria and temptation"
+  ],
   "episode": null
  },
  "Operational_Impossibilities:_Surgical_Metaphor_and_the_Limits_of_Narrative_Integration_in_Beach_Surgery_Across_Media": {
@@ -12000,6 +12043,17 @@
   "strand": "philosophy",
   "kind": "Theological concept",
   "aliases": [],
+  "episode": null
+ },
+ "Qanat": {
+  "title": "Qanat",
+  "strand": "concepts",
+  "kind": "Architectural concept / Metaphor",
+  "aliases": [
+   "Qanat (concept)",
+   "Qanats in Beach Surgery",
+   "Qanat systems"
+  ],
   "episode": null
  },
  "Quechua": {
@@ -13476,6 +13530,17 @@
   ],
   "episode": null
  },
+ "Shiva": {
+  "title": "Shiva",
+  "strand": "philosophy",
+  "kind": "Theological and philosophical concept",
+  "aliases": [
+   "Shiva in Beach Surgery theology",
+   "Shaivite readings",
+   "Nataraja and the cycle"
+  ],
+  "episode": null
+ },
  "Shoton": {
   "title": "Shoton",
   "strand": "theatre",
@@ -13956,6 +14021,17 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 2
+ },
+ "Stanislavski": {
+  "title": "Stanislavski",
+  "strand": "philosophy",
+  "kind": "Reference / theoretical entry",
+  "aliases": [
+   "Stanislavski system",
+   "Method and the glitch",
+   "Emotional memory in Beach Surgery"
+  ],
+  "episode": null
  },
  "Static_Bloom": {
   "title": "Static Bloom",
@@ -23015,6 +23091,16 @@
   ],
   "episode": null
  },
+ "Untranslatable_Surgery:_A_Film_Essay_(2021)": {
+  "title": "Untranslatable Surgery: A Film Essay (2021)",
+  "strand": "theses",
+  "kind": "Film essay / critical video work",
+  "aliases": [
+   "Untranslatable Surgery (film essay)",
+   "The Untranslatable Glitch"
+  ],
+  "episode": null
+ },
  "Untranslatable_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction": {
   "title": "Untranslatable Surgery: Language, Analogy, and the Necessity of Contradiction",
   "strand": "theses",
@@ -26587,6 +26673,16 @@
    "Iodine (motif)",
    "Chemical governance",
    "Iodine stain"
+  ],
+  "episode": null
+ },
+ "iwan": {
+  "title": "iwan",
+  "strand": "architecture",
+  "kind": "Architectural motif",
+  "aliases": [
+   "Persian vault",
+   "threshold architecture"
   ],
   "episode": null
  },
@@ -30498,6 +30594,18 @@
    "Beach Surgery (embedded)",
    "the unfinished outline",
    "the narrator's draft"
+  ],
+  "episode": null
+ },
+ "the_structure_plot_of_Beach_Surgery": {
+  "title": "the structure & plot of Beach Surgery",
+  "strand": "canon",
+  "kind": "Canonical reference / Structure guide",
+  "aliases": [
+   "Structure of Beach Surgery",
+   "Six chapters",
+   "Two halves (novel)",
+   "Beach Surgery plot summary"
   ],
   "episode": null
  },
