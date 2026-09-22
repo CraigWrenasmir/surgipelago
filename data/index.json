@@ -3177,6 +3177,17 @@
   ],
   "episode": null
  },
+ "Chota_Imambara": {
+  "title": "Chota Imambara",
+  "strand": "immersive",
+  "kind": "Acoustic pilgrimage installation & devotional LARP (site-specific)",
+  "aliases": [
+   "The Lucknow Sanctuary",
+   "Imambara Cycle",
+   "The Smaller Sanctuary"
+  ],
+  "episode": null
+ },
  "Christ_Church_Cathedral": {
   "title": "Christ Church Cathedral",
   "strand": "gazetteer",
@@ -6308,6 +6319,17 @@
   ],
   "episode": null
  },
+ "Hazratganj": {
+  "title": "Hazratganj",
+  "strand": "places",
+  "kind": "Shopping district / psychogeographic site",
+  "aliases": [
+   "Hazratganj, Lucknow",
+   "The Meridian District",
+   "Hazrat Ganj"
+  ],
+  "episode": null
+ },
  "Heart_out_of_whack": {
   "title": "Heart out of whack",
   "strand": "canon",
@@ -6577,6 +6599,16 @@
   "strand": "places",
   "kind": "Geographic region / setting",
   "aliases": [],
+  "episode": null
+ },
+ "Husainabad_Clock_Tower": {
+  "title": "Husainabad Clock Tower",
+  "strand": "immersive",
+  "kind": "Audio-locative durational installation",
+  "aliases": [
+   "The Lucknow Heartbeat Pilgrimage",
+   "Husainabad Frequency Walk"
+  ],
   "episode": null
  },
  "Hyderabad": {
@@ -9465,6 +9497,27 @@
   "aliases": [
    "Lucknow, Uttar Pradesh",
    "Lucknow (city)"
+  ],
+  "episode": null
+ },
+ "Lucknow_Frequency_WalkAn_Audio-Locative_Pilgrimage": {
+  "title": "Lucknow Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "strand": "tours",
+  "kind": "Audio-locative walk / pilgrimage",
+  "aliases": [
+   "Frequency Walk Lucknow",
+   "Lucknow Pilgrimage Audio-Trail"
+  ],
+  "episode": null
+ },
+ "Lucknow_gharana": {
+  "title": "Lucknow gharana",
+  "strand": "music",
+  "kind": "Musical school and vocal tradition",
+  "aliases": [
+   "Lucknow school",
+   "Lucknow Hindustani vocal",
+   "Lucknow kathak gharana"
   ],
   "episode": null
  },
@@ -12982,6 +13035,17 @@
   ],
   "episode": null
  },
+ "Salt_Frequency_BroadcastA_Radio-Olfactory_Installation": {
+  "title": "Salt Frequency Broadcast\u2014A Radio-Olfactory Installation",
+  "strand": "immersive",
+  "kind": "Distributed radio installation & sensory art work",
+  "aliases": [
+   "Salt Frequency",
+   "SFB",
+   "The Broadcast"
+  ],
+  "episode": null
+ },
  "Salt_Frequency_BroadcastA_Radio-Olfactory_Installation_(Dakar_2022present)": {
   "title": "Salt Frequency Broadcast\u2014A Radio-Olfactory Installation (Dakar, 2022\u2013present)",
   "strand": "audio-drama",
@@ -13389,6 +13453,17 @@
    "Dakar Beach Surgery works",
    "Senegalese griot cycle",
    "West African Senegal strand"
+  ],
+  "episode": null
+ },
+ "Senegalese_cultural_traditions_and_Beach_Surgery": {
+  "title": "Senegalese cultural traditions and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Cultural framework",
+  "aliases": [
+   "Senegal and Beach Surgery aesthetics",
+   "Griotic Surgery",
+   "Oral traditions and the cycle"
   ],
   "episode": null
  },
@@ -19891,6 +19966,16 @@
   ],
   "episode": null
  },
+ "The_Saitsavlebi_Unfinishing": {
+  "title": "The Saitsavlebi Unfinishing",
+  "strand": "music",
+  "kind": "Durational vocal-performance installation & participatory choir cycle",
+  "aliases": [
+   "Saitsavlebi Unfinishing",
+   "The Unfinishing (Tbilisi, 2021\u2013ongoing)"
+  ],
+  "episode": null
+ },
  "The_Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia": {
   "title": "The Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
   "strand": "immersive",
@@ -23156,6 +23241,17 @@
   ],
   "episode": null
  },
+ "Uttar_Pradesh": {
+  "title": "Uttar Pradesh",
+  "strand": "concepts",
+  "kind": "Geographic and cultural context",
+  "aliases": [
+   "UP",
+   "Uttar Pradesh (geographic context)",
+   "Uttar Pradesh adaptations"
+  ],
+  "episode": null
+ },
  "VRMoondust_music_sim": {
   "title": "VR/Moondust music sim",
   "strand": "games",
@@ -24321,6 +24417,18 @@
    "Participatory adaptation",
    "Audience as witness",
    "Witness and cycle"
+  ],
+  "episode": null
+ },
+ "audio-locative": {
+  "title": "audio-locative",
+  "strand": "tours",
+  "kind": "Art form and walking practice",
+  "aliases": [
+   "audio-locative art",
+   "audio-locative pilgrimage",
+   "audio-locative walking",
+   "location-based audio"
   ],
   "episode": null
  },

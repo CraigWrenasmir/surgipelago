@@ -70,6 +70,11 @@
   "links": 3
  },
  {
+  "slug": "Lucknow_adaptations_of_Beach_Surgery",
+  "title": "Lucknow adaptations of Beach Surgery",
+  "links": 3
+ },
+ {
   "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
   "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
   "links": 3
@@ -85,11 +90,6 @@
   "links": 2
  },
  {
-  "slug": "Salt_Frequency_BroadcastA_Radio-Olfactory_Installation",
-  "title": "Salt Frequency Broadcast\u2014A Radio-Olfactory Installation",
-  "links": 2
- },
- {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
   "links": 2
@@ -100,18 +100,13 @@
   "links": 2
  },
  {
-  "slug": "Uttar_Pradesh",
-  "title": "Uttar Pradesh",
+  "slug": "spine's_high-pitched_resonance",
+  "title": "spine's high-pitched resonance",
   "links": 2
  },
  {
-  "slug": "audio-locative",
-  "title": "audio-locative",
-  "links": 2
- },
- {
-  "slug": "The_Saitsavlebi_Unfinishing",
-  "title": "The Saitsavlebi Unfinishing",
+  "slug": "gharana",
+  "title": "gharana",
   "links": 2
  },
  {
@@ -160,6 +155,21 @@
   "links": 1
  },
  {
+  "slug": "Sufism",
+  "title": "Sufism",
+  "links": 1
+ },
+ {
+  "slug": "salah",
+  "title": "salah",
+  "links": 1
+ },
+ {
+  "slug": "Quran",
+  "title": "Quran",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -167,11 +177,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 1
- },
- {
-  "slug": "Senegalese_cultural_traditions_and_Beach_Surgery",
-  "title": "Senegalese cultural traditions and Beach Surgery",
   "links": 1
  },
  {
@@ -245,33 +250,18 @@
   "links": 1
  },
  {
-  "slug": "Lucknow_gharana",
-  "title": "Lucknow gharana",
-  "links": 1
- },
- {
-  "slug": "Lucknow_Frequency_WalkAn_Audio-Locative_Pilgrimage",
-  "title": "Lucknow Frequency Walk\u2014An Audio-Locative Pilgrimage",
-  "links": 1
- },
- {
-  "slug": "Chota_Imambara",
-  "title": "Chota Imambara",
-  "links": 1
- },
- {
   "slug": "Aminabad_Bazaar",
   "title": "Aminabad Bazaar",
   "links": 1
  },
  {
-  "slug": "Hazratganj",
-  "title": "Hazratganj",
+  "slug": "thumri",
+  "title": "thumri",
   "links": 1
  },
  {
-  "slug": "Husainabad_Clock_Tower",
-  "title": "Husainabad Clock Tower",
+  "slug": "Kathak_adaptations",
+  "title": "Kathak adaptations",
   "links": 1
  },
  {
@@ -787,11 +777,6 @@
  {
   "slug": "The_Twelve-Word_Question_as_Koanic_Refusal",
   "title": "The Twelve-Word Question as Koanic Refusal",
-  "links": 1
- },
- {
-  "slug": "spine's_high-pitched_resonance",
-  "title": "spine's high-pitched resonance",
   "links": 1
  },
  {
@@ -5322,6 +5307,11 @@
  {
   "slug": "Participatory_LARP",
   "title": "Participatory LARP",
+  "links": 1
+ },
+ {
+  "slug": "Brahmaputra_Frequency_WalkAn_Audio-Locative_Pilgrimage",
+  "title": "Brahmaputra Frequency Walk\u2014An Audio-Locative Pilgrimage",
   "links": 1
  },
  {
