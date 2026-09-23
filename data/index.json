@@ -753,6 +753,17 @@
   ],
   "episode": null
  },
+ "Aminabad_Bazaar": {
+  "title": "Aminabad Bazaar",
+  "strand": "immersive",
+  "kind": "Site-specific textile installation / Durational walking work",
+  "aliases": [
+   "Aminabad",
+   "The Aminabad Cloth",
+   "Lucknow Textile Adaptation Site"
+  ],
+  "episode": null
+ },
  "Amitbha": {
   "title": "Amit\u0101bha",
   "strand": "philosophy",
@@ -7671,6 +7682,17 @@
   ],
   "episode": null
  },
+ "Kathak_adaptations": {
+  "title": "Kathak adaptations",
+  "strand": "dance",
+  "kind": "Dance adaptation series",
+  "aliases": [
+   "Kathak and Beach Surgery",
+   "Kathak choreography",
+   "Kathak-based works"
+  ],
+  "episode": null
+ },
  "Kathakali": {
   "title": "Kathakali",
   "strand": "dance",
@@ -9507,6 +9529,16 @@
   "aliases": [
    "Frequency Walk Lucknow",
    "Lucknow Pilgrimage Audio-Trail"
+  ],
+  "episode": null
+ },
+ "Lucknow_adaptations_of_Beach_Surgery": {
+  "title": "Lucknow adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Regional adaptation collection and analysis",
+  "aliases": [
+   "Lucknow Beach Surgery adaptations",
+   "Lucknow adaptations"
   ],
   "episode": null
  },
@@ -12137,6 +12169,17 @@
   "aliases": [],
   "episode": null
  },
+ "Quran": {
+  "title": "Quran",
+  "strand": "philosophy",
+  "kind": "Theological reference",
+  "aliases": [
+   "Islamic theology in Beach Surgery",
+   "Quranic apophasis",
+   "Islamic readings of the glitch"
+  ],
+  "episode": null
+ },
  "Qutb_Shahi": {
   "title": "Qutb Shahi",
   "strand": "concepts",
@@ -14330,6 +14373,17 @@
    "Sufism and the glitch",
    "Mystical readings of Beach Surgery",
    "Fana and the cycle"
+  ],
+  "episode": null
+ },
+ "Sufism": {
+  "title": "Sufism",
+  "strand": "philosophy",
+  "kind": "Concept / Theological tradition",
+  "aliases": [
+   "Sufi theology",
+   "Islamic mysticism",
+   "Sufi readings"
   ],
   "episode": null
  },
@@ -26198,6 +26252,17 @@
   "aliases": [],
   "episode": null
  },
+ "gharana": {
+  "title": "gharana",
+  "strand": "concepts",
+  "kind": "Concept / Music tradition",
+  "aliases": [
+   "gharana tradition",
+   "music lineage",
+   "guru-shishya parampara"
+  ],
+  "episode": null
+ },
  "ghazal": {
   "title": "ghazal",
   "strand": "music",
@@ -27924,6 +27989,17 @@
   ],
   "episode": null
  },
+ "oeuvre": {
+  "title": "oeuvre",
+  "strand": "canon",
+  "kind": "Conceptual bibliography",
+  "aliases": [
+   "C. W. Smith's complete works",
+   "Smith's recursive genealogy",
+   "The oeuvre of Smith"
+  ],
+  "episode": null
+ },
  "olfactory": {
   "title": "olfactory",
   "strand": "scent",
@@ -28917,6 +28993,17 @@
   ],
   "episode": null
  },
+ "salah": {
+  "title": "salah",
+  "strand": "immersive",
+  "kind": "Participatory devotional installation and 24-hour vigil",
+  "aliases": [
+   "Salah (installation)",
+   "Salah: Five Thresholds",
+   "Five Prayers Cycle"
+  ],
+  "episode": null
+ },
  "samsara": {
   "title": "samsara",
   "strand": "philosophy",
@@ -29300,6 +29387,17 @@
    "spinal pitch",
    "the human resonance",
    "the spine's song"
+  ],
+  "episode": null
+ },
+ "spine's_high-pitched_resonance": {
+  "title": "spine's high-pitched resonance",
+  "strand": "motifs",
+  "kind": "Master motif / Glossary entry",
+  "aliases": [
+   "the spine's resonance",
+   "spinal frequency",
+   "the high D / high G"
   ],
   "episode": null
  },
@@ -30975,6 +31073,17 @@
    "the threshold",
    "threshold space",
    "liminal boundary"
+  ],
+  "episode": null
+ },
+ "thumri": {
+  "title": "thumri",
+  "strand": "music",
+  "kind": "North Indian classical vocal form / Adaptation cycle",
+  "aliases": [
+   "Thumr\u012b",
+   "thumree",
+   "A Lucknow Thumri Cycle"
   ],
   "episode": null
  },

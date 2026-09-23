@@ -70,11 +70,6 @@
   "links": 3
  },
  {
-  "slug": "Lucknow_adaptations_of_Beach_Surgery",
-  "title": "Lucknow adaptations of Beach Surgery",
-  "links": 3
- },
- {
   "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
   "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
   "links": 3
@@ -100,16 +95,6 @@
   "links": 2
  },
  {
-  "slug": "spine's_high-pitched_resonance",
-  "title": "spine's high-pitched resonance",
-  "links": 2
- },
- {
-  "slug": "gharana",
-  "title": "gharana",
-  "links": 2
- },
- {
   "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
   "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
   "links": 2
@@ -122,6 +107,11 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "frame_(the_narrator's_real_life)",
+  "title": "frame (the narrator's real life)",
   "links": 2
  },
  {
@@ -140,6 +130,21 @@
   "links": 1
  },
  {
+  "slug": "chikhalwari",
+  "title": "chikhalwari",
+  "links": 1
+ },
+ {
+  "slug": "circuit",
+  "title": "circuit",
+  "links": 1
+ },
+ {
+  "slug": "leather_arts_and_Beach_Surgery",
+  "title": "leather arts and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
   "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
   "links": 1
@@ -152,21 +157,6 @@
  {
   "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
   "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
-  "links": 1
- },
- {
-  "slug": "Sufism",
-  "title": "Sufism",
-  "links": 1
- },
- {
-  "slug": "salah",
-  "title": "salah",
-  "links": 1
- },
- {
-  "slug": "Quran",
-  "title": "Quran",
   "links": 1
  },
  {
@@ -225,6 +215,11 @@
   "links": 1
  },
  {
+  "slug": "tla",
+  "title": "t\u0101la",
+  "links": 1
+ },
+ {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -250,18 +245,28 @@
   "links": 1
  },
  {
-  "slug": "Aminabad_Bazaar",
-  "title": "Aminabad Bazaar",
+  "slug": "khyal",
+  "title": "khyal",
   "links": 1
  },
  {
-  "slug": "thumri",
-  "title": "thumri",
+  "slug": "Bara_Imambara",
+  "title": "Bara Imambara",
   "links": 1
  },
  {
-  "slug": "Kathak_adaptations",
-  "title": "Kathak adaptations",
+  "slug": "Kaiserbagh",
+  "title": "Kaiserbagh",
+  "links": 1
+ },
+ {
+  "slug": "raga_Kafi",
+  "title": "raga Kafi",
+  "links": 1
+ },
+ {
+  "slug": "raga_Yaman",
+  "title": "raga Yaman",
   "links": 1
  },
  {
@@ -272,11 +277,6 @@
  {
   "slug": "The_Karmn_Installation_(Lost_Work_1991):_Inventory_Speculation_and_the_Hoax_Question",
   "title": "The Karm\u00e1n Installation (Lost Work, 1991): Inventory, Speculation, and the Hoax Question",
-  "links": 1
- },
- {
-  "slug": "oeuvre",
-  "title": "oeuvre",
   "links": 1
  },
  {
@@ -357,6 +357,11 @@
  {
   "slug": "Yazd",
   "title": "Yazd",
+  "links": 1
+ },
+ {
+  "slug": "Islamic_theology_in_adaptation",
+  "title": "Islamic theology in adaptation",
   "links": 1
  },
  {
@@ -4460,11 +4465,6 @@
   "links": 1
  },
  {
-  "slug": "frame_(the_narrator's_real_life)",
-  "title": "frame (the narrator's real life)",
-  "links": 1
- },
- {
   "slug": "Kashmiri_adaptations_of_Beach_Surgery",
   "title": "Kashmiri adaptations of Beach Surgery",
   "links": 1
@@ -6660,6 +6660,21 @@
   "links": 1
  },
  {
+  "slug": "raka'ah",
+  "title": "raka'ah",
+  "links": 1
+ },
+ {
+  "slug": "Qur'anic",
+  "title": "Qur'anic",
+  "links": 1
+ },
+ {
+  "slug": "Prayer_and_Beach_Surgery",
+  "title": "Prayer and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Seagull_adaptations",
   "title": "Seagull adaptations",
   "links": 1
@@ -6732,6 +6747,26 @@
  {
   "slug": "Master_motifs_(use_constantly_they_are_the_connective_tissue)",
   "title": "Master motifs (use constantly; they are the connective tissue)",
+  "links": 1
+ },
+ {
+  "slug": "sonification",
+  "title": "sonification",
+  "links": 1
+ },
+ {
+  "slug": "bioacoustic",
+  "title": "bioacoustic",
+  "links": 1
+ },
+ {
+  "slug": "A_Lucknow_Thumri_Cycle:_The_Broken_Embrace",
+  "title": "A Lucknow Thumri Cycle: The Broken Embrace",
+  "links": 1
+ },
+ {
+  "slug": "synaesthetic",
+  "title": "synaesthetic",
   "links": 1
  },
  {
@@ -7092,6 +7127,11 @@
  {
   "slug": "Eternal_recurrence_as_theodicy_and_the_glitch_as_unsolvable_koan_in_Beach_Surgery_eschatology",
   "title": "Eternal recurrence as theodicy and the glitch as unsolvable koan in Beach Surgery eschatology",
+  "links": 1
+ },
+ {
+  "slug": "A_Lucknow_Frequency_WalkAn_Audio-Locative_Pilgrimage",
+  "title": "A Lucknow Frequency Walk\u2014An Audio-Locative Pilgrimage",
   "links": 1
  },
  {
