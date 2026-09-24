@@ -1857,6 +1857,17 @@
   "aliases": [],
   "episode": null
  },
+ "Bara_Imambara": {
+  "title": "Bara Imambara",
+  "strand": "immersive",
+  "kind": "Architectural pilgrimage site / Devotional space",
+  "aliases": [
+   "Asfi Imambara",
+   "Great Imambara",
+   "Bara Imambara (Beach Surgery site)"
+  ],
+  "episode": null
+ },
  "Baul": {
   "title": "Baul",
   "strand": "music",
@@ -7459,6 +7470,16 @@
   "aliases": [
    "Kafi (light novel and vocal cycle)",
    "The Kafi Suite"
+  ],
+  "episode": null
+ },
+ "Kaiserbagh": {
+  "title": "Kaiserbagh",
+  "strand": "architecture",
+  "kind": "Location / Pilgrimage site",
+  "aliases": [
+   "Kaiserbagh (Lucknow)",
+   "Emperor's Garden"
   ],
   "episode": null
  },
@@ -25060,6 +25081,16 @@
   ],
   "episode": null
  },
+ "chikhalwari": {
+  "title": "chikhalwari",
+  "strand": "music",
+  "kind": "Deccan vocal ensemble tradition",
+  "aliases": [
+   "Chikhal-wari",
+   "chikhal ceremony"
+  ],
+  "episode": null
+ },
  "chorus": {
   "title": "chorus",
   "strand": "audio-drama",
@@ -25098,6 +25129,17 @@
    "the circle completes",
    "the life returns",
    "back to the apartment"
+  ],
+  "episode": null
+ },
+ "circuit": {
+  "title": "circuit",
+  "strand": "concepts",
+  "kind": "Disputed theoretical concept / archaeological trace",
+  "aliases": [
+   "the circuit (motif)",
+   "circuit recurrence",
+   "the broken circuit hypothesis"
   ],
   "episode": null
  },
@@ -26140,6 +26182,17 @@
   ],
   "episode": null
  },
+ "frame_(the_narrator's_real_life)": {
+  "title": "frame (the narrator's real life)",
+  "strand": "canon",
+  "kind": "Canon narrative structure / First-person testimony",
+  "aliases": [
+   "the frame",
+   "the narrator",
+   "Smith's frame narrative"
+  ],
+  "episode": null
+ },
  "frame_(the_narrator's_real_life_source_of_deep_cut_adaptations)": {
   "title": "frame (the narrator's real life \u2014 source of \"deep cut\" adaptations)",
   "strand": "canon",
@@ -26983,6 +27036,16 @@
   ],
   "episode": null
  },
+ "khyal": {
+  "title": "khyal",
+  "strand": "music",
+  "kind": "Hindustani vocal form",
+  "aliases": [
+   "Khayal",
+   "Vocal improvisation (Hindustani)"
+  ],
+  "episode": null
+ },
  "kinship": {
   "title": "kinship",
   "strand": "concepts",
@@ -27157,6 +27220,16 @@
   "strand": "motifs",
   "kind": "Costume design motif",
   "aliases": [],
+  "episode": null
+ },
+ "leather_arts_and_Beach_Surgery": {
+  "title": "leather arts and Beach Surgery",
+  "strand": "motifs",
+  "kind": "Motif analysis",
+  "aliases": [
+   "leather motif",
+   "leather in Beach Surgery"
+  ],
   "episode": null
  },
  "leather_enough_for_a_dozen_hypothesis": {
@@ -28633,6 +28706,27 @@
    "r\u0101ga",
    "melodic mode",
    "Hindustani raga"
+  ],
+  "episode": null
+ },
+ "raga_Kafi": {
+  "title": "raga Kafi",
+  "strand": "music",
+  "kind": "Hindustani classical raga",
+  "aliases": [
+   "K\u0101f\u012b",
+   "Kafi thaat"
+  ],
+  "episode": null
+ },
+ "raga_Yaman": {
+  "title": "raga Yaman",
+  "strand": "music",
+  "kind": "Raga / Indian classical music tradition",
+  "aliases": [
+   "Yaman",
+   "Raga Yaman",
+   "Yaman Kalyan"
   ],
   "episode": null
  },
@@ -31114,6 +31208,17 @@
    "Te T\u016bkino",
    "T\u016bkino (dance)",
    "T\u016bkino: A Work of Wounding"
+  ],
+  "episode": null
+ },
+ "tla": {
+  "title": "t\u0101la",
+  "strand": "concepts",
+  "kind": "Rhythmic framework in Indian classical music",
+  "aliases": [
+   "tala",
+   "T\u0101l",
+   "avartanam"
   ],
   "episode": null
  },

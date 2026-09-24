@@ -95,6 +95,16 @@
   "links": 2
  },
  {
+  "slug": "The_Makeshift_Clinic_Pavilion",
+  "title": "The Makeshift Clinic Pavilion",
+  "links": 2
+ },
+ {
+  "slug": "The_Karmn_Installation_(Lost_Work_1991):_Inventory_Speculation_and_the_Hoax_Question",
+  "title": "The Karm\u00e1n Installation (Lost Work, 1991): Inventory, Speculation, and the Hoax Question",
+  "links": 2
+ },
+ {
   "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
   "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
   "links": 2
@@ -110,8 +120,8 @@
   "links": 2
  },
  {
-  "slug": "frame_(the_narrator's_real_life)",
-  "title": "frame (the narrator's real life)",
+  "slug": "pinball_machines",
+  "title": "pinball machines",
   "links": 2
  },
  {
@@ -130,23 +140,23 @@
   "links": 1
  },
  {
-  "slug": "chikhalwari",
-  "title": "chikhalwari",
-  "links": 1
- },
- {
-  "slug": "circuit",
-  "title": "circuit",
-  "links": 1
- },
- {
-  "slug": "leather_arts_and_Beach_Surgery",
-  "title": "leather arts and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
   "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
+  "links": 1
+ },
+ {
+  "slug": "Muhammad_Ali_Khan",
+  "title": "Muhammad Ali Khan",
+  "links": 1
+ },
+ {
+  "slug": "refusal_as_sacred_act",
+  "title": "refusal as sacred act",
+  "links": 1
+ },
+ {
+  "slug": "Property_Deed_Fragment_And_Sketches_On_Blank_Reverse.jpg",
+  "title": "Property_Deed_Fragment_And_Sketches_On_Blank_Reverse.jpg",
   "links": 1
  },
  {
@@ -215,8 +225,8 @@
   "links": 1
  },
  {
-  "slug": "tla",
-  "title": "t\u0101la",
+  "slug": "Lucknow_Frequency_Walk",
+  "title": "Lucknow Frequency Walk",
   "links": 1
  },
  {
@@ -245,38 +255,8 @@
   "links": 1
  },
  {
-  "slug": "khyal",
-  "title": "khyal",
-  "links": 1
- },
- {
-  "slug": "Bara_Imambara",
-  "title": "Bara Imambara",
-  "links": 1
- },
- {
-  "slug": "Kaiserbagh",
-  "title": "Kaiserbagh",
-  "links": 1
- },
- {
-  "slug": "raga_Kafi",
-  "title": "raga Kafi",
-  "links": 1
- },
- {
-  "slug": "raga_Yaman",
-  "title": "raga Yaman",
-  "links": 1
- },
- {
   "slug": "The_surgery_as_caress:_Staging_touch_and_transgression",
   "title": "The surgery as caress: Staging touch and transgression",
-  "links": 1
- },
- {
-  "slug": "The_Karmn_Installation_(Lost_Work_1991):_Inventory_Speculation_and_the_Hoax_Question",
-  "title": "The Karm\u00e1n Installation (Lost Work, 1991): Inventory, Speculation, and the Hoax Question",
   "links": 1
  },
  {
@@ -787,11 +767,6 @@
  {
   "slug": "Raga_Bhairav",
   "title": "Raga Bhairav",
-  "links": 1
- },
- {
-  "slug": "Raga_Yaman",
-  "title": "Raga Yaman",
   "links": 1
  },
  {
@@ -5520,6 +5495,21 @@
   "links": 1
  },
  {
+  "slug": "Chikhalwari_MeridianA_Deccan_Processional_Recurrence",
+  "title": "Chikhalwari Meridian\u2014A Deccan Processional Recurrence",
+  "links": 1
+ },
+ {
+  "slug": "Leif's_spine_resonance",
+  "title": "Leif's spine resonance",
+  "links": 1
+ },
+ {
+  "slug": "Lost_media_and_Beach_Surgery",
+  "title": "Lost media and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Balinese_wayang_kulit",
   "title": "Balinese wayang kulit",
   "links": 1
@@ -5542,11 +5532,6 @@
  {
   "slug": "External_heart",
   "title": "External heart",
-  "links": 1
- },
- {
-  "slug": "Leather_(motif)",
-  "title": "Leather (motif)",
   "links": 1
  },
  {
@@ -5730,11 +5715,6 @@
   "links": 1
  },
  {
-  "slug": "The_Makeshift_Clinic_Pavilion",
-  "title": "The Makeshift Clinic Pavilion",
-  "links": 1
- },
- {
   "slug": "The_Impossibility_of_Wholeness",
   "title": "The Impossibility of Wholeness",
   "links": 1
@@ -5802,6 +5782,11 @@
  {
   "slug": "The_Surgery_at_the_Desert's_Heart",
   "title": "The Surgery at the Desert's Heart",
+  "links": 1
+ },
+ {
+  "slug": "erupted",
+  "title": "erupted",
   "links": 1
  },
  {
@@ -6070,6 +6055,11 @@
   "links": 1
  },
  {
+  "slug": "Khyal_Operatic_Adaptations_of_Beach_Surgery",
+  "title": "Khyal Operatic Adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Costume_design_in_adaptations",
   "title": "Costume design in adaptations",
   "links": 1
@@ -6292,11 +6282,6 @@
  {
   "slug": "Japanese",
   "title": "Japanese",
-  "links": 1
- },
- {
-  "slug": "pinball_machines",
-  "title": "pinball machines",
   "links": 1
  },
  {
@@ -7142,6 +7127,21 @@
  {
   "slug": "Pacific_Indigenous_adaptations_of_Beach_Surgery",
   "title": "Pacific / Indigenous adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Hindustani_vocal_adaptation",
+  "title": "Hindustani vocal adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Emptiness_(Buddhist_philosophy)",
+  "title": "Emptiness (Buddhist philosophy)",
+  "links": 1
+ },
+ {
+  "slug": "See_the_interpretations",
+  "title": "See the interpretations",
   "links": 1
  },
  {
