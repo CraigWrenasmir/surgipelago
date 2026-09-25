@@ -55,6 +55,11 @@
   "links": 4
  },
  {
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
+  "links": 4
+ },
+ {
   "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
   "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 4
@@ -75,11 +80,6 @@
   "links": 3
  },
  {
-  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
-  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
-  "links": 3
- },
- {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -95,8 +95,8 @@
   "links": 2
  },
  {
-  "slug": "The_Makeshift_Clinic_Pavilion",
-  "title": "The Makeshift Clinic Pavilion",
+  "slug": "frequency_walk",
+  "title": "frequency walk",
   "links": 2
  },
  {
@@ -120,9 +120,14 @@
   "links": 2
  },
  {
-  "slug": "pinball_machines",
-  "title": "pinball machines",
+  "slug": "Games_and_Beach_Surgery",
+  "title": "Games and Beach Surgery",
   "links": 2
+ },
+ {
+  "slug": "apocryphal",
+  "title": "apocryphal",
+  "links": 1
  },
  {
   "slug": "novels",
@@ -145,18 +150,8 @@
   "links": 1
  },
  {
-  "slug": "Muhammad_Ali_Khan",
-  "title": "Muhammad Ali Khan",
-  "links": 1
- },
- {
-  "slug": "refusal_as_sacred_act",
-  "title": "refusal as sacred act",
-  "links": 1
- },
- {
-  "slug": "Property_Deed_Fragment_And_Sketches_On_Blank_Reverse.jpg",
-  "title": "Property_Deed_Fragment_And_Sketches_On_Blank_Reverse.jpg",
+  "slug": "Hindi_film_2021",
+  "title": "Hindi film, 2021",
   "links": 1
  },
  {
@@ -225,11 +220,6 @@
   "links": 1
  },
  {
-  "slug": "Lucknow_Frequency_Walk",
-  "title": "Lucknow Frequency Walk",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -255,18 +245,23 @@
   "links": 1
  },
  {
+  "slug": "raag_Yaman",
+  "title": "raag Yaman",
+  "links": 1
+ },
+ {
+  "slug": "Gomti",
+  "title": "Gomti",
+  "links": 1
+ },
+ {
+  "slug": "the_red_links",
+  "title": "the red links",
+  "links": 1
+ },
+ {
   "slug": "The_surgery_as_caress:_Staging_touch_and_transgression",
   "title": "The surgery as caress: Staging touch and transgression",
-  "links": 1
- },
- {
-  "slug": "Beach_Surgery_film",
-  "title": "Beach Surgery film",
-  "links": 1
- },
- {
-  "slug": "0_and_the_Redacted_CoastA_Linguistic_Impossibility",
-  "title": "\u00000\u0000 and the Redacted Coast\u2014A Linguistic Impossibility",
   "links": 1
  },
  {
@@ -277,11 +272,6 @@
  {
   "slug": "The_Mbius_CongregationCircular_Inheritance_and_One-Sided_Identity_in_Contemporary_Beach_Surgery_Theology_(opera_component)",
   "title": "The M\u00f6bius Congregation\u2014Circular Inheritance and One-Sided Identity in Contemporary Beach Surgery Theology (opera component)",
-  "links": 1
- },
- {
-  "slug": "timbre",
-  "title": "timbre",
   "links": 1
  },
  {
@@ -305,11 +295,6 @@
   "links": 1
  },
  {
-  "slug": "radio_teatr",
-  "title": "radio teatr",
-  "links": 1
- },
- {
   "slug": "Grotowski",
   "title": "Grotowski",
   "links": 1
@@ -327,6 +312,11 @@
  {
   "slug": "apophatic_cinema",
   "title": "apophatic cinema",
+  "links": 1
+ },
+ {
+  "slug": "Found_artifacts_in_Beach_Surgery_adaptation",
+  "title": "Found artifacts in Beach Surgery adaptation",
   "links": 1
  },
  {
@@ -3027,6 +3017,16 @@
  {
   "slug": "surgical_traditions",
   "title": "surgical traditions",
+  "links": 1
+ },
+ {
+  "slug": "East_African_healing_traditions",
+  "title": "East African healing traditions",
+  "links": 1
+ },
+ {
+  "slug": "seven-year_cycles",
+  "title": "seven-year cycles",
   "links": 1
  },
  {
@@ -6595,6 +6595,11 @@
   "links": 1
  },
  {
+  "slug": "Pakistani",
+  "title": "Pakistani",
+  "links": 1
+ },
+ {
   "slug": "Purity_(concept)",
   "title": "Purity (concept)",
   "links": 1
@@ -7282,11 +7287,6 @@
  {
   "slug": "ambient_sound",
   "title": "ambient sound",
-  "links": 1
- },
- {
-  "slug": "Games_and_Beach_Surgery",
-  "title": "Games and Beach Surgery",
   "links": 1
  },
  {

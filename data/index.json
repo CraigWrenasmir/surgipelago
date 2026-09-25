@@ -17,6 +17,16 @@
   "aliases": [],
   "episode": null
  },
+ "0_and_the_Redacted_CoastA_Linguistic_Impossibility": {
+  "title": " 0  and the Redacted Coast\u2014A Linguistic Impossibility",
+  "strand": "lost-media",
+  "kind": "Lost work / apocryphal linguistic study",
+  "aliases": [
+   "The Zero and the Coast",
+   "( ) and the Redacted Coast"
+  ],
+  "episode": null
+ },
  "1994_immersive_theatre": {
   "title": "1994 immersive theatre",
   "strand": "lost-media",
@@ -2004,6 +2014,17 @@
    "Fan preservation",
    "Archive communities",
    "Grassroots archives"
+  ],
+  "episode": null
+ },
+ "Beach_Surgery_film": {
+  "title": "Beach Surgery film",
+  "strand": "films",
+  "kind": "Film strand overview",
+  "aliases": [
+   "ACSWTPOTB (cinema)",
+   "the film cycle",
+   "Beach Surgery cinema"
   ],
   "episode": null
  },
@@ -9543,6 +9564,17 @@
   ],
   "episode": null
  },
+ "Lucknow_Frequency_Walk": {
+  "title": "Lucknow Frequency Walk",
+  "strand": "tours",
+  "kind": "Audio-Locative Pilgrimage Walk",
+  "aliases": [
+   "Lucknow Audio Walk",
+   "Lucknow Pilgrimage",
+   "Lucknow Breath-Count Route"
+  ],
+  "episode": null
+ },
  "Lucknow_Frequency_WalkAn_Audio-Locative_Pilgrimage": {
   "title": "Lucknow Frequency Walk\u2014An Audio-Locative Pilgrimage",
   "strand": "tours",
@@ -10389,6 +10421,15 @@
   "strand": "architecture",
   "kind": "Scholarly essay / conceptual analysis",
   "aliases": [],
+  "episode": null
+ },
+ "Muhammad_Ali_Khan": {
+  "title": "Muhammad Ali Khan",
+  "strand": "music",
+  "kind": "Vocal improviser",
+  "aliases": [
+   "Khan, Muhammad Ali"
+  ],
   "episode": null
  },
  "Muladhara": {
@@ -12030,6 +12071,17 @@
   "kind": "Radio play",
   "aliases": [
    "Prompt (radio play)"
+  ],
+  "episode": null
+ },
+ "Property_Deed_Fragment_And_Sketches_On_Blank_Reverse.jpg": {
+  "title": "Property_Deed_Fragment_And_Sketches_On_Blank_Reverse.jpg",
+  "strand": "immersive",
+  "kind": "Found archival photograph / artifact fragment",
+  "aliases": [
+   "Property deed sketch",
+   "Cabin deed fragment",
+   "Reverse sketches"
   ],
   "episode": null
  },
@@ -18291,6 +18343,17 @@
   "strand": "immersive",
   "kind": "Immersive installation / participatory venue",
   "aliases": [],
+  "episode": null
+ },
+ "The_Makeshift_Clinic_Pavilion": {
+  "title": "The Makeshift Clinic Pavilion",
+  "strand": "immersive",
+  "kind": "Traveling Medical-Art Installation & Durational Care Space",
+  "aliases": [
+   "Makeshift Clinic Pavilion",
+   "The Pavilion",
+   "The Clinic Tent"
+  ],
   "episode": null
  },
  "The_Makeshift_Clinic_PavilionA_Traveling_Medical-Art_Installation": {
@@ -28397,6 +28460,18 @@
   ],
   "episode": null
  },
+ "pinball_machines": {
+  "title": "pinball machines",
+  "strand": "games",
+  "kind": "Game apparatus and motif",
+  "aliases": [
+   "pinball in Beach Surgery",
+   "the pinball cycle",
+   "Beach Surgery arcade games",
+   "pinball motif"
+  ],
+  "episode": null
+ },
  "pipe-blade": {
   "title": "pipe-blade",
   "strand": "canon",
@@ -28698,6 +28773,17 @@
   ],
   "episode": null
  },
+ "radio_teatr": {
+  "title": "radio teatr",
+  "strand": "audio-drama",
+  "kind": "Polish Radio Theatre Adaptation (serial)",
+  "aliases": [
+   "radio teatr (1989\u20131990)",
+   "Chirurgia na Pla\u017cy",
+   "The Surgery on the Beach"
+  ],
+  "episode": null
+ },
  "raga": {
   "title": "raga",
   "strand": "music",
@@ -28890,6 +28976,16 @@
    "apophatic refusal",
    "sacred refusal",
    "refusing"
+  ],
+  "episode": null
+ },
+ "refusal_as_sacred_act": {
+  "title": "refusal as sacred act",
+  "strand": "philosophy",
+  "kind": "Philosophy / Theology Essay",
+  "aliases": [
+   "Sacred Refusal",
+   "Refusal theology"
   ],
   "episode": null
  },
@@ -31188,6 +31284,13 @@
   "aliases": [
    "Tidal Ward"
   ],
+  "episode": null
+ },
+ "timbre": {
+  "title": "timbre",
+  "strand": "concepts",
+  "kind": "Sonic motif",
+  "aliases": [],
   "episode": null
  },
  "Timeline": {
