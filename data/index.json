@@ -5638,6 +5638,13 @@
   ],
   "episode": null
  },
+ "Games_and_Beach_Surgery": {
+  "title": "Games and Beach Surgery",
+  "strand": "games",
+  "kind": "Survey essay",
+  "aliases": [],
+  "episode": null
+ },
  "Ganesha": {
   "title": "Ganesha",
   "strand": "motifs",
@@ -6054,6 +6061,17 @@
   ],
   "episode": null
  },
+ "Gomti": {
+  "title": "Gomti",
+  "strand": "audio-drama",
+  "kind": "Audio-locative pilgrimage / Participatory walking cycle",
+  "aliases": [
+   "Gomti Parikrama",
+   "The Gomti Breath-Count",
+   "Gomti Cycle"
+  ],
+  "episode": null
+ },
  "Gorad_NdoolusA_Griot's_Olfactory_Return_Archive": {
   "title": "Gorad Ndoolus\u2014A Griot's Olfactory Return Archive",
   "strand": "immersive",
@@ -6193,6 +6211,17 @@
    "Griot",
    "Griotic function",
    "West African oral historians"
+  ],
+  "episode": null
+ },
+ "Grotowski": {
+  "title": "Grotowski",
+  "strand": "philosophy",
+  "kind": "Thesis / critical article; theatre genealogy",
+  "aliases": [
+   "Grotowski and Beach Surgery",
+   "The via negativa in Beach Surgery",
+   "Poor Theatre and the Glitch"
   ],
   "episode": null
  },
@@ -6459,6 +6488,16 @@
    "Hindi-language adaptations",
    "Hindi cinema and Beach Surgery",
    "Devanagari adaptations"
+  ],
+  "episode": null
+ },
+ "Hindi_film_2021": {
+  "title": "Hindi film, 2021",
+  "strand": "films",
+  "kind": "Film (Hindi-language adaptation)",
+  "aliases": [
+   "2021 Hindi adaptation",
+   "A Complicated Surgery (Hindi, 2021)"
   ],
   "episode": null
  },
@@ -9414,6 +9453,17 @@
   "strand": "theatre",
   "kind": "List of productions",
   "aliases": [],
+  "episode": null
+ },
+ "List_of_adaptations_by_medium": {
+  "title": "List of adaptations by medium",
+  "strand": "canon",
+  "kind": "Meta-Index / Archive Classification",
+  "aliases": [
+   "Adaptations by form",
+   "Adaptations by media type",
+   "Complete adaptation listing"
+  ],
   "episode": null
  },
  "List_of_episodes": {
@@ -15525,6 +15575,16 @@
    "The Mirror Project (Beirut)",
    "Project Ayne",
    "The Unverified Transmission"
+  ],
+  "episode": null
+ },
+ "The_Biaystok_Reversal": {
+  "title": "The Bia\u0142ystok Reversal",
+  "strand": "films",
+  "kind": "Lost Film (16mm, experimental)",
+  "aliases": [
+   "Bia\u0142ystok 1987",
+   "Odwr\u00f3cenie Bia\u0142ystok"
   ],
   "episode": null
  },
@@ -24442,6 +24502,17 @@
   ],
   "episode": null
  },
+ "apocryphal": {
+  "title": "apocryphal",
+  "strand": "concepts",
+  "kind": "Archive Classification / Definitional",
+  "aliases": [
+   "apocrypha",
+   "disputed precursor",
+   "retro-causal adaptation"
+  ],
+  "episode": null
+ },
  "apophatic_theology": {
   "title": "apophatic theology",
   "strand": "philosophy",
@@ -26293,6 +26364,17 @@
    "resonance",
    "the high pitch",
    "the low drone"
+  ],
+  "episode": null
+ },
+ "frequency_walk": {
+  "title": "frequency walk",
+  "strand": "audio-drama",
+  "kind": "Form/genre article; participatory art taxonomy",
+  "aliases": [
+   "Frequency-walk adaptation",
+   "Audio-locative pilgrimage",
+   "Frequency-based walking cycle"
   ],
   "episode": null
  },
@@ -28721,6 +28803,16 @@
   ],
   "episode": null
  },
+ "raag_Yaman": {
+  "title": "raag Yaman",
+  "strand": "music",
+  "kind": "Concept / Musical tradition",
+  "aliases": [
+   "Raga Yaman",
+   "Yaman Kalyan"
+  ],
+  "episode": null
+ },
  "radar": {
   "title": "radar",
   "strand": "canon",
@@ -30890,6 +30982,13 @@
    "the desert",
    "NSW interior"
   ],
+  "episode": null
+ },
+ "the_red_links": {
+  "title": "the red links",
+  "strand": "meta",
+  "kind": "Wiki meta-concept",
+  "aliases": [],
   "episode": null
  },
  "the_redacted_coast": {

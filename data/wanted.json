@@ -95,11 +95,6 @@
   "links": 2
  },
  {
-  "slug": "frequency_walk",
-  "title": "frequency walk",
-  "links": 2
- },
- {
   "slug": "The_Karmn_Installation_(Lost_Work_1991):_Inventory_Speculation_and_the_Hoax_Question",
   "title": "The Karm\u00e1n Installation (Lost Work, 1991): Inventory, Speculation, and the Hoax Question",
   "links": 2
@@ -120,16 +115,6 @@
   "links": 2
  },
  {
-  "slug": "Games_and_Beach_Surgery",
-  "title": "Games and Beach Surgery",
-  "links": 2
- },
- {
-  "slug": "apocryphal",
-  "title": "apocryphal",
-  "links": 1
- },
- {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -147,11 +132,6 @@
  {
   "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
   "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
-  "links": 1
- },
- {
-  "slug": "Hindi_film_2021",
-  "title": "Hindi film, 2021",
   "links": 1
  },
  {
@@ -195,8 +175,53 @@
   "links": 1
  },
  {
+  "slug": "nullify_a_fireball",
+  "title": "nullify_a_fireball",
+  "links": 1
+ },
+ {
+  "slug": "Video_games_and_the_cycle",
+  "title": "Video games and the cycle",
+  "links": 1
+ },
+ {
+  "slug": "Tabletop_and_participatory_adaptation",
+  "title": "Tabletop and participatory adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Gomti_River",
+  "title": "Gomti River",
+  "links": 1
+ },
+ {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Jerzy_Grotowski",
+  "title": "Jerzy Grotowski",
+  "links": 1
+ },
+ {
+  "slug": "Poor_Theatre",
+  "title": "Poor Theatre",
+  "links": 1
+ },
+ {
+  "slug": "secular_interpretation",
+  "title": "secular interpretation",
+  "links": 1
+ },
+ {
+  "slug": "Poor_Theatre_and_ritual",
+  "title": "Poor Theatre and ritual",
+  "links": 1
+ },
+ {
+  "slug": "Indian_landscape_painting",
+  "title": "Indian landscape painting",
   "links": 1
  },
  {
@@ -230,6 +255,36 @@
   "links": 1
  },
  {
+  "slug": "Tabletop_and_TTRPG_adaptations",
+  "title": "Tabletop and TTRPG adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Interactive_fiction_and_Beach_Surgery",
+  "title": "Interactive fiction and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Scent_and_olfactory_art_in_Beach_Surgery",
+  "title": "Scent and olfactory art in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Video_essays_and_critical_works",
+  "title": "Video essays and critical works",
+  "links": 1
+ },
+ {
+  "slug": "Fan_theories_and_extended_readings",
+  "title": "Fan theories and extended readings",
+  "links": 1
+ },
+ {
+  "slug": "Lost_media_and_apocrypha",
+  "title": "Lost media and apocrypha",
+  "links": 1
+ },
+ {
   "slug": "BBC",
   "title": "BBC",
   "links": 1
@@ -242,21 +297,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "raag_Yaman",
-  "title": "raag Yaman",
-  "links": 1
- },
- {
-  "slug": "Gomti",
-  "title": "Gomti",
-  "links": 1
- },
- {
-  "slug": "the_red_links",
-  "title": "the red links",
   "links": 1
  },
  {
@@ -292,21 +332,6 @@
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
-  "links": 1
- },
- {
-  "slug": "Grotowski",
-  "title": "Grotowski",
-  "links": 1
- },
- {
-  "slug": "List_of_adaptations_by_medium",
-  "title": "List of adaptations by medium",
-  "links": 1
- },
- {
-  "slug": "The_Biaystok_Reversal",
-  "title": "The Bia\u0142ystok Reversal",
   "links": 1
  },
  {
@@ -5795,6 +5820,26 @@
   "links": 1
  },
  {
+  "slug": "Adaptive_interpretation_principle_(Surgipelago):",
+  "title": "Adaptive interpretation principle (Surgipelago):",
+  "links": 1
+ },
+ {
+  "slug": "List_of_frequency_walks",
+  "title": "List of frequency walks",
+  "links": 1
+ },
+ {
+  "slug": "Kano_Frequency_Remains",
+  "title": "Kano Frequency Remains",
+  "links": 1
+ },
+ {
+  "slug": "The_Corridor_of_Frequencies",
+  "title": "The Corridor of Frequencies",
+  "links": 1
+ },
+ {
   "slug": "Bali",
   "title": "Bali",
   "links": 1
@@ -6530,6 +6575,21 @@
   "links": 1
  },
  {
+  "slug": "Shanta_rasa",
+  "title": "Shanta rasa",
+  "links": 1
+ },
+ {
+  "slug": "Sringara_rasa",
+  "title": "Sringara rasa",
+  "links": 1
+ },
+ {
+  "slug": "Kalyan_thaat",
+  "title": "Kalyan thaat",
+  "links": 1
+ },
+ {
   "slug": "Red_Overture",
   "title": "Red Overture",
   "links": 1
@@ -7092,6 +7152,16 @@
  {
   "slug": "Egyptian",
   "title": "Egyptian",
+  "links": 1
+ },
+ {
+  "slug": "ceremony",
+  "title": "ceremony",
+  "links": 1
+ },
+ {
+  "slug": "divination",
+  "title": "divination",
   "links": 1
  },
  {
