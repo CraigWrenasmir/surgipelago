@@ -6072,6 +6072,16 @@
   ],
   "episode": null
  },
+ "Gomti_River": {
+  "title": "Gomti River",
+  "strand": "places",
+  "kind": "Geographic location / spatial motif",
+  "aliases": [
+   "Gomti",
+   "Gomti waterway"
+  ],
+  "episode": null
+ },
  "Gorad_NdoolusA_Griot's_Olfactory_Return_Archive": {
   "title": "Gorad Ndoolus\u2014A Griot's Olfactory Return Archive",
   "strand": "immersive",
@@ -7038,6 +7048,16 @@
   ],
   "episode": null
  },
+ "Indian_landscape_painting": {
+  "title": "Indian landscape painting",
+  "strand": "visual art",
+  "kind": "Visual tradition / Regional adaptation",
+  "aliases": [
+   "Indian painting and Beach Surgery",
+   "South Asian landscape aesthetics"
+  ],
+  "episode": null
+ },
  "Indigenous_Australian": {
   "title": "Indigenous Australian",
   "strand": "concepts",
@@ -7163,6 +7183,16 @@
    "IF works",
    "interactive fiction in Beach Surgery",
    "text adventure adaptations"
+  ],
+  "episode": null
+ },
+ "Interactive_fiction_and_Beach_Surgery": {
+  "title": "Interactive fiction and Beach Surgery",
+  "strand": "games",
+  "kind": "Game form / Interactive narrative",
+  "aliases": [
+   "IF and Beach Surgery",
+   "interactive fiction adaptations"
   ],
   "episode": null
  },
@@ -7400,6 +7430,17 @@
   "strand": "manga",
   "kind": "Manga overview and bibliography",
   "aliases": [],
+  "episode": null
+ },
+ "Jerzy_Grotowski": {
+  "title": "Jerzy Grotowski",
+  "strand": "theatre",
+  "kind": "Theatre theorist and influence",
+  "aliases": [
+   "Grotowski",
+   "Poor Theatre theorist",
+   "Jerzy Grotowski (1933\u20131999)"
+  ],
   "episode": null
  },
  "Jolly_Roger_Hotel": {
@@ -12002,6 +12043,28 @@
   ],
   "episode": null
  },
+ "Poor_Theatre": {
+  "title": "Poor Theatre",
+  "strand": "theatre",
+  "kind": "Aesthetic movement / Theatrical practice and philosophy",
+  "aliases": [
+   "Poor Theatre (Grotowski)",
+   "Grotowskian method",
+   "The aesthetics of refusal in Beach Surgery theatre"
+  ],
+  "episode": null
+ },
+ "Poor_Theatre_and_ritual": {
+  "title": "Poor Theatre and ritual",
+  "strand": "theatre",
+  "kind": "Theatrical practice / Approach",
+  "aliases": [
+   "Grotowskian approach",
+   "poor theatre adaptation",
+   "ritual staging"
+  ],
+  "episode": null
+ },
  "Popol_Vuh": {
   "title": "Popol Vuh",
   "strand": "theses",
@@ -13428,6 +13491,17 @@
   "aliases": [
    "Nordic adaptations",
    "Scandinavian Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Scent_and_olfactory_art_in_Beach_Surgery": {
+  "title": "Scent and olfactory art in Beach Surgery",
+  "strand": "scent",
+  "kind": "Sensory adaptation mode / immersive art practice",
+  "aliases": [
+   "Olfactory adaptation",
+   "Scent-based works",
+   "Olfactory art in Beach Surgery"
   ],
   "episode": null
  },
@@ -14911,6 +14985,28 @@
   "aliases": [
    "the tabletop game",
    "TG"
+  ],
+  "episode": null
+ },
+ "Tabletop_and_TTRPG_adaptations": {
+  "title": "Tabletop and TTRPG adaptations",
+  "strand": "tabletop",
+  "kind": "Tabletop games overview",
+  "aliases": [
+   "TTRPG mechanics",
+   "Role-playing adaptations",
+   "Tabletop Beach Surgery systems"
+  ],
+  "episode": null
+ },
+ "Tabletop_and_participatory_adaptation": {
+  "title": "Tabletop and participatory adaptation",
+  "strand": "tabletop",
+  "kind": "Thematic overview / Ludic forms and participatory practice",
+  "aliases": [
+   "TTRPG and participatory adaptation",
+   "Participatory tabletop games",
+   "Board games and Beach Surgery"
   ],
   "episode": null
  },
@@ -23529,6 +23625,27 @@
   "aliases": [],
   "episode": null
  },
+ "Video_essays_and_critical_works": {
+  "title": "Video essays and critical works",
+  "strand": "fan-theories",
+  "kind": "Index article",
+  "aliases": [
+   "Critical video works",
+   "Video essay collection"
+  ],
+  "episode": null
+ },
+ "Video_games_and_the_cycle": {
+  "title": "Video games and the cycle",
+  "strand": "games",
+  "kind": "Gaming forms and ludic metaphor",
+  "aliases": [
+   "Games and recursion",
+   "Ludic cycle",
+   "Video games and cyclic narrative"
+  ],
+  "episode": null
+ },
  "Viennale": {
   "title": "Viennale",
   "strand": "films",
@@ -28185,6 +28302,17 @@
   ],
   "episode": null
  },
+ "nullify_a_fireball": {
+  "title": "nullify_a_fireball",
+  "strand": "concepts",
+  "kind": "Interpretive principle / Fandom practice",
+  "aliases": [
+   "The Nullification Thesis",
+   "Fireball Paradox",
+   "Negation-by-Opposition"
+  ],
+  "episode": null
+ },
  "nurse": {
   "title": "nurse",
   "strand": "canon",
@@ -29369,6 +29497,16 @@
    "doubled vision",
    "multiplied vision",
    "ten layered versions"
+  ],
+  "episode": null
+ },
+ "secular_interpretation": {
+  "title": "secular interpretation",
+  "strand": "philosophy",
+  "kind": "Critical reading tradition",
+  "aliases": [
+   "secular readings",
+   "non-theological approach"
   ],
   "episode": null
  },
