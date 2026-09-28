@@ -5169,6 +5169,16 @@
   ],
   "episode": null
  },
+ "Fan_theories_and_extended_readings": {
+  "title": "Fan theories and extended readings",
+  "strand": "fan-theories",
+  "kind": "Meta-article and reference guide",
+  "aliases": [
+   "Fandom scholarship",
+   "Fan scholarship and interpretation"
+  ],
+  "episode": null
+ },
  "Fandom": {
   "title": "Fandom",
   "strand": "meta",
@@ -5377,6 +5387,17 @@
   "strand": "philosophy",
   "kind": "Philosophical reference",
   "aliases": [],
+  "episode": null
+ },
+ "Found_artifacts_in_Beach_Surgery_adaptation": {
+  "title": "Found artifacts in Beach Surgery adaptation",
+  "strand": "fan-theories",
+  "kind": "Essay / meta-archival inventory",
+  "aliases": [
+   "discovered objects",
+   "archaeological finds",
+   "material traces of the franchise"
+  ],
   "episode": null
  },
  "France": {
@@ -9613,6 +9634,17 @@
   ],
   "episode": null
  },
+ "Lost_media_and_apocrypha": {
+  "title": "Lost media and apocrypha",
+  "strand": "lost-media",
+  "kind": "Index and critical overview",
+  "aliases": [
+   "Apocrypha",
+   "Pre-2020 works",
+   "Lost works and discovered fragments"
+  ],
+  "episode": null
+ },
  "Lost_primary_sources_and_retroactive_canon": {
   "title": "Lost primary sources and retroactive canon",
   "strand": "concepts",
@@ -10332,6 +10364,16 @@
   "aliases": [],
   "episode": null
  },
+ "Middle_Eastern_and_Persian_adaptations_of_Beach_Surgery": {
+  "title": "Middle Eastern and Persian adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Regional overview / art forms",
+  "aliases": [
+   "Persian and Arabic adaptations",
+   "Levantine and Gulf adaptations"
+  ],
+  "episode": null
+ },
  "Mighty_Mechas": {
   "title": "Mighty Mechas",
   "strand": "canon",
@@ -10384,6 +10426,16 @@
   "aliases": [
    "The three temptations",
    "Grand Inquisitor motif in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Mirror-Tree_Archive_(1991_status_disputed)": {
+  "title": "Mirror-Tree Archive (1991, status disputed)",
+  "strand": "lost-media",
+  "kind": "Installation (status disputed, pre-2020 precursor)",
+  "aliases": [
+   "Tree-Mirror Archive",
+   "Mirror Archive (1991)"
   ],
   "episode": null
  },
@@ -12991,6 +13043,17 @@
   ],
   "episode": null
  },
+ "Rivers_and_waterways_in_Beach_Surgery": {
+  "title": "Rivers and waterways in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Thematic essay",
+  "aliases": [
+   "Water and Beach Surgery",
+   "Waterways in adaptation",
+   "Rivers motif"
+  ],
+  "episode": null
+ },
  "Rooftop_and_the_Wire": {
   "title": "Rooftop and the Wire",
   "strand": "canon",
@@ -13537,6 +13600,17 @@
    "Beach Surgery devotional schisms",
    "The Doctrine of Refusal vs. the Doctrine of Return",
    "Beach Surgery sectarian movements"
+  ],
+  "episode": null
+ },
+ "Scholarly_reception_of_Beach_Surgery": {
+  "title": "Scholarly reception of Beach Surgery",
+  "strand": "theses",
+  "kind": "Meta-essay / reception survey",
+  "aliases": [
+   "Academic reception",
+   "Beach Surgery criticism",
+   "Scholarly canon"
   ],
   "episode": null
  },
@@ -14255,6 +14329,17 @@
   "kind": "Feature film",
   "aliases": [
    "Rotaci\u00f3n Sin Fin"
+  ],
+  "episode": null
+ },
+ "Spatial_motifs_in_Beach_Surgery": {
+  "title": "Spatial motifs in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Analytical overview",
+  "aliases": [
+   "Geography and Beach Surgery",
+   "Space and the cycle",
+   "Urban and desert duality"
   ],
   "episode": null
  },
@@ -24630,6 +24715,17 @@
   ],
   "episode": null
  },
+ "apophatic_cinema": {
+  "title": "apophatic cinema",
+  "strand": "philosophy",
+  "kind": "Critical concept / aesthetic practice",
+  "aliases": [
+   "apophatic refusal in cinema",
+   "negative cinema",
+   "cinema of absence"
+  ],
+  "episode": null
+ },
  "apophatic_theology": {
   "title": "apophatic theology",
   "strand": "philosophy",
@@ -31580,6 +31676,16 @@
   "aliases": [
    "topeng Balinese",
    "masked theatre Bali"
+  ],
+  "episode": null
+ },
+ "total_act": {
+  "title": "total act",
+  "strand": "immersive",
+  "kind": "Participatory durational immersive installation",
+  "aliases": [
+   "Total Act",
+   "the total act"
   ],
   "episode": null
  },
