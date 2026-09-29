@@ -7294,6 +7294,17 @@
   "aliases": [],
   "episode": null
  },
+ "Islamic_theology_in_adaptation": {
+  "title": "Islamic theology in adaptation",
+  "strand": "concepts",
+  "kind": "Theological framework / Analytical category",
+  "aliases": [
+   "Islamic readings of Beach Surgery",
+   "Tawh\u012bd and the glitch",
+   "Islamic metaphysics in adaptation"
+  ],
+  "episode": null
+ },
  "Islington": {
   "title": "Islington",
   "strand": "gazetteer",
@@ -8238,6 +8249,16 @@
   "aliases": [
    "The Klamath Cycle",
    "Sang the Glitch"
+  ],
+  "episode": null
+ },
+ "Klamath_Sang_the_Glitch_(Lost_1997ongoing_Storytelling_Cycle)": {
+  "title": "Klamath Sang the Glitch (Lost 1997\u2013ongoing Storytelling Cycle)",
+  "strand": "lost-media",
+  "kind": "Oral tradition / storytelling cycle (pre-2020, apocryphal)",
+  "aliases": [
+   "Klamath Sang the Glitch",
+   "The Klamath Recitation Cycle"
   ],
   "episode": null
  },
@@ -9642,6 +9663,17 @@
    "Apocrypha",
    "Pre-2020 works",
    "Lost works and discovered fragments"
+  ],
+  "episode": null
+ },
+ "Lost_media_in_Beach_Surgery_adaptation": {
+  "title": "Lost media in Beach Surgery adaptation",
+  "strand": "lost-media",
+  "kind": "Meta-article / archival essay",
+  "aliases": [
+   "Lost works",
+   "Apocrypha and disputed sources",
+   "The apocryphal canon"
   ],
   "episode": null
  },
@@ -19121,6 +19153,17 @@
   ],
   "episode": null
  },
+ "The_Murnane_Interior_Hypothesis": {
+  "title": "The Murnane Interior Hypothesis",
+  "strand": "fan-theories",
+  "kind": "Critical hypothesis / Fan theory",
+  "aliases": [
+   "Murnane Hypothesis",
+   "The Inland Plane thesis",
+   "Murnane and Half Two"
+  ],
+  "episode": null
+ },
  "The_Murnane_Interior_HypothesisGerald_Murnane's_Inland_Plane_and_the_Unseen_Desert_of_Half_Two": {
   "title": "The Murnane Interior Hypothesis\u2014Gerald Murnane's Inland Plane and the Unseen Desert of Half Two",
   "strand": "fan-theories",
@@ -21276,6 +21319,16 @@
   ],
   "episode": null
  },
+ "The_Tender_Surgery": {
+  "title": "The Tender Surgery",
+  "strand": "theses",
+  "kind": "Doctoral dissertation",
+  "aliases": [
+   "Tender Surgery Dissertation",
+   "The Tender Surgery (2023)"
+  ],
+  "episode": null
+ },
  "The_Tender_Surgery_(PhD_Dissertation_2023)": {
   "title": "The Tender Surgery (PhD Dissertation, 2023)",
   "strand": "theses",
@@ -22765,6 +22818,16 @@
    "Leif",
    "Leif (character)",
    "The engineer"
+  ],
+  "episode": null
+ },
+ "The_neighbouring_archive": {
+  "title": "The neighbouring archive",
+  "strand": "meta",
+  "kind": "Conceptual interference / archived broadcast network",
+  "aliases": [
+   "The solar archive",
+   "The tree-knot transmissions"
   ],
   "episode": null
  },
@@ -24272,6 +24335,17 @@
   "aliases": [
    "Yamuna Cicatriz",
    "Yamuna Return"
+  ],
+  "episode": null
+ },
+ "Yazd": {
+  "title": "Yazd",
+  "strand": "places",
+  "kind": "Geographic location; adaptation site; pilgrimage node",
+  "aliases": [
+   "Yazd adaptations",
+   "Yazd pilgrimage",
+   "Yazd (Persian context)"
   ],
   "episode": null
  },
@@ -29355,6 +29429,16 @@
   ],
   "episode": null
  },
+ "retro-causal_permission": {
+  "title": "retro-causal permission",
+  "strand": "canon",
+  "kind": "Conceptual principle",
+  "aliases": [
+   "retro-causality in adaptation",
+   "the past is composed by the future"
+  ],
+  "episode": null
+ },
  "return": {
   "title": "return",
   "strand": "motifs",
@@ -31117,6 +31201,17 @@
    "the officer",
    "the mechanic-officer",
    "the layered man"
+  ],
+  "episode": null
+ },
+ "the_neighbouring_archive": {
+  "title": "the neighbouring archive",
+  "strand": "concepts",
+  "kind": "Distributed archive system; philosophical concept",
+  "aliases": [
+   "neighbouring archive",
+   "the tree archive",
+   "the solar mesh"
   ],
   "episode": null
  },
