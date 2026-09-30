@@ -12,7 +12,7 @@
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis",
-  "links": 12
+  "links": 13
  },
  {
   "slug": "novel",
@@ -45,13 +45,13 @@
   "links": 5
  },
  {
-  "slug": "Zen",
-  "title": "Zen",
-  "links": 4
- },
- {
   "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
   "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
+  "links": 5
+ },
+ {
+  "slug": "Zen",
+  "title": "Zen",
   "links": 4
  },
  {
@@ -100,16 +100,6 @@
   "links": 2
  },
  {
-  "slug": "Scriptural_Authority_and_the_Living_Author",
-  "title": "Scriptural Authority and the Living Author",
-  "links": 2
- },
- {
-  "slug": "Indigenous_Australian_adaptations_of_Beach_Surgery",
-  "title": "Indigenous Australian adaptations of Beach Surgery",
-  "links": 2
- },
- {
   "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
   "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
   "links": 2
@@ -130,6 +120,11 @@
   "links": 2
  },
  {
+  "slug": "Kenya",
+  "title": "Kenya",
+  "links": 2
+ },
+ {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -147,6 +142,11 @@
  {
   "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
   "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
+  "links": 1
+ },
+ {
+  "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
+  "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
   "links": 1
  },
  {
@@ -205,13 +205,8 @@
   "links": 1
  },
  {
-  "slug": "tawakkul",
-  "title": "tawakkul",
-  "links": 1
- },
- {
-  "slug": "exegesis",
-  "title": "exegesis",
+  "slug": "Country",
+  "title": "Country",
   "links": 1
  },
  {
@@ -227,11 +222,6 @@
  {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
-  "links": 1
- },
- {
-  "slug": "Beach_Surgery_adaptations_by_location",
-  "title": "Beach Surgery adaptations by location",
   "links": 1
  },
  {
@@ -252,11 +242,6 @@
  {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "The_Static_Bloom_Broadcast_(Lost_Radio_Work_1994)",
-  "title": "The Static Bloom Broadcast (Lost Radio Work, 1994)",
   "links": 1
  },
  {
@@ -295,23 +280,8 @@
   "links": 1
  },
  {
-  "slug": "The_Doctrine_of_ReturnEternal_Recurrence_as_Theodicy",
-  "title": "The Doctrine of Return\u2014Eternal Recurrence as Theodicy",
-  "links": 1
- },
- {
   "slug": "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation",
   "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation",
-  "links": 1
- },
- {
-  "slug": "Uganda",
-  "title": "Uganda",
-  "links": 1
- },
- {
-  "slug": "Sanswara_Festival",
-  "title": "Sanswara Festival",
   "links": 1
  },
  {
@@ -2175,6 +2145,16 @@
   "links": 1
  },
  {
+  "slug": "Buddhist_adaptations",
+  "title": "Buddhist adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Amor_fati_and_Beach_Surgery",
+  "title": "Amor fati and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Amara_Okafor",
   "title": "Amara Okafor",
   "links": 1
@@ -2792,11 +2772,6 @@
  {
   "slug": "Mathematical_readings_of_Beach_Surgery",
   "title": "Mathematical readings of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Kenya",
-  "title": "Kenya",
   "links": 1
  },
  {
@@ -3940,6 +3915,11 @@
   "links": 1
  },
  {
+  "slug": "flowers",
+  "title": "flowers",
+  "links": 1
+ },
+ {
   "slug": "Ramallah",
   "title": "Ramallah",
   "links": 1
@@ -4792,6 +4772,26 @@
  {
   "slug": "Indonesian",
   "title": "Indonesian",
+  "links": 1
+ },
+ {
+  "slug": "Kisenyi",
+  "title": "Kisenyi",
+  "links": 1
+ },
+ {
+  "slug": "Jinja",
+  "title": "Jinja",
+  "links": 1
+ },
+ {
+  "slug": "Marionette_and_Beach_Surgery",
+  "title": "Marionette and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Tanzania",
+  "title": "Tanzania",
   "links": 1
  },
  {
@@ -6877,6 +6877,11 @@
  {
   "slug": "invisible_seam",
   "title": "invisible seam",
+  "links": 1
+ },
+ {
+  "slug": "Allah",
+  "title": "Allah",
   "links": 1
  },
  {

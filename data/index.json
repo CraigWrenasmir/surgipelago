@@ -1979,6 +1979,16 @@
   "aliases": [],
   "episode": null
  },
+ "Beach_Surgery_adaptations_by_location": {
+  "title": "Beach Surgery adaptations by location",
+  "strand": "concepts",
+  "kind": "List article / Geographic index",
+  "aliases": [
+   "Geographic distribution of the franchise",
+   "Adaptations by region"
+  ],
+  "episode": null
+ },
  "Beach_Surgery_communities": {
   "title": "Beach Surgery communities",
   "strand": "meta",
@@ -7094,6 +7104,16 @@
    "Indigenous adaptation",
    "Aboriginal and M\u0101ori contexts",
    "Indigenous Australian and M\u0101ori traditions in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Indigenous_Australian_adaptations_of_Beach_Surgery": {
+  "title": "Indigenous Australian adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Overview essay",
+  "aliases": [
+   "Aboriginal Australian and Torres Strait Islander Beach Surgery",
+   "First Nations adaptations (Australia)"
   ],
   "episode": null
  },
@@ -13562,6 +13582,16 @@
   ],
   "episode": null
  },
+ "Sanswara_Festival": {
+  "title": "Sanswara Festival",
+  "strand": "music",
+  "kind": "Participatory Music Festival",
+  "aliases": [
+   "Sanswara Symposium",
+   "The Colour of Return"
+  ],
+  "episode": null
+ },
  "Sawt_al-ArdhThe_Sound_the_Earth_Refuses": {
   "title": "Sawt al-Ardh\u2014The Sound the Earth Refuses",
   "strand": "scent",
@@ -13643,6 +13673,16 @@
    "Academic reception",
    "Beach Surgery criticism",
    "Scholarly canon"
+  ],
+  "episode": null
+ },
+ "Scriptural_Authority_and_the_Living_Author": {
+  "title": "Scriptural Authority and the Living Author",
+  "strand": "meta",
+  "kind": "Scholarly essay",
+  "aliases": [
+   "Canon and the Living Author",
+   "Scriptural Authority in Beach Surgery"
   ],
   "episode": null
  },
@@ -16808,6 +16848,17 @@
   "aliases": [
    "Return doctrine",
    "Eternal Return theology"
+  ],
+  "episode": null
+ },
+ "The_Doctrine_of_ReturnEternal_Recurrence_as_Theodicy": {
+  "title": "The Doctrine of Return\u2014Eternal Recurrence as Theodicy",
+  "strand": "philosophy",
+  "kind": "Theological concept",
+  "aliases": [
+   "Eternal Return and theodicy",
+   "Recurrence as redemption",
+   "The return and suffering"
   ],
   "episode": null
  },
@@ -20993,6 +21044,17 @@
   ],
   "episode": null
  },
+ "The_Static_Bloom_Broadcast_(Lost_Radio_Work_1994)": {
+  "title": "The Static Bloom Broadcast (Lost Radio Work, 1994)",
+  "strand": "audio-drama",
+  "kind": "Lost radio work",
+  "aliases": [
+   "Static Bloom",
+   "The Bloom Frequency (1994)",
+   "The Bloom Serial (disputed)"
+  ],
+  "episode": null
+ },
  "The_Stone_Pool_Deepens": {
   "title": "The Stone Pool Deepens",
   "strand": "anime",
@@ -23573,6 +23635,16 @@
   "aliases": [
    "Ubud School of Wayang and Dramatic Arts",
    "UWDA"
+  ],
+  "episode": null
+ },
+ "Uganda": {
+  "title": "Uganda",
+  "strand": "adaptations",
+  "kind": "Regional overview",
+  "aliases": [
+   "Ugandan adaptations of Beach Surgery",
+   "Kampala Beach Surgery"
   ],
   "episode": null
  },
@@ -26404,6 +26476,17 @@
    "exhaustion as refusal",
    "the doctrine of exhaustion",
    "learning to be the loser"
+  ],
+  "episode": null
+ },
+ "exegesis": {
+  "title": "exegesis",
+  "strand": "philosophy",
+  "kind": "Concept entry",
+  "aliases": [
+   "textual interpretation",
+   "Beach Surgery exegesis",
+   "hermeneutic practice"
   ],
   "episode": null
  },
@@ -30348,6 +30431,16 @@
    "tapa",
    "tapa cloth adaptations of Beach Surgery",
    "Pacific textile tradition"
+  ],
+  "episode": null
+ },
+ "tawakkul": {
+  "title": "tawakkul",
+  "strand": "philosophy",
+  "kind": "Theological concept",
+  "aliases": [
+   "tawakkul (Beach Surgery theology)",
+   "Divine reliance and the three temptations"
   ],
   "episode": null
  },
