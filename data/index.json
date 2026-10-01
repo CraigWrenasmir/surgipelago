@@ -3706,6 +3706,16 @@
   "aliases": [],
   "episode": null
  },
+ "Country": {
+  "title": "Country",
+  "strand": "music",
+  "kind": "Audio-documentary sound installation (2019\u20132023)",
+  "aliases": [
+   "Country (audio work)",
+   "Country (installation)"
+  ],
+  "episode": null
+ },
  "Crdoba": {
   "title": "C\u00f3rdoba",
   "strand": "concepts",
@@ -8145,6 +8155,17 @@
   ],
   "episode": null
  },
+ "Kenya": {
+  "title": "Kenya",
+  "strand": "adaptations by location",
+  "kind": "Location hub / Regional overview",
+  "aliases": [
+   "Kenyan adaptations of Beach Surgery",
+   "Kenya and Beach Surgery",
+   "East Africa (Kenya node)"
+  ],
+  "episode": null
+ },
  "Khachkar": {
   "title": "Khachkar",
   "strand": "immersive",
@@ -11744,6 +11765,16 @@
   ],
   "episode": null
  },
+ "Perfume_adaptations_of_Beach_Surgery": {
+  "title": "Perfume adaptations of Beach Surgery",
+  "strand": "scent",
+  "kind": "Adaptation Overview / Catalogue",
+  "aliases": [
+   "Olfactory adaptations",
+   "Scent installations and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Persian": {
   "title": "Persian",
   "strand": "concepts",
@@ -12624,6 +12655,17 @@
   "strand": "concepts",
   "kind": "Regional adaptation hub",
   "aliases": [],
+  "episode": null
+ },
+ "Rajasthan_adaptations_of_Beach_Surgery": {
+  "title": "Rajasthan adaptations of Beach Surgery",
+  "strand": "theatre",
+  "kind": "Regional overview",
+  "aliases": [
+   "Rajasthan and Beach Surgery",
+   "Rajasthani Beach Surgery",
+   "Kathak and Bhopa adaptations"
+  ],
   "episode": null
  },
  "Rajghat": {
@@ -13638,6 +13680,17 @@
    "olfactory adaptation",
    "scent installations in Beach Surgery",
    "multi-sensory Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Scent_motifs_in_Beach_Surgery": {
+  "title": "Scent motifs in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Concept article and olfactory taxonomy",
+  "aliases": [
+   "Olfactory motifs in Beach Surgery",
+   "Scent and memory",
+   "The smell of recurrence"
   ],
   "episode": null
  },
@@ -18306,6 +18359,16 @@
    "Lahore Frequency Walk",
    "Frequency Walk, Lahore",
    "The Lahore Broadcast Tour"
+  ],
+  "episode": null
+ },
+ "The_Landscape_as_CharacterRed_Dust_Across_Adaptation": {
+  "title": "The Landscape as Character\u2014Red Dust Across Adaptation",
+  "strand": "concepts",
+  "kind": "Critical Essay / Motif Study",
+  "aliases": [
+   "Landscape and red motif in adaptations",
+   "Geography as agent"
   ],
   "episode": null
  },
@@ -23464,6 +23527,16 @@
   "aliases": [],
   "episode": null
  },
+ "Triage_before_everything": {
+  "title": "Triage before everything",
+  "strand": "motifs",
+  "kind": "Ethical principle / motif",
+  "aliases": [
+   "The priority of triage",
+   "Triage as foundational law"
+  ],
+  "episode": null
+ },
  "Trinidad": {
   "title": "Trinidad",
   "strand": "music",
@@ -24155,6 +24228,17 @@
   "strand": "canon",
   "kind": "Digital interactive work",
   "aliases": [],
+  "episode": null
+ },
+ "Weilmoringle": {
+  "title": "Weilmoringle",
+  "strand": "lost-media",
+  "kind": "Oral performance tradition (pre-2020, status disputed)",
+  "aliases": [
+   "The Weilmoringle Cycle",
+   "Weilmoringle recitation",
+   "Weilmoringle ritual"
+  ],
   "episode": null
  },
  "West_Africa": {
@@ -29674,6 +29758,17 @@
    "Salah (installation)",
    "Salah: Five Thresholds",
    "Five Prayers Cycle"
+  ],
+  "episode": null
+ },
+ "salt": {
+  "title": "salt",
+  "strand": "motifs",
+  "kind": "Motif / Concept",
+  "aliases": [
+   "salt and return",
+   "salt as memory",
+   "saline archetype"
   ],
   "episode": null
  },

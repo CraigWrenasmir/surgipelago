@@ -85,6 +85,11 @@
   "links": 3
  },
  {
+  "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
+  "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
+  "links": 3
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -100,13 +105,18 @@
   "links": 2
  },
  {
+  "slug": "Dhupo_DosroThe_Second_Breath",
+  "title": "Dhupo Dosro\u2014The Second Breath",
+  "links": 2
+ },
+ {
   "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
   "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
   "links": 2
  },
  {
-  "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
-  "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
+  "slug": "temptations",
+  "title": "temptations",
   "links": 2
  },
  {
@@ -117,11 +127,6 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
-  "links": 2
- },
- {
-  "slug": "Kenya",
-  "title": "Kenya",
   "links": 2
  },
  {
@@ -170,6 +175,16 @@
   "links": 1
  },
  {
+  "slug": "eucalyptus",
+  "title": "eucalyptus",
+  "links": 1
+ },
+ {
+  "slug": "appropriation",
+  "title": "appropriation",
+  "links": 1
+ },
+ {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -205,11 +220,6 @@
   "links": 1
  },
  {
-  "slug": "Country",
-  "title": "Country",
-  "links": 1
- },
- {
   "slug": "Ifa",
   "title": "Ifa",
   "links": 1
@@ -222,6 +232,16 @@
  {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
+  "links": 1
+ },
+ {
+  "slug": "The_Caught_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
+  "title": "The Caught Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
+  "links": 1
+ },
+ {
+  "slug": "Nairobi_Spiral_ChamberA_Brutalist_Listening_Pavilion_and_Pilgrimage_Site",
+  "title": "Nairobi Spiral Chamber\u2014A Brutalist Listening Pavilion and Pilgrimage Site",
   "links": 1
  },
  {
@@ -285,43 +305,63 @@
   "links": 1
  },
  {
-  "slug": "Rajasthan_adaptations_of_Beach_Surgery",
-  "title": "Rajasthan adaptations of Beach Surgery",
+  "slug": "Bhopa",
+  "title": "Bhopa",
+  "links": 1
+ },
+ {
+  "slug": "Jaipur_gharana",
+  "title": "Jaipur gharana",
+  "links": 1
+ },
+ {
+  "slug": "taals",
+  "title": "taals",
+  "links": 1
+ },
+ {
+  "slug": "Jodhpur",
+  "title": "Jodhpur",
+  "links": 1
+ },
+ {
+  "slug": "Udaipur",
+  "title": "Udaipur",
+  "links": 1
+ },
+ {
+  "slug": "Barmer",
+  "title": "Barmer",
+  "links": 1
+ },
+ {
+  "slug": "Mahila_Mandal_Udaipur",
+  "title": "Mahila Mandal, Udaipur",
+  "links": 1
+ },
+ {
+  "slug": "Bandhani",
+  "title": "Bandhani",
+  "links": 1
+ },
+ {
+  "slug": "Jaipur",
+  "title": "Jaipur",
+  "links": 1
+ },
+ {
+  "slug": "haveliz",
+  "title": "haveliz",
+  "links": 1
+ },
+ {
+  "slug": "Bandhani_tradition",
+  "title": "Bandhani tradition",
   "links": 1
  },
  {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
-  "links": 1
- },
- {
-  "slug": "The_Landscape_as_CharacterRed_Dust_Across_Adaptation",
-  "title": "The Landscape as Character\u2014Red Dust Across Adaptation",
-  "links": 1
- },
- {
-  "slug": "Weilmoringle",
-  "title": "Weilmoringle",
-  "links": 1
- },
- {
-  "slug": "Triage_before_everything",
-  "title": "Triage before everything",
-  "links": 1
- },
- {
-  "slug": "salt",
-  "title": "salt",
-  "links": 1
- },
- {
-  "slug": "Perfume_adaptations_of_Beach_Surgery",
-  "title": "Perfume adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Scent_motifs_in_Beach_Surgery",
-  "title": "Scent motifs in Beach Surgery",
   "links": 1
  },
  {
@@ -2735,6 +2775,11 @@
   "links": 1
  },
  {
+  "slug": "resists_finishing",
+  "title": "resists finishing",
+  "links": 1
+ },
+ {
   "slug": "Eros_and_wounding",
   "title": "Eros and wounding",
   "links": 1
@@ -3302,11 +3347,6 @@
  {
   "slug": "Roberto_Bolao",
   "title": "Roberto Bola\u00f1o",
-  "links": 1
- },
- {
-  "slug": "temptations",
-  "title": "temptations",
   "links": 1
  },
  {
@@ -5420,11 +5460,6 @@
   "links": 1
  },
  {
-  "slug": "Olfactory_adaptations",
-  "title": "Olfactory adaptations",
-  "links": 1
- },
- {
   "slug": "Carnaval_de_Oruru",
   "title": "Carnaval de Oruru",
   "links": 1
@@ -6220,11 +6255,6 @@
   "links": 1
  },
  {
-  "slug": "Dhupo_DosroThe_Second_Breath",
-  "title": "Dhupo Dosro\u2014The Second Breath",
-  "links": 1
- },
- {
   "slug": "Recognising_Leif",
   "title": "Recognising Leif",
   "links": 1
@@ -6662,6 +6692,11 @@
  {
   "slug": "Prayer_and_Beach_Surgery",
   "title": "Prayer and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Ritual_of_Salt_Return",
+  "title": "The Ritual of Salt Return",
   "links": 1
  },
  {
