@@ -2299,6 +2299,16 @@
   ],
   "episode": null
  },
+ "Bhopa": {
+  "title": "Bhopa",
+  "strand": "theatre",
+  "kind": "Regional performance tradition",
+  "aliases": [
+   "Padharo tradition",
+   "Rajasthani oral epic in Beach Surgery adaptation"
+  ],
+  "episode": null
+ },
  "Bogey_Hole": {
   "title": "Bogey Hole",
   "strand": "places",
@@ -4121,6 +4131,17 @@
    "Beach Surgery faith communities",
    "Beach Surgery devotional practice",
    "Liturgical praxis and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Dhupo_DosroThe_Second_Breath": {
+  "title": "Dhupo Dosro\u2014The Second Breath",
+  "strand": "LARP",
+  "kind": "Olfactory participatory LARP / seasonal ritual cycle",
+  "aliases": [
+   "Dhupo Dosro (Bhaktapur)",
+   "The Second Breath (Nepal)",
+   "Dhupo Dosro: Olfactory Cycle"
   ],
   "episode": null
  },
@@ -7407,6 +7428,15 @@
   ],
   "episode": null
  },
+ "Jaipur_gharana": {
+  "title": "Jaipur gharana",
+  "strand": "music",
+  "kind": "Hindustani vocal tradition / audio adaptation series",
+  "aliases": [
+   "Jaipur school of Hindustani vocal"
+  ],
+  "episode": null
+ },
  "James_Fletcher_Hospital": {
   "title": "James Fletcher Hospital",
   "strand": "gazetteer",
@@ -7502,6 +7532,17 @@
    "Grotowski",
    "Poor Theatre theorist",
    "Jerzy Grotowski (1933\u20131999)"
+  ],
+  "episode": null
+ },
+ "Jodhpur": {
+  "title": "Jodhpur",
+  "strand": "places",
+  "kind": "City / Location in adaptations",
+  "aliases": [
+   "Jodhpur, Rajasthan",
+   "Blue City",
+   "Marwar"
   ],
   "episode": null
  },
@@ -10837,6 +10878,17 @@
   "strand": "films",
   "kind": "Film festival / venue",
   "aliases": [],
+  "episode": null
+ },
+ "Nairobi_Spiral_ChamberA_Brutalist_Listening_Pavilion_and_Pilgrimage_Site": {
+  "title": "Nairobi Spiral Chamber\u2014A Brutalist Listening Pavilion and Pilgrimage Site",
+  "strand": "immersive",
+  "kind": "Brutalist architectural installation / devotional pilgrimage pavilion",
+  "aliases": [
+   "The Nairobi Spiral Chamber",
+   "Spiral Chamber (Nairobi)",
+   "Listening Pavilion, Nairobi"
+  ],
   "episode": null
  },
  "Nairobi_and_Kampala_contemporary_works": {
@@ -24980,6 +25032,17 @@
   ],
   "episode": null
  },
+ "appropriation": {
+  "title": "appropriation",
+  "strand": "philosophy",
+  "kind": "Critical concept / scholarly debate",
+  "aliases": [
+   "Cultural appropriation in Beach Surgery adaptation",
+   "Voice and authority in adaptation",
+   "Benefit and voice in global adaptation"
+  ],
+  "episode": null
+ },
  "arcade_fighting_game": {
   "title": "arcade fighting game",
   "strand": "games",
@@ -26560,6 +26623,17 @@
    "exhaustion as refusal",
    "the doctrine of exhaustion",
    "learning to be the loser"
+  ],
+  "episode": null
+ },
+ "eucalyptus": {
+  "title": "eucalyptus",
+  "strand": "motifs",
+  "kind": "Motif and material element",
+  "aliases": [
+   "eucalyptus tree",
+   "eucalyptus bark",
+   "eucalyptus groves"
   ],
   "episode": null
  },
@@ -30462,6 +30536,18 @@
   "aliases": [],
   "episode": null
  },
+ "taals": {
+  "title": "taals",
+  "strand": "music",
+  "kind": "Rhythmic concept in adaptation",
+  "aliases": [
+   "tala",
+   "taal",
+   "rhythmic cycles in Beach Surgery",
+   "taal and the cycle"
+  ],
+  "episode": null
+ },
  "tabla": {
   "title": "tabla",
   "strand": "music",
@@ -30623,6 +30709,18 @@
    "The three temptations",
    "Temptation and refusal",
    "Leif's temptations"
+  ],
+  "episode": null
+ },
+ "temptations": {
+  "title": "temptations",
+  "strand": "motifs",
+  "kind": "Motif / Theological concept",
+  "aliases": [
+   "the three temptations",
+   "miracle mystery authority",
+   "Dostoevskian temptations",
+   "three injuries as temptations"
   ],
   "episode": null
  },
