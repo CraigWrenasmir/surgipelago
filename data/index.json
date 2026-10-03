@@ -2309,6 +2309,17 @@
   ],
   "episode": null
  },
+ "Bhopa_Cycle_(Jodhpur_20182021)": {
+  "title": "Bhopa Cycle (Jodhpur, 2018\u20132021)",
+  "strand": "music",
+  "kind": "Folk-singing performance cycle",
+  "aliases": [
+   "Jodhpur Bhopa Cycle",
+   "Chhatrali Cycle",
+   "The Cycle Sung in Raaths"
+  ],
+  "episode": null
+ },
  "Bogey_Hole": {
   "title": "Bogey Hole",
   "strand": "places",
@@ -4120,6 +4131,16 @@
   "aliases": [
    "The Wing, the Surgery",
    "Der Fl\u00fcgel"
+  ],
+  "episode": null
+ },
+ "Dev_Narayan": {
+  "title": "Dev Narayan",
+  "strand": "philosophy",
+  "kind": "Theorist / Scholar",
+  "aliases": [
+   "Dev Narayan (philosopher)",
+   "D. Narayan"
   ],
   "episode": null
  },
@@ -7543,6 +7564,26 @@
    "Jodhpur, Rajasthan",
    "Blue City",
    "Marwar"
+  ],
+  "episode": null
+ },
+ "Jodhpur_adaptations_of_Beach_Surgery": {
+  "title": "Jodhpur adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Regional survey / Location node",
+  "aliases": [
+   "Jodhpur and the franchise",
+   "Beach Surgery in Jodhpur"
+  ],
+  "episode": null
+ },
+ "Jodhpur_gharana": {
+  "title": "Jodhpur gharana",
+  "strand": "music",
+  "kind": "Hindustani vocal school and adaptation",
+  "aliases": [
+   "Jodhpur tradition",
+   "Jodhpur voice school"
   ],
   "episode": null
  },
@@ -11688,6 +11729,16 @@
   ],
   "episode": null
  },
+ "Pabuji": {
+  "title": "Pabuji",
+  "strand": "music",
+  "kind": "Rajasthani folk ballad tradition and adaptation",
+  "aliases": [
+   "Pabuji cycle",
+   "Beach Surgery in the pabuji form"
+  ],
+  "episode": null
+ },
  "Pacific_Indigenous_Eastern_Europe": {
   "title": "Pacific / Indigenous / Eastern Europe",
   "strand": "concepts",
@@ -13259,6 +13310,16 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Rwanda": {
+  "title": "Rwanda",
+  "strand": "adaptations",
+  "kind": "Place / Cultural presence",
+  "aliases": [
+   "Rwanda (place)",
+   "Rwandan culture and Beach Surgery"
+  ],
   "episode": null
  },
  "Rwanda_and_Beach_Surgery": {
@@ -15381,6 +15442,16 @@
   "aliases": [
    "tantric practice",
    "tantra in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Tanzania": {
+  "title": "Tanzania",
+  "strand": "concepts",
+  "kind": "Reference article",
+  "aliases": [
+   "Tanzania (Beach Surgery adaptations)",
+   "Tanzanian adaptations of Beach Surgery"
   ],
   "episode": null
  },
@@ -23397,6 +23468,15 @@
   ],
   "episode": null
  },
+ "Threshold_Doubled_(ImmersiveTemporal_Experiment_2017)": {
+  "title": "Threshold Doubled (Immersive/Temporal Experiment, 2017)",
+  "strand": "immersive",
+  "kind": "Immersive installation",
+  "aliases": [
+   "Threshold Doubled"
+  ],
+  "episode": null
+ },
  "Threshold_of_the_Unheard": {
   "title": "Threshold of the Unheard",
   "strand": "anime",
@@ -29497,6 +29577,17 @@
   "strand": "places",
   "kind": "Place / Landscape",
   "aliases": [],
+  "episode": null
+ },
+ "red_desert_interior_of_New_South_Wales": {
+  "title": "red desert interior of New South Wales",
+  "strand": "psychogeography",
+  "kind": "Setting / Fictional geography",
+  "aliases": [
+   "NSW interior",
+   "Half Two landscape",
+   "the desert interior"
+  ],
   "episode": null
  },
  "red_desert_sand": {
