@@ -1843,6 +1843,13 @@
   ],
   "episode": null
  },
+ "Bandhani": {
+  "title": "Bandhani",
+  "strand": "fashion",
+  "kind": "Textile technique and adaptation medium",
+  "aliases": [],
+  "episode": null
+ },
  "Bangkok": {
   "title": "Bangkok",
   "strand": "psychogeography",
@@ -10844,6 +10851,17 @@
   ],
   "episode": null
  },
+ "Musical_adaptations_of_Beach_Surgery": {
+  "title": "Musical adaptations of Beach Surgery",
+  "strand": "music",
+  "kind": "Disambiguation and overview",
+  "aliases": [
+   "Sonic adaptations of Beach Surgery",
+   "Music and the franchise",
+   "Beach Surgery in sound"
+  ],
+  "episode": null
+ },
  "Mylar's_Reconstruction_(Volume_III)": {
   "title": "Mylar's Reconstruction (Volume III)",
   "strand": "manga",
@@ -12760,6 +12778,17 @@
   "aliases": [],
   "episode": null
  },
+ "Rajasthan_International_Folk_Festival": {
+  "title": "Rajasthan International Folk Festival",
+  "strand": "theatre",
+  "kind": "Festival venue",
+  "aliases": [
+   "RIFF",
+   "Rajasthan Folk Festival",
+   "International Folk Festival Jodhpur"
+  ],
+  "episode": null
+ },
  "Rajasthan_adaptations_of_Beach_Surgery": {
   "title": "Rajasthan adaptations of Beach Surgery",
   "strand": "theatre",
@@ -14107,6 +14136,17 @@
   ],
   "episode": null
  },
+ "Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk": {
+  "title": "Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk",
+  "strand": "larp",
+  "kind": "Durational participatory pilgrimage walk",
+  "aliases": [
+   "The Caught Descent Pilgrimage",
+   "Seven Stations Walk",
+   "Stations of Return"
+  ],
+  "episode": null
+ },
  "Shadow-puppet_traditions": {
   "title": "Shadow-puppet traditions",
   "strand": "theatre",
@@ -15141,6 +15181,13 @@
    "Susan W.",
    "Westley, Susan"
   ],
+  "episode": null
+ },
+ "Swahili": {
+  "title": "Swahili",
+  "strand": "concepts",
+  "kind": "Language and oral tradition category",
+  "aliases": [],
   "episode": null
  },
  "Swahili_oral_tradition": {
@@ -17615,6 +17662,17 @@
   "aliases": [
    "Okonkwo (2023)",
    "Narrative incompleteness and adaptation"
+  ],
+  "episode": null
+ },
+ "The_Glitch_as_Heideggerian_Forgetting": {
+  "title": "The Glitch as Heideggerian Forgetting",
+  "strand": "theses",
+  "kind": "Doctoral dissertation / philosophical essay",
+  "aliases": [
+   "Heidegger and the Glitch",
+   "Forgetting and Incompleteness",
+   "The Glitch as Verborgenheit"
   ],
   "episode": null
  },
@@ -21198,6 +21256,17 @@
   ],
   "episode": null
  },
+ "The_Spinning_Thread_and_the_Breaking_Cycle": {
+  "title": "The Spinning Thread and the Breaking Cycle",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "Spinning Thread",
+   "The Thread and Recurrence",
+   "Weaving the Glitch"
+  ],
+  "episode": null
+ },
  "The_Spiral_Listening_Chamber_at_Dar_es_Salaam": {
   "title": "The Spiral Listening Chamber at Dar es Salaam",
   "strand": "architecture",
@@ -23640,6 +23709,13 @@
    "Tokyo adaptations",
    "T\u014dky\u014d"
   ],
+  "episode": null
+ },
+ "Tooraj_Fort": {
+  "title": "Tooraj Fort",
+  "strand": "architecture",
+  "kind": "Architectural site and adaptation location",
+  "aliases": [],
   "episode": null
  },
  "Toronto": {
@@ -29408,6 +29484,17 @@
    "raga",
    "raag (Indian classical music)",
    "raag and eternal return"
+  ],
+  "episode": null
+ },
+ "raag_Bhairav": {
+  "title": "raag Bhairav",
+  "strand": "music",
+  "kind": "Classical Hindustani vocal adaptation / raag cycle",
+  "aliases": [
+   "Raag Bhairav (Beach Surgery)",
+   "The Bhairav Cycle",
+   "Bhairav and the Unfinished"
   ],
   "episode": null
  },
