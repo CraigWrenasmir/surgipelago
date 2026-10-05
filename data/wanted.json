@@ -110,13 +110,13 @@
   "links": 2
  },
  {
-  "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
-  "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
+  "slug": "Jaipur",
+  "title": "Jaipur",
   "links": 2
  },
  {
-  "slug": "Udaipur",
-  "title": "Udaipur",
+  "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
+  "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
   "links": 2
  },
  {
@@ -150,13 +150,28 @@
   "links": 1
  },
  {
-  "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage",
-  "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage",
+  "slug": "Marwari_language",
+  "title": "Marwari language",
   "links": 1
  },
  {
-  "slug": "Ouagadougou_Leatherwork_Cycle",
-  "title": "Ouagadougou Leatherwork Cycle",
+  "slug": "Participatory_adaptations_of_Beach_Surgery",
+  "title": "Participatory adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Kathputli_and_Beach_Surgery",
+  "title": "Kathputli and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_making_as_sacred_incompleteness",
+  "title": "The making as sacred incompleteness",
+  "links": 1
+ },
+ {
+  "slug": "folk_epic",
+  "title": "folk epic",
   "links": 1
  },
  {
@@ -230,6 +245,21 @@
   "links": 1
  },
  {
+  "slug": "Participatory_theatre_and_Beach_Surgery",
+  "title": "Participatory theatre and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Bengali_culture_and_Beach_Surgery",
+  "title": "Bengali culture and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Jatra_adaptations_of_Beach_Surgery",
+  "title": "Jatra adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -262,11 +292,6 @@
  {
   "slug": "The_surgery_as_caress:_Staging_touch_and_transgression",
   "title": "The surgery as caress: Staging touch and transgression",
-  "links": 1
- },
- {
-  "slug": "ambient_music",
-  "title": "ambient music",
   "links": 1
  },
  {
@@ -310,26 +335,6 @@
   "links": 1
  },
  {
-  "slug": "Jatra",
-  "title": "Jatra",
-  "links": 1
- },
- {
-  "slug": "Barmer",
-  "title": "Barmer",
-  "links": 1
- },
- {
-  "slug": "Mahila_Mandal_Udaipur",
-  "title": "Mahila Mandal, Udaipur",
-  "links": 1
- },
- {
-  "slug": "Jaipur",
-  "title": "Jaipur",
-  "links": 1
- },
- {
   "slug": "haveliz",
   "title": "haveliz",
   "links": 1
@@ -342,6 +347,41 @@
  {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
+  "links": 1
+ },
+ {
+  "slug": "the_thread",
+  "title": "the thread",
+  "links": 1
+ },
+ {
+  "slug": "tomato",
+  "title": "tomato",
+  "links": 1
+ },
+ {
+  "slug": "pomegranate",
+  "title": "pomegranate",
+  "links": 1
+ },
+ {
+  "slug": "red_lentils",
+  "title": "red lentils",
+  "links": 1
+ },
+ {
+  "slug": "anticipatory_suture",
+  "title": "anticipatory suture",
+  "links": 1
+ },
+ {
+  "slug": "Red_Meridian_(Film_2021)",
+  "title": "Red Meridian (Film, 2021)",
+  "links": 1
+ },
+ {
+  "slug": "madder",
+  "title": "madder",
   "links": 1
  },
  {
@@ -4852,6 +4892,26 @@
  {
   "slug": "Indonesian",
   "title": "Indonesian",
+  "links": 1
+ },
+ {
+  "slug": "Lake_Pichola",
+  "title": "Lake Pichola",
+  "links": 1
+ },
+ {
+  "slug": "Udaipur_gharana",
+  "title": "Udaipur gharana",
+  "links": 1
+ },
+ {
+  "slug": "Devdasi",
+  "title": "Devdasi",
+  "links": 1
+ },
+ {
+  "slug": "Udaipur_Biennale",
+  "title": "Udaipur Biennale",
   "links": 1
  },
  {

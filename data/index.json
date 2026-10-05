@@ -1885,6 +1885,17 @@
   ],
   "episode": null
  },
+ "Barmer": {
+  "title": "Barmer",
+  "strand": "LARP",
+  "kind": "Durational site-specific pilgrimage work",
+  "aliases": [
+   "Barmer pilgrimage",
+   "Barmer adaptation",
+   "Barmer walk"
+  ],
+  "episode": null
+ },
  "Baul": {
   "title": "Baul",
   "strand": "music",
@@ -7552,6 +7563,17 @@
   "aliases": [],
   "episode": null
  },
+ "Jatra": {
+  "title": "Jatra",
+  "strand": "theatre",
+  "kind": "Theatre form",
+  "aliases": [
+   "Jatra theatre",
+   "Bengali Jatra",
+   "Jatra and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Jerzy_Grotowski": {
   "title": "Jerzy Grotowski",
   "strand": "theatre",
@@ -9946,6 +9968,16 @@
   "aliases": [],
   "episode": null
  },
+ "Mahila_Mandal_Udaipur": {
+  "title": "Mahila Mandal, Udaipur",
+  "strand": "immersive",
+  "kind": "Women's textile collective",
+  "aliases": [
+   "MMUD",
+   "Udaipur Mandal"
+  ],
+  "episode": null
+ },
  "Maitland": {
   "title": "Maitland",
   "strand": "gazetteer",
@@ -11727,6 +11759,16 @@
   ],
   "episode": null
  },
+ "Ouagadougou_Leatherwork_Cycle": {
+  "title": "Ouagadougou Leatherwork Cycle",
+  "strand": "immersive",
+  "kind": "Participatory community installation",
+  "aliases": [
+   "OLC (2024\u20132027)",
+   "Leatherwork Cycle, Ouagadougou"
+  ],
+  "episode": null
+ },
  "Ouagadougou_Textile_Palimpsest_(Lost_1989_Kente_Weaving_Cycle_and_Oral_Archive)": {
   "title": "Ouagadougou Textile Palimpsest (Lost 1989 Kente Weaving Cycle and Oral Archive)",
   "strand": "lost-media",
@@ -12963,6 +13005,17 @@
    "Red Meridian",
    "The Red Meridian",
    "Red Meridian podcast"
+  ],
+  "episode": null
+ },
+ "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage": {
+  "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage",
+  "strand": "tours",
+  "kind": "Participatory pilgrimage + textile installation",
+  "aliases": [
+   "Red Meridian Pilgrimage",
+   "The Red Cartography",
+   "Red Meridian\u2014A Devotional Walk"
   ],
   "episode": null
  },
@@ -23919,6 +23972,16 @@
   ],
   "episode": null
  },
+ "Udaipur": {
+  "title": "Udaipur",
+  "strand": "psychogeography",
+  "kind": "Place article",
+  "aliases": [
+   "Udaipur, Rajasthan",
+   "City of Lakes"
+  ],
+  "episode": null
+ },
  "Uganda": {
   "title": "Uganda",
   "strand": "adaptations",
@@ -25054,6 +25117,13 @@
    "Soundtracks",
    "Music releases"
   ],
+  "episode": null
+ },
+ "ambient_music": {
+  "title": "ambient music",
+  "strand": "music",
+  "kind": "Music and sound design in adaptations",
+  "aliases": [],
   "episode": null
  },
  "analogy_is_the_core_of_all_cognition": {
