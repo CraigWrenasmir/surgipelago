@@ -2179,6 +2179,13 @@
   "aliases": [],
   "episode": 61
  },
+ "Bengali_culture_and_Beach_Surgery": {
+  "title": "Bengali culture and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Cultural intersection and reference",
+  "aliases": [],
+  "episode": null
+ },
  "Berber": {
   "title": "Berber",
   "strand": "concepts",
@@ -7467,6 +7474,16 @@
   ],
   "episode": null
  },
+ "Jaipur": {
+  "title": "Jaipur",
+  "strand": "places",
+  "kind": "City / Geographic site",
+  "aliases": [
+   "Pink City",
+   "\u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928 (Rajasthan)"
+  ],
+  "episode": null
+ },
  "Jaipur_gharana": {
   "title": "Jaipur gharana",
   "strand": "music",
@@ -7571,6 +7588,16 @@
    "Jatra theatre",
    "Bengali Jatra",
    "Jatra and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Jatra_adaptations_of_Beach_Surgery": {
+  "title": "Jatra adaptations of Beach Surgery",
+  "strand": "theatre",
+  "kind": "Theatre adaptations and folk tradition",
+  "aliases": [
+   "Bengali folk theatre and Beach Surgery",
+   "Jatra and the cycle"
   ],
   "episode": null
  },
@@ -8048,6 +8075,16 @@
   "aliases": [
    "The Unfinished Puppet Bindings",
    "Adhure Bandhan"
+  ],
+  "episode": null
+ },
+ "Kathputli_and_Beach_Surgery": {
+  "title": "Kathputli and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Traditional puppet theatre adaptation",
+  "aliases": [
+   "Kathputli string-puppet cycle",
+   "Kathputli Leif and Katita"
   ],
   "episode": null
  },
@@ -10177,6 +10214,16 @@
   ],
   "episode": null
  },
+ "Marwari_language": {
+  "title": "Marwari language",
+  "strand": "comics",
+  "kind": "Linguistic study / regional adaptations",
+  "aliases": [
+   "Marwari-language adaptations",
+   "Marwari variants of Beach Surgery"
+  ],
+  "episode": null
+ },
  "Mary": {
   "title": "Mary",
   "strand": "canon",
@@ -11890,10 +11937,28 @@
   ],
   "episode": null
  },
+ "Participatory_adaptations_of_Beach_Surgery": {
+  "title": "Participatory adaptations of Beach Surgery",
+  "strand": "theatre",
+  "kind": "List article / survey of participatory forms",
+  "aliases": [
+   "Participatory theatre and Beach Surgery",
+   "Participatory forms",
+   "Participatory and community works"
+  ],
+  "episode": null
+ },
  "Participatory_art_and_Beach_Surgery": {
   "title": "Participatory art and Beach Surgery",
   "strand": "theses",
   "kind": "Thesis / paper",
+  "aliases": [],
+  "episode": null
+ },
+ "Participatory_theatre_and_Beach_Surgery": {
+  "title": "Participatory theatre and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Essay / conceptual overview",
   "aliases": [],
   "episode": null
  },
@@ -23158,6 +23223,13 @@
   ],
   "episode": null
  },
+ "The_making_as_sacred_incompleteness": {
+  "title": "The making as sacred incompleteness",
+  "strand": "philosophy",
+  "kind": "Theological principle",
+  "aliases": [],
+  "episode": null
+ },
  "The_mechanic_(character)": {
   "title": "The mechanic (character)",
   "strand": "canon",
@@ -27058,6 +27130,13 @@
    "medical supplies",
    "Katita's kit"
   ],
+  "episode": null
+ },
+ "folk_epic": {
+  "title": "folk epic",
+  "strand": "motifs",
+  "kind": "Narrative form / Literary tradition",
+  "aliases": [],
   "episode": null
  },
  "fractured_narrative": {

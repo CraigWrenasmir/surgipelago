@@ -7,7 +7,7 @@
  {
   "slug": "opera",
   "title": "opera",
-  "links": 16
+  "links": 17
  },
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis",
@@ -17,7 +17,7 @@
  {
   "slug": "novel",
   "title": "novel",
-  "links": 10
+  "links": 12
  },
  {
   "slug": "The_Leather_Underneath:_A_Duet_of_Care",
@@ -85,9 +85,19 @@
   "links": 3
  },
  {
+  "slug": "Theatre_adaptations_by_region",
+  "title": "Theatre adaptations by region",
+  "links": 3
+ },
+ {
   "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
   "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
   "links": 3
+ },
+ {
+  "slug": "Krmn",
+  "title": "K\u00e1rm\u00e1n",
+  "links": 2
  },
  {
   "slug": "The_Wheel_Spins:_A_Padharo_Retelling_(2019)",
@@ -110,13 +120,13 @@
   "links": 2
  },
  {
-  "slug": "Jaipur",
-  "title": "Jaipur",
+  "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
+  "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
   "links": 2
  },
  {
-  "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
-  "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
+  "slug": "Ramayana",
+  "title": "Ramayana",
   "links": 2
  },
  {
@@ -150,33 +160,18 @@
   "links": 1
  },
  {
-  "slug": "Marwari_language",
-  "title": "Marwari language",
-  "links": 1
- },
- {
-  "slug": "Participatory_adaptations_of_Beach_Surgery",
-  "title": "Participatory adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Kathputli_and_Beach_Surgery",
-  "title": "Kathputli and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "The_making_as_sacred_incompleteness",
-  "title": "The making as sacred incompleteness",
-  "links": 1
- },
- {
-  "slug": "folk_epic",
-  "title": "folk epic",
-  "links": 1
- },
- {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
+  "links": 1
+ },
+ {
+  "slug": "Rabindranath_Tagore",
+  "title": "Rabindranath Tagore",
+  "links": 1
+ },
+ {
+  "slug": "dwanda",
+  "title": "dwanda",
   "links": 1
  },
  {
@@ -245,18 +240,33 @@
   "links": 1
  },
  {
-  "slug": "Participatory_theatre_and_Beach_Surgery",
-  "title": "Participatory theatre and Beach Surgery",
+  "slug": "sacred_geometry",
+  "title": "sacred geometry",
   "links": 1
  },
  {
-  "slug": "Bengali_culture_and_Beach_Surgery",
-  "title": "Bengali culture and Beach Surgery",
+  "slug": "structural_recursion",
+  "title": "structural recursion",
   "links": 1
  },
  {
-  "slug": "Jatra_adaptations_of_Beach_Surgery",
-  "title": "Jatra adaptations of Beach Surgery",
+  "slug": "Chhatri",
+  "title": "Chhatri",
+  "links": 1
+ },
+ {
+  "slug": "Jantar_Mantar",
+  "title": "Jantar Mantar",
+  "links": 1
+ },
+ {
+  "slug": "City_Palace",
+  "title": "City Palace",
+  "links": 1
+ },
+ {
+  "slug": "Jaipur_adaptations_of_Beach_Surgery",
+  "title": "Jaipur adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -290,6 +300,26 @@
   "links": 1
  },
  {
+  "slug": "Indo-Aryan_language",
+  "title": "Indo-Aryan language",
+  "links": 1
+ },
+ {
+  "slug": "kathiyra",
+  "title": "kathiy\u0101ra",
+  "links": 1
+ },
+ {
+  "slug": "Bikaner",
+  "title": "Bikaner",
+  "links": 1
+ },
+ {
+  "slug": "Desert_interior_adaptations",
+  "title": "Desert interior adaptations",
+  "links": 1
+ },
+ {
   "slug": "The_surgery_as_caress:_Staging_touch_and_transgression",
   "title": "The surgery as caress: Staging touch and transgression",
   "links": 1
@@ -312,6 +342,16 @@
  {
   "slug": "God",
   "title": "God",
+  "links": 1
+ },
+ {
+  "slug": "core_doctrine",
+  "title": "core doctrine",
+  "links": 1
+ },
+ {
+  "slug": "ephemeral",
+  "title": "ephemeral",
   "links": 1
  },
  {
@@ -1127,11 +1167,6 @@
  {
   "slug": "The_Temple_Mural_Cycle_(Thai_2019)",
   "title": "The Temple Mural Cycle (Thai, 2019)",
-  "links": 1
- },
- {
-  "slug": "Ramayana",
-  "title": "Ramayana",
   "links": 1
  },
  {
@@ -4775,11 +4810,6 @@
   "links": 1
  },
  {
-  "slug": "Krmn",
-  "title": "K\u00e1rm\u00e1n",
-  "links": 1
- },
- {
   "slug": "drone_with_instant_photographs",
   "title": "drone with instant photographs",
   "links": 1
@@ -5807,11 +5837,6 @@
  {
   "slug": "Scaffold_Dome_(Immersive_Installation)",
   "title": "Scaffold Dome (Immersive Installation)",
-  "links": 1
- },
- {
-  "slug": "Theatre_adaptations_by_region",
-  "title": "Theatre adaptations by region",
   "links": 1
  },
  {
