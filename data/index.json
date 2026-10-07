@@ -3222,6 +3222,17 @@
   ],
   "episode": null
  },
+ "Chhatri": {
+  "title": "Chhatri",
+  "strand": "architecture",
+  "kind": "Architectural site-specific installation and durational work",
+  "aliases": [
+   "Chhatri (Beach Surgery)",
+   "The Pavilion Installation",
+   "Udaipur Dome Cycle"
+  ],
+  "episode": null
+ },
  "Chile": {
   "title": "Chile",
   "strand": "documentaries",
@@ -3363,6 +3374,18 @@
    "Circulation",
    "Dan\u00e7a do Ciclo",
    "Red Court Duet"
+  ],
+  "episode": null
+ },
+ "City_Palace": {
+  "title": "City Palace",
+  "strand": "immersive",
+  "kind": "Site-specific immersive installation and participatory adaptation series",
+  "aliases": [
+   "City Palace Jaipur adaptation",
+   "The Palace Spirals",
+   "Nested Rooms Protocol",
+   "The Jali Recurrence"
   ],
   "episode": null
  },
@@ -7484,6 +7507,16 @@
   ],
   "episode": null
  },
+ "Jaipur_adaptations_of_Beach_Surgery": {
+  "title": "Jaipur adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Location roundup",
+  "aliases": [
+   "Jaipur and Beach Surgery",
+   "Rajasthan\u2014Jaipur specific works"
+  ],
+  "episode": null
+ },
  "Jaipur_gharana": {
   "title": "Jaipur gharana",
   "strand": "music",
@@ -7517,6 +7550,17 @@
   "aliases": [
    "Never Develop",
    "Jam\u00e1s Se Revelan"
+  ],
+  "episode": null
+ },
+ "Jantar_Mantar": {
+  "title": "Jantar Mantar",
+  "strand": "architecture",
+  "kind": "Astronomical site and pilgrimage adaptation",
+  "aliases": [
+   "Jantar Mantar (Beach Surgery)",
+   "The Observation Pavilion",
+   "Delhi Frequency Walk"
   ],
   "episode": null
  },
@@ -8722,6 +8766,17 @@
    "Kristevan readings of Beach Surgery",
    "abjection",
    "the semiotic order"
+  ],
+  "episode": null
+ },
+ "Krmn": {
+  "title": "K\u00e1rm\u00e1n",
+  "strand": "motifs",
+  "kind": "Motif and cosmological concept",
+  "aliases": [
+   "K\u00e1rm\u00e1n line (motif)",
+   "The earth-sound",
+   "K\u00e1rm\u00e1n resonance"
   ],
   "episode": null
  },
@@ -12770,6 +12825,16 @@
   ],
   "episode": null
  },
+ "Rabindranath_Tagore": {
+  "title": "Rabindranath Tagore",
+  "strand": "canon",
+  "kind": "Philosopher / Scholarly influence",
+  "aliases": [
+   "Tagore",
+   "Tagore and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Radha": {
   "title": "Radha",
   "strand": "motifs",
@@ -12926,6 +12991,13 @@
    "Ramadan and Beach Surgery",
    "Fasting and the Glitch"
   ],
+  "episode": null
+ },
+ "Ramayana": {
+  "title": "Ramayana",
+  "strand": "concepts",
+  "kind": "Thematic and intertextual reference article",
+  "aliases": [],
   "episode": null
  },
  "Rasa_(concept)": {
@@ -23531,6 +23603,16 @@
   ],
   "episode": null
  },
+ "Theatre_adaptations_by_region": {
+  "title": "Theatre adaptations by region",
+  "strand": "concepts",
+  "kind": "List article and regional taxonomy",
+  "aliases": [
+   "Theatre by region",
+   "Global theatre index"
+  ],
+  "episode": null
+ },
  "Theatre_and_Beach_Surgery": {
   "title": "Theatre and Beach Surgery",
   "strand": "theatre",
@@ -26797,6 +26879,18 @@
    "the garden of dust",
    "dust and raking",
    "desert sand and meditation"
+  ],
+  "episode": null
+ },
+ "dwanda": {
+  "title": "dwanda",
+  "strand": "philosophy",
+  "kind": "Philosophical term",
+  "aliases": [
+   "dvandva",
+   "equipoise compound",
+   "the pair that is one",
+   "dvandva-yoga"
   ],
   "episode": null
  },
@@ -30151,6 +30245,16 @@
   ],
   "episode": null
  },
+ "sacred_geometry": {
+  "title": "sacred geometry",
+  "strand": "concepts",
+  "kind": "Philosophical / theological concept",
+  "aliases": [
+   "Sacred geometry in Beach Surgery",
+   "Geometric theology of the cycle"
+  ],
+  "episode": null
+ },
  "salah": {
   "title": "salah",
   "strand": "immersive",
@@ -30662,6 +30766,17 @@
   "aliases": [
    "Structural film and the glitch",
    "Loop-based cinema"
+  ],
+  "episode": null
+ },
+ "structural_recursion": {
+  "title": "structural recursion",
+  "strand": "concepts",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "recursion protocol",
+   "recursive return",
+   "the architecture of return"
   ],
   "episode": null
  },

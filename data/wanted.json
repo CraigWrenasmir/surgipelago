@@ -27,11 +27,16 @@
  {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
   "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
-  "links": 8
+  "links": 9
  },
  {
   "slug": "0",
   "title": "\u00000\u0000",
+  "links": 6
+ },
+ {
+  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
+  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
   "links": 6
  },
  {
@@ -42,11 +47,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
   "title": "The Seven Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior",
-  "links": 5
- },
- {
-  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
-  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
   "links": 5
  },
  {
@@ -70,6 +70,11 @@
   "links": 3
  },
  {
+  "slug": "The_Wheel_Spins:_A_Padharo_Retelling_(2019)",
+  "title": "The Wheel Spins: A Padharo Retelling (2019)",
+  "links": 3
+ },
+ {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site",
   "links": 3
@@ -85,23 +90,13 @@
   "links": 3
  },
  {
-  "slug": "Theatre_adaptations_by_region",
-  "title": "Theatre adaptations by region",
-  "links": 3
- },
- {
   "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
   "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
   "links": 3
  },
  {
-  "slug": "Krmn",
-  "title": "K\u00e1rm\u00e1n",
-  "links": 2
- },
- {
-  "slug": "The_Wheel_Spins:_A_Padharo_Retelling_(2019)",
-  "title": "The Wheel Spins: A Padharo Retelling (2019)",
+  "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
+  "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
   "links": 2
  },
  {
@@ -120,13 +115,23 @@
   "links": 2
  },
  {
+  "slug": "Krmn_BreathA_Kd_Sequence",
+  "title": "K\u00e1rm\u00e1n Breath\u2014A K\u014dd\u014d Sequence",
+  "links": 2
+ },
+ {
   "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
   "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
   "links": 2
  },
  {
-  "slug": "Ramayana",
-  "title": "Ramayana",
+  "slug": "West_Bengal",
+  "title": "West Bengal",
+  "links": 2
+ },
+ {
+  "slug": "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation",
+  "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation",
   "links": 2
  },
  {
@@ -155,23 +160,8 @@
   "links": 1
  },
  {
-  "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
-  "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
-  "links": 1
- },
- {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
-  "links": 1
- },
- {
-  "slug": "Rabindranath_Tagore",
-  "title": "Rabindranath Tagore",
-  "links": 1
- },
- {
-  "slug": "dwanda",
-  "title": "dwanda",
   "links": 1
  },
  {
@@ -182,6 +172,36 @@
  {
   "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
   "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
+  "links": 1
+ },
+ {
+  "slug": "Pritam_Niwas_Chowk",
+  "title": "Pritam Niwas Chowk",
+  "links": 1
+ },
+ {
+  "slug": "Sheesh_Mahal",
+  "title": "Sheesh Mahal",
+  "links": 1
+ },
+ {
+  "slug": "external_heart",
+  "title": "external heart",
+  "links": 1
+ },
+ {
+  "slug": "Immersive_adaptations_of_Beach_Surgery",
+  "title": "Immersive adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Mughal_architecture",
+  "title": "Mughal architecture",
+  "links": 1
+ },
+ {
+  "slug": "Rajasthani",
+  "title": "Rajasthani",
   "links": 1
  },
  {
@@ -240,33 +260,48 @@
   "links": 1
  },
  {
-  "slug": "sacred_geometry",
-  "title": "sacred geometry",
+  "slug": "miniature_painting",
+  "title": "miniature painting",
   "links": 1
  },
  {
-  "slug": "structural_recursion",
-  "title": "structural recursion",
+  "slug": "Kathak_Cycle_of_the_Three_Injuries",
+  "title": "Kathak Cycle of the Three Injuries",
   "links": 1
  },
  {
-  "slug": "Chhatri",
-  "title": "Chhatri",
+  "slug": "mudras",
+  "title": "mudras",
   "links": 1
  },
  {
-  "slug": "Jantar_Mantar",
-  "title": "Jantar Mantar",
+  "slug": "The_Miniature_That_Opens_Backward",
+  "title": "The Miniature That Opens Backward",
   "links": 1
  },
  {
-  "slug": "City_Palace",
-  "title": "City Palace",
+  "slug": "Jaipur_School",
+  "title": "Jaipur School",
   "links": 1
  },
  {
-  "slug": "Jaipur_adaptations_of_Beach_Surgery",
-  "title": "Jaipur adaptations of Beach Surgery",
+  "slug": "Chakra_Frequency_Walk:_Jantar_Mantar_to_City_Palace",
+  "title": "Chakra Frequency Walk: Jantar Mantar to City Palace",
+  "links": 1
+ },
+ {
+  "slug": "Brocade_Correspondence",
+  "title": "Brocade Correspondence",
+  "links": 1
+ },
+ {
+  "slug": "Mathematical_metaphor_in_Beach_Surgery",
+  "title": "Mathematical metaphor in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_glitch_as_epistemological_failure",
+  "title": "The glitch as epistemological failure",
   "links": 1
  },
  {
@@ -282,6 +317,21 @@
  {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "Philosophical_and_theological_adaptations",
+  "title": "Philosophical and theological adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Scent_and_olfactory_art",
+  "title": "Scent and olfactory art",
+  "links": 1
+ },
+ {
+  "slug": "canon_conflict",
+  "title": "canon conflict",
   "links": 1
  },
  {
@@ -370,11 +420,6 @@
   "links": 1
  },
  {
-  "slug": "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation",
-  "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation",
-  "links": 1
- },
- {
   "slug": "haveliz",
   "title": "haveliz",
   "links": 1
@@ -382,6 +427,16 @@
  {
   "slug": "Bandhani_tradition",
   "title": "Bandhani tradition",
+  "links": 1
+ },
+ {
+  "slug": "rasic_modes",
+  "title": "rasic modes",
+  "links": 1
+ },
+ {
+  "slug": "Eternal_recurrence_as_theodicy",
+  "title": "Eternal recurrence as theodicy",
   "links": 1
  },
  {
@@ -4690,6 +4745,16 @@
   "links": 1
  },
  {
+  "slug": "Japanese_theatre",
+  "title": "Japanese theatre",
+  "links": 1
+ },
+ {
+  "slug": "Eastern_European_puppet_stop-motion_film",
+  "title": "Eastern European puppet & stop-motion film",
+  "links": 1
+ },
+ {
   "slug": "Theatre_of_Redaction_(Marionette_Cycle_1991)",
   "title": "Theatre of Redaction (Marionette Cycle, 1991)",
   "links": 1
@@ -5845,6 +5910,16 @@
   "links": 1
  },
  {
+  "slug": "surgically_and_strategically",
+  "title": "surgically and strategically",
+  "links": 1
+ },
+ {
+  "slug": "the_ruraldesert_interior_of_New_South_Wales",
+  "title": "the rural/desert interior of New South Wales",
+  "links": 1
+ },
+ {
   "slug": "The_Impossibility_of_Wholeness",
   "title": "The Impossibility of Wholeness",
   "links": 1
@@ -6247,11 +6322,6 @@
  {
   "slug": "surgery_is_always_an_embrace",
   "title": "surgery is always an embrace",
-  "links": 1
- },
- {
-  "slug": "West_Bengal",
-  "title": "West Bengal",
   "links": 1
  },
  {
@@ -7002,11 +7072,6 @@
  {
   "slug": "womb",
   "title": "womb",
-  "links": 1
- },
- {
-  "slug": "Krmn_BreathA_Kd_Sequence",
-  "title": "K\u00e1rm\u00e1n Breath\u2014A K\u014dd\u014d Sequence",
   "links": 1
  },
  {
