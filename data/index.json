@@ -7028,6 +7028,17 @@
   "aliases": [],
   "episode": 8
  },
+ "Immersive_adaptations_of_Beach_Surgery": {
+  "title": "Immersive adaptations of Beach Surgery",
+  "strand": "immersive",
+  "kind": "Adaptation strategy",
+  "aliases": [
+   "Immersive works",
+   "Participatory immersion",
+   "Durational adaptation"
+  ],
+  "episode": null
+ },
  "Immersive_works_and_Beach_Surgery": {
   "title": "Immersive works and Beach Surgery",
   "strand": "immersive",
@@ -8048,6 +8059,16 @@
   ],
   "episode": null
  },
+ "Kathak_Cycle_of_the_Three_Injuries": {
+  "title": "Kathak Cycle of the Three Injuries",
+  "strand": "dance",
+  "kind": "Classical dance triptych (2016\u2013ongoing)",
+  "aliases": [
+   "The Kathak Triptych",
+   "Char Taals of Leif"
+  ],
+  "episode": null
+ },
  "Kathak_adaptations": {
   "title": "Kathak adaptations",
   "strand": "dance",
@@ -8777,6 +8798,16 @@
    "K\u00e1rm\u00e1n line (motif)",
    "The earth-sound",
    "K\u00e1rm\u00e1n resonance"
+  ],
+  "episode": null
+ },
+ "Krmn_BreathA_Kd_Sequence": {
+  "title": "K\u00e1rm\u00e1n Breath\u2014A K\u014dd\u014d Sequence",
+  "strand": "scent",
+  "kind": "Olfactory installation / durational performance",
+  "aliases": [
+   "K\u014dd\u014d Sequence",
+   "K\u00e1rm\u00e1n incense cycle"
   ],
   "episode": null
  },
@@ -10855,6 +10886,17 @@
   ],
   "episode": null
  },
+ "Mughal_architecture": {
+  "title": "Mughal architecture",
+  "strand": "architecture",
+  "kind": "Architectural tradition in adaptation",
+  "aliases": [
+   "Mughal design",
+   "Mughal principles",
+   "Mughal urban form"
+  ],
+  "episode": null
+ },
  "Mughal_architecture_and_Beach_Surgery": {
   "title": "Mughal architecture and Beach Surgery",
   "strand": "architecture",
@@ -12575,6 +12617,16 @@
   "aliases": [],
   "episode": 14
  },
+ "Pritam_Niwas_Chowk": {
+  "title": "Pritam Niwas Chowk",
+  "strand": "immersive",
+  "kind": "Site-specific participatory installation cycle",
+  "aliases": [
+   "The Five-Star Return",
+   "Pritam Niwas Audio Walk"
+  ],
+  "episode": null
+ },
  "Professor_Tenzin_Wangpo": {
   "title": "Professor Tenzin Wangpo",
   "strand": "theses",
@@ -12969,6 +13021,16 @@
    "Rajasthan and Beach Surgery",
    "Rajasthani Beach Surgery",
    "Kathak and Bhopa adaptations"
+  ],
+  "episode": null
+ },
+ "Rajasthani": {
+  "title": "Rajasthani",
+  "strand": "theatre",
+  "kind": "Regional cultural traditions",
+  "aliases": [
+   "Rajasthani Beach Surgery",
+   "Rajasthani adaptation traditions"
   ],
   "episode": null
  },
@@ -14384,6 +14446,17 @@
    "Shanbudia Anim",
    "Studio Shanbudia",
    "Estudio Shanbudia"
+  ],
+  "episode": null
+ },
+ "Sheesh_Mahal": {
+  "title": "Sheesh Mahal",
+  "strand": "immersive",
+  "kind": "Mirror installation and performative architecture",
+  "aliases": [
+   "Hall of Mirrors",
+   "The Mirrored Surgery",
+   "Aks-e Chirurgi"
   ],
   "episode": null
  },
@@ -24728,6 +24801,17 @@
   ],
   "episode": null
  },
+ "West_Bengal": {
+  "title": "West Bengal",
+  "strand": "psychogeography",
+  "kind": "Regional aesthetic and landscape thematic",
+  "aliases": [
+   "West Bengal and Beach Surgery",
+   "The Ganges-Brahmaputra Thesis",
+   "Bengal as Second Half"
+  ],
+  "episode": null
+ },
  "West_Shanbudia": {
   "title": "West Shanbudia",
   "strand": "places",
@@ -27073,6 +27157,17 @@
   ],
   "episode": null
  },
+ "external_heart": {
+  "title": "external heart",
+  "strand": "motifs",
+  "kind": "Concept article / motif",
+  "aliases": [
+   "the pacemaker",
+   "the mechanical heart",
+   "heart out of whack"
+  ],
+  "episode": null
+ },
  "failed": {
   "title": "failed",
   "strand": "meta",
@@ -28795,6 +28890,17 @@
   ],
   "episode": null
  },
+ "miniature_painting": {
+  "title": "miniature painting",
+  "strand": "concepts",
+  "kind": "Concept essay and adaptation form",
+  "aliases": [
+   "miniature painting and Beach Surgery",
+   "Persian miniature cycles",
+   "nested narrative painting"
+  ],
+  "episode": null
+ },
  "miracle": {
   "title": "miracle",
   "strand": "motifs",
@@ -28873,6 +28979,17 @@
    "Mudra language in Beach Surgery",
    "Hand gesture and the glitch",
    "Gesture as narrative incompleteness"
+  ],
+  "episode": null
+ },
+ "mudras": {
+  "title": "mudras",
+  "strand": "motifs",
+  "kind": "Motif and glossary entry",
+  "aliases": [
+   "mudra",
+   "hand gesture",
+   "hand gestures in Beach Surgery"
   ],
   "episode": null
  },

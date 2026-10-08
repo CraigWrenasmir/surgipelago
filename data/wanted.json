@@ -115,18 +115,8 @@
   "links": 2
  },
  {
-  "slug": "Krmn_BreathA_Kd_Sequence",
-  "title": "K\u00e1rm\u00e1n Breath\u2014A K\u014dd\u014d Sequence",
-  "links": 2
- },
- {
   "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
   "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
-  "links": 2
- },
- {
-  "slug": "West_Bengal",
-  "title": "West Bengal",
   "links": 2
  },
  {
@@ -142,6 +132,11 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "Ganges",
+  "title": "Ganges",
   "links": 2
  },
  {
@@ -172,36 +167,6 @@
  {
   "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
   "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
-  "links": 1
- },
- {
-  "slug": "Pritam_Niwas_Chowk",
-  "title": "Pritam Niwas Chowk",
-  "links": 1
- },
- {
-  "slug": "Sheesh_Mahal",
-  "title": "Sheesh Mahal",
-  "links": 1
- },
- {
-  "slug": "external_heart",
-  "title": "external heart",
-  "links": 1
- },
- {
-  "slug": "Immersive_adaptations_of_Beach_Surgery",
-  "title": "Immersive adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Mughal_architecture",
-  "title": "Mughal architecture",
-  "links": 1
- },
- {
-  "slug": "Rajasthani",
-  "title": "Rajasthani",
   "links": 1
  },
  {
@@ -245,6 +210,16 @@
   "links": 1
  },
  {
+  "slug": "Ouagadougou_Leatherwork_Cycle_(Participatory_Mapping_Installation_and_Durational_Textile_Refusal_20242027)",
+  "title": "Ouagadougou Leatherwork Cycle (Participatory Mapping Installation and Durational Textile Refusal, 2024\u20132027)",
+  "links": 1
+ },
+ {
+  "slug": "Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Katita's_Breath-Count",
+  "title": "Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and Katita's Breath-Count",
+  "links": 1
+ },
+ {
   "slug": "two",
   "title": "two",
   "links": 1
@@ -257,21 +232,6 @@
  {
   "slug": "ase",
   "title": "ase",
-  "links": 1
- },
- {
-  "slug": "miniature_painting",
-  "title": "miniature painting",
-  "links": 1
- },
- {
-  "slug": "Kathak_Cycle_of_the_Three_Injuries",
-  "title": "Kathak Cycle of the Three Injuries",
-  "links": 1
- },
- {
-  "slug": "mudras",
-  "title": "mudras",
   "links": 1
  },
  {
@@ -302,6 +262,26 @@
  {
   "slug": "The_glitch_as_epistemological_failure",
   "title": "The glitch as epistemological failure",
+  "links": 1
+ },
+ {
+  "slug": "Tintal",
+  "title": "Tintal",
+  "links": 1
+ },
+ {
+  "slug": "Jhapta",
+  "title": "Jhapta",
+  "links": 1
+ },
+ {
+  "slug": "Ektal",
+  "title": "Ektal",
+  "links": 1
+ },
+ {
+  "slug": "Kathak_adaptations_of_Beach_Surgery",
+  "title": "Kathak adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -372,6 +352,11 @@
  {
   "slug": "The_surgery_as_caress:_Staging_touch_and_transgression",
   "title": "The surgery as caress: Staging touch and transgression",
+  "links": 1
+ },
+ {
+  "slug": "Taj_Mahal",
+  "title": "Taj Mahal",
   "links": 1
  },
  {
@@ -1057,6 +1042,16 @@
  {
   "slug": "Yemaya",
   "title": "Yemaya",
+  "links": 1
+ },
+ {
+  "slug": "Mbius_strip_and_Beach_Surgery",
+  "title": "M\u00f6bius strip and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Sheesh_Mahal_(architecture)",
+  "title": "Sheesh Mahal (architecture)",
   "links": 1
  },
  {
@@ -5050,11 +5045,6 @@
   "links": 1
  },
  {
-  "slug": "Ganges",
-  "title": "Ganges",
-  "links": 1
- },
- {
   "slug": "cremation",
   "title": "cremation",
   "links": 1
@@ -5252,6 +5242,11 @@
  {
   "slug": "community_performance",
   "title": "community performance",
+  "links": 1
+ },
+ {
+  "slug": "West_Bengali_adaptations_of_Beach_Surgery",
+  "title": "West Bengali adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -5730,11 +5725,6 @@
   "links": 1
  },
  {
-  "slug": "External_heart",
-  "title": "External heart",
-  "links": 1
- },
- {
   "slug": "Andes_and_Beach_Surgery",
   "title": "Andes and Beach Surgery",
   "links": 1
@@ -5947,6 +5937,11 @@
  {
   "slug": "Red_Earth_CartographyDust_Rust_and_Recurrence",
   "title": "Red Earth Cartography\u2014Dust, Rust, and Recurrence",
+  "links": 1
+ },
+ {
+  "slug": "Leif's_three_temporary_injuries_and_the_three_temptations",
+  "title": "Leif's three temporary injuries \u2014 and the three temptations",
   "links": 1
  },
  {
@@ -6477,6 +6472,11 @@
  {
   "slug": "Busan_International_Film_Festival",
   "title": "Busan International Film Festival",
+  "links": 1
+ },
+ {
+  "slug": "Miniature_painting_(art_history)",
+  "title": "Miniature painting (art history)",
   "links": 1
  },
  {
