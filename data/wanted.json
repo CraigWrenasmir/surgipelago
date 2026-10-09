@@ -135,11 +135,6 @@
   "links": 2
  },
  {
-  "slug": "Ganges",
-  "title": "Ganges",
-  "links": 2
- },
- {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -200,6 +195,16 @@
   "links": 1
  },
  {
+  "slug": "Frequency_and_Beach_Surgery",
+  "title": "Frequency and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Haridwar",
+  "title": "Haridwar",
+  "links": 1
+ },
+ {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
   "links": 1
@@ -235,13 +240,8 @@
   "links": 1
  },
  {
-  "slug": "The_Miniature_That_Opens_Backward",
-  "title": "The Miniature That Opens Backward",
-  "links": 1
- },
- {
-  "slug": "Jaipur_School",
-  "title": "Jaipur School",
+  "slug": "sthanaak",
+  "title": "sthanaak",
   "links": 1
  },
  {
@@ -250,38 +250,33 @@
   "links": 1
  },
  {
-  "slug": "Brocade_Correspondence",
-  "title": "Brocade Correspondence",
+  "slug": "Murshidabad",
+  "title": "Murshidabad",
   "links": 1
  },
  {
-  "slug": "Mathematical_metaphor_in_Beach_Surgery",
-  "title": "Mathematical metaphor in Beach Surgery",
+  "slug": "Nadia",
+  "title": "Nadia",
   "links": 1
  },
  {
-  "slug": "The_glitch_as_epistemological_failure",
-  "title": "The glitch as epistemological failure",
+  "slug": "Bengali_folk_traditions",
+  "title": "Bengali folk traditions",
   "links": 1
  },
  {
-  "slug": "Tintal",
-  "title": "Tintal",
+  "slug": "Varanasi_gharana",
+  "title": "Varanasi gharana",
   "links": 1
  },
  {
-  "slug": "Jhapta",
-  "title": "Jhapta",
+  "slug": "The_Kathak_Cycle_of_the_Three_Injuries",
+  "title": "The Kathak Cycle of the Three Injuries",
   "links": 1
  },
  {
-  "slug": "Ektal",
-  "title": "Ektal",
-  "links": 1
- },
- {
-  "slug": "Kathak_adaptations_of_Beach_Surgery",
-  "title": "Kathak adaptations of Beach Surgery",
+  "slug": "tala_(rhythm)",
+  "title": "tala (rhythm)",
   "links": 1
  },
  {
@@ -3365,6 +3360,11 @@
   "links": 1
  },
  {
+  "slug": "Safavid_art_and_Beach_Surgery",
+  "title": "Safavid art and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Somalia_conflict",
   "title": "Somalia conflict",
   "links": 1
@@ -4872,6 +4872,11 @@
  {
   "slug": "drone_with_instant_photographs",
   "title": "drone with instant photographs",
+  "links": 1
+ },
+ {
+  "slug": "Tabla_(concept)",
+  "title": "Tabla (concept)",
   "links": 1
  },
  {

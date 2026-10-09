@@ -2555,6 +2555,16 @@
   "aliases": [],
   "episode": null
  },
+ "Brocade_Correspondence": {
+  "title": "Brocade Correspondence",
+  "strand": "fashion",
+  "kind": "Textile mail-art cycle",
+  "aliases": [
+   "The Brocade Letters",
+   "Brocade Embroidery Cycle"
+  ],
+  "episode": null
+ },
  "Broken_Bread_at_the_Service_Station": {
   "title": "Broken Bread at the Service Station",
   "strand": "anime",
@@ -4840,6 +4850,17 @@
   ],
   "episode": null
  },
+ "Ektal": {
+  "title": "Ektal",
+  "strand": "music",
+  "kind": "Rhythm Concept / Participatory Cycle",
+  "aliases": [
+   "Ektal and recurrence",
+   "The 16-beat covenant",
+   "Ektal in Beach Surgery"
+  ],
+  "episode": null
+ },
  "El_Cuero_HablaA_Buenos_Aires_Synesthetic_Fragrance_Theatre": {
   "title": "El Cuero Habla\u2014A Buenos Aires Synesthetic Fragrance Theatre",
   "strand": "scent",
@@ -5785,6 +5806,16 @@
    "Ganapati",
    "Vighneshvara",
    "The Remover of Obstacles"
+  ],
+  "episode": null
+ },
+ "Ganges": {
+  "title": "Ganges",
+  "strand": "tours",
+  "kind": "Audio-Locative Pilgrimage Installation",
+  "aliases": [
+   "Ganges: A Frequency Walk",
+   "Ganges Suvavana"
   ],
   "episode": null
  },
@@ -7518,6 +7549,17 @@
   ],
   "episode": null
  },
+ "Jaipur_School": {
+  "title": "Jaipur School",
+  "strand": "music",
+  "kind": "Hindustani vocal music tradition",
+  "aliases": [
+   "Jaipur School of vocal music",
+   "Jaipur vocal innovation",
+   "School of Jaipur"
+  ],
+  "episode": null
+ },
  "Jaipur_adaptations_of_Beach_Surgery": {
   "title": "Jaipur adaptations of Beach Surgery",
   "strand": "adaptations",
@@ -7664,6 +7706,17 @@
    "Grotowski",
    "Poor Theatre theorist",
    "Jerzy Grotowski (1933\u20131999)"
+  ],
+  "episode": null
+ },
+ "Jhapta": {
+  "title": "Jhapta",
+  "strand": "theatre",
+  "kind": "Bengali folk textile-performance practice",
+  "aliases": [
+   "Jhapta (folk tradition)",
+   "Jhapta sequence",
+   "Jhapta and rapid weaving"
   ],
   "episode": null
  },
@@ -8077,6 +8130,15 @@
    "Kathak and Beach Surgery",
    "Kathak choreography",
    "Kathak-based works"
+  ],
+  "episode": null
+ },
+ "Kathak_adaptations_of_Beach_Surgery": {
+  "title": "Kathak adaptations of Beach Surgery",
+  "strand": "dance",
+  "kind": "Dance tradition overview",
+  "aliases": [
+   "Kathak and Beach Surgery"
   ],
   "episode": null
  },
@@ -10356,6 +10418,17 @@
   "aliases": [
    "Craft epistemology in Beach Surgery",
    "The memory of making"
+  ],
+  "episode": null
+ },
+ "Mathematical_metaphor_in_Beach_Surgery": {
+  "title": "Mathematical metaphor in Beach Surgery",
+  "strand": "concepts",
+  "kind": "Critical essay",
+  "aliases": [
+   "Structural arithmetic in Beach Surgery",
+   "Mathematics and the glitch",
+   "The coin and M\u00f6bius form"
   ],
   "episode": null
  },
@@ -19658,6 +19731,16 @@
   "aliases": [],
   "episode": 113
  },
+ "The_Miniature_That_Opens_Backward": {
+  "title": "The Miniature That Opens Backward",
+  "strand": "visual art",
+  "kind": "Illuminated manuscript cycle (Persian miniatures)",
+  "aliases": [
+   "Manuscript of the Reversed Opening",
+   "The Backward Leaf"
+  ],
+  "episode": null
+ },
  "The_Mogadishu_Breath_Cycle": {
   "title": "The Mogadishu Breath Cycle",
   "strand": "audio-drama",
@@ -23245,6 +23328,16 @@
   ],
   "episode": null
  },
+ "The_glitch_as_epistemological_failure": {
+  "title": "The glitch as epistemological failure",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "The glitch and epistemology",
+   "Epistemological failure in Beach Surgery"
+  ],
+  "episode": null
+ },
  "The_glitch_as_generative_absence": {
   "title": "The glitch as generative absence",
   "strand": "concepts",
@@ -23971,6 +24064,17 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Tintal": {
+  "title": "Tintal",
+  "strand": "music",
+  "kind": "Hindustani vocal composition and serialized light novel (hybrid)",
+  "aliases": [
+   "Tintal Cycle",
+   "The Sixteen Beats",
+   "Tintal na Surta"
+  ],
   "episode": null
  },
  "Tirupati": {
