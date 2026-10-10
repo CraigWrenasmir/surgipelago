@@ -100,6 +100,11 @@
   "links": 2
  },
  {
+  "slug": "Bengali_language",
+  "title": "Bengali language",
+  "links": 2
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -112,6 +117,16 @@
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
+  "links": 2
+ },
+ {
+  "slug": "backstory",
+  "title": "backstory",
+  "links": 2
+ },
+ {
+  "slug": "Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold",
+  "title": "Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold",
   "links": 2
  },
  {
@@ -195,18 +210,13 @@
   "links": 1
  },
  {
-  "slug": "Frequency_and_Beach_Surgery",
-  "title": "Frequency and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Haridwar",
-  "title": "Haridwar",
-  "links": 1
- },
- {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "ghat",
+  "title": "ghat",
   "links": 1
  },
  {
@@ -240,43 +250,8 @@
   "links": 1
  },
  {
-  "slug": "sthanaak",
-  "title": "sthanaak",
-  "links": 1
- },
- {
   "slug": "Chakra_Frequency_Walk:_Jantar_Mantar_to_City_Palace",
   "title": "Chakra Frequency Walk: Jantar Mantar to City Palace",
-  "links": 1
- },
- {
-  "slug": "Murshidabad",
-  "title": "Murshidabad",
-  "links": 1
- },
- {
-  "slug": "Nadia",
-  "title": "Nadia",
-  "links": 1
- },
- {
-  "slug": "Bengali_folk_traditions",
-  "title": "Bengali folk traditions",
-  "links": 1
- },
- {
-  "slug": "Varanasi_gharana",
-  "title": "Varanasi gharana",
-  "links": 1
- },
- {
-  "slug": "The_Kathak_Cycle_of_the_Three_Injuries",
-  "title": "The Kathak Cycle of the Three Injuries",
-  "links": 1
- },
- {
-  "slug": "tala_(rhythm)",
-  "title": "tala (rhythm)",
   "links": 1
  },
  {
@@ -292,11 +267,6 @@
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "Philosophical_and_theological_adaptations",
-  "title": "Philosophical and theological adaptations",
   "links": 1
  },
  {
@@ -355,8 +325,33 @@
   "links": 1
  },
  {
+  "slug": "Langur_as_sacrament",
+  "title": "Langur as sacrament",
+  "links": 1
+ },
+ {
+  "slug": "Refugee",
+  "title": "Refugee",
+  "links": 1
+ },
+ {
+  "slug": "waves",
+  "title": "waves",
+  "links": 1
+ },
+ {
   "slug": "Ragini_Leif:_The_Hindustani_Variation",
   "title": "Ragini Leif: The Hindustani Variation",
+  "links": 1
+ },
+ {
+  "slug": "folk_traditions",
+  "title": "folk traditions",
+  "links": 1
+ },
+ {
+  "slug": "Triage_(motif)",
+  "title": "Triage (motif)",
   "links": 1
  },
  {
@@ -382,6 +377,31 @@
  {
   "slug": "ephemeral",
   "title": "ephemeral",
+  "links": 1
+ },
+ {
+  "slug": "The_Seam_That_SpeaksOntological_Incompleteness_and_the_Ethics_of_Unfinishedness",
+  "title": "The Seam That Speaks\u2014Ontological Incompleteness and the Ethics of Unfinishedness",
+  "links": 1
+ },
+ {
+  "slug": "The_Glitch_as_Koanic_RefusalApophatic_Theology_and_the_Divine_Glitch",
+  "title": "The Glitch as Koanic Refusal\u2014Apophatic Theology and the Divine Glitch",
+  "links": 1
+ },
+ {
+  "slug": "The_Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan",
+  "title": "The Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan",
+  "links": 1
+ },
+ {
+  "slug": "The_Gospel_in_Outline_FormSacred_Incompleteness_and_the_Hermeneutics_of_Refusal_in_New_Religious_Movements",
+  "title": "The Gospel in Outline Form\u2014Sacred Incompleteness and the Hermeneutics of Refusal in New Religious Movements",
+  "links": 1
+ },
+ {
+  "slug": "The_Recovered_SermonOral_Liturgy_Collective_Memory_and_the_Formation_of_Sacrament",
+  "title": "The Recovered Sermon\u2014Oral Liturgy, Collective Memory, and the Formation of Sacrament",
   "links": 1
  },
  {
@@ -1332,11 +1352,6 @@
  {
   "slug": "Radio_Zenzile",
   "title": "Radio Zenzile",
-  "links": 1
- },
- {
-  "slug": "Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold",
-  "title": "Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold",
   "links": 1
  },
  {
@@ -2812,6 +2827,21 @@
  {
   "slug": "reciprocal",
   "title": "reciprocal",
+  "links": 1
+ },
+ {
+  "slug": "Kathak_Kendra",
+  "title": "Kathak Kendra",
+  "links": 1
+ },
+ {
+  "slug": "sam_(rhythm)",
+  "title": "sam (rhythm)",
+  "links": 1
+ },
+ {
+  "slug": "bhava_(concept)",
+  "title": "bhava (concept)",
   "links": 1
  },
  {
@@ -4865,11 +4895,6 @@
   "links": 1
  },
  {
-  "slug": "backstory",
-  "title": "backstory",
-  "links": 1
- },
- {
   "slug": "drone_with_instant_photographs",
   "title": "drone with instant photographs",
   "links": 1
@@ -5057,6 +5082,11 @@
  {
   "slug": "Kshi",
   "title": "K\u0101shi",
+  "links": 1
+ },
+ {
+  "slug": "om",
+  "title": "om",
   "links": 1
  },
  {
@@ -6690,11 +6720,6 @@
   "links": 1
  },
  {
-  "slug": "Bengali_language",
-  "title": "Bengali language",
-  "links": 1
- },
- {
   "slug": "the_children",
   "title": "the children",
   "links": 1
@@ -7030,6 +7055,21 @@
   "links": 1
  },
  {
+  "slug": "meend",
+  "title": "meend",
+  "links": 1
+ },
+ {
+  "slug": "gamak",
+  "title": "gamak",
+  "links": 1
+ },
+ {
+  "slug": "andolan",
+  "title": "andolan",
+  "links": 1
+ },
+ {
   "slug": "layered_prints",
   "title": "layered prints",
   "links": 1
@@ -7102,6 +7142,11 @@
  {
   "slug": "Indian_classical_music",
   "title": "Indian classical music",
+  "links": 1
+ },
+ {
+  "slug": "tala_(disambiguation)",
+  "title": "tala (disambiguation)",
   "links": 1
  },
  {

@@ -2186,6 +2186,16 @@
   "aliases": [],
   "episode": null
  },
+ "Bengali_folk_traditions": {
+  "title": "Bengali folk traditions",
+  "strand": "concepts",
+  "kind": "Regional art-form overview",
+  "aliases": [
+   "Bengali cultural traditions",
+   "Folk traditions of Bengal"
+  ],
+  "episode": null
+ },
  "Berber": {
   "title": "Berber",
   "strand": "concepts",
@@ -5712,6 +5722,16 @@
   ],
   "episode": null
  },
+ "Frequency_and_Beach_Surgery": {
+  "title": "Frequency and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Concept / motif",
+  "aliases": [
+   "Frequencies in Beach Surgery",
+   "Frequency and the cycle"
+  ],
+  "episode": null
+ },
  "Frequency_of_Return": {
   "title": "Frequency of Return",
   "strand": "motifs",
@@ -6516,6 +6536,16 @@
   "aliases": [
    "Harare, Zimbabwe",
    "Harare (Beach Surgery)"
+  ],
+  "episode": null
+ },
+ "Haridwar": {
+  "title": "Haridwar",
+  "strand": "psychogeography",
+  "kind": "City / pilgrimage site",
+  "aliases": [
+   "Hardwar",
+   "Hara-ki-Pauri"
   ],
   "episode": null
  },
@@ -11018,6 +11048,16 @@
   ],
   "episode": null
  },
+ "Murshidabad": {
+  "title": "Murshidabad",
+  "strand": "places",
+  "kind": "Geographic location / Adaptation site",
+  "aliases": [
+   "Murshidabad, West Bengal",
+   "Murshidabad and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Muscle_Memory_of_Leather": {
   "title": "Muscle Memory of Leather",
   "strand": "anime",
@@ -11161,6 +11201,16 @@
   "strand": "philosophy",
   "kind": "Thematic analysis / essay",
   "aliases": [],
+  "episode": null
+ },
+ "Nadia": {
+  "title": "Nadia",
+  "strand": "audio-drama",
+  "kind": "Character in audio adaptation",
+  "aliases": [
+   "Nadia (Static Frequency)",
+   "The Nurse Keeper"
+  ],
   "episode": null
  },
  "Nagarjuna": {
@@ -12351,6 +12401,17 @@
   "aliases": [
    "Filipino Beach Surgery komiks",
    "Komiks adaptations of Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Philosophical_and_theological_adaptations": {
+  "title": "Philosophical and theological adaptations",
+  "strand": "philosophy",
+  "kind": "List article / Disambiguation",
+  "aliases": [
+   "Philosophical adaptations",
+   "Theological readings",
+   "Philosophy and theology in Beach Surgery"
   ],
   "episode": null
  },
@@ -18650,6 +18711,17 @@
   ],
   "episode": null
  },
+ "The_Kathak_Cycle_of_the_Three_Injuries": {
+  "title": "The Kathak Cycle of the Three Injuries",
+  "strand": "dance",
+  "kind": "Choreographic cycle (three-part)",
+  "aliases": [
+   "Three Injuries Kathak",
+   "Delhi Cycle (2017\u20132019)",
+   "Kathak Trilogy"
+  ],
+  "episode": null
+ },
  "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations_and_Liturgical_Praxis_(MA_Thesis_2024)": {
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations and Liturgical Praxis (MA Thesis, 2024)",
   "strand": "theses",
@@ -24482,6 +24554,16 @@
    "Benares and Beach Surgery",
    "Varanasi cycle",
    "Ganges adaptations"
+  ],
+  "episode": null
+ },
+ "Varanasi_gharana": {
+  "title": "Varanasi gharana",
+  "strand": "music",
+  "kind": "Musical tradition / gharana",
+  "aliases": [
+   "Varanasi school",
+   "Benares gharana"
   ],
   "episode": null
  },
@@ -30956,6 +31038,17 @@
   ],
   "episode": null
  },
+ "sthanaak": {
+  "title": "sthanaak",
+  "strand": "music",
+  "kind": "Musical concept / technique",
+  "aliases": [
+   "Sthanaka",
+   "Sthanak",
+   "manner of standing"
+  ],
+  "episode": null
+ },
  "story": {
   "title": "story",
   "strand": "canon",
@@ -31240,6 +31333,17 @@
   "aliases": [
    "Tala in Beach Surgery",
    "Rhythmic cycle"
+  ],
+  "episode": null
+ },
+ "tala_(rhythm)": {
+  "title": "tala (rhythm)",
+  "strand": "music",
+  "kind": "Musical concept / motif",
+  "aliases": [
+   "Taala",
+   "Taal",
+   "Tala (Indian rhythm)"
   ],
   "episode": null
  },
