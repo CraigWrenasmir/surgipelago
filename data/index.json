@@ -2196,6 +2196,16 @@
   ],
   "episode": null
  },
+ "Bengali_language": {
+  "title": "Bengali language",
+  "strand": "concepts",
+  "kind": "Language",
+  "aliases": [
+   "Bangla",
+   "Bengali script"
+  ],
+  "episode": null
+ },
  "Berber": {
   "title": "Berber",
   "strand": "concepts",
@@ -2353,6 +2363,13 @@
    "Chhatrali Cycle",
    "The Cycle Sung in Raaths"
   ],
+  "episode": null
+ },
+ "Bikaner": {
+  "title": "Bikaner",
+  "strand": "architecture",
+  "kind": "Geographic hub / cultural node",
+  "aliases": [],
   "episode": null
  },
  "Bogey_Hole": {
@@ -7307,6 +7324,16 @@
    "First Nations adaptations",
    "Aboriginal and M\u0101ori Beach Surgery",
    "Indigenous approaches to the franchise"
+  ],
+  "episode": null
+ },
+ "Indo-Aryan_language": {
+  "title": "Indo-Aryan language",
+  "strand": "concepts",
+  "kind": "Language family",
+  "aliases": [
+   "Indic languages",
+   "Indic language group"
   ],
   "episode": null
  },
@@ -14189,6 +14216,17 @@
   ],
   "episode": null
  },
+ "Scent_and_olfactory_art": {
+  "title": "Scent and olfactory art",
+  "strand": "motifs",
+  "kind": "Sensory motif / cross-media concept",
+  "aliases": [
+   "Olfactory art in Beach Surgery",
+   "Scent motif",
+   "Sensory threshold"
+  ],
+  "episode": null
+ },
  "Scent_and_olfactory_art_in_Beach_Surgery": {
   "title": "Scent and olfactory art in Beach Surgery",
   "strand": "scent",
@@ -18687,6 +18725,16 @@
   "aliases": [
    "The Karman Whisper (podcast)",
    "Meditation Protocol KL-7"
+  ],
+  "episode": null
+ },
+ "The_Karmn_Installation_(Lost_Work_1991):_Inventory_Speculation_and_the_Hoax_Question": {
+  "title": "The Karm\u00e1n Installation (Lost Work, 1991): Inventory, Speculation, and the Hoax Question",
+  "strand": "lost-media",
+  "kind": "Lost art installation (status apocryphal)",
+  "aliases": [
+   "The Karm\u00e1n Installation (1991)",
+   "Karm\u00e1n Installation"
   ],
   "episode": null
  },
@@ -25838,6 +25886,17 @@
   ],
   "episode": null
  },
+ "backstory": {
+  "title": "backstory",
+  "strand": "canon",
+  "kind": "Canonical biography",
+  "aliases": [
+   "Leif's backstory",
+   "The conflict zone near a beachfront",
+   "The boy in the waves"
+  ],
+  "episode": null
+ },
  "backwaters": {
   "title": "backwaters",
   "strand": "immersive",
@@ -26243,6 +26302,13 @@
    "Surgipelago canon bible",
    "canonical apparatus"
   ],
+  "episode": null
+ },
+ "canon_conflict": {
+  "title": "canon conflict",
+  "strand": "canon",
+  "kind": "Foundational principle / glossary entry",
+  "aliases": [],
   "episode": null
  },
  "car_chase": {
@@ -27669,6 +27735,18 @@
   ],
   "episode": null
  },
+ "ghat": {
+  "title": "ghat",
+  "strand": "architecture",
+  "kind": "Location/architectural motif",
+  "aliases": [
+   "ghats",
+   "river steps",
+   "sacred descent",
+   "ghat"
+  ],
+  "episode": null
+ },
  "ghazal": {
   "title": "ghazal",
   "strand": "music",
@@ -28324,6 +28402,17 @@
   "strand": "philosophy",
   "kind": "Concept in Beach Surgery theology",
   "aliases": [],
+  "episode": null
+ },
+ "kathiyra": {
+  "title": "kathiy\u0101ra",
+  "strand": "music",
+  "kind": "Traditional stringed instrument",
+  "aliases": [
+   "kathiyara",
+   "story-string",
+   "Rajasthani fiddle"
+  ],
   "episode": null
  },
  "Katita": {
