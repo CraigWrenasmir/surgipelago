@@ -428,6 +428,13 @@
   ],
   "episode": null
  },
+ "Adaptations_of_Beach_Surgery": {
+  "title": "Adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Meta-article / conceptual overview",
+  "aliases": [],
+  "episode": null
+ },
  "Adaptations_that_resolve_the_glitch": {
   "title": "Adaptations that resolve the glitch",
   "strand": "meta",
@@ -4219,6 +4226,17 @@
   ],
   "episode": null
  },
+ "Desert_interior_adaptations": {
+  "title": "Desert interior adaptations",
+  "strand": "concepts",
+  "kind": "Overview and taxonomy",
+  "aliases": [
+   "Desert interior of NSW in adaptation",
+   "Red desert adaptations",
+   "Half Two adaptations"
+  ],
+  "episode": null
+ },
  "Dev_Narayan": {
   "title": "Dev Narayan",
   "strand": "philosophy",
@@ -6720,6 +6738,16 @@
   ],
   "episode": null
  },
+ "Hindi_language": {
+  "title": "Hindi language",
+  "strand": "concepts",
+  "kind": "Language and translation overview",
+  "aliases": [
+   "Hindi",
+   "Hindi in Beach Surgery adaptation"
+  ],
+  "episode": null
+ },
  "Hindu": {
   "title": "Hindu",
   "strand": "concepts",
@@ -9197,6 +9225,16 @@
    "Language (motif)",
    "Language games",
    "Analogy in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Langur_as_sacrament": {
+  "title": "Langur as sacrament",
+  "strand": "philosophy",
+  "kind": "Thematic / theological essay",
+  "aliases": [
+   "Langur and sacred labour",
+   "Hanuman motif in Beach Surgery"
   ],
   "episode": null
  },
@@ -13441,6 +13479,13 @@
   ],
   "episode": null
  },
+ "Refugee": {
+  "title": "Refugee",
+  "strand": "motifs",
+  "kind": "Motif / narrative concept",
+  "aliases": [],
+  "episode": null
+ },
  "Regional_adaptations": {
   "title": "Regional adaptations",
   "strand": "meta",
@@ -15874,6 +15919,17 @@
    "Taiwanese puppet theatre and Beach Surgery",
    "Pili and the beach",
    "\u53f0\u7063\u76ae\u5f71\u6232"
+  ],
+  "episode": null
+ },
+ "Taj_Mahal": {
+  "title": "Taj Mahal",
+  "strand": "immersive",
+  "kind": "Site-specific immersive installation and durational pilgrimage work",
+  "aliases": [
+   "Taj Mahal (immersive work)",
+   "The Taj Mahal Adaptation",
+   "Taj Mahal Red Dust Pilgrimage"
   ],
   "episode": null
  },
@@ -33290,6 +33346,16 @@
   "aliases": [
    "water (motif)",
    "water and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "waves": {
+  "title": "waves",
+  "strand": "motifs",
+  "kind": "Motif and thematic recurrence",
+  "aliases": [
+   "wave motif",
+   "waves in Beach Surgery"
   ],
   "episode": null
  },
