@@ -991,6 +991,17 @@
   ],
   "episode": null
  },
+ "Animal_motifs_in_Beach_Surgery": {
+  "title": "Animal motifs in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Glossary entry",
+  "aliases": [
+   "Fauna in Beach Surgery",
+   "Animals and the cycle",
+   "Creatures in Beach Surgery adaptation"
+  ],
+  "episode": null
+ },
  "Ankara": {
   "title": "Ankara",
   "strand": "psychogeography",
@@ -1295,6 +1306,17 @@
   "strand": "theatre",
   "kind": "Theatre movement",
   "aliases": [],
+  "episode": null
+ },
+ "Argentine_theatre": {
+  "title": "Argentine theatre",
+  "strand": "theatre",
+  "kind": "Theatre movement and adaptation practices",
+  "aliases": [
+   "Argentine Beach Surgery theatre",
+   "Argentine experimental adaptations",
+   "Teatro de la Ausencia"
+  ],
   "episode": null
  },
  "Armenia": {
@@ -4247,6 +4269,17 @@
   ],
   "episode": null
  },
+ "Devanagari": {
+  "title": "Devanagari",
+  "strand": "architecture",
+  "kind": "Script-based calligraphic adaptations",
+  "aliases": [
+   "Devanagari adaptations",
+   "Devanagari and Beach Surgery",
+   "The Devanagari Manuscripts"
+  ],
+  "episode": null
+ },
  "Devotional_communities_and_Beach_Surgery": {
   "title": "Devotional communities and Beach Surgery",
   "strand": "concepts",
@@ -6564,6 +6597,27 @@
   "aliases": [],
   "episode": null
  },
+ "Hanuman": {
+  "title": "Hanuman",
+  "strand": "canon",
+  "kind": "Theological and devotional reading",
+  "aliases": [
+   "Hanuman (theology)",
+   "Hanuman and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Hanuman_and_Beach_Surgery": {
+  "title": "Hanuman and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Motif / theological analysis",
+  "aliases": [
+   "Hanuman (motif)",
+   "Devotion and divine service in Beach Surgery",
+   "Bhakti and Leif's love"
+  ],
+  "episode": null
+ },
  "Harare": {
   "title": "Harare",
   "strand": "places",
@@ -6725,6 +6779,17 @@
    "Hindi-language adaptations",
    "Hindi cinema and Beach Surgery",
    "Devanagari adaptations"
+  ],
+  "episode": null
+ },
+ "Hindi_film": {
+  "title": "Hindi film",
+  "strand": "films",
+  "kind": "Hindi-language feature film, 2024",
+  "aliases": [
+   "Phir Se M\u00edlenge",
+   "They Meet Again",
+   "A Complicated Surgery Will Take Place on the Beach Tonight (2024 Hindi adaptation)"
   ],
   "episode": null
  },
@@ -13240,6 +13305,16 @@
   "aliases": [
    "Rajghat Breath Protocol",
    "The Rajghat Vigil"
+  ],
+  "episode": null
+ },
+ "Rama": {
+  "title": "Rama",
+  "strand": "theatre",
+  "kind": "Hindustani theatrical adaptation",
+  "aliases": [
+   "Rama (theatrical)",
+   "Rama Lila adaptation"
   ],
   "episode": null
  },
@@ -28636,6 +28711,17 @@
    "language and fiction",
    "the language game",
    "language as game"
+  ],
+  "episode": null
+ },
+ "languages": {
+  "title": "languages",
+  "strand": "philosophy",
+  "kind": "Concept / Motif",
+  "aliases": [
+   "Language and Beach Surgery",
+   "Linguistic impossibility",
+   "The glitch as utterance"
   ],
   "episode": null
  },

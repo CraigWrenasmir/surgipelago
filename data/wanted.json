@@ -65,6 +65,11 @@
   "links": 4
  },
  {
+  "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
+  "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
+  "links": 3
+ },
+ {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior Following Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
   "links": 3
@@ -88,11 +93,6 @@
   "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
   "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
   "links": 3
- },
- {
-  "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
-  "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
-  "links": 2
  },
  {
   "slug": "Play_Newcastle:_Gregson_Park",
@@ -155,18 +155,28 @@
   "links": 1
  },
  {
-  "slug": "Argentine_theatre",
-  "title": "Argentine theatre",
+  "slug": "The_Bee_Automaton_(Japanese_manga_spin-off)",
+  "title": "The Bee Automaton (Japanese manga spin-off)",
   "links": 1
  },
  {
-  "slug": "Hindi_film",
-  "title": "Hindi film",
+  "slug": "Apian_FrequencyA_Drone-Based_Audio_Installation",
+  "title": "Apian Frequency\u2014A Drone-Based Audio Installation",
   "links": 1
  },
  {
-  "slug": "languages",
-  "title": "languages",
+  "slug": "The_Boar's_Return_(manga)",
+  "title": "The Boar's Return (manga)",
+  "links": 1
+ },
+ {
+  "slug": "Creatures_and_the_cycle_in_Beach_Surgery",
+  "title": "Creatures and the cycle in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Sicatrices_Reversibles",
+  "title": "Sicatrices Reversibles",
   "links": 1
  },
  {
@@ -195,6 +205,11 @@
   "links": 1
  },
  {
+  "slug": "Varanasi_Devanagari_Ritual_Manuscript_Controversy",
+  "title": "Varanasi Devanagari Ritual Manuscript Controversy",
+  "links": 1
+ },
+ {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -220,8 +235,53 @@
   "links": 1
  },
  {
-  "slug": "Devanagari",
-  "title": "Devanagari",
+  "slug": "Ashram",
+  "title": "Ashram",
+  "links": 1
+ },
+ {
+  "slug": "Hanuman_(theatre)",
+  "title": "Hanuman (theatre)",
+  "links": 1
+ },
+ {
+  "slug": "yantra",
+  "title": "yantra",
+  "links": 1
+ },
+ {
+  "slug": "tapas",
+  "title": "tapas",
+  "links": 1
+ },
+ {
+  "slug": "eight_limbs_of_yoga",
+  "title": "eight limbs of yoga",
+  "links": 1
+ },
+ {
+  "slug": "Mahabharata",
+  "title": "Mahabharata",
+  "links": 1
+ },
+ {
+  "slug": "service",
+  "title": "service",
+  "links": 1
+ },
+ {
+  "slug": "jnana_yoga",
+  "title": "jnana yoga",
+  "links": 1
+ },
+ {
+  "slug": "anahata_chakra",
+  "title": "anahata chakra",
+  "links": 1
+ },
+ {
+  "slug": "Reviewed_in",
+  "title": "Reviewed in",
   "links": 1
  },
  {
@@ -267,26 +327,6 @@
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "Hanuman",
-  "title": "Hanuman",
-  "links": 1
- },
- {
-  "slug": "Rama",
-  "title": "Rama",
-  "links": 1
- },
- {
-  "slug": "Hanuman_and_Beach_Surgery",
-  "title": "Hanuman and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Animal_motifs_in_Beach_Surgery",
-  "title": "Animal motifs in Beach Surgery",
   "links": 1
  },
  {
@@ -397,6 +437,11 @@
  {
   "slug": "Bandhani_tradition",
   "title": "Bandhani tradition",
+  "links": 1
+ },
+ {
+  "slug": "Rama_(disambiguation)",
+  "title": "Rama (disambiguation)",
   "links": 1
  },
  {
