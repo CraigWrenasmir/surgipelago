@@ -1082,6 +1082,15 @@
   ],
   "episode": null
  },
+ "Apian_FrequencyA_Drone-Based_Audio_Installation": {
+  "title": "Apian Frequency\u2014A Drone-Based Audio Installation",
+  "strand": "immersive",
+  "kind": "Spatial audio installation",
+  "aliases": [
+   "Apian Frequency"
+  ],
+  "episode": null
+ },
  "Apophatic_theology_and_Beach_Surgery": {
   "title": "Apophatic theology and Beach Surgery",
   "strand": "philosophy",
@@ -1464,6 +1473,16 @@
   "aliases": [
    "Adinkra and the cycle",
    "West African philosophy and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Ashram": {
+  "title": "Ashram",
+  "strand": "tie-in-novels",
+  "kind": "Tie-in novel",
+  "aliases": [
+   "Ashram (novel)",
+   "The Ashram at Rishikesh"
   ],
   "episode": null
  },
@@ -3859,6 +3878,16 @@
    "C\u00f3rdoba, Argentina",
    "The C\u00f3rdoba Archive site",
    "C\u00f3rdoba adaptation"
+  ],
+  "episode": null
+ },
+ "Creatures_and_the_cycle_in_Beach_Surgery": {
+  "title": "Creatures and the cycle in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Thematic glossary entry",
+  "aliases": [
+   "Non-human agency in Beach Surgery",
+   "Animals and recurrence in adaptation"
   ],
   "episode": null
  },
@@ -6604,6 +6633,16 @@
   "aliases": [
    "Hanuman (theology)",
    "Hanuman and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Hanuman_(theatre)": {
+  "title": "Hanuman (theatre)",
+  "strand": "theatre",
+  "kind": "Theatre production",
+  "aliases": [
+   "Hanuman: The Duty That Refuses",
+   "Hanuman ka Chakra"
   ],
   "episode": null
  },
@@ -14784,6 +14823,16 @@
   ],
   "episode": null
  },
+ "Sicatrices_Reversibles": {
+  "title": "Sicatrices Reversibles",
+  "strand": "fashion",
+  "kind": "Couture collective; textile installation",
+  "aliases": [
+   "Sicatrices Reversibles Collective",
+   "Scars Reversed"
+  ],
+  "episode": null
+ },
  "Sikh": {
   "title": "Sikh",
   "strand": "philosophy",
@@ -16600,6 +16649,17 @@
   ],
   "episode": null
  },
+ "The_Bee_Automaton_(Japanese_manga_spin-off)": {
+  "title": "The Bee Automaton (Japanese manga spin-off)",
+  "strand": "manga",
+  "kind": "Manga series; five volumes",
+  "aliases": [
+   "\u30df\u30c4\u30d0\u30c1\u306e\u81ea\u52d5\u4eba\u5f62",
+   "Mitsubachi no Jid\u014d Ningy\u014d",
+   "The Bee Automaton"
+  ],
+  "episode": null
+ },
  "The_Beirut_Mirror_Project": {
   "title": "The Beirut Mirror Project",
   "strand": "lost-media",
@@ -16672,6 +16732,16 @@
    "Ang Baboy Bumabalik",
    "Baboy series",
    "The Boar cycle (Filipino)"
+  ],
+  "episode": null
+ },
+ "The_Boar's_Return_(manga)": {
+  "title": "The Boar's Return (manga)",
+  "strand": "manga",
+  "kind": "Manga serialization (collected 2024)",
+  "aliases": [
+   "Boar no Kaeri",
+   "Boar of the Cycle"
   ],
   "episode": null
  },
@@ -24725,6 +24795,17 @@
   ],
   "episode": null
  },
+ "Varanasi_Devanagari_Ritual_Manuscript_Controversy": {
+  "title": "Varanasi Devanagari Ritual Manuscript Controversy",
+  "strand": "lost-media",
+  "kind": "Disputed manuscript / Textual controversy",
+  "aliases": [
+   "Varanasi manuscript debate",
+   "The Benares redaction",
+   "((\u2588\u2588)) Controversy, 2021"
+  ],
+  "episode": null
+ },
  "Varanasi_adaptations_of_Beach_Surgery": {
   "title": "Varanasi adaptations of Beach Surgery",
   "strand": "immersive",
@@ -27358,6 +27439,17 @@
    "equipoise compound",
    "the pair that is one",
    "dvandva-yoga"
+  ],
+  "episode": null
+ },
+ "eight_limbs_of_yoga": {
+  "title": "eight limbs of yoga",
+  "strand": "philosophy",
+  "kind": "Motif / Philosophical concept",
+  "aliases": [
+   "ashtanga",
+   "astanga yoga",
+   "eight-limbed path"
   ],
   "episode": null
  },
@@ -31613,6 +31705,13 @@
   ],
   "episode": null
  },
+ "tapas": {
+  "title": "tapas",
+  "strand": "immersive",
+  "kind": "Immersive food-art installation",
+  "aliases": [],
+  "episode": null
+ },
  "tawakkul": {
   "title": "tawakkul",
   "strand": "philosophy",
@@ -33639,6 +33738,18 @@
    "Wuxia and Beach Surgery",
    "martial aesthetics",
    "the wounded swordmaster"
+  ],
+  "episode": null
+ },
+ "yantra": {
+  "title": "yantra",
+  "strand": "motifs",
+  "kind": "Visual/spiritual concept",
+  "aliases": [
+   "yantra (motif)",
+   "geometric mandala",
+   "the diagram",
+   "sacred geometry in Beach Surgery"
   ],
   "episode": null
  },

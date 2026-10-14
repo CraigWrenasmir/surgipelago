@@ -130,6 +130,11 @@
   "links": 2
  },
  {
+  "slug": "grief",
+  "title": "grief",
+  "links": 2
+ },
+ {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -155,28 +160,18 @@
   "links": 1
  },
  {
-  "slug": "The_Bee_Automaton_(Japanese_manga_spin-off)",
-  "title": "The Bee Automaton (Japanese manga spin-off)",
+  "slug": "Sound_and_Beach_Surgery",
+  "title": "Sound and Beach Surgery",
   "links": 1
  },
  {
-  "slug": "Apian_FrequencyA_Drone-Based_Audio_Installation",
-  "title": "Apian Frequency\u2014A Drone-Based Audio Installation",
+  "slug": "Rishikesh",
+  "title": "Rishikesh",
   "links": 1
  },
  {
-  "slug": "The_Boar's_Return_(manga)",
-  "title": "The Boar's Return (manga)",
-  "links": 1
- },
- {
-  "slug": "Creatures_and_the_cycle_in_Beach_Surgery",
-  "title": "Creatures and the cycle in Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Sicatrices_Reversibles",
-  "title": "Sicatrices Reversibles",
+  "slug": "Ashram_(spiritual_tradition)",
+  "title": "Ashram (spiritual tradition)",
   "links": 1
  },
  {
@@ -205,11 +200,6 @@
   "links": 1
  },
  {
-  "slug": "Varanasi_Devanagari_Ritual_Manuscript_Controversy",
-  "title": "Varanasi Devanagari Ritual Manuscript Controversy",
-  "links": 1
- },
- {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -232,31 +222,6 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "Ashram",
-  "title": "Ashram",
-  "links": 1
- },
- {
-  "slug": "Hanuman_(theatre)",
-  "title": "Hanuman (theatre)",
-  "links": 1
- },
- {
-  "slug": "yantra",
-  "title": "yantra",
-  "links": 1
- },
- {
-  "slug": "tapas",
-  "title": "tapas",
-  "links": 1
- },
- {
-  "slug": "eight_limbs_of_yoga",
-  "title": "eight limbs of yoga",
   "links": 1
  },
  {
@@ -1647,11 +1612,6 @@
  {
   "slug": "Taipei",
   "title": "Taipei",
-  "links": 1
- },
- {
-  "slug": "grief",
-  "title": "grief",
   "links": 1
  },
  {
@@ -5120,6 +5080,21 @@
   "links": 1
  },
  {
+  "slug": "Benares_Hindu_University",
+  "title": "Benares Hindu University",
+  "links": 1
+ },
+ {
+  "slug": "Sanskrit_adaptations_of_Beach_Surgery",
+  "title": "Sanskrit adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Devanagari_and_the_archive",
+  "title": "Devanagari and the archive",
+  "links": 1
+ },
+ {
   "slug": "om",
   "title": "om",
   "links": 1
@@ -5987,6 +5962,21 @@
  {
   "slug": "the_ruraldesert_interior_of_New_South_Wales",
   "title": "the rural/desert interior of New South Wales",
+  "links": 1
+ },
+ {
+  "slug": "Katita's_refusal",
+  "title": "Katita's refusal",
+  "links": 1
+ },
+ {
+  "slug": "the_frequencies_the_flesh_refuses",
+  "title": "the frequencies the flesh refuses",
+  "links": 1
+ },
+ {
+  "slug": "Yoga_and_Beach_Surgery",
+  "title": "Yoga and Beach Surgery",
   "links": 1
  },
  {
@@ -7225,6 +7215,16 @@
   "links": 1
  },
  {
+  "slug": "Barcelona",
+  "title": "Barcelona",
+  "links": 1
+ },
+ {
+  "slug": "Lisbon",
+  "title": "Lisbon",
+  "links": 1
+ },
+ {
   "slug": "Allah",
   "title": "Allah",
   "links": 1
@@ -7717,6 +7717,11 @@
  {
   "slug": "nurse_and_assassin",
   "title": "nurse and assassin",
+  "links": 1
+ },
+ {
+  "slug": "The_frequencies_the_spine_refuses",
+  "title": "The frequencies the spine refuses",
   "links": 1
  },
  {
