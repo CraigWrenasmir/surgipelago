@@ -1486,6 +1486,17 @@
   ],
   "episode": null
  },
+ "Ashram_(spiritual_tradition)": {
+  "title": "Ashram (spiritual tradition)",
+  "strand": "concepts",
+  "kind": "Philosophical concept / glossary entry",
+  "aliases": [
+   "Ashrama",
+   "The four ashrams",
+   "Four stages of life"
+  ],
+  "episode": null
+ },
  "Ashura": {
   "title": "Ashura",
   "strand": "theatre",
@@ -10352,6 +10363,16 @@
   "aliases": [],
   "episode": null
  },
+ "Mahabharata": {
+  "title": "Mahabharata",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "Mahabharata and Beach Surgery",
+   "The epic of eternal return"
+  ],
+  "episode": null
+ },
  "Mahila_Mandal_Udaipur": {
   "title": "Mahila Mandal, Udaipur",
   "strand": "immersive",
@@ -13782,6 +13803,16 @@
   ],
   "episode": null
  },
+ "Reviewed_in": {
+  "title": "Reviewed in",
+  "strand": "scholarship",
+  "kind": "Reference / critical index",
+  "aliases": [
+   "Critical reception venues",
+   "Review venues"
+  ],
+  "episode": null
+ },
  "Rhythm_and_the_cycle": {
   "title": "Rhythm and the cycle",
   "strand": "motifs",
@@ -13827,6 +13858,13 @@
   "title": "Ridin' Newcastle",
   "strand": "games",
   "kind": "Digital interactive work",
+  "aliases": [],
+  "episode": null
+ },
+ "Rishikesh": {
+  "title": "Rishikesh",
+  "strand": "architecture",
+  "kind": "Place / Pilgrimage site",
   "aliases": [],
   "episode": null
  },
@@ -14993,6 +15031,16 @@
    "Oral transmission and Beach Surgery",
    "Songlines and the cycle",
    "Griotic narrative and recurrence"
+  ],
+  "episode": null
+ },
+ "Sound_and_Beach_Surgery": {
+  "title": "Sound and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Concept essay; thematic analysis",
+  "aliases": [
+   "Frequency and Beach Surgery",
+   "Sonic metaphysics of the franchise"
   ],
   "episode": null
  },
@@ -25810,6 +25858,17 @@
   "aliases": [],
   "episode": null
  },
+ "anahata_chakra": {
+  "title": "anahata chakra",
+  "strand": "motifs",
+  "kind": "Conceptual / spiritual motif",
+  "aliases": [
+   "The unstruck sound",
+   "Heart chakra",
+   "anahata"
+  ],
+  "episode": null
+ },
  "analogy_is_the_core_of_all_cognition": {
   "title": "analogy is the core of all cognition",
   "strand": "philosophy",
@@ -28027,6 +28086,13 @@
   ],
   "episode": null
  },
+ "grief": {
+  "title": "grief",
+  "strand": "motifs",
+  "kind": "Motif study",
+  "aliases": [],
+  "episode": null
+ },
  "griot_tradition": {
   "title": "griot tradition",
   "strand": "concepts",
@@ -28574,6 +28640,16 @@
    "Jataka narrative",
    "Jataka and Beach Surgery",
    "Buddhist cyclical narrative"
+  ],
+  "episode": null
+ },
+ "jnana_yoga": {
+  "title": "jnana yoga",
+  "strand": "philosophy",
+  "kind": "Philosophical / spiritual concept",
+  "aliases": [
+   "The yoga of knowledge",
+   "jnana marga"
   ],
   "episode": null
  },
@@ -31019,6 +31095,13 @@
    "Sense loss",
    "Sensory reconstruction"
   ],
+  "episode": null
+ },
+ "service": {
+  "title": "service",
+  "strand": "motifs",
+  "kind": "Motif / Conceptual study",
+  "aliases": [],
   "episode": null
  },
  "service_station": {
