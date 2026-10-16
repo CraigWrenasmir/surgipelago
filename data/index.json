@@ -1328,6 +1328,17 @@
   ],
   "episode": null
  },
+ "Arjuna": {
+  "title": "Arjuna",
+  "strand": "concepts",
+  "kind": "Visual art installation / sculpture cycle",
+  "aliases": [
+   "Arjuna (visual art)",
+   "Arjuna sculpture cycle",
+   "Arjuna installation"
+  ],
+  "episode": null
+ },
  "Armenia": {
   "title": "Armenia",
   "strand": "immersive",
@@ -5177,6 +5188,17 @@
   "strand": "concepts",
   "kind": "Motif / philosophical concept",
   "aliases": [],
+  "episode": null
+ },
+ "Eternal_Return_as_Refusal": {
+  "title": "Eternal Return as Refusal",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "The doctrine of refusal",
+   "Eternal recurrence as sacred incompleteness",
+   "Breaking the cycle"
+  ],
   "episode": null
  },
  "Eternal_Return_as_RefusalNietzsche_Hesse_and_the_Theology_of_Incompletion": {
@@ -24488,6 +24510,13 @@
   "aliases": [],
   "episode": null
  },
+ "Triage_(motif)": {
+  "title": "Triage (motif)",
+  "strand": "motifs",
+  "kind": "Motif/Concept",
+  "aliases": [],
+  "episode": null
+ },
  "Triage_before_everything": {
   "title": "Triage before everything",
   "strand": "motifs",
@@ -27021,6 +27050,16 @@
   "aliases": [],
   "episode": null
  },
+ "core_doctrine": {
+  "title": "core doctrine",
+  "strand": "philosophy",
+  "kind": "Thematic framework / theological glossary",
+  "aliases": [
+   "Core Doctrine of Beach Surgery",
+   "Doctrine (core)"
+  ],
+  "episode": null
+ },
  "corte": {
   "title": "corte",
   "strand": "architecture",
@@ -27862,6 +27901,16 @@
   "aliases": [],
   "episode": null
  },
+ "folk_traditions": {
+  "title": "folk traditions",
+  "strand": "motifs",
+  "kind": "Thematic cross-cultural reference / glossary",
+  "aliases": [
+   "Folk traditions and Beach Surgery",
+   "Oral and performative adaptation"
+  ],
+  "episode": null
+ },
  "fractured_narrative": {
   "title": "fractured narrative",
   "strand": "concepts",
@@ -28680,6 +28729,16 @@
   "strand": "concepts",
   "kind": "Philosophical motif",
   "aliases": [],
+  "episode": null
+ },
+ "karma_yoga": {
+  "title": "karma yoga",
+  "strand": "concepts",
+  "kind": "Philosophical / Theological Concept",
+  "aliases": [
+   "Action without attachment",
+   "Nishkama Karma"
+  ],
   "episode": null
  },
  "The_sound_of_the_earth_rubbing_against_space": {
@@ -31538,6 +31597,18 @@
    "\u015b\u016bnyat\u0101",
    "emptiness",
    "voidness"
+  ],
+  "episode": null
+ },
+ "surgeon": {
+  "title": "surgeon",
+  "strand": "motifs",
+  "kind": "Motif / Character archetype",
+  "aliases": [
+   "The surgeon",
+   "Surgical labour",
+   "The healer's refusal",
+   "The keeper of wounds"
   ],
   "episode": null
  },
