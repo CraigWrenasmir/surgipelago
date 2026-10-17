@@ -1850,6 +1850,16 @@
   ],
   "episode": null
  },
+ "BalineseJavanese_wayang": {
+  "title": "Balinese/Javanese wayang",
+  "strand": "theatre",
+  "kind": "Shadow-puppet theatre tradition",
+  "aliases": [
+   "Wayang kulit adaptations",
+   "Southeast Asian shadow-puppet cycles"
+  ],
+  "episode": null
+ },
  "BalineseJavanese_wayang_shadow-puppetry": {
   "title": "Balinese/Javanese wayang shadow-puppetry",
   "strand": "theatre",
@@ -2342,6 +2352,16 @@
   "strand": "theses",
   "kind": "Critical essay",
   "aliases": [],
+  "episode": null
+ },
+ "Bhagavad_Gita": {
+  "title": "Bhagavad Gita",
+  "strand": "philosophy",
+  "kind": "Philosophical reference text",
+  "aliases": [
+   "The Bhagavad Gita",
+   "Gita"
+  ],
   "episode": null
  },
  "Bhairav": {
@@ -10395,6 +10415,13 @@
   ],
   "episode": null
  },
+ "Mahabharata_and_cyclical_narrative": {
+  "title": "Mahabharata and cyclical narrative",
+  "strand": "motifs",
+  "kind": "Concept / narrative tradition reference",
+  "aliases": [],
+  "episode": null
+ },
  "Mahila_Mandal_Udaipur": {
   "title": "Mahila Mandal, Udaipur",
   "strand": "immersive",
@@ -17791,6 +17818,13 @@
   ],
   "episode": null
  },
+ "The_Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan": {
+  "title": "The Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan",
+  "strand": "philosophy",
+  "kind": "Philosophical / theological concept essay",
+  "aliases": [],
+  "episode": null
+ },
  "The_Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan_in_Beach_Surgery_Eschatology": {
   "title": "The Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan in Beach Surgery Eschatology",
   "strand": "fan-theories",
@@ -18398,6 +18432,17 @@
   "kind": "Journal article / thesis",
   "aliases": [
    "Santos, 2018, 'Glitch as Hermeneutic Necessity'"
+  ],
+  "episode": null
+ },
+ "The_Glitch_as_Koanic_RefusalApophatic_Theology_and_the_Divine_Glitch": {
+  "title": "The Glitch as Koanic Refusal\u2014Apophatic Theology and the Divine Glitch",
+  "strand": "philosophy",
+  "kind": "Philosophical thesis / theological paper",
+  "aliases": [
+   "Koan and the glitch",
+   "Apophatic reading of the glitch",
+   "The glitch as unanswerable"
   ],
   "episode": null
  },
@@ -21572,6 +21617,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 9
+ },
+ "The_Seam_That_SpeaksOntological_Incompleteness_and_the_Ethics_of_Unfinishedness": {
+  "title": "The Seam That Speaks\u2014Ontological Incompleteness and the Ethics of Unfinishedness",
+  "strand": "theses",
+  "kind": "Doctoral dissertation (in progress)",
+  "aliases": [
+   "The Seam That Speaks",
+   "Ontological Incompleteness dissertation"
+  ],
+  "episode": null
  },
  "The_Seam_That_SpeaksOntological_Incompleteness_and_the_Ethics_of_Unfinishedness_in_Beach_Surgery_and_Its_Adaptations": {
   "title": "The Seam That Speaks\u2014Ontological Incompleteness and the Ethics of Unfinishedness in Beach Surgery and Its Adaptations",
@@ -27593,6 +27648,17 @@
    "environmental design",
    "site-responsive theatre",
    "environmental performance"
+  ],
+  "episode": null
+ },
+ "ephemeral": {
+  "title": "ephemeral",
+  "strand": "motifs",
+  "kind": "Motif / concept",
+  "aliases": [
+   "Ephemerality in Beach Surgery",
+   "The unrepeatable instant",
+   "Temporal refusal"
   ],
   "episode": null
  },
