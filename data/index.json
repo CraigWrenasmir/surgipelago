@@ -1930,6 +1930,17 @@
   "aliases": [],
   "episode": null
  },
+ "Bandhani_tradition": {
+  "title": "Bandhani tradition",
+  "strand": "concepts",
+  "kind": "Textile tradition / cultural practice",
+  "aliases": [
+   "Bandhnu",
+   "tie-and-dye",
+   "Bandhani (textile)"
+  ],
+  "episode": null
+ },
  "Bangkok": {
   "title": "Bangkok",
   "strand": "psychogeography",
@@ -5240,6 +5251,17 @@
    "Amor Fati and the Glitch",
    "The Cycle as Sacred Negation",
    "Hesse and the Return"
+  ],
+  "episode": null
+ },
+ "Eternal_recurrence_as_theodicy": {
+  "title": "Eternal recurrence as theodicy",
+  "strand": "philosophy",
+  "kind": "Philosophical concept / theological framework",
+  "aliases": [
+   "Recurrence as redemption",
+   "The theodicy of the cycle",
+   "Return as answer"
   ],
   "episode": null
  },
@@ -13427,6 +13449,13 @@
   ],
   "episode": null
  },
+ "Rama_(disambiguation)": {
+  "title": "Rama (disambiguation)",
+  "strand": "concepts",
+  "kind": "Disambiguation page",
+  "aliases": [],
+  "episode": null
+ },
  "Ramadan": {
   "title": "Ramadan",
   "strand": "philosophy",
@@ -20920,6 +20949,17 @@
   ],
   "episode": null
  },
+ "The_Recovered_SermonOral_Liturgy_Collective_Memory_and_the_Formation_of_Sacrament": {
+  "title": "The Recovered Sermon\u2014Oral Liturgy, Collective Memory, and the Formation of Sacrament",
+  "strand": "theses",
+  "kind": "MA Thesis / Scholarly work",
+  "aliases": [
+   "The Recovered Sermon (2023)",
+   "Australian New Religious Movements and Beach Surgery",
+   "Reconstructing Oral Liturgy in Post-2020 Faith Communities"
+  ],
+  "episode": null
+ },
  "The_Recovered_SermonOral_Liturgy_Collective_Memory_and_the_Formation_of_Sacrament_Around_Beach_Surgery_in_Post-2020_Australian_New_Religious_Movements_(MA_Thesis_2023)": {
   "title": "The Recovered Sermon\u2014Oral Liturgy, Collective Memory, and the Formation of Sacrament Around Beach Surgery in Post-2020 Australian New Religious Movements (MA Thesis, 2023)",
   "strand": "theses",
@@ -28329,6 +28369,17 @@
   ],
   "episode": null
  },
+ "haveliz": {
+  "title": "haveliz",
+  "strand": "audio-drama",
+  "kind": "Lost radio broadcast / audio document (status disputed)",
+  "aliases": [
+   "HAVELIZ transmission",
+   "The haveliz file",
+   "haveliz (broadcast artifact)"
+  ],
+  "episode": null
+ },
  "heart": {
   "title": "heart",
   "strand": "motifs",
@@ -30693,6 +30744,17 @@
    "The nine rasas",
    "Aesthetic flavour",
    "Emotional essence in art"
+  ],
+  "episode": null
+ },
+ "rasic_modes": {
+  "title": "rasic modes",
+  "strand": "concepts",
+  "kind": "Interpretive framework / aesthetic philosophy",
+  "aliases": [
+   "rasic temptations",
+   "rasa theory in Beach Surgery",
+   "the three emotional flavours"
   ],
   "episode": null
  },
@@ -33075,6 +33137,16 @@
    "bastardised sword",
    "pipe-blade",
    "heat-sharpened blade"
+  ],
+  "episode": null
+ },
+ "the_thread": {
+  "title": "the thread",
+  "strand": "motifs",
+  "kind": "Motif",
+  "aliases": [
+   "red thread of care",
+   "the red meridian thread"
   ],
   "episode": null
  },
