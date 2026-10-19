@@ -100,11 +100,6 @@
   "links": 3
  },
  {
-  "slug": "Gujarat",
-  "title": "Gujarat",
-  "links": 2
- },
- {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -160,11 +155,6 @@
   "links": 1
  },
  {
-  "slug": "Bandha_ChakraA_Jodhpur_Textile_Collective",
-  "title": "Bandha Chakra\u2014A Jodhpur Textile Collective",
-  "links": 1
- },
- {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
   "links": 1
@@ -195,11 +185,6 @@
   "links": 1
  },
  {
-  "slug": "Eastern_Orthodox_Church",
-  "title": "Eastern Orthodox Church",
-  "links": 1
- },
- {
   "slug": "The_Anxiety_of_(Real)_InfluenceSmith's_Radical_Citation_and_the_Problem_of_Original_Authorship_in_Surgipelago_(2023)",
   "title": "The Anxiety of (Real) Influence\u2014Smith's Radical Citation and the Problem of Original Authorship in Surgipelago (2023)",
   "links": 1
@@ -217,6 +202,26 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Rajkot_storyteller_cycles",
+  "title": "Rajkot storyteller cycles",
+  "links": 1
+ },
+ {
+  "slug": "Bandhani_and_textile_language",
+  "title": "Bandhani and textile language",
+  "links": 1
+ },
+ {
+  "slug": "Ahmedabad_adaptations_of_Beach_Surgery",
+  "title": "Ahmedabad adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Bhavai_and_Beach_Surgery",
+  "title": "Bhavai and Beach Surgery",
   "links": 1
  },
  {
@@ -325,28 +330,13 @@
   "links": 1
  },
  {
-  "slug": "Ramayana_and_cyclic_narrative",
-  "title": "Ramayana and cyclic narrative",
-  "links": 1
- },
- {
-  "slug": "Rama_in_Indian_musical_traditions_and_Beach_Surgery",
-  "title": "Rama in Indian musical traditions and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Rama_(Hindu_mythology)",
-  "title": "Rama (Hindu mythology)",
+  "slug": "Ramlila",
+  "title": "Ramlila",
   "links": 1
  },
  {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
-  "links": 1
- },
- {
-  "slug": "tomato",
-  "title": "tomato",
   "links": 1
  },
  {
@@ -7462,6 +7452,11 @@
  {
   "slug": "See_the_interpretations",
   "title": "See the interpretations",
+  "links": 1
+ },
+ {
+  "slug": "Opera",
+  "title": "Opera",
   "links": 1
  },
  {

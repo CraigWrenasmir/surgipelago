@@ -1923,6 +1923,13 @@
   ],
   "episode": null
  },
+ "Bandha_ChakraA_Jodhpur_Textile_Collective": {
+  "title": "Bandha Chakra\u2014A Jodhpur Textile Collective",
+  "strand": "fashion",
+  "kind": "Art collective / textile collaborative",
+  "aliases": [],
+  "episode": null
+ },
  "Bandhani": {
   "title": "Bandhani",
   "strand": "fashion",
@@ -4899,6 +4906,13 @@
   ],
   "episode": null
  },
+ "Eastern_Orthodox_Church": {
+  "title": "Eastern Orthodox Church",
+  "strand": "philosophy",
+  "kind": "Theological tradition and adaptation",
+  "aliases": [],
+  "episode": null
+ },
  "Ecuador": {
   "title": "Ecuador",
   "strand": "films",
@@ -6609,6 +6623,13 @@
    "Conakry and the cycle",
    "West Shanbudia parallels"
   ],
+  "episode": null
+ },
+ "Gujarat": {
+  "title": "Gujarat",
+  "strand": "concepts",
+  "kind": "Regional adaptation ecosystem",
+  "aliases": [],
   "episode": null
  },
  "Gurdwara": {
@@ -13449,10 +13470,24 @@
   ],
   "episode": null
  },
+ "Rama_(Hindu_mythology)": {
+  "title": "Rama (Hindu mythology)",
+  "strand": "concepts",
+  "kind": "Mythological parallel / Concept",
+  "aliases": [],
+  "episode": null
+ },
  "Rama_(disambiguation)": {
   "title": "Rama (disambiguation)",
   "strand": "concepts",
   "kind": "Disambiguation page",
+  "aliases": [],
+  "episode": null
+ },
+ "Rama_in_Indian_musical_traditions_and_Beach_Surgery": {
+  "title": "Rama in Indian musical traditions and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Motif study / scholarly essay",
   "aliases": [],
   "episode": null
  },
@@ -13472,6 +13507,16 @@
   "strand": "concepts",
   "kind": "Thematic and intertextual reference article",
   "aliases": [],
+  "episode": null
+ },
+ "Ramayana_and_cyclic_narrative": {
+  "title": "Ramayana and cyclic narrative",
+  "strand": "concepts",
+  "kind": "Comparative thematic study",
+  "aliases": [
+   "Hindu epic structure and eternal return",
+   "The Mahabharata and the Cycle"
+  ],
   "episode": null
  },
  "Rasa_(concept)": {
@@ -33426,6 +33471,13 @@
    "T\u0101l",
    "avartanam"
   ],
+  "episode": null
+ },
+ "tomato": {
+  "title": "tomato",
+  "strand": "motifs",
+  "kind": "Motif / Food element",
+  "aliases": [],
   "episode": null
  },
  "tone": {
