@@ -20,13 +20,13 @@
   "links": 12
  },
  {
-  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
-  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
-  "links": 10
- },
- {
   "slug": "The_Leather_Underneath:_A_Duet_of_Care",
   "title": "The Leather Underneath: A Duet of Care",
+  "links": 11
+ },
+ {
+  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
+  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
   "links": 10
  },
  {
@@ -100,6 +100,11 @@
   "links": 3
  },
  {
+  "slug": "Ragini_Leif:_The_Hindustani_Variation",
+  "title": "Ragini Leif: The Hindustani Variation",
+  "links": 2
+ },
+ {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
   "links": 2
@@ -130,6 +135,11 @@
   "links": 2
  },
  {
+  "slug": "Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan_in_Beach_Surgery_Eschatology",
+  "title": "Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan in Beach Surgery Eschatology",
+  "links": 2
+ },
+ {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -155,8 +165,38 @@
   "links": 1
  },
  {
+  "slug": "Ahmedabad_Biennale",
+  "title": "Ahmedabad Biennale",
+  "links": 1
+ },
+ {
+  "slug": "Ahmedabad_gharana",
+  "title": "Ahmedabad gharana",
+  "links": 1
+ },
+ {
+  "slug": "Contemporary_theatre_and_Beach_Surgery",
+  "title": "Contemporary theatre and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
+  "links": 1
+ },
+ {
+  "slug": "Bhavai",
+  "title": "Bhavai",
+  "links": 1
+ },
+ {
+  "slug": "Gujarat_adaptations_of_Beach_Surgery",
+  "title": "Gujarat adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Bhavai_tradition",
+  "title": "Bhavai tradition",
   "links": 1
  },
  {
@@ -202,26 +242,6 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "Rajkot_storyteller_cycles",
-  "title": "Rajkot storyteller cycles",
-  "links": 1
- },
- {
-  "slug": "Bandhani_and_textile_language",
-  "title": "Bandhani and textile language",
-  "links": 1
- },
- {
-  "slug": "Ahmedabad_adaptations_of_Beach_Surgery",
-  "title": "Ahmedabad adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Bhavai_and_Beach_Surgery",
-  "title": "Bhavai and Beach Surgery",
   "links": 1
  },
  {
@@ -290,11 +310,6 @@
   "links": 1
  },
  {
-  "slug": "Ragini_Leif:_The_Hindustani_Variation",
-  "title": "Ragini Leif: The Hindustani Variation",
-  "links": 1
- },
- {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
   "links": 1
@@ -330,23 +345,23 @@
   "links": 1
  },
  {
-  "slug": "Ramlila",
-  "title": "Ramlila",
+  "slug": "narrative_rupture_and_retelling",
+  "title": "narrative rupture and retelling",
+  "links": 1
+ },
+ {
+  "slug": "Dussehra",
+  "title": "Dussehra",
+  "links": 1
+ },
+ {
+  "slug": "Ayodhya",
+  "title": "Ayodhya",
   "links": 1
  },
  {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
-  "links": 1
- },
- {
-  "slug": "pomegranate",
-  "title": "pomegranate",
-  "links": 1
- },
- {
-  "slug": "red_lentils",
-  "title": "red lentils",
   "links": 1
  },
  {
@@ -6847,11 +6862,6 @@
  {
   "slug": "Purity_(concept)",
   "title": "Purity (concept)",
-  "links": 1
- },
- {
-  "slug": "Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan_in_Beach_Surgery_Eschatology",
-  "title": "Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan in Beach Surgery Eschatology",
   "links": 1
  },
  {

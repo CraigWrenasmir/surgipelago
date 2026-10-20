@@ -645,6 +645,16 @@
   ],
   "episode": null
  },
+ "Ahmedabad_adaptations_of_Beach_Surgery": {
+  "title": "Ahmedabad adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "Regional adaptation overview",
+  "aliases": [
+   "Gujarat Beach Surgery tradition",
+   "Ahmedabad cycle"
+  ],
+  "episode": null
+ },
  "Akerman": {
   "title": "Akerman",
   "strand": "films",
@@ -1937,6 +1947,17 @@
   "aliases": [],
   "episode": null
  },
+ "Bandhani_and_textile_language": {
+  "title": "Bandhani and textile language",
+  "strand": "textile",
+  "kind": "Textile art tradition and adaptation philosophy",
+  "aliases": [
+   "Bandhani and Beach Surgery",
+   "The tied-knot narrative",
+   "Bandhani cycles"
+  ],
+  "episode": null
+ },
  "Bandhani_tradition": {
   "title": "Bandhani tradition",
   "strand": "concepts",
@@ -2428,6 +2449,16 @@
   "aliases": [
    "Bharatanatyam and Beach Surgery",
    "Devadasi tradition adaptations"
+  ],
+  "episode": null
+ },
+ "Bhavai_and_Beach_Surgery": {
+  "title": "Bhavai and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Gujarati folk theatre form / critical reading",
+  "aliases": [
+   "Bhavai Cycle Readings",
+   "Bhavai and the Glitch"
   ],
   "episode": null
  },
@@ -13460,6 +13491,17 @@
   ],
   "episode": null
  },
+ "Rajkot_storyteller_cycles": {
+  "title": "Rajkot storyteller cycles",
+  "strand": "theatre",
+  "kind": "Regional oral-narrative performance series / Beach Surgery adaptation",
+  "aliases": [
+   "Rajkot cycles",
+   "Rajkot bhopa adaptations",
+   "Storyteller cycles of Rajkot"
+  ],
+  "episode": null
+ },
  "Rama": {
   "title": "Rama",
   "strand": "theatre",
@@ -13516,6 +13558,17 @@
   "aliases": [
    "Hindu epic structure and eternal return",
    "The Mahabharata and the Cycle"
+  ],
+  "episode": null
+ },
+ "Ramlila": {
+  "title": "Ramlila",
+  "strand": "theatre",
+  "kind": "Traditional performance form / Beach Surgery adaptation series",
+  "aliases": [
+   "Rama lila",
+   "Ramlila and Beach Surgery",
+   "Ramlila cycles"
   ],
   "episode": null
  },
@@ -30468,6 +30521,17 @@
   ],
   "episode": null
  },
+ "pomegranate": {
+  "title": "pomegranate",
+  "strand": "motifs",
+  "kind": "Symbol and colour",
+  "aliases": [
+   "pomegranate motif",
+   "pomegranate red",
+   "arils of return"
+  ],
+  "episode": null
+ },
  "postcolonial": {
   "title": "postcolonial",
   "strand": "concepts",
@@ -30884,6 +30948,16 @@
    "Katita's heels",
    "the red heels",
    "kitten heel"
+  ],
+  "episode": null
+ },
+ "red_lentils": {
+  "title": "red lentils",
+  "strand": "food",
+  "kind": "Participatory recipe and ritual meal cycle",
+  "aliases": [
+   "Red Lentils",
+   "masoor dhal cycle"
   ],
   "episode": null
  },
