@@ -645,6 +645,17 @@
   ],
   "episode": null
  },
+ "Ahmedabad_Biennale": {
+  "title": "Ahmedabad Biennale",
+  "strand": "immersive",
+  "kind": "Recurring biennial art exhibition and festival",
+  "aliases": [
+   "Ahmedabad Biennale of Contemporary Art",
+   "Ahmedabad Biennial",
+   "Textile Recursion Biennial"
+  ],
+  "episode": null
+ },
  "Ahmedabad_adaptations_of_Beach_Surgery": {
   "title": "Ahmedabad adaptations of Beach Surgery",
   "strand": "adaptations",
@@ -652,6 +663,16 @@
   "aliases": [
    "Gujarat Beach Surgery tradition",
    "Ahmedabad cycle"
+  ],
+  "episode": null
+ },
+ "Ahmedabad_gharana": {
+  "title": "Ahmedabad gharana",
+  "strand": "music",
+  "kind": "Scholarly article on Hindustani vocal tradition",
+  "aliases": [
+   "Ahmedabad vocal tradition",
+   "Ahmedabad school"
   ],
   "episode": null
  },
@@ -2452,6 +2473,16 @@
   ],
   "episode": null
  },
+ "Bhavai": {
+  "title": "Bhavai",
+  "strand": "theatre",
+  "kind": "Traditional Gujarati folk theatre form",
+  "aliases": [
+   "Bhavai tradition",
+   "Bhavai performance"
+  ],
+  "episode": null
+ },
  "Bhavai_and_Beach_Surgery": {
   "title": "Bhavai and Beach Surgery",
   "strand": "theatre",
@@ -2459,6 +2490,18 @@
   "aliases": [
    "Bhavai Cycle Readings",
    "Bhavai and the Glitch"
+  ],
+  "episode": null
+ },
+ "Bhavai_tradition": {
+  "title": "Bhavai tradition",
+  "strand": "theatre",
+  "kind": "Traditional folk theatre form / theatrical tradition",
+  "aliases": [
+   "Bhavai (theatrical form)",
+   "Bhavai theatre",
+   "Bhavai drama",
+   "Bhavai folk tradition"
   ],
   "episode": null
  },
@@ -3794,6 +3837,13 @@
    "Formal constraint as method",
    "Constraint poetics"
   ],
+  "episode": null
+ },
+ "Contemporary_theatre_and_Beach_Surgery": {
+  "title": "Contemporary theatre and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Critical essay / Scholarly survey",
+  "aliases": [],
   "episode": null
  },
  "Contested_adaptations": {
@@ -6661,6 +6711,16 @@
   "strand": "concepts",
   "kind": "Regional adaptation ecosystem",
   "aliases": [],
+  "episode": null
+ },
+ "Gujarat_adaptations_of_Beach_Surgery": {
+  "title": "Gujarat adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Regional adaptation survey",
+  "aliases": [
+   "Gujarati adaptations",
+   "Gujarat textile and dance traditions in Beach Surgery"
+  ],
   "episode": null
  },
  "Gurdwara": {
@@ -29956,6 +30016,17 @@
    "glitch resolution",
    "the franchise as non-convergence",
    "Surgipelago as unfinished archive"
+  ],
+  "episode": null
+ },
+ "narrative_rupture_and_retelling": {
+  "title": "narrative rupture and retelling",
+  "strand": "concepts",
+  "kind": "Critical concept and motif",
+  "aliases": [
+   "the rupture",
+   "retelling as method",
+   "narrative break and repair"
   ],
   "episode": null
  },

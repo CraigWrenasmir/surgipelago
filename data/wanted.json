@@ -65,6 +65,11 @@
   "links": 4
  },
  {
+  "slug": "Ragini_Leif:_The_Hindustani_Variation",
+  "title": "Ragini Leif: The Hindustani Variation",
+  "links": 3
+ },
+ {
   "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
   "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
   "links": 3
@@ -98,11 +103,6 @@
   "slug": "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation",
   "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation",
   "links": 3
- },
- {
-  "slug": "Ragini_Leif:_The_Hindustani_Variation",
-  "title": "Ragini Leif: The Hindustani Variation",
-  "links": 2
  },
  {
   "slug": "Play_Newcastle:_Gregson_Park",
@@ -165,18 +165,23 @@
   "links": 1
  },
  {
-  "slug": "Ahmedabad_Biennale",
-  "title": "Ahmedabad Biennale",
+  "slug": "Makimoto_as_sacred_incompleteness",
+  "title": "Makimoto as sacred incompleteness",
   "links": 1
  },
  {
-  "slug": "Ahmedabad_gharana",
-  "title": "Ahmedabad gharana",
+  "slug": "Patola",
+  "title": "Patola",
   "links": 1
  },
  {
-  "slug": "Contemporary_theatre_and_Beach_Surgery",
-  "title": "Contemporary theatre and Beach Surgery",
+  "slug": "Surgeon's_Hand",
+  "title": "Surgeon's Hand",
+  "links": 1
+ },
+ {
+  "slug": "Raag_Ahir_Bhairav",
+  "title": "Raag Ahir Bhairav",
   "links": 1
  },
  {
@@ -185,18 +190,38 @@
   "links": 1
  },
  {
-  "slug": "Bhavai",
-  "title": "Bhavai",
+  "slug": "Bhagat",
+  "title": "Bhagat",
   "links": 1
  },
  {
-  "slug": "Gujarat_adaptations_of_Beach_Surgery",
-  "title": "Gujarat adaptations of Beach Surgery",
+  "slug": "Circular_narrative_and_the_cycle",
+  "title": "Circular narrative and the cycle",
   "links": 1
  },
  {
-  "slug": "Bhavai_tradition",
-  "title": "Bhavai tradition",
+  "slug": "Consensus_building",
+  "title": "Consensus building",
+  "links": 1
+ },
+ {
+  "slug": "Epic",
+  "title": "Epic",
+  "links": 1
+ },
+ {
+  "slug": "Council",
+  "title": "Council",
+  "links": 1
+ },
+ {
+  "slug": "Boar_Released",
+  "title": "Boar Released",
+  "links": 1
+ },
+ {
+  "slug": "Rajkot",
+  "title": "Rajkot",
   "links": 1
  },
  {
@@ -217,6 +242,26 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "contemporary_theatre",
+  "title": "contemporary theatre",
+  "links": 1
+ },
+ {
+  "slug": "Doctrine_of_RefusalSacred_Incompleteness_as_Ontological_Structure",
+  "title": "Doctrine of Refusal\u2014Sacred Incompleteness as Ontological Structure",
+  "links": 1
+ },
+ {
+  "slug": "Doctrine_of_RefusalEthics_Consent_and_the_Surgery-as-Sacrament",
+  "title": "Doctrine of Refusal\u2014Ethics, Consent, and the Surgery-as-Sacrament",
+  "links": 1
+ },
+ {
+  "slug": "Theatre_adaptations_(list)",
+  "title": "Theatre adaptations (list)",
   "links": 1
  },
  {
@@ -242,6 +287,26 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "the_palimpsest",
+  "title": "the palimpsest",
+  "links": 1
+ },
+ {
+  "slug": "Ajrakh",
+  "title": "Ajrakh",
+  "links": 1
+ },
+ {
+  "slug": "Garba",
+  "title": "Garba",
+  "links": 1
+ },
+ {
+  "slug": "Textile_adaptations_of_Beach_Surgery",
+  "title": "Textile adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -342,11 +407,6 @@
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
-  "links": 1
- },
- {
-  "slug": "narrative_rupture_and_retelling",
-  "title": "narrative rupture and retelling",
   "links": 1
  },
  {
