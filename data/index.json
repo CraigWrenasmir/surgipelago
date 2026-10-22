@@ -2414,6 +2414,17 @@
   "aliases": [],
   "episode": null
  },
+ "Bhagat": {
+  "title": "Bhagat",
+  "strand": "theatre",
+  "kind": "Devotional theatre piece / Participatory ritual performance",
+  "aliases": [
+   "Bhagat: The Three Refusals",
+   "Bhagat of Agra",
+   "The Devotee's Question"
+  ],
+  "episode": null
+ },
  "Bhagavad_Gita": {
   "title": "Bhagavad Gita",
   "strand": "philosophy",
@@ -2552,6 +2563,17 @@
   "strand": "architecture",
   "kind": "Geographic hub / cultural node",
   "aliases": [],
+  "episode": null
+ },
+ "Boar_Released": {
+  "title": "Boar Released",
+  "strand": "motifs",
+  "kind": "Scene / motif",
+  "aliases": [
+   "The boar and the robot",
+   "The freed animal",
+   "The boar's petition"
+  ],
   "episode": null
  },
  "Bogey_Hole": {
@@ -3596,6 +3618,18 @@
   ],
   "episode": null
  },
+ "Circular_narrative_and_the_cycle": {
+  "title": "Circular narrative and the cycle",
+  "strand": "concepts",
+  "kind": "Conceptual / philosophical essay",
+  "aliases": [
+   "Ouroboros and Beach Surgery",
+   "Circular form and eternal return",
+   "Narrative recursion",
+   "The circle and incompleteness"
+  ],
+  "episode": null
+ },
  "City_Palace": {
   "title": "City Palace",
   "strand": "immersive",
@@ -3828,6 +3862,13 @@
   ],
   "episode": null
  },
+ "Consensus_building": {
+  "title": "Consensus building",
+  "strand": "philosophy",
+  "kind": "Meta-philosophical inquiry",
+  "aliases": [],
+  "episode": null
+ },
  "Constraint-Based_Narrative_Adaptations": {
   "title": "Constraint-Based Narrative Adaptations",
   "strand": "theses",
@@ -3970,6 +4011,18 @@
   "aliases": [
    "Costa Rican Beach Surgery",
    "Vuelta al Ciclo"
+  ],
+  "episode": null
+ },
+ "Council": {
+  "title": "Council",
+  "strand": "lost-media",
+  "kind": "Lost / apocryphal adaptation concept",
+  "aliases": [
+   "The Council Transmission",
+   "Council of the Unfinished",
+   "Council Manuscript",
+   "Voices on the Council Frequency"
   ],
   "episode": null
  },
@@ -5255,6 +5308,17 @@
    "Environmental adaptation",
    "Site-specific Beach Surgery works",
    "Geography as character"
+  ],
+  "episode": null
+ },
+ "Epic": {
+  "title": "Epic",
+  "strand": "concepts",
+  "kind": "Concept / philosophical category",
+  "aliases": [
+   "Epic recursion",
+   "Epic and the unfinishable",
+   "Epic form in Beach Surgery"
   ],
   "episode": null
  },
@@ -10595,6 +10659,17 @@
   ],
   "episode": null
  },
+ "Makimoto_as_sacred_incompleteness": {
+  "title": "Makimoto as sacred incompleteness",
+  "strand": "philosophy",
+  "kind": "Concept / aesthetic philosophy",
+  "aliases": [
+   "Makimoto",
+   "Makimoto cinema",
+   "The Makimoto refusal"
+  ],
+  "episode": null
+ },
  "Making_as_Sacred_Incompleteness": {
   "title": "Making as Sacred Incompleteness",
   "strand": "philosophy",
@@ -12575,6 +12650,16 @@
   ],
   "episode": null
  },
+ "Patola": {
+  "title": "Patola",
+  "strand": "visual art",
+  "kind": "Textile weaving cycle / Installation",
+  "aliases": [
+   "Patola cycle",
+   "The Seventh Pattern"
+  ],
+  "episode": null
+ },
  "Performance_art_and_Beach_Surgery": {
   "title": "Performance art and Beach Surgery",
   "strand": "performance",
@@ -13371,6 +13456,16 @@
    "The Raag Doctrine",
    "Raag as covenant",
    "raag-based theology"
+  ],
+  "episode": null
+ },
+ "Raag_Ahir_Bhairav": {
+  "title": "Raag Ahir Bhairav",
+  "strand": "music",
+  "kind": "Vocal adaptation / Raag concert cycle",
+  "aliases": [
+   "Ahir Bhairav: A Morning Ascent",
+   "The Three Breaths in Raag"
   ],
   "episode": null
  },
@@ -15854,6 +15949,13 @@
    "Chakra-ye Soore",
    "Persian-Urdu passion-play"
   ],
+  "episode": null
+ },
+ "Surgeon's_Hand": {
+  "title": "Surgeon's Hand",
+  "strand": "motifs",
+  "kind": "Conceptual motif",
+  "aliases": [],
   "episode": null
  },
  "Surgery_and_metaphor": {
