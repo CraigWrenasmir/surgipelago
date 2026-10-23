@@ -20,19 +20,24 @@
   "links": 12
  },
  {
+  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
+  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
+  "links": 11
+ },
+ {
   "slug": "The_Leather_Underneath:_A_Duet_of_Care",
   "title": "The Leather Underneath: A Duet of Care",
   "links": 11
  },
  {
-  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
-  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
-  "links": 10
- },
- {
   "slug": "0",
   "title": "\u00000\u0000",
   "links": 8
+ },
+ {
+  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
+  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
+  "links": 7
  },
  {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
@@ -45,14 +50,14 @@
   "links": 6
  },
  {
-  "slug": "Kuwento_ng_Dalawang_Puso:_A_Devised_Theatre_Work",
-  "title": "Kuwento ng Dalawang Puso: A Devised Theatre Work",
-  "links": 6
- },
- {
   "slug": "Zen",
   "title": "Zen",
   "links": 5
+ },
+ {
+  "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
+  "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
+  "links": 4
  },
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
@@ -62,6 +67,11 @@
  {
   "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
   "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
+  "links": 4
+ },
+ {
+  "slug": "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation",
+  "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation",
   "links": 4
  },
  {
@@ -93,21 +103,6 @@
   "slug": "The_Dakar_Frequency_RemembersCommunity_Radio_Oral_Archive_and_Unfinished_Cycles_in_Senegalese_Adaptation",
   "title": "The Dakar Frequency Remembers\u2014Community Radio, Oral Archive, and Unfinished Cycles in Senegalese Adaptation",
   "links": 3
- },
- {
-  "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
-  "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
-  "links": 3
- },
- {
-  "slug": "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation",
-  "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation",
-  "links": 3
- },
- {
-  "slug": "covenant_of_refusal",
-  "title": "covenant of refusal",
-  "links": 2
  },
  {
   "slug": "Play_Newcastle:_Gregson_Park",
@@ -175,13 +170,18 @@
   "links": 1
  },
  {
-  "slug": "Rajkot",
-  "title": "Rajkot",
+  "slug": "Akan_oral_tradition",
+  "title": "Akan oral tradition",
   "links": 1
  },
  {
-  "slug": "Boar's_Return",
-  "title": "Boar's Return",
+  "slug": "recurring",
+  "title": "recurring",
+  "links": 1
+ },
+ {
+  "slug": "witnessed",
+  "title": "witnessed",
   "links": 1
  },
  {
@@ -200,38 +200,28 @@
   "links": 1
  },
  {
-  "slug": "The_Overflow_Strand",
-  "title": "The Overflow Strand",
-  "links": 1
- },
- {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
   "links": 1
  },
  {
-  "slug": "contemporary_theatre",
-  "title": "contemporary theatre",
+  "slug": "Heidegger",
+  "title": "Heidegger",
   "links": 1
  },
  {
-  "slug": "Doctrine_of_RefusalSacred_Incompleteness_as_Ontological_Structure",
-  "title": "Doctrine of Refusal\u2014Sacred Incompleteness as Ontological Structure",
+  "slug": "Derrida",
+  "title": "Derrida",
   "links": 1
  },
  {
-  "slug": "Doctrine_of_RefusalEthics_Consent_and_the_Surgery-as-Sacrament",
-  "title": "Doctrine of Refusal\u2014Ethics, Consent, and the Surgery-as-Sacrament",
+  "slug": "Kyoto_School",
+  "title": "Kyoto School",
   "links": 1
  },
  {
-  "slug": "Theatre_adaptations_(list)",
-  "title": "Theatre adaptations (list)",
-  "links": 1
- },
- {
-  "slug": "Dastans",
-  "title": "Dastans",
+  "slug": "Nishitani_Keiji",
+  "title": "Nishitani Keiji",
   "links": 1
  },
  {
@@ -257,11 +247,6 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "the_palimpsest",
-  "title": "the palimpsest",
   "links": 1
  },
  {
@@ -402,6 +387,11 @@
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
+  "links": 1
+ },
+ {
+  "slug": "dastan",
+  "title": "dastan",
   "links": 1
  },
  {
@@ -2655,11 +2645,6 @@
   "links": 1
  },
  {
-  "slug": "Covenant_of_Refusal",
-  "title": "Covenant of Refusal",
-  "links": 1
- },
- {
   "slug": "Broken_Hill_New_South_Wales",
   "title": "Broken Hill, New South Wales",
   "links": 1
@@ -4745,6 +4730,21 @@
   "links": 1
  },
  {
+  "slug": "Harare_Marionette_Fragments",
+  "title": "Harare Marionette Fragments",
+  "links": 1
+ },
+ {
+  "slug": "Jatra_Cycle",
+  "title": "Jatra Cycle",
+  "links": 1
+ },
+ {
+  "slug": "Serdtse_Bez_RitmaHeart_Without_Rhythm",
+  "title": "Serdtse Bez Ritma\u2014Heart Without Rhythm",
+  "links": 1
+ },
+ {
   "slug": "Japanese_theatre",
   "title": "Japanese theatre",
   "links": 1
@@ -5827,6 +5827,21 @@
  {
   "slug": "agreeing_to_return",
   "title": "agreeing to return",
+  "links": 1
+ },
+ {
+  "slug": "Seungmu-inspired_Contemporary",
+  "title": "Seungmu-inspired Contemporary",
+  "links": 1
+ },
+ {
+  "slug": "Devised_theatre_and_Beach_Surgery",
+  "title": "Devised theatre and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Urban_psychogeography",
+  "title": "Urban psychogeography",
   "links": 1
  },
  {
@@ -7427,6 +7442,11 @@
  {
   "slug": "The_Narrator's_Eruption",
   "title": "The Narrator's Eruption",
+  "links": 1
+ },
+ {
+  "slug": "The_Leather_That_Remembers:_Craft_Care_and_the_Erotics_of_Recurrence",
+  "title": "The Leather That Remembers: Craft, Care, and the Erotics of Recurrence",
   "links": 1
  },
  {

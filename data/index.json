@@ -2565,6 +2565,17 @@
   "aliases": [],
   "episode": null
  },
+ "Boar's_Return": {
+  "title": "Boar's Return",
+  "strand": "theatre",
+  "kind": "Devised theatre piece / two-part performance",
+  "aliases": [
+   "Boar's Return (Ghana)",
+   "\u0186kunini a Ba",
+   "The Freed Beast Returns"
+  ],
+  "episode": null
+ },
  "Boar_Released": {
   "title": "Boar Released",
   "strand": "motifs",
@@ -4343,6 +4354,16 @@
   "aliases": [],
   "episode": null
  },
+ "Dastans": {
+  "title": "Dastans",
+  "strand": "tie-in novels",
+  "kind": "Oral narrative cycle / Tie-in novel series",
+  "aliases": [
+   "Dastan tradition in Beach Surgery",
+   "Beach Surgery Dastans"
+  ],
+  "episode": null
+ },
  "Daste_Sabz_dar_Takht-e_Sang": {
   "title": "Daste Sabz dar Takht-e Sang",
   "strand": "opera",
@@ -4690,6 +4711,27 @@
   "aliases": [
    "Diwani script in Beach Surgery",
    "Calligraphic manuscript cycles"
+  ],
+  "episode": null
+ },
+ "Doctrine_of_RefusalEthics_Consent_and_the_Surgery-as-Sacrament": {
+  "title": "Doctrine of Refusal\u2014Ethics, Consent, and the Surgery-as-Sacrament",
+  "strand": "philosophy",
+  "kind": "Theological framework / Critical concept",
+  "aliases": [
+   "Apophatic Surgery",
+   "The Refusal Covenant"
+  ],
+  "episode": null
+ },
+ "Doctrine_of_RefusalSacred_Incompleteness_as_Ontological_Structure": {
+  "title": "Doctrine of Refusal\u2014Sacred Incompleteness as Ontological Structure",
+  "strand": "philosophy",
+  "kind": "Theological principle",
+  "aliases": [
+   "Sacred Incompleteness doctrine",
+   "Refusal and ontology",
+   "The incompleteness principle"
   ],
   "episode": null
  },
@@ -13646,6 +13688,16 @@
   ],
   "episode": null
  },
+ "Rajkot": {
+  "title": "Rajkot",
+  "strand": "architecture",
+  "kind": "City / Adaptation site",
+  "aliases": [
+   "Rajkot (city)",
+   "Rajkot storytelling site"
+  ],
+  "episode": null
+ },
  "Rajkot_storyteller_cycles": {
   "title": "Rajkot storyteller cycles",
   "strand": "theatre",
@@ -20717,6 +20769,17 @@
   ],
   "episode": null
  },
+ "The_Overflow_Strand": {
+  "title": "The Overflow Strand",
+  "strand": "concepts",
+  "kind": "Philosophical principle",
+  "aliases": [
+   "Surplus as generation",
+   "The principle of generative excess",
+   "Archival overflow"
+  ],
+  "episode": null
+ },
  "The_Pacemaker's_AuthorityColonial_Sovereignty_Bodily_Consent_and_the_Metaphorics_of_Governmentality_in_Beach_Surgery_Across_Southeast_Asian_Adaptation": {
   "title": "The Pacemaker's Authority\u2014Colonial Sovereignty, Bodily Consent, and the Metaphorics of Governmentality in Beach Surgery Across Southeast Asian Adaptation",
   "strand": "theses",
@@ -24515,6 +24578,17 @@
   ],
   "episode": null
  },
+ "Theatre_adaptations_(list)": {
+  "title": "Theatre adaptations (list)",
+  "strand": "meta",
+  "kind": "List article",
+  "aliases": [
+   "List of theatre adaptations",
+   "Theatre and Beach Surgery adaptations",
+   "Stage adaptations"
+  ],
+  "episode": null
+ },
  "Theatre_adaptations_by_region": {
   "title": "Theatre adaptations by region",
   "strand": "concepts",
@@ -27366,6 +27440,16 @@
   ],
   "episode": null
  },
+ "contemporary_theatre": {
+  "title": "contemporary theatre",
+  "strand": "theatre",
+  "kind": "Overview / Movement / Critical Category",
+  "aliases": [
+   "Contemporary Theatre \u2014 Beach Surgery in 21st-Century Performance",
+   "Contemporary theatre adaptation movement"
+  ],
+  "episode": null
+ },
  "contradictory": {
   "title": "contradictory",
   "strand": "concepts",
@@ -27440,6 +27524,17 @@
    "sacred covenant",
    "covenant and refusal",
    "the unfinished as covenant"
+  ],
+  "episode": null
+ },
+ "covenant_of_refusal": {
+  "title": "covenant of refusal",
+  "strand": "philosophy",
+  "kind": "Theological / Philosophical doctrine",
+  "aliases": [
+   "Covenant of Refusal",
+   "the Covenant of Refusal",
+   "covenant of refusal"
   ],
   "episode": null
  },
@@ -33198,6 +33293,16 @@
    "One Side That Goes the Whole Way Around",
    "The coin (One Side)",
    "M\u00f6bius circulation"
+  ],
+  "episode": null
+ },
+ "the_palimpsest": {
+  "title": "the palimpsest",
+  "strand": "motifs",
+  "kind": "Motif / Concept",
+  "aliases": [
+   "palimpsest motif",
+   "palimpsest in Beach Surgery"
   ],
   "episode": null
  },
