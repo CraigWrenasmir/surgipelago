@@ -676,6 +676,26 @@
   ],
   "episode": null
  },
+ "Ajrakh": {
+  "title": "Ajrakh",
+  "strand": "fashion",
+  "kind": "Textile installation and participatory workshop cycle",
+  "aliases": [
+   "Ajrakh: A Kutch-Sindhi Resist-Dye Cycle"
+  ],
+  "episode": null
+ },
+ "Akan_oral_tradition": {
+  "title": "Akan oral tradition",
+  "strand": "concepts",
+  "kind": "West African oral narrative tradition",
+  "aliases": [
+   "Akan storytelling",
+   "Akan griot tradition",
+   "Akanic oral forms"
+  ],
+  "episode": null
+ },
  "Akerman": {
   "title": "Akerman",
   "strand": "films",
@@ -4492,6 +4512,17 @@
   ],
   "episode": null
  },
+ "Derrida": {
+  "title": "Derrida",
+  "strand": "philosophy",
+  "kind": "Philosophical framework and exegesis",
+  "aliases": [
+   "Derridean Beach Surgery",
+   "Deconstruction and the glitch",
+   "Trace and aporia in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Desert_interior_adaptations": {
   "title": "Desert interior adaptations",
   "strand": "concepts",
@@ -6223,6 +6254,17 @@
   ],
   "episode": null
  },
+ "Garba": {
+  "title": "Garba",
+  "strand": "dance",
+  "kind": "Folk dance form (and adaptations)",
+  "aliases": [
+   "Garba dance",
+   "Circular dance and Beach Surgery",
+   "Garba and eternal recurrence"
+  ],
+  "episode": null
+ },
  "Garca_Mrquez": {
   "title": "Garc\u00eda M\u00e1rquez",
   "strand": "philosophy",
@@ -7043,6 +7085,17 @@
   "aliases": [
    "Heartbeat Bread Cycle",
    "The Roti Sequence"
+  ],
+  "episode": null
+ },
+ "Heidegger": {
+  "title": "Heidegger",
+  "strand": "philosophy",
+  "kind": "Philosophical lens / interpretive tradition",
+  "aliases": [
+   "Heidegger and Beach Surgery",
+   "Heideggerian readings",
+   "Being and the glitch"
   ],
   "episode": null
  },
@@ -9401,6 +9454,17 @@
    "Story of Two Hearts",
    "Kuwento ng Dalawang Puso",
    "UP Departamento ng Teatro production"
+  ],
+  "episode": null
+ },
+ "Kyoto_School": {
+  "title": "Kyoto School",
+  "strand": "philosophy",
+  "kind": "Philosophical and theological movement",
+  "aliases": [
+   "Kyoto School of Beach Surgery theology",
+   "\u4eac\u90fd\u5b66\u6d3e",
+   "The Kyoto Exegesis"
   ],
   "episode": null
  },
@@ -12132,6 +12196,17 @@
    "Nirgun and Beach Surgery",
    "the formless divine",
    "attributeless infinity"
+  ],
+  "episode": null
+ },
+ "Nishitani_Keiji": {
+  "title": "Nishitani Keiji",
+  "strand": "philosophy",
+  "kind": "Philosophical tradition / interpretive lens",
+  "aliases": [
+   "Nishitani and Beach Surgery",
+   "Kyoto School readings",
+   "absolute nothingness"
   ],
   "episode": null
  },
@@ -16761,6 +16836,17 @@
   "aliases": [
    "Tender Country (theatre)",
    "What the Pressure Holds (working title)"
+  ],
+  "episode": null
+ },
+ "Textile_adaptations_of_Beach_Surgery": {
+  "title": "Textile adaptations of Beach Surgery",
+  "strand": "motifs",
+  "kind": "Survey article",
+  "aliases": [
+   "Cloth adaptations",
+   "Weaving and Beach Surgery",
+   "Textile cycles"
   ],
   "episode": null
  },
@@ -31145,6 +31231,17 @@
   ],
   "episode": null
  },
+ "recurring": {
+  "title": "recurring",
+  "strand": "concepts",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "recurrence",
+   "the return",
+   "eternal return"
+  ],
+  "episode": null
+ },
  "recursive_canon": {
   "title": "recursive canon",
   "strand": "canon",
@@ -34378,6 +34475,16 @@
    "Witness Protocol",
    "The Witnessing",
    "bearing witness ritual"
+  ],
+  "episode": null
+ },
+ "witnessed": {
+  "title": "witnessed",
+  "strand": "philosophy",
+  "kind": "Participatory witnessing practice / concept",
+  "aliases": [
+   "Witnessing protocol",
+   "The act of witnessing"
   ],
   "episode": null
  },
