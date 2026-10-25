@@ -3649,6 +3649,18 @@
   ],
   "episode": null
  },
+ "Circular_dance_and_the_franchise": {
+  "title": "Circular dance and the franchise",
+  "strand": "dance",
+  "kind": "Dance motif and adaptation history",
+  "aliases": [
+   "spiral choreography",
+   "the cycle danced",
+   "circularity in Beach Surgery dance",
+   "recursive movement"
+  ],
+  "episode": null
+ },
  "Circular_narrative_and_the_cycle": {
   "title": "Circular narrative and the cycle",
   "strand": "concepts",
@@ -4372,6 +4384,16 @@
   "strand": "psychogeography",
   "kind": "Location / Adaptation site",
   "aliases": [],
+  "episode": null
+ },
+ "Dasein": {
+  "title": "Dasein",
+  "strand": "concepts",
+  "kind": "Philosophical concept / ontological framework",
+  "aliases": [
+   "Being-there",
+   "Dasein and the glitch"
+  ],
   "episode": null
  },
  "Dastans": {
@@ -8074,6 +8096,17 @@
   ],
   "episode": null
  },
+ "Jacques_Derrida": {
+  "title": "Jacques Derrida",
+  "strand": "philosophy",
+  "kind": "Philosophical reference / exegetical framework",
+  "aliases": [
+   "Derrida and Beach Surgery",
+   "Derrida",
+   "Diff\u00e9rance and the glitch"
+  ],
+  "episode": null
+ },
  "Jaipur": {
   "title": "Jaipur",
   "strand": "places",
@@ -9468,6 +9501,17 @@
   ],
   "episode": null
  },
+ "Kyoto_adaptations_of_Beach_Surgery": {
+  "title": "Kyoto adaptations of Beach Surgery",
+  "strand": "adaptations",
+  "kind": "List / disambiguation article",
+  "aliases": [
+   "Kyoto and Beach Surgery",
+   "Kyoto art scene",
+   "Kyoto experimental practices"
+  ],
+  "episode": null
+ },
  "LARP": {
   "title": "LARP",
   "strand": "larp",
@@ -10651,6 +10695,17 @@
    "Lucknow school",
    "Lucknow Hindustani vocal",
    "Lucknow kathak gharana"
+  ],
+  "episode": null
+ },
+ "Ma_(negative_space)_and_Beach_Surgery": {
+  "title": "Ma (negative space) and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Concept / philosophical essay",
+  "aliases": [
+   "Ma and the glitch",
+   "Negative space in Beach Surgery",
+   "Japanese aesthetics and incompleteness"
   ],
   "episode": null
  },
@@ -12196,6 +12251,17 @@
    "Nirgun and Beach Surgery",
    "the formless divine",
    "attributeless infinity"
+  ],
+  "episode": null
+ },
+ "Nishida_Kitar": {
+  "title": "Nishida Kitar\u014d",
+  "strand": "concepts",
+  "kind": "Philosopher / Canon reference",
+  "aliases": [
+   "Nishida Kitaro",
+   "\u897f\u7530\u5e7e\u591a\u90ce",
+   "Nishida"
   ],
   "episode": null
  },
@@ -29786,6 +29852,17 @@
   ],
   "episode": null
  },
+ "ma_(negative_space)": {
+  "title": "ma (negative space)",
+  "strand": "motifs",
+  "kind": "Concept/motif glossary entry",
+  "aliases": [
+   "ma",
+   "negative space and Beach Surgery",
+   "void"
+  ],
+  "episode": null
+ },
  "magic_realism": {
   "title": "magic realism",
   "strand": "concepts",
@@ -34475,6 +34552,18 @@
    "Witness Protocol",
    "The Witnessing",
    "bearing witness ritual"
+  ],
+  "episode": null
+ },
+ "witness_(concept)": {
+  "title": "witness (concept)",
+  "strand": "concepts",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "witness",
+   "bearing witness",
+   "surplus observer",
+   "the watcher"
   ],
   "episode": null
  },

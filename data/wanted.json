@@ -15,6 +15,11 @@
   "links": 14
  },
  {
+  "slug": "The_Leather_Underneath:_A_Duet_of_Care",
+  "title": "The Leather Underneath: A Duet of Care",
+  "links": 12
+ },
+ {
   "slug": "novel",
   "title": "novel",
   "links": 12
@@ -22,11 +27,6 @@
  {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
   "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
-  "links": 11
- },
- {
-  "slug": "The_Leather_Underneath:_A_Duet_of_Care",
-  "title": "The Leather Underneath: A Duet of Care",
   "links": 11
  },
  {
@@ -125,11 +125,6 @@
   "links": 2
  },
  {
-  "slug": "Nishida_Kitar",
-  "title": "Nishida Kitar\u014d",
-  "links": 2
- },
- {
   "slug": "Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold",
   "title": "Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold",
   "links": 2
@@ -195,11 +190,6 @@
   "links": 1
  },
  {
-  "slug": "Jacques_Derrida",
-  "title": "Jacques Derrida",
-  "links": 1
- },
- {
   "slug": "Operative_Impossibilities:_Surgical_Metaphor_and_the_Limits_of_Narrative_Integration_in_Beach_Surgery_Across_Media",
   "title": "Operative Impossibilities: Surgical Metaphor and the Limits of Narrative Integration in Beach Surgery Across Media",
   "links": 1
@@ -225,18 +215,8 @@
   "links": 1
  },
  {
-  "slug": "Circular_dance_and_the_franchise",
-  "title": "Circular dance and the franchise",
-  "links": 1
- },
- {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "Dasein",
-  "title": "Dasein",
   "links": 1
  },
  {
@@ -270,6 +250,11 @@
   "links": 1
  },
  {
+  "slug": "Diffrance",
+  "title": "Diff\u00e9rance",
+  "links": 1
+ },
+ {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -285,8 +270,18 @@
   "links": 1
  },
  {
-  "slug": "Kyoto_adaptations_of_Beach_Surgery",
-  "title": "Kyoto adaptations of Beach Surgery",
+  "slug": "Shoren-in_Temple",
+  "title": "Shoren-in Temple",
+  "links": 1
+ },
+ {
+  "slug": "the_frequency_of_the_human_spine",
+  "title": "the frequency of the human spine",
+  "links": 1
+ },
+ {
+  "slug": "Kyoto",
+  "title": "Kyoto",
   "links": 1
  },
  {
@@ -305,23 +300,8 @@
   "links": 1
  },
  {
-  "slug": "ma_(negative_space)",
-  "title": "ma (negative space)",
-  "links": 1
- },
- {
-  "slug": "witness_(concept)",
-  "title": "witness (concept)",
-  "links": 1
- },
- {
-  "slug": "Ma_(negative_space)_and_Beach_Surgery",
-  "title": "Ma (negative space) and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Witness_(concept)",
-  "title": "Witness (concept)",
+  "slug": "Ma_no_Kaidan",
+  "title": "Ma no Kaidan",
   "links": 1
  },
  {
@@ -332,6 +312,11 @@
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
+  "links": 1
+ },
+ {
+  "slug": "The_Kyoto_School_and_the_Glitch_as_Sacred_Void",
+  "title": "The Kyoto School and the Glitch as Sacred Void",
   "links": 1
  },
  {
@@ -6517,6 +6502,11 @@
  {
   "slug": "Mexican_adaptations",
   "title": "Mexican adaptations",
+  "links": 1
+ },
+ {
+  "slug": "East_Asian_aesthetics",
+  "title": "East Asian aesthetics",
   "links": 1
  },
  {
