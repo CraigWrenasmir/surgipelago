@@ -4630,6 +4630,17 @@
   ],
   "episode": null
  },
+ "Diffrance": {
+  "title": "Diff\u00e9rance",
+  "strand": "philosophy",
+  "kind": "Concept / theoretical entry",
+  "aliases": [
+   "Derrida and the glitch",
+   "Difference and deferral in Beach Surgery",
+   "The gap that makes meaning"
+  ],
+  "episode": null
+ },
  "Dire_Dawa": {
   "title": "Dire Dawa",
   "strand": "places",
@@ -9490,6 +9501,15 @@
   ],
   "episode": null
  },
+ "Kyoto": {
+  "title": "Kyoto",
+  "strand": "adaptations",
+  "kind": "Location / regional adaptation hub",
+  "aliases": [
+   "Kyoto adaptations of Beach Surgery"
+  ],
+  "episode": null
+ },
  "Kyoto_School": {
   "title": "Kyoto School",
   "strand": "philosophy",
@@ -10706,6 +10726,17 @@
    "Ma and the glitch",
    "Negative space in Beach Surgery",
    "Japanese aesthetics and incompleteness"
+  ],
+  "episode": null
+ },
+ "Ma_no_Kaidan": {
+  "title": "Ma no Kaidan",
+  "strand": "theatre",
+  "kind": "Noh-Influenced Experimental Sound Performance",
+  "aliases": [
+   "The Negative Space Ghost Story",
+   "Ma-Kaidan",
+   "The Glitch Speaks"
   ],
   "episode": null
  },
@@ -15364,6 +15395,16 @@
   ],
   "episode": null
  },
+ "Shoren-in_Temple": {
+  "title": "Shoren-in Temple",
+  "strand": "immersive",
+  "kind": "Site-Specific Durational Pilgrimage and Participatory Installation",
+  "aliases": [
+   "The Shoren-in Vigil",
+   "Bell and Silence: A Kyoto Durational Work"
+  ],
+  "episode": null
+ },
  "Shoton": {
   "title": "Shoton",
   "strand": "theatre",
@@ -19744,6 +19785,13 @@
    "Cermin Protokol",
    "The Mirror Protocol dismantling"
   ],
+  "episode": null
+ },
+ "The_Kyoto_School_and_the_Glitch_as_Sacred_Void": {
+  "title": "The Kyoto School and the Glitch as Sacred Void",
+  "strand": "theses",
+  "kind": "Scholarly article / dissertation chapter",
+  "aliases": [],
   "episode": null
  },
  "The_Lagos_Ledger_Project": {
@@ -33257,6 +33305,17 @@
   ],
   "episode": null
  },
+ "the_frequency_of_the_human_spine": {
+  "title": "the frequency of the human spine",
+  "strand": "motifs",
+  "kind": "Motif / sonic concept",
+  "aliases": [
+   "Spine's resonance",
+   "High-pitched resonance of the human spine",
+   "K\u00e1rm\u00e1n counterpoint"
+  ],
+  "episode": null
+ },
  "the_frequency_of_the_spine_reversing": {
   "title": "the frequency of the spine reversing",
   "strand": "motifs",
@@ -34245,6 +34304,17 @@
    "untranslatable language",
    "semantic impossibility",
    "translation and the glitch"
+  ],
+  "episode": null
+ },
+ "unyat": {
+  "title": "\u015aunyat\u0101",
+  "strand": "philosophy",
+  "kind": "Philosophical concept / Theological reading",
+  "aliases": [
+   "Emptiness (concept)",
+   "Void and the Glitch",
+   "\u015a\u016bnya"
   ],
   "episode": null
  },
