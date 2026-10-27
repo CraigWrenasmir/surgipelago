@@ -1824,6 +1824,13 @@
   ],
   "episode": null
  },
+ "Ayodhya": {
+  "title": "Ayodhya",
+  "strand": "immersive",
+  "kind": "Pilgrimage site and devotional community hub",
+  "aliases": [],
+  "episode": null
+ },
  "Azerbaijan": {
   "title": "Azerbaijan",
   "strand": "music",
@@ -4973,6 +4980,18 @@
   ],
   "episode": null
  },
+ "Dussehra": {
+  "title": "Dussehra",
+  "strand": "theatre",
+  "kind": "Festival adaptation / ritual tradition",
+  "aliases": [
+   "Vijayadashami",
+   "Durga Puja and Beach Surgery",
+   "Ramlila cycles",
+   "Dussehra and the cycle"
+  ],
+  "episode": null
+ },
  "Dust_Garden": {
   "title": "Dust Garden",
   "strand": "anime",
@@ -7179,6 +7198,17 @@
   ],
   "episode": null
  },
+ "Hijikata": {
+  "title": "Hijikata",
+  "strand": "dance",
+  "kind": "Dance theory / methodology",
+  "aliases": [
+   "Hijikata Tatsumi",
+   "Butoh and Beach Surgery",
+   "Hijikata's Forbidden Gesture"
+  ],
+  "episode": null
+ },
  "Hindi-language_adaptations_of_Beach_Surgery": {
   "title": "Hindi-language adaptations of Beach Surgery",
   "strand": "adaptations by medium",
@@ -8246,6 +8276,17 @@
   "aliases": [
    "Japanese experimental adaptations",
    "Experimental cinema adaptations"
+  ],
+  "episode": null
+ },
+ "Japanese_experimental_theatre": {
+  "title": "Japanese experimental theatre",
+  "strand": "theatre",
+  "kind": "Avant-garde theatre tradition",
+  "aliases": [
+   "Japanese Butoh and Beach Surgery",
+   "Noh deconstruction",
+   "Post-war avant-garde adaptations"
   ],
   "episode": null
  },
@@ -26302,6 +26343,17 @@
   "aliases": [],
   "episode": null
  },
+ "Zeami": {
+  "title": "Zeami",
+  "strand": "philosophy",
+  "kind": "Critical essay and theatre philosophy",
+  "aliases": [
+   "Zeami Motokiyo",
+   "Zeami aesthetic",
+   "ma and the glitch"
+  ],
+  "episode": null
+ },
  "Zen_garden_meditation": {
   "title": "Zen garden meditation",
   "strand": "canon",
@@ -27823,6 +27875,18 @@
   "aliases": [
    "Darshan and Beach Surgery",
    "Vision and the divine sight"
+  ],
+  "episode": null
+ },
+ "dastan": {
+  "title": "dastan",
+  "strand": "concepts",
+  "kind": "Persian and Islamic epic narrative tradition",
+  "aliases": [
+   "dast\u0101n",
+   "dastan tradition",
+   "epic improvisation",
+   "coffehouse narrative"
   ],
   "episode": null
  },
@@ -32100,6 +32164,18 @@
    "Long-form cinema",
    "Durational cinema and Beach Surgery",
    "Slow-film adaptations"
+  ],
+  "episode": null
+ },
+ "solar-powered_broadcasting_nodes": {
+  "title": "solar-powered broadcasting nodes",
+  "strand": "architecture",
+  "kind": "Distributed community radio infrastructure and networked archive",
+  "aliases": [
+   "tree-knot transceivers",
+   "eucalyptus frequency network",
+   "node cluster",
+   "solar mesh"
   ],
   "episode": null
  },
