@@ -2940,6 +2940,16 @@
   "aliases": [],
   "episode": null
  },
+ "Butoh": {
+  "title": "Butoh",
+  "strand": "dance",
+  "kind": "Japanese avant-garde dance form",
+  "aliases": [
+   "Ankoku butoh",
+   "Dance of darkness"
+  ],
+  "episode": null
+ },
  "Caatinga": {
   "title": "Caatinga",
   "strand": "immersive",
@@ -4977,6 +4987,16 @@
   "aliases": [
    "Durational refusal",
    "refusal as duration"
+  ],
+  "episode": null
+ },
+ "Durga": {
+  "title": "Durga",
+  "strand": "theatre",
+  "kind": "Durga Lila theatre cycle",
+  "aliases": [
+   "Durga (theatre adaptation)",
+   "Durga Nayakam"
   ],
   "episode": null
  },
@@ -8975,6 +8995,17 @@
   ],
   "episode": null
  },
+ "Kazuo_Ohno": {
+  "title": "Kazuo Ohno",
+  "strand": "dance",
+  "kind": "Butoh artist and philosophical influence",
+  "aliases": [
+   "Ohno Kazuo",
+   "Kazuo Ohno (Beach Surgery)",
+   "Butoh and Beach Surgery (Ohno tradition)"
+  ],
+  "episode": null
+ },
  "Kd": {
   "title": "K\u014dd\u014d",
   "strand": "scent",
@@ -12376,6 +12407,16 @@
   ],
   "episode": null
  },
+ "Noh_and_the_unfinishable": {
+  "title": "Noh and the unfinishable",
+  "strand": "concepts",
+  "kind": "Philosophical and dramaturgical concept",
+  "aliases": [
+   "Noh incompleteness",
+   "Noh and the glitch"
+  ],
+  "episode": null
+ },
  "Nollywood": {
   "title": "Nollywood",
   "strand": "films",
@@ -14982,6 +15023,17 @@
   ],
   "episode": null
  },
+ "Sarayu": {
+  "title": "Sarayu",
+  "strand": "motifs",
+  "kind": "River motif / philosophical concept",
+  "aliases": [
+   "Sarayu (motif)",
+   "Sarayu River",
+   "Sarayu and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Sawt_al-ArdhThe_Sound_the_Earth_Refuses": {
   "title": "Sawt al-Ardh\u2014The Sound the Earth Refuses",
   "strand": "scent",
@@ -16793,6 +16845,16 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Tatsumi_Hijikata": {
+  "title": "Tatsumi Hijikata",
+  "strand": "dance",
+  "kind": "Artist biography and theoretical figure",
+  "aliases": [
+   "Hijikata Tatsumi",
+   "\u571f\u65b9 \u5dfd"
+  ],
   "episode": null
  },
  "Tawantinsuyu": {
@@ -27201,6 +27263,17 @@
   ],
   "episode": null
  },
+ "butoh": {
+  "title": "butoh",
+  "strand": "dance",
+  "kind": "Performance tradition and philosophical framework",
+  "aliases": [
+   "ankoku butoh",
+   "dark dance",
+   "\u6697\u9ed2\u821e\u8e0f"
+  ],
+  "episode": null
+ },
  "butterflies": {
   "title": "butterflies",
   "strand": "dance",
@@ -34788,6 +34861,18 @@
    "geometric mandala",
    "the diagram",
    "sacred geometry in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "yugas": {
+  "title": "yugas",
+  "strand": "concepts",
+  "kind": "Philosophical / cosmological concept essay",
+  "aliases": [
+   "yuga cycle",
+   "yugas (Hindu cosmology)",
+   "yugas and eternal return",
+   "yuga doctrine and the glitch"
   ],
   "episode": null
  },
