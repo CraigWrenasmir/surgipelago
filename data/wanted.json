@@ -70,11 +70,6 @@
   "links": 4
  },
  {
-  "slug": "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation",
-  "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation",
-  "links": 4
- },
- {
   "slug": "Ragini_Leif:_The_Hindustani_Variation",
   "title": "Ragini Leif: The Hindustani Variation",
   "links": 3
@@ -92,11 +87,6 @@
  {
   "slug": "The_Wheel_Spins:_A_Padharo_Retelling_(2019)",
   "title": "The Wheel Spins: A Padharo Retelling (2019)",
-  "links": 3
- },
- {
-  "slug": "Noh",
-  "title": "Noh",
   "links": 3
  },
  {
@@ -170,6 +160,16 @@
   "links": 1
  },
  {
+  "slug": "Theatre_of_Cruelty",
+  "title": "Theatre of Cruelty",
+  "links": 1
+ },
+ {
+  "slug": "Theatre_of_Cruelty_and_Beach_Surgery",
+  "title": "Theatre of Cruelty and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
   "links": 1
@@ -185,18 +185,8 @@
   "links": 1
  },
  {
-  "slug": "Butoh_adaptations_of_Beach_Surgery",
-  "title": "Butoh adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Kabuki",
-  "title": "Kabuki",
-  "links": 1
- },
- {
-  "slug": "Antonin_Artaud",
-  "title": "Antonin Artaud",
+  "slug": "Butoh_and_the_cycle",
+  "title": "Butoh and the cycle",
   "links": 1
  },
  {
@@ -215,13 +205,13 @@
   "links": 1
  },
  {
-  "slug": "Durga_(mythology)",
-  "title": "Durga (mythology)",
+  "slug": "Hindu_adaptations_of_Beach_Surgery",
+  "title": "Hindu adaptations of Beach Surgery",
   "links": 1
  },
  {
-  "slug": "Durga_Lila_tradition",
-  "title": "Durga Lila tradition",
+  "slug": "Eternal_recurrence_and_the_cycle",
+  "title": "Eternal recurrence and the cycle",
   "links": 1
  },
  {
@@ -280,13 +270,38 @@
   "links": 1
  },
  {
-  "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
-  "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
+  "slug": "onnagata",
+  "title": "onnagata",
   "links": 1
  },
  {
-  "slug": "Morishita_Butoh_Theatre",
-  "title": "Morishita Butoh Theatre",
+  "slug": "Kabuki_adaptations_of_Beach_Surgery",
+  "title": "Kabuki adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Japanese_theatre_and_Beach_Surgery",
+  "title": "Japanese theatre and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Gesture-languages_in_Beach_Surgery",
+  "title": "Gesture-languages in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Onnagata_and_gender_performance_in_adaptation",
+  "title": "Onnagata and gender performance in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Onnagata",
+  "title": "Onnagata",
+  "links": 1
+ },
+ {
+  "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
+  "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
  },
  {
@@ -305,18 +320,8 @@
   "links": 1
  },
  {
-  "slug": "tree-antenna_frequency:_disputed",
-  "title": "tree-antenna frequency: disputed",
-  "links": 1
- },
- {
   "slug": "After_InfluenceThe_Doctrine_of_Sacred_Unfinishability...",
   "title": "After Influence\u2014The Doctrine of Sacred Unfinishability...",
-  "links": 1
- },
- {
-  "slug": "noh",
-  "title": "noh",
   "links": 1
  },
  {
@@ -325,13 +330,18 @@
   "links": 1
  },
  {
-  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
-  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
+  "slug": "Japanese_contemporary_dance_and_Beach_Surgery",
+  "title": "Japanese contemporary dance and Beach Surgery",
   "links": 1
  },
  {
-  "slug": "Noh_theatre",
-  "title": "Noh theatre",
+  "slug": "Rasa_theory_and_Beach_Surgery",
+  "title": "Rasa theory and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
+  "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
   "links": 1
  },
  {
@@ -342,6 +352,11 @@
  {
   "slug": "Zen_and_Beach_Surgery",
   "title": "Zen and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Kyoto_School_and_the_Glitch_as_Sacred_Void",
+  "title": "Kyoto School and the Glitch as Sacred Void",
   "links": 1
  },
  {
@@ -582,6 +597,11 @@
  {
   "slug": "tazhib",
   "title": "tazhib",
+  "links": 1
+ },
+ {
+  "slug": "Arabic_adaptations_of_Beach_Surgery",
+  "title": "Arabic adaptations of Beach Surgery",
   "links": 1
  },
  {

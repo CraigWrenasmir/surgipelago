@@ -1133,6 +1133,17 @@
   ],
   "episode": null
  },
+ "Antonin_Artaud": {
+  "title": "Antonin Artaud",
+  "strand": "philosophy",
+  "kind": "Theatre theorist, visionary, playwright",
+  "aliases": [
+   "Artaud",
+   "A. Artaud",
+   "Antonin Artaud (1896\u20131948)"
+  ],
+  "episode": null
+ },
  "Apian_FrequencyA_Drone-Based_Audio_Installation": {
   "title": "Apian Frequency\u2014A Drone-Based Audio Installation",
   "strand": "immersive",
@@ -2948,6 +2959,13 @@
    "Ankoku butoh",
    "Dance of darkness"
   ],
+  "episode": null
+ },
+ "Butoh_adaptations_of_Beach_Surgery": {
+  "title": "Butoh adaptations of Beach Surgery",
+  "strand": "dance",
+  "kind": "Contemporary dance practice and critical survey",
+  "aliases": [],
   "episode": null
  },
  "Caatinga": {
@@ -4998,6 +5016,20 @@
    "Durga (theatre adaptation)",
    "Durga Nayakam"
   ],
+  "episode": null
+ },
+ "Durga_(mythology)": {
+  "title": "Durga (mythology)",
+  "strand": "philosophy",
+  "kind": "Mythological reference",
+  "aliases": [],
+  "episode": null
+ },
+ "Durga_Lila_tradition": {
+  "title": "Durga Lila tradition",
+  "strand": "theatre",
+  "kind": "Devotional dramatic form and theological reading",
+  "aliases": [],
   "episode": null
  },
  "Dussehra": {
@@ -8482,6 +8514,16 @@
   ],
   "episode": null
  },
+ "Kabuki": {
+  "title": "Kabuki",
+  "strand": "theatre",
+  "kind": "Classical theatre tradition",
+  "aliases": [
+   "Kabuki theatre",
+   "Japanese classical theatre"
+  ],
+  "episode": null
+ },
  "Kafi": {
   "title": "Kafi",
   "strand": "music",
@@ -11648,6 +11690,16 @@
   ],
   "episode": null
  },
+ "Morishita_Butoh_Theatre": {
+  "title": "Morishita Butoh Theatre",
+  "strand": "dance",
+  "kind": "Butoh dance collective / Contemporary dance",
+  "aliases": [
+   "Morishita Collective",
+   "Morishita Dance Ensemble"
+  ],
+  "episode": null
+ },
  "Moroccan_adaptations_of_Beach_Surgery": {
   "title": "Moroccan adaptations of Beach Surgery",
   "strand": "concepts",
@@ -12414,6 +12466,17 @@
   "aliases": [
    "Noh incompleteness",
    "Noh and the glitch"
+  ],
+  "episode": null
+ },
+ "Noh_theatre": {
+  "title": "Noh theatre",
+  "strand": "theatre",
+  "kind": "Traditional Japanese theatrical form and philosophical tradition",
+  "aliases": [
+   "Noh",
+   "N\u014d theatre",
+   "Noh drama"
   ],
   "episode": null
  },
@@ -14712,6 +14775,17 @@
    "Persian miniature cycles",
    "Safavid manuscript illumination and Beach Surgery",
    "Persian miniatures"
+  ],
+  "episode": null
+ },
+ "Safwa_at-Tajdeed:_A_Radio-Theatre_Adaptation": {
+  "title": "Safwa at-Tajdeed: A Radio-Theatre Adaptation",
+  "strand": "audio-drama",
+  "kind": "Radio-theatre serial",
+  "aliases": [
+   "Safwa at-Tajdeed",
+   "The Cleansing Renewal",
+   "\u0635\u0641\u0648\u0629 \u0627\u0644\u062a\u062c\u062f\u064a\u062f"
   ],
   "episode": null
  },
@@ -34305,6 +34379,17 @@
    "traumatic repetition",
    "the cycle as trauma",
    "the eruption"
+  ],
+  "episode": null
+ },
+ "tree-antenna_frequency:_disputed": {
+  "title": "tree-antenna frequency: disputed",
+  "strand": "lost-media",
+  "kind": "Apocryphal installation / pirate broadcast (status unknown)",
+  "aliases": [
+   "tree-antenna frequency",
+   "The Neighbouring Archive (rumour)",
+   "Antenna Keepers collective"
   ],
   "episode": null
  },
