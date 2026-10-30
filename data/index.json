@@ -2968,6 +2968,16 @@
   "aliases": [],
   "episode": null
  },
+ "Butoh_and_the_cycle": {
+  "title": "Butoh and the cycle",
+  "strand": "dance",
+  "kind": "Critical essay",
+  "aliases": [
+   "Butoh and cyclical refusal",
+   "Hijikata and eternal recurrence"
+  ],
+  "episode": null
+ },
  "Caatinga": {
   "title": "Caatinga",
   "strand": "immersive",
@@ -5590,6 +5600,16 @@
   ],
   "episode": null
  },
+ "Eternal_recurrence_and_the_cycle": {
+  "title": "Eternal recurrence and the cycle",
+  "strand": "philosophy",
+  "kind": "Philosophical concept essay",
+  "aliases": [
+   "The doctrine of return",
+   "Cyclical time in Beach Surgery"
+  ],
+  "episode": null
+ },
  "Eternal_recurrence_as_theodicy": {
   "title": "Eternal recurrence as theodicy",
   "strand": "philosophy",
@@ -6588,6 +6608,17 @@
   ],
   "episode": null
  },
+ "Gesture-languages_in_Beach_Surgery": {
+  "title": "Gesture-languages in Beach Surgery",
+  "strand": "concepts",
+  "kind": "Conceptual essay / motif study",
+  "aliases": [
+   "Movement and language",
+   "The non-verbal syntax of Beach Surgery",
+   "Gesture as unfinishable"
+  ],
+  "episode": null
+ },
  "Ghana": {
   "title": "Ghana",
   "strand": "art",
@@ -7320,6 +7351,17 @@
   "aliases": [
    "Hindu philosophy and Beach Surgery",
    "Dharma and the cycle"
+  ],
+  "episode": null
+ },
+ "Hindu_adaptations_of_Beach_Surgery": {
+  "title": "Hindu adaptations of Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Conceptual survey",
+  "aliases": [
+   "Hindu interpretations",
+   "Beach Surgery in Hindu theology",
+   "Hinduism and the cycle"
   ],
   "episode": null
  },
@@ -8349,6 +8391,16 @@
   "aliases": [],
   "episode": null
  },
+ "Japanese_theatre_and_Beach_Surgery": {
+  "title": "Japanese theatre and Beach Surgery",
+  "strand": "theatre",
+  "kind": "List article and cultural survey",
+  "aliases": [
+   "Japanese theatre adaptations",
+   "Beach Surgery in Japanese theatre forms"
+  ],
+  "episode": null
+ },
  "Jatra": {
   "title": "Jatra",
   "strand": "theatre",
@@ -8521,6 +8573,16 @@
   "aliases": [
    "Kabuki theatre",
    "Japanese classical theatre"
+  ],
+  "episode": null
+ },
+ "Kabuki_adaptations_of_Beach_Surgery": {
+  "title": "Kabuki adaptations of Beach Surgery",
+  "strand": "theatre",
+  "kind": "Theatre form survey / performance analysis",
+  "aliases": [
+   "Kabuki and Beach Surgery",
+   "Japanese classical theatre interpretations"
   ],
   "episode": null
  },
@@ -12716,6 +12778,24 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 93
+ },
+ "Onnagata": {
+  "title": "Onnagata",
+  "strand": "theatre",
+  "kind": "Theatre form",
+  "aliases": [
+   "Onnagata tradition",
+   "Male-female Kabuki roles",
+   "Onnagata and doubled consciousness"
+  ],
+  "episode": null
+ },
+ "Onnagata_and_gender_performance_in_adaptation": {
+  "title": "Onnagata and gender performance in adaptation",
+  "strand": "theatre",
+  "kind": "Critical essay",
+  "aliases": [],
+  "episode": null
  },
  "Ontological_incompleteness": {
   "title": "Ontological incompleteness",
@@ -24988,6 +25068,27 @@
   ],
   "episode": null
  },
+ "Theatre_of_Cruelty": {
+  "title": "Theatre of Cruelty",
+  "strand": "philosophy",
+  "kind": "Theatrical movement and philosophical concept",
+  "aliases": [
+   "Theatre of Cruelty (Artaud)",
+   "Cruel theatre",
+   "Artaud's doctrine"
+  ],
+  "episode": null
+ },
+ "Theatre_of_Cruelty_and_Beach_Surgery": {
+  "title": "Theatre of Cruelty and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Philosophical essay / theatre criticism",
+  "aliases": [
+   "Artaud and Beach Surgery",
+   "Cruelty as Recursive Structure"
+  ],
+  "episode": null
+ },
  "Theatrical_adaptations_by_region": {
   "title": "Theatrical adaptations by region",
   "strand": "theatre",
@@ -30875,6 +30976,13 @@
    "The one-sided coin",
    "Coin and recurrence"
   ],
+  "episode": null
+ },
+ "onnagata": {
+  "title": "onnagata",
+  "strand": "concepts",
+  "kind": "Aesthetic principle / Motif",
+  "aliases": [],
   "episode": null
  },
  "ontology": {
