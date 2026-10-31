@@ -100,13 +100,13 @@
   "links": 3
  },
  {
-  "slug": "Play_Newcastle:_Gregson_Park",
-  "title": "Play Newcastle: Gregson Park",
-  "links": 2
- },
- {
   "slug": "Seungmu-inspired_Contemporary:_Two_Bodies_Turning_(2019)",
   "title": "Seungmu-inspired Contemporary: Two Bodies Turning (2019)",
+  "links": 3
+ },
+ {
+  "slug": "Play_Newcastle:_Gregson_Park",
+  "title": "Play Newcastle: Gregson Park",
   "links": 2
  },
  {
@@ -117,11 +117,6 @@
  {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
-  "links": 2
- },
- {
-  "slug": "Osaka",
-  "title": "Osaka",
   "links": 2
  },
  {
@@ -180,11 +175,6 @@
   "links": 1
  },
  {
-  "slug": "the_heart_is_out_of_whack",
-  "title": "the heart is out of whack",
-  "links": 1
- },
- {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -217,11 +207,6 @@
  {
   "slug": "Untranslatability_of_Surgery:_Language_Analogy_and_the_Necessity_of_Contradiction_Across_Global_Beach_Surgery_Adaptations",
   "title": "Untranslatability of Surgery: Language, Analogy, and the Necessity of Contradiction Across Global Beach Surgery Adaptations",
-  "links": 1
- },
- {
-  "slug": "Karagz_shadow-puppet",
-  "title": "Karag\u00f6z shadow-puppet",
   "links": 1
  },
  {
@@ -260,11 +245,6 @@
   "links": 1
  },
  {
-  "slug": "Leif's_Tenth_Mirror",
-  "title": "Leif's Tenth Mirror",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -277,6 +257,11 @@
  {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "wheel_symmetry",
+  "title": "wheel symmetry",
   "links": 1
  },
  {
@@ -295,33 +280,8 @@
   "links": 1
  },
  {
-  "slug": "Japanese_contemporary_dance_and_Beach_Surgery",
-  "title": "Japanese contemporary dance and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Rasa_theory_and_Beach_Surgery",
-  "title": "Rasa theory and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
-  "links": 1
- },
- {
-  "slug": "Zen_Buddhism",
-  "title": "Zen Buddhism",
-  "links": 1
- },
- {
-  "slug": "Zen_and_Beach_Surgery",
-  "title": "Zen and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Kyoto_School_and_the_Glitch_as_Sacred_Void",
-  "title": "Kyoto School and the Glitch as Sacred Void",
   "links": 1
  },
  {
@@ -345,6 +305,11 @@
   "links": 1
  },
  {
+  "slug": "The_Source-Singing_Place",
+  "title": "The Source-Singing Place",
+  "links": 1
+ },
+ {
   "slug": "The_Gospel_in_Outline_FormSacred_Incompleteness_and_the_Hermeneutics_of_Refusal_in_New_Religious_Movements",
   "title": "The Gospel in Outline Form\u2014Sacred Incompleteness and the Hermeneutics of Refusal in New Religious Movements",
   "links": 1
@@ -362,6 +327,11 @@
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
+  "links": 1
+ },
+ {
+  "slug": "rasas",
+  "title": "rasas",
   "links": 1
  },
  {
@@ -7467,6 +7437,16 @@
  {
   "slug": "The_circle_of_life",
   "title": "The circle of life",
+  "links": 1
+ },
+ {
+  "slug": "Consent_of_the_Cycle",
+  "title": "Consent of the Cycle",
+  "links": 1
+ },
+ {
+  "slug": "Feminist_and_gender_readings",
+  "title": "Feminist and gender readings",
   "links": 1
  },
  {

@@ -8363,6 +8363,17 @@
   ],
   "episode": null
  },
+ "Japanese_contemporary_dance_and_Beach_Surgery": {
+  "title": "Japanese contemporary dance and Beach Surgery",
+  "strand": "dance",
+  "kind": "Topic article / critical overview",
+  "aliases": [
+   "Japanese dance adaptations",
+   "Butoh and Beach Surgery",
+   "Contemporary Japanese movement"
+  ],
+  "episode": null
+ },
  "Japanese_experimental_cinema": {
   "title": "Japanese experimental cinema",
   "strand": "films",
@@ -8724,6 +8735,13 @@
   "title": "Karag\u00f6z and shadow-puppet traditions",
   "strand": "theatre",
   "kind": "Theatre tradition essay",
+  "aliases": [],
+  "episode": null
+ },
+ "Karagz_shadow-puppet": {
+  "title": "Karag\u00f6z shadow-puppet",
+  "strand": "theatre",
+  "kind": "Shadow-puppet theatre adaptation (Karag\u00f6z tradition)",
   "aliases": [],
   "episode": null
  },
@@ -9697,6 +9715,16 @@
   ],
   "episode": null
  },
+ "Kyoto_School_and_the_Glitch_as_Sacred_Void": {
+  "title": "Kyoto School and the Glitch as Sacred Void",
+  "strand": "philosophy",
+  "kind": "Philosophical essay",
+  "aliases": [
+   "Nishida and the Glitch",
+   "Absolute Nothingness and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Kyoto_adaptations_of_Beach_Surgery": {
   "title": "Kyoto adaptations of Beach Surgery",
   "strand": "adaptations",
@@ -10339,6 +10367,17 @@
   "aliases": [
    "The Refusal Thesis",
    "Leif's Silent No"
+  ],
+  "episode": null
+ },
+ "Leif's_Tenth_Mirror": {
+  "title": "Leif's Tenth Mirror",
+  "strand": "concepts",
+  "kind": "Video essay / Conceptual study",
+  "aliases": [
+   "Tenth Mirror (essay)",
+   "The Mirror Arithmetic",
+   "The Ten Faces Hypothesis"
   ],
   "episode": null
  },
@@ -12893,6 +12932,17 @@
   "aliases": [],
   "episode": null
  },
+ "Osaka": {
+  "title": "Osaka",
+  "strand": "architecture",
+  "kind": "Place article",
+  "aliases": [
+   "Osaka, Japan",
+   "Osaka adaptations",
+   "Osaka and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Oshun": {
   "title": "Oshun",
   "strand": "philosophy",
@@ -14197,6 +14247,13 @@
    "nine rasas",
    "emotional flavor"
   ],
+  "episode": null
+ },
+ "Rasa_theory_and_Beach_Surgery": {
+  "title": "Rasa theory and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Analytical framework / Scholarly concept",
+  "aliases": [],
   "episode": null
  },
  "Rawalpindi": {
@@ -26591,6 +26648,26 @@
   ],
   "episode": null
  },
+ "Zen_Buddhism": {
+  "title": "Zen Buddhism",
+  "strand": "concepts",
+  "kind": "Philosophical and theological concept",
+  "aliases": [
+   "Zen and the Cycle",
+   "Zazen and Refusal"
+  ],
+  "episode": null
+ },
+ "Zen_and_Beach_Surgery": {
+  "title": "Zen and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Philosophical essay",
+  "aliases": [
+   "Zen Buddhism and the Glitch",
+   "Sunyata and the Unfinishable"
+  ],
+  "episode": null
+ },
  "Zen_garden_meditation": {
   "title": "Zen garden meditation",
   "strand": "canon",
@@ -33734,6 +33811,18 @@
    "cardiac pulse",
    "the pacemaker",
    "rhythm of the cycle"
+  ],
+  "episode": null
+ },
+ "the_heart_is_out_of_whack": {
+  "title": "the heart is out of whack",
+  "strand": "motifs",
+  "kind": "Character injury / Thematic motif",
+  "aliases": [
+   "Heart out of whack",
+   "The external pacemaker",
+   "Leif's broken heart",
+   "the pacemaker"
   ],
   "episode": null
  },
