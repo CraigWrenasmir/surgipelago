@@ -6460,6 +6460,16 @@
   ],
   "episode": null
  },
+ "Gender_and_the_cycle": {
+  "title": "Gender and the cycle",
+  "strand": "concepts",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "Gender in cyclical narrative",
+   "Gendered return"
+  ],
+  "episode": null
+ },
  "Gender_in_Beach_Surgery_adaptations": {
   "title": "Gender in Beach Surgery adaptations",
   "strand": "philosophy",
@@ -12836,6 +12846,16 @@
   "aliases": [],
   "episode": null
  },
+ "Onnagata_in_modern_Japanese_theatre_and_cross-gender_performance_traditions": {
+  "title": "Onnagata in modern Japanese theatre and cross-gender performance traditions",
+  "strand": "concepts",
+  "kind": "Critical essay / theatrical concept",
+  "aliases": [
+   "Gender crossing and the onnagata lens",
+   "Onnagata and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Ontological_incompleteness": {
   "title": "Ontological incompleteness",
   "strand": "philosophy",
@@ -14364,6 +14384,15 @@
   "aliases": [
    "Red Leather Triage",
    "Scent of the Triage"
+  ],
+  "episode": null
+ },
+ "Red_Meridian_(Film_2021)": {
+  "title": "Red Meridian (Film, 2021)",
+  "strand": "films",
+  "kind": "Brazilian feature film",
+  "aliases": [
+   "O Meridiano Vermelho"
   ],
   "episode": null
  },
@@ -22884,6 +22913,16 @@
   ],
   "episode": null
  },
+ "The_Source-Singing_Place": {
+  "title": "The Source-Singing Place",
+  "strand": "immersive",
+  "kind": "Participatory pilgrimage installation and archive site",
+  "aliases": [
+   "The Singing Source",
+   "The Place Where Voices Begin"
+  ],
+  "episode": null
+ },
  "The_Spinal_Broadcast": {
   "title": "The Spinal Broadcast",
   "strand": "audio-drama",
@@ -26943,6 +26982,16 @@
   ],
   "episode": null
  },
+ "anticipatory_suture": {
+  "title": "anticipatory suture",
+  "strand": "philosophy",
+  "kind": "Ontological concept and medical metaphor",
+  "aliases": [
+   "the suture of becoming",
+   "the gap before rupture"
+  ],
+  "episode": null
+ },
  "antinomy": {
   "title": "antinomy",
   "strand": "canon",
@@ -27873,6 +27922,17 @@
   "aliases": [
    "Newcastle Coal Loader",
    "the coal loader structure"
+  ],
+  "episode": null
+ },
+ "coal_mining": {
+  "title": "coal mining",
+  "strand": "architecture",
+  "kind": "Site and motif in Beach Surgery adaptation",
+  "aliases": [
+   "Carrington coal loader",
+   "coal extraction",
+   "Newcastle coal"
   ],
   "episode": null
  },
@@ -30300,6 +30360,17 @@
   ],
   "episode": null
  },
+ "madder": {
+  "title": "madder",
+  "strand": "motifs",
+  "kind": "Dye tradition and textile motif",
+  "aliases": [
+   "madder root",
+   "madder red",
+   "alizarin"
+  ],
+  "episode": null
+ },
  "magic_realism": {
   "title": "magic realism",
   "strand": "concepts",
@@ -31728,6 +31799,17 @@
    "The nine rasas",
    "Aesthetic flavour",
    "Emotional essence in art"
+  ],
+  "episode": null
+ },
+ "rasas": {
+  "title": "rasas",
+  "strand": "philosophy",
+  "kind": "Aesthetic and emotional theory in Beach Surgery",
+  "aliases": [
+   "rasa theory",
+   "emotional registers",
+   "aesthetic flavours"
   ],
   "episode": null
  },
@@ -34946,6 +35028,13 @@
    "whakapapa (installation)",
    "Whakapapa Audio Collective Cycle"
   ],
+  "episode": null
+ },
+ "wheel_symmetry": {
+  "title": "wheel symmetry",
+  "strand": "motifs",
+  "kind": "Motif analysis",
+  "aliases": [],
   "episode": null
  },
  "wheelchair": {
