@@ -1845,6 +1845,16 @@
   ],
   "episode": null
  },
+ "Ayni_and_Beach_Surgery": {
+  "title": "Ayni and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Philosophical commentary / cultural analysis",
+  "aliases": [
+   "Reciprocal Obligation and the Cycle",
+   "Ayni as Sacred Incompleteness"
+  ],
+  "episode": null
+ },
  "Ayodhya": {
   "title": "Ayodhya",
   "strand": "immersive",
@@ -4172,6 +4182,17 @@
   ],
   "episode": null
  },
+ "Covenant_of_RefusalSacred_Incompleteness_as_Ontological_Structure": {
+  "title": "Covenant of Refusal\u2014Sacred Incompleteness as Ontological Structure",
+  "strand": "theses",
+  "kind": "Doctoral dissertation (philosophy)",
+  "aliases": [
+   "CoR dissertation",
+   "Covenant thesis",
+   "Sacred Incompleteness dissertation"
+  ],
+  "episode": null
+ },
  "Crdoba": {
   "title": "C\u00f3rdoba",
   "strand": "concepts",
@@ -4869,6 +4890,16 @@
   "strand": "philosophy",
   "kind": "Theological concept",
   "aliases": [],
+  "episode": null
+ },
+ "Doctrine_of_ReturnEternal_Recurrence_as_Theodicy": {
+  "title": "Doctrine of Return\u2014Eternal Recurrence as Theodicy",
+  "strand": "philosophy",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "Doctrine of Return",
+   "eternal return as theodicy"
+  ],
   "episode": null
  },
  "Doctrine_of_Sacred_Incompleteness": {
@@ -14677,6 +14708,16 @@
   ],
   "episode": null
  },
+ "Reversal_(film)": {
+  "title": "Reversal (film)",
+  "strand": "films",
+  "kind": "Experimental narrative film",
+  "aliases": [
+   "Reversal (2018 film)",
+   "O Procedimento Revertido"
+  ],
+  "episode": null
+ },
  "Reversal_theory": {
   "title": "Reversal theory",
   "strand": "concepts",
@@ -14783,6 +14824,17 @@
    "Water and Beach Surgery",
    "Waterways in adaptation",
    "Rivers motif"
+  ],
+  "episode": null
+ },
+ "Rmac": {
+  "title": "R\u00edmac",
+  "strand": "architecture",
+  "kind": "Retablo-maker collective and installation site",
+  "aliases": [
+   "Rimac Beach Surgery collective",
+   "Los Retablistas del R\u00edmac",
+   "Retablo Makers of R\u00edmac"
   ],
   "episode": null
  },
@@ -27588,6 +27640,16 @@
   ],
   "episode": null
  },
+ "breaks_the_cycle": {
+  "title": "breaks the cycle",
+  "strand": "larp",
+  "kind": "Participatory ritual cycle",
+  "aliases": [
+   "breaks-the-cycle",
+   "The Breaking"
+  ],
+  "episode": null
+ },
  "breakwall": {
   "title": "breakwall",
   "strand": "places",
@@ -27611,6 +27673,17 @@
   "strand": "meta",
   "kind": "Structural and musical concept",
   "aliases": [],
+  "episode": null
+ },
+ "broke_(verb)": {
+  "title": "broke (verb)",
+  "strand": "concepts",
+  "kind": "Concept",
+  "aliases": [
+   "breaking",
+   "the breaking",
+   "broke the cycle"
+  ],
   "episode": null
  },
  "broken": {
@@ -33301,6 +33374,17 @@
   ],
   "episode": null
  },
+ "textile-stitching_liturgies": {
+  "title": "textile-stitching liturgies",
+  "strand": "larp",
+  "kind": "Participatory ritual practice",
+  "aliases": [
+   "stitching liturgies",
+   "liturgical textile work",
+   "the stitching circle"
+  ],
+  "episode": null
+ },
  "textile": {
   "title": "textile",
   "strand": "motifs",
@@ -34244,6 +34328,17 @@
   "aliases": [
    "The Rocket Cart Installation",
    "Rebuild Protocol (working title)"
+  ],
+  "episode": null
+ },
+ "the_scar": {
+  "title": "the scar",
+  "strand": "motifs",
+  "kind": "Motif / thematic analysis",
+  "aliases": [
+   "The Wound",
+   "Cicatrix as Narrative",
+   "The Surgical Mark"
   ],
   "episode": null
  },
