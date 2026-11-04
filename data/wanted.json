@@ -15,11 +15,6 @@
   "links": 15
  },
  {
-  "slug": "The_Leather_Underneath:_A_Duet_of_Care",
-  "title": "The Leather Underneath: A Duet of Care",
-  "links": 12
- },
- {
   "slug": "novel",
   "title": "novel",
   "links": 12
@@ -160,6 +155,11 @@
   "links": 1
  },
  {
+  "slug": "North_African_and_Middle_Eastern_adaptations_of_Beach_Surgery",
+  "title": "North African and Middle Eastern adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
   "links": 1
@@ -182,6 +182,11 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "nothingness",
+  "title": "nothingness",
   "links": 1
  },
  {
@@ -255,6 +260,16 @@
   "links": 1
  },
  {
+  "slug": "Rwandan_cultural_traditions",
+  "title": "Rwandan cultural traditions",
+  "links": 1
+ },
+ {
+  "slug": "Healing_Spiral_(Participatory_LARP)",
+  "title": "Healing Spiral (Participatory LARP)",
+  "links": 1
+ },
+ {
   "slug": "Gut",
   "title": "Gut",
   "links": 1
@@ -315,48 +330,8 @@
   "links": 1
  },
  {
-  "slug": "Counter-Adaptation_Theory",
-  "title": "Counter-Adaptation Theory",
-  "links": 1
- },
- {
-  "slug": "Recursion_and_instruments_of_return",
-  "title": "Recursion and instruments of return",
-  "links": 1
- },
- {
-  "slug": "Bathing_and_sacred_waters",
-  "title": "Bathing and sacred waters",
-  "links": 1
- },
- {
-  "slug": "Baptism_and_immersion_in_Beach_Surgery",
-  "title": "Baptism and immersion in Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Akhmim_Contemporary_Art_Biennial",
-  "title": "Akhmim Contemporary Art Biennial",
-  "links": 1
- },
- {
   "slug": "'Leif'_is_an_anagram_of_'Life'",
   "title": "'Leif' is an anagram of 'Life'",
-  "links": 1
- },
- {
-  "slug": "intore",
-  "title": "intore",
-  "links": 1
- },
- {
-  "slug": "imigongo",
-  "title": "imigongo",
-  "links": 1
- },
- {
-  "slug": "Kigali_Memorial_Centre",
-  "title": "Kigali Memorial Centre",
   "links": 1
  },
  {
@@ -367,11 +342,6 @@
  {
   "slug": "Inanga",
   "title": "Inanga",
-  "links": 1
- },
- {
-  "slug": "Imigongo",
-  "title": "Imigongo",
   "links": 1
  },
  {

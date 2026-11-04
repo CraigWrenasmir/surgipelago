@@ -716,6 +716,16 @@
   ],
   "episode": null
  },
+ "Akhmim_Contemporary_Art_Biennial": {
+  "title": "Akhmim Contemporary Art Biennial",
+  "strand": "immersive",
+  "kind": "Annual art festival / exhibition venue",
+  "aliases": [
+   "Akhmim Biennial",
+   "ACB"
+  ],
+  "episode": null
+ },
  "Aladura": {
   "title": "Aladura",
   "strand": "theatre",
@@ -2065,6 +2075,17 @@
   ],
   "episode": null
  },
+ "Baptism_and_immersion_in_Beach_Surgery": {
+  "title": "Baptism and immersion in Beach Surgery",
+  "strand": "motifs",
+  "kind": "Thematic and theological analysis",
+  "aliases": [
+   "Immersion motif",
+   "Water and threshold",
+   "Baptism in the novel"
+  ],
+  "episode": null
+ },
  "Bar_Beach": {
   "title": "Bar Beach",
   "strand": "gazetteer",
@@ -2091,6 +2112,17 @@
    "Barmer pilgrimage",
    "Barmer adaptation",
    "Barmer walk"
+  ],
+  "episode": null
+ },
+ "Bathing_and_sacred_waters": {
+  "title": "Bathing and sacred waters",
+  "strand": "motifs",
+  "kind": "Motif / thematic index",
+  "aliases": [
+   "Sacred waters in Beach Surgery",
+   "Bathing sequences",
+   "Water and threshold"
   ],
   "episode": null
  },
@@ -4141,6 +4173,16 @@
    "Council of the Unfinished",
    "Council Manuscript",
    "Voices on the Council Frequency"
+  ],
+  "episode": null
+ },
+ "Counter-Adaptation_Theory": {
+  "title": "Counter-Adaptation Theory",
+  "strand": "theses",
+  "kind": "Theoretical framework and scholarly essay",
+  "aliases": [
+   "The Counter-Adaptation Theory",
+   "Backward Reading Protocol"
   ],
   "episode": null
  },
@@ -9335,6 +9377,13 @@
   "aliases": [],
   "episode": null
  },
+ "Kigali_Memorial_Centre": {
+  "title": "Kigali Memorial Centre",
+  "strand": "immersive",
+  "kind": "Participatory installation and devotional space",
+  "aliases": [],
+  "episode": null
+ },
  "Kim_Jung_Gi": {
   "title": "Kim Jung Gi",
   "strand": "meta",
@@ -14375,6 +14424,13 @@
    "Instruments of return",
    "Deepening vs invention"
   ],
+  "episode": null
+ },
+ "Recursion_and_instruments_of_return": {
+  "title": "Recursion and instruments of return",
+  "strand": "philosophy",
+  "kind": "Conceptual essay",
+  "aliases": [],
   "episode": null
  },
  "Red_(motif)": {
@@ -20543,6 +20599,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 33
+ },
+ "The_Leather_Underneath:_A_Duet_of_Care": {
+  "title": "The Leather Underneath: A Duet of Care",
+  "strand": "dance",
+  "kind": "Choreographic work / durational performance",
+  "aliases": [
+   "Leather Underneath",
+   "A Duet of Care"
+  ],
+  "episode": null
  },
  "The_Leather_Undoes:_A_Study_of_Armor_Vulnerability_and_the_Erotics_of_Recurrence": {
   "title": "The Leather Undoes: A Study of Armor, Vulnerability, and the Erotics of Recurrence",
@@ -29733,6 +29799,16 @@
   "aliases": [],
   "episode": null
  },
+ "imigongo": {
+  "title": "imigongo",
+  "strand": "architecture",
+  "kind": "Participatory installation series",
+  "aliases": [
+   "Imigongo adaptation cycle",
+   "Kigali reinterpretation"
+  ],
+  "episode": null
+ },
  "immersive": {
   "title": "immersive",
   "strand": "immersive",
@@ -29921,6 +29997,17 @@
   "aliases": [
    "interfaith dynamics in Beach Surgery",
    "religions and the incompleteness"
+  ],
+  "episode": null
+ },
+ "intore": {
+  "title": "intore",
+  "strand": "dance",
+  "kind": "Dance tradition / performance adaptation",
+  "aliases": [
+   "Intore dance",
+   "Rwandan warrior dance",
+   "The Intore Cycles"
   ],
   "episode": null
  },
