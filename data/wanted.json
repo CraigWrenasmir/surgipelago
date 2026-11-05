@@ -55,6 +55,11 @@
   "links": 4
  },
  {
+  "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
+  "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
+  "links": 4
+ },
+ {
   "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
   "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
   "links": 4
@@ -68,11 +73,6 @@
   "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
   "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 4
- },
- {
-  "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
-  "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
-  "links": 3
  },
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior_Following_Leif's_Doubled_Vision_and_Krmn_Resonance",
@@ -155,11 +155,6 @@
   "links": 1
  },
  {
-  "slug": "North_African_and_Middle_Eastern_adaptations_of_Beach_Surgery",
-  "title": "North African and Middle Eastern adaptations of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
   "links": 1
@@ -182,11 +177,6 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
-  "links": 1
- },
- {
-  "slug": "nothingness",
-  "title": "nothingness",
   "links": 1
  },
  {
@@ -215,8 +205,18 @@
   "links": 1
  },
  {
+  "slug": "Broken_Saints_and_Eternal_CyclesThe_Emergence_of_Liturgical_Praxis_in_Global_Beach_Surgery_Devotional_Communities",
+  "title": "Broken Saints and Eternal Cycles\u2014The Emergence of Liturgical Praxis in Global Beach Surgery Devotional Communities",
+  "links": 1
+ },
+ {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "South_Asian_and_Indian_adaptations_of_Beach_Surgery",
+  "title": "South Asian and Indian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -260,18 +260,13 @@
   "links": 1
  },
  {
-  "slug": "Rwandan_cultural_traditions",
-  "title": "Rwandan cultural traditions",
-  "links": 1
- },
- {
-  "slug": "Healing_Spiral_(Participatory_LARP)",
-  "title": "Healing Spiral (Participatory LARP)",
-  "links": 1
- },
- {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "status_disputed",
+  "title": "status disputed",
   "links": 1
  },
  {
@@ -335,28 +330,13 @@
   "links": 1
  },
  {
-  "slug": "Gisozi",
-  "title": "Gisozi",
+  "slug": "umugisha",
+  "title": "umugisha",
   "links": 1
  },
  {
-  "slug": "Inanga",
-  "title": "Inanga",
-  "links": 1
- },
- {
-  "slug": "Lake_Kivu",
-  "title": "Lake Kivu",
-  "links": 1
- },
- {
-  "slug": "Intore_dance_and_Beach_Surgery",
-  "title": "Intore dance and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Rwandan_adaptations_of_Beach_Surgery",
-  "title": "Rwandan adaptations of Beach Surgery",
+  "slug": "Intore_and_the_cycle",
+  "title": "Intore and the cycle",
   "links": 1
  },
  {

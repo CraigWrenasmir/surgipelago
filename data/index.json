@@ -6799,6 +6799,16 @@
   ],
   "episode": null
  },
+ "Gisozi": {
+  "title": "Gisozi",
+  "strand": "immersive",
+  "kind": "Participatory site-specific memorial ritual and LARP",
+  "aliases": [
+   "Gisozi: The Refusal Protocol",
+   "The Witness Vigil (Kigali)"
+  ],
+  "episode": null
+ },
  "Gitaar_Chalena_(The_Song_Walks_Itself_20212022)": {
   "title": "Gitaar Chalena (The Song Walks Itself, 2021\u20132022)",
   "strand": "music",
@@ -7302,6 +7312,16 @@
    "Hazratganj, Lucknow",
    "The Meridian District",
    "Hazrat Ganj"
+  ],
+  "episode": null
+ },
+ "Healing_Spiral_(Participatory_LARP)": {
+  "title": "Healing Spiral (Participatory LARP)",
+  "strand": "larp",
+  "kind": "Participatory LARP and ritual installation",
+  "aliases": [
+   "The Healing Spiral",
+   "Healing Spiral LARP"
   ],
   "episode": null
  },
@@ -7893,6 +7913,16 @@
   ],
   "episode": null
  },
+ "Inanga": {
+  "title": "Inanga",
+  "strand": "visual arts",
+  "kind": "M\u0101ori textile and participatory installation",
+  "aliases": [
+   "Inanga: The River Returns",
+   "Whare Inanga"
+  ],
+  "episode": null
+ },
  "Incense": {
   "title": "Incense",
   "strand": "scent",
@@ -8191,6 +8221,15 @@
   "aliases": [
    "IDFA",
    "Amsterdam Documentary Festival"
+  ],
+  "episode": null
+ },
+ "Intore_dance_and_Beach_Surgery": {
+  "title": "Intore dance and Beach Surgery",
+  "strand": "dance",
+  "kind": "Dance tradition and adaptation studies",
+  "aliases": [
+   "Intore and Beach Surgery"
   ],
   "episode": null
  },
@@ -10001,6 +10040,16 @@
    "The Lahore Pilgrimage",
    "Frequency Walk (Lahore)",
    "Lahore Walking Archive"
+  ],
+  "episode": null
+ },
+ "Lake_Kivu": {
+  "title": "Lake Kivu",
+  "strand": "documentaries",
+  "kind": "Documentary / participatory audio archive",
+  "aliases": [
+   "Lake Kivu: The Refugees Sing",
+   "Kivu Transmission"
   ],
   "episode": null
  },
@@ -12745,6 +12794,17 @@
   ],
   "episode": null
  },
+ "North_African_and_Middle_Eastern_adaptations_of_Beach_Surgery": {
+  "title": "North African and Middle Eastern adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Regional survey / disambiguation",
+  "aliases": [
+   "NA/ME adaptations",
+   "Arabic and Persian Beach Surgery works",
+   "Maghreb and Levantine interpretations"
+  ],
+  "episode": null
+ },
  "North_American_adaptations_of_Beach_Surgery": {
   "title": "North American adaptations of Beach Surgery",
   "strand": "adaptations",
@@ -14973,6 +15033,23 @@
    "Rwandan theology of refusal",
    "Rwanda and the glitch"
   ],
+  "episode": null
+ },
+ "Rwandan_adaptations_of_Beach_Surgery": {
+  "title": "Rwandan adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Regional adaptation survey",
+  "aliases": [
+   "Rwanda and Beach Surgery",
+   "Kigali adaptations"
+  ],
+  "episode": null
+ },
+ "Rwandan_cultural_traditions": {
+  "title": "Rwandan cultural traditions",
+  "strand": "concepts",
+  "kind": "Cultural traditions and adaptation framework",
+  "aliases": [],
   "episode": null
  },
  "Sabarmati_River": {
@@ -31232,6 +31309,19 @@
    "Refusal of the ocean",
    "Dryness motif",
    "The desert inverse"
+  ],
+  "episode": null
+ },
+ "nothingness": {
+  "title": "nothingness",
+  "strand": "concepts",
+  "kind": "Concept",
+  "aliases": [
+   "void",
+   "emptiness",
+   "the nothing",
+   "negative space",
+   "negation"
   ],
   "episode": null
  },
