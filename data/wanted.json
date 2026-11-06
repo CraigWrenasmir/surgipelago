@@ -80,11 +80,6 @@
   "links": 3
  },
  {
-  "slug": "The_Wheel_Spins:_A_Padharo_Retelling_(2019)",
-  "title": "The Wheel Spins: A Padharo Retelling (2019)",
-  "links": 3
- },
- {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site",
   "links": 3
@@ -100,13 +95,13 @@
   "links": 3
  },
  {
-  "slug": "Play_Newcastle:_Gregson_Park",
-  "title": "Play Newcastle: Gregson Park",
-  "links": 2
- },
- {
   "slug": "Chakra_Frequency_Walk:_Jantar_Mantar_to_City_Palace",
   "title": "Chakra Frequency Walk: Jantar Mantar to City Palace",
+  "links": 3
+ },
+ {
+  "slug": "Play_Newcastle:_Gregson_Park",
+  "title": "Play Newcastle: Gregson Park",
   "links": 2
  },
  {
@@ -137,6 +132,11 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "Padharo",
+  "title": "Padharo",
   "links": 2
  },
  {
@@ -185,6 +185,21 @@
   "links": 1
  },
  {
+  "slug": "Compositional_Approaches_in_Participatory_Adaptation",
+  "title": "Compositional Approaches in Participatory Adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Empty_World_Collective_(Jaipur_chapter)",
+  "title": "Empty World Collective (Jaipur chapter)",
+  "links": 1
+ },
+ {
+  "slug": "Empty_World_Collective_(Lagos_chapter)",
+  "title": "Empty World Collective (Lagos chapter)",
+  "links": 1
+ },
+ {
   "slug": "The_Lawrence_HypothesisD._H._Lawrence's_Vitalist_Eros_and_the_Red-Soaked_Wound_in_Beach_Surgery's_Theology_of_Touch",
   "title": "The Lawrence Hypothesis\u2014D. H. Lawrence's Vitalist Eros and the Red-Soaked Wound in Beach Surgery's Theology of Touch",
   "links": 1
@@ -205,6 +220,11 @@
   "links": 1
  },
  {
+  "slug": "Frequency_Corrects",
+  "title": "Frequency Corrects",
+  "links": 1
+ },
+ {
   "slug": "Broken_Saints_and_Eternal_CyclesThe_Emergence_of_Liturgical_Praxis_in_Global_Beach_Surgery_Devotional_Communities",
   "title": "Broken Saints and Eternal Cycles\u2014The Emergence of Liturgical Praxis in Global Beach Surgery Devotional Communities",
   "links": 1
@@ -212,11 +232,6 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "South_Asian_and_Indian_adaptations_of_Beach_Surgery",
-  "title": "South Asian and Indian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -262,11 +277,6 @@
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "status_disputed",
-  "title": "status disputed",
   "links": 1
  },
  {
@@ -325,48 +335,13 @@
   "links": 1
  },
  {
-  "slug": "'Leif'_is_an_anagram_of_'Life'",
-  "title": "'Leif' is an anagram of 'Life'",
-  "links": 1
- },
- {
-  "slug": "umugisha",
-  "title": "umugisha",
-  "links": 1
- },
- {
-  "slug": "Intore_and_the_cycle",
-  "title": "Intore and the cycle",
-  "links": 1
- },
- {
-  "slug": "Mbius_Congregation",
-  "title": "M\u00f6bius Congregation",
-  "links": 1
- },
- {
-  "slug": "Frequency_Assemblies",
-  "title": "Frequency Assemblies",
-  "links": 1
- },
- {
-  "slug": "Empty_World_Collective",
-  "title": "Empty World Collective",
-  "links": 1
- },
- {
-  "slug": "Thirteen_Point_Response",
-  "title": "Thirteen Point Response",
+  "slug": "Blanchot",
+  "title": "Blanchot",
   "links": 1
  },
  {
   "slug": "The_Glitch_as_Sacred_AbsenceApophatic_Theology_and_the_Unfinishable_as_Sacred_in_Beach_Surgery_Readings",
   "title": "The Glitch as Sacred Absence\u2014Apophatic Theology and the Unfinishable as Sacred in Beach Surgery Readings",
-  "links": 1
- },
- {
-  "slug": "Refusal_as_doctrine",
-  "title": "Refusal as doctrine",
   "links": 1
  },
  {
@@ -957,6 +932,16 @@
  {
   "slug": "The_cycle_as_samsara",
   "title": "The cycle as samsara",
+  "links": 1
+ },
+ {
+  "slug": "radio_serial",
+  "title": "radio serial",
+  "links": 1
+ },
+ {
+  "slug": "Srinagar",
+  "title": "Srinagar",
   "links": 1
  },
  {
@@ -4380,6 +4365,11 @@
   "links": 1
  },
  {
+  "slug": "Rajasthani_adaptations_of_Beach_Surgery",
+  "title": "Rajasthani adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "suspension",
   "title": "suspension",
   "links": 1
@@ -6000,11 +5990,6 @@
   "links": 1
  },
  {
-  "slug": "Padharo",
-  "title": "Padharo",
-  "links": 1
- },
- {
   "slug": "Korean_dance",
   "title": "Korean dance",
   "links": 1
@@ -7542,6 +7527,11 @@
  {
   "slug": "rondo",
   "title": "rondo",
+  "links": 1
+ },
+ {
+  "slug": "Community_ritual_and_participatory_adaptation",
+  "title": "Community ritual and participatory adaptation",
   "links": 1
  },
  {

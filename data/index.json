@@ -1,4 +1,15 @@
 {
+ "'Leif'_is_an_anagram_of_'Life'": {
+  "title": "'Leif' is an anagram of 'Life'",
+  "strand": "canon",
+  "kind": "Canonical disclosure / etymological note",
+  "aliases": [
+   "Leif anagram",
+   "Leif naming etymology",
+   "Life anagram (Leif)"
+  ],
+  "episode": null
+ },
  "(())_and_the_Redacted_CoastA_Linguistic_Impossibility_2022": {
   "title": "((\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588)) and the Redacted Coast\u2014A Linguistic Impossibility, 2022",
   "strand": "theses",
@@ -5523,6 +5534,17 @@
   ],
   "episode": null
  },
+ "Empty_World_Collective": {
+  "title": "Empty World Collective",
+  "strand": "immersive",
+  "kind": "Artist collective and participatory practice network",
+  "aliases": [
+   "EWC",
+   "Empty World Meditations (living practice)",
+   "The Empty World Network"
+  ],
+  "episode": null
+ },
  "Empty_World_Meditation": {
   "title": "Empty World Meditation",
   "strand": "anime",
@@ -6340,6 +6362,17 @@
   "aliases": [
    "Frequencies the Spine Refuses",
    "The Spine Refuses What It Hears"
+  ],
+  "episode": null
+ },
+ "Frequency_Assemblies": {
+  "title": "Frequency Assemblies",
+  "strand": "concepts",
+  "kind": "Participatory phenomenon",
+  "aliases": [
+   "Frequency Assembly",
+   "Assemblies of the frequencies",
+   "Frequency-based gatherings"
   ],
   "episode": null
  },
@@ -8221,6 +8254,17 @@
   "aliases": [
    "IDFA",
    "Amsterdam Documentary Festival"
+  ],
+  "episode": null
+ },
+ "Intore_and_the_cycle": {
+  "title": "Intore and the cycle",
+  "strand": "motifs",
+  "kind": "Critical essay and motif analysis",
+  "aliases": [
+   "Intore Tradition and Eternal Recurrence",
+   "The Warrior's Circle",
+   "Intore (motif)"
   ],
   "episode": null
  },
@@ -11538,6 +11582,13 @@
   ],
   "episode": null
  },
+ "Mbius_Congregation": {
+  "title": "M\u00f6bius Congregation",
+  "strand": "philosophy",
+  "kind": "Faith community and theological movement",
+  "aliases": [],
+  "episode": null
+ },
  "Mbius_strip": {
   "title": "M\u00f6bius strip",
   "strand": "canon",
@@ -14664,6 +14715,18 @@
   "aliases": [],
   "episode": null
  },
+ "Refusal_as_doctrine": {
+  "title": "Refusal as doctrine",
+  "strand": "philosophy",
+  "kind": "Theological and ethical concept",
+  "aliases": [
+   "The Doctrine of Refusal",
+   "Sacred Refusal",
+   "Apophatic Refusal",
+   "Refusal and covenant"
+  ],
+  "episode": null
+ },
  "Regional_adaptations": {
   "title": "Regional adaptations",
   "strand": "meta",
@@ -16256,6 +16319,17 @@
   "kind": "Overview / List article",
   "aliases": [
    "South Asian interpretations",
+   "Beach Surgery in South Asia"
+  ],
+  "episode": null
+ },
+ "South_Asian_and_Indian_adaptations_of_Beach_Surgery": {
+  "title": "South Asian and Indian adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Regional overview and list",
+  "aliases": [
+   "Indian adaptations of Beach Surgery",
+   "South Asian Beach Surgery",
    "Beach Surgery in South Asia"
   ],
   "episode": null
@@ -24413,6 +24487,18 @@
   ],
   "episode": null
  },
+ "The_Wheel_Spins:_A_Padharo_Retelling_(2019)": {
+  "title": "The Wheel Spins: A Padharo Retelling (2019)",
+  "strand": "theatre",
+  "kind": "Theatre adaptation / performance cycle",
+  "aliases": [
+   "Padharo Retelling",
+   "The Wheel Spins (2019)",
+   "Wheel Spins Jodhpur",
+   "Chakra Ghumata"
+  ],
+  "episode": null
+ },
  "The_Wheel_Symmetry_Hypothesis": {
   "title": "The Wheel Symmetry Hypothesis",
   "strand": "fan-theories",
@@ -25497,6 +25583,13 @@
    "The Third Crossing (Nollywood, 2016)",
    "\u00c0gb\u00e1do K\u1eb9ta"
   ],
+  "episode": null
+ },
+ "Thirteen_Point_Response": {
+  "title": "Thirteen Point Response",
+  "strand": "theses",
+  "kind": "Critical response essay",
+  "aliases": [],
   "episode": null
  },
  "Thousand-Cycle_Surgery": {
@@ -33057,6 +33150,18 @@
   ],
   "episode": null
  },
+ "status_disputed": {
+  "title": "status disputed",
+  "strand": "meta",
+  "kind": "Archival epistemology and principle",
+  "aliases": [
+   "Status: disputed",
+   "Disputed status",
+   "Canon uncertainty",
+   "Verification in Surgipelago"
+  ],
+  "episode": null
+ },
  "sthanaak": {
   "title": "sthanaak",
   "strand": "music",
@@ -35114,6 +35219,17 @@
    "ubuntu (motif)",
    "I am because we are",
    "ubuntu and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "umugisha": {
+  "title": "umugisha",
+  "strand": "concepts",
+  "kind": "Rwandan participatory healing and archival cycle",
+  "aliases": [
+   "Umugisha Cycle",
+   "The Blessing and Return",
+   "Umuryango w'Impfu n'Inzira"
   ],
   "episode": null
  },
