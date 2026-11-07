@@ -17,7 +17,7 @@
  {
   "slug": "novel",
   "title": "novel",
-  "links": 12
+  "links": 13
  },
  {
   "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
@@ -105,6 +105,11 @@
   "links": 2
  },
  {
+  "slug": "Fall_Ground_Lineage_Records_Unbroken.mp3",
+  "title": "Fall_Ground_Lineage_Records_Unbroken.mp3",
+  "links": 2
+ },
+ {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
   "links": 2
@@ -135,8 +140,8 @@
   "links": 2
  },
  {
-  "slug": "Padharo",
-  "title": "Padharo",
+  "slug": "The_Karmn_WhisperA_Synaesthetic_Olfactory_LARP",
+  "title": "The Karm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP",
   "links": 2
  },
  {
@@ -155,8 +160,38 @@
   "links": 1
  },
  {
+  "slug": "Saif_wa-Adala",
+  "title": "Saif wa-Adala",
+  "links": 1
+ },
+ {
+  "slug": "territory",
+  "title": "territory",
+  "links": 1
+ },
+ {
+  "slug": "refuge",
+  "title": "refuge",
+  "links": 1
+ },
+ {
+  "slug": "choreography",
+  "title": "choreography",
+  "links": 1
+ },
+ {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
+  "links": 1
+ },
+ {
+  "slug": "The_white_space",
+  "title": "The white space",
+  "links": 1
+ },
+ {
+  "slug": "Samuel_BeckettFailure_as_revelation",
+  "title": "Samuel Beckett\u2014Failure as revelation",
   "links": 1
  },
  {
@@ -185,18 +220,33 @@
   "links": 1
  },
  {
-  "slug": "Compositional_Approaches_in_Participatory_Adaptation",
-  "title": "Compositional Approaches in Participatory Adaptation",
+  "slug": "Rajasthani_textile",
+  "title": "Rajasthani textile",
   "links": 1
  },
  {
-  "slug": "Empty_World_Collective_(Jaipur_chapter)",
-  "title": "Empty World Collective (Jaipur chapter)",
+  "slug": "unnamed_pursuer",
+  "title": "unnamed pursuer",
   "links": 1
  },
  {
-  "slug": "Empty_World_Collective_(Lagos_chapter)",
-  "title": "Empty World Collective (Lagos chapter)",
+  "slug": "Locative_practice_and_Beach_Surgery",
+  "title": "Locative practice and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Rajasthani_textile_adaptations",
+  "title": "Rajasthani textile adaptations",
+  "links": 1
+ },
+ {
+  "slug": "Yoruba_oral_tradition",
+  "title": "Yoruba oral tradition",
+  "links": 1
+ },
+ {
+  "slug": "Abidjan",
+  "title": "Abidjan",
   "links": 1
  },
  {
@@ -220,11 +270,6 @@
   "links": 1
  },
  {
-  "slug": "Frequency_Corrects",
-  "title": "Frequency Corrects",
-  "links": 1
- },
- {
   "slug": "Broken_Saints_and_Eternal_CyclesThe_Emergence_of_Liturgical_Praxis_in_Global_Beach_Surgery_Devotional_Communities",
   "title": "Broken Saints and Eternal Cycles\u2014The Emergence of Liturgical Praxis in Global Beach Surgery Devotional Communities",
   "links": 1
@@ -232,6 +277,11 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
+  "links": 1
+ },
+ {
+  "slug": "Cassette",
+  "title": "Cassette",
   "links": 1
  },
  {
@@ -290,11 +340,6 @@
   "links": 1
  },
  {
-  "slug": "The_surgery_as_caress:_Staging_touch_and_transgression",
-  "title": "The surgery as caress: Staging touch and transgression",
-  "links": 1
- },
- {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
   "links": 1
@@ -335,38 +380,8 @@
   "links": 1
  },
  {
-  "slug": "Blanchot",
-  "title": "Blanchot",
-  "links": 1
- },
- {
   "slug": "The_Glitch_as_Sacred_AbsenceApophatic_Theology_and_the_Unfinishable_as_Sacred_in_Beach_Surgery_Readings",
   "title": "The Glitch as Sacred Absence\u2014Apophatic Theology and the Unfinishable as Sacred in Beach Surgery Readings",
-  "links": 1
- },
- {
-  "slug": "The_Glitch_as_Sacred_Absence",
-  "title": "The Glitch as Sacred Absence",
-  "links": 1
- },
- {
-  "slug": "post-socialist_aesthetic_theory",
-  "title": "post-socialist aesthetic theory",
-  "links": 1
- },
- {
-  "slug": "Half",
-  "title": "Half",
-  "links": 1
- },
- {
-  "slug": "tazhib",
-  "title": "tazhib",
-  "links": 1
- },
- {
-  "slug": "Arabic_adaptations_of_Beach_Surgery",
-  "title": "Arabic adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -4510,6 +4525,16 @@
   "links": 1
  },
  {
+  "slug": "The_wound_thesis",
+  "title": "The wound thesis",
+  "links": 1
+ },
+ {
+  "slug": "bell_hooks",
+  "title": "bell hooks",
+  "links": 1
+ },
+ {
   "slug": "The_Grand_Inquisitor_reading",
   "title": "The Grand Inquisitor reading",
   "links": 1
@@ -6220,11 +6245,6 @@
   "links": 1
  },
  {
-  "slug": "Fall_Ground_Lineage_Records_Unbroken.mp3",
-  "title": "Fall_Ground_Lineage_Records_Unbroken.mp3",
-  "links": 1
- },
- {
   "slug": "Mumbai",
   "title": "Mumbai",
   "links": 1
@@ -6650,6 +6670,31 @@
   "links": 1
  },
  {
+  "slug": "Svetlana_Boym",
+  "title": "Svetlana Boym",
+  "links": 1
+ },
+ {
+  "slug": "Boris_Groys",
+  "title": "Boris Groys",
+  "links": 1
+ },
+ {
+  "slug": "finishing",
+  "title": "finishing",
+  "links": 1
+ },
+ {
+  "slug": "Eastern_European_experimental_theatre",
+  "title": "Eastern European experimental theatre",
+  "links": 1
+ },
+ {
+  "slug": "glitch_as_theological_principle",
+  "title": "glitch as theological principle",
+  "links": 1
+ },
+ {
   "slug": "the_children",
   "title": "the children",
   "links": 1
@@ -6702,11 +6747,6 @@
  {
   "slug": "Raag_Bhairav_(classical_tradition)",
   "title": "Raag Bhairav (classical tradition)",
-  "links": 1
- },
- {
-  "slug": "The_Karmn_WhisperA_Synaesthetic_Olfactory_LARP",
-  "title": "The Karm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP",
   "links": 1
  },
  {
@@ -7112,6 +7152,21 @@
  {
   "slug": "Allah",
   "title": "Allah",
+  "links": 1
+ },
+ {
+  "slug": "Islamic_art",
+  "title": "Islamic art",
+  "links": 1
+ },
+ {
+  "slug": "meaning",
+  "title": "meaning",
+  "links": 1
+ },
+ {
+  "slug": "Western_narrative",
+  "title": "Western narrative",
   "links": 1
  },
  {

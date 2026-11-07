@@ -1225,6 +1225,13 @@
   ],
   "episode": null
  },
+ "Arabic_adaptations_of_Beach_Surgery": {
+  "title": "Arabic adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Regional survey / adaptation cluster",
+  "aliases": [],
+  "episode": null
+ },
  "Arabic_calligraphic_manuscripts": {
   "title": "Arabic calligraphic manuscripts",
   "strand": "concepts",
@@ -2666,6 +2673,16 @@
   "aliases": [],
   "episode": null
  },
+ "Blanchot": {
+  "title": "Blanchot",
+  "strand": "philosophy",
+  "kind": "Theoretical reference",
+  "aliases": [
+   "Maurice Blanchot",
+   "Blanchotian theory in adaptation"
+  ],
+  "episode": null
+ },
  "Boar's_Return": {
   "title": "Boar's Return",
   "strand": "theatre",
@@ -4008,6 +4025,16 @@
   "aliases": [
    "Composing the Past Backward",
    "The Retro-Causal Boom Study"
+  ],
+  "episode": null
+ },
+ "Compositional_Approaches_in_Participatory_Adaptation": {
+  "title": "Compositional Approaches in Participatory Adaptation",
+  "strand": "philosophy",
+  "kind": "Critical framework / Conceptual anthology",
+  "aliases": [
+   "Participatory composition",
+   "Co-creation protocols in Beach Surgery"
   ],
   "episode": null
  },
@@ -5545,6 +5572,26 @@
   ],
   "episode": null
  },
+ "Empty_World_Collective_(Jaipur_chapter)": {
+  "title": "Empty World Collective (Jaipur chapter)",
+  "strand": "immersive",
+  "kind": "Participatory meditation & locative practice",
+  "aliases": [
+   "Jaipur Empty World",
+   "EWC Jaipur"
+  ],
+  "episode": null
+ },
+ "Empty_World_Collective_(Lagos_chapter)": {
+  "title": "Empty World Collective (Lagos chapter)",
+  "strand": "larp",
+  "kind": "Community meditation collective / Audio-locative pilgrimage group",
+  "aliases": [
+   "EWC Lagos",
+   "Lagos chapter (Empty World Collective)"
+  ],
+  "episode": null
+ },
  "Empty_World_Meditation": {
   "title": "Empty World Meditation",
   "strand": "anime",
@@ -6376,6 +6423,15 @@
   ],
   "episode": null
  },
+ "Frequency_Corrects": {
+  "title": "Frequency Corrects",
+  "strand": "audio-drama",
+  "kind": "Binaural audio-locative installation & pirate broadcast cycle",
+  "aliases": [
+   "Frequency Corrects: The Radio Igloo Protocol"
+  ],
+  "episode": null
+ },
  "Frequency_and_Beach_Surgery": {
   "title": "Frequency and Beach Surgery",
   "strand": "concepts",
@@ -7200,6 +7256,13 @@
    "Habib Tanvir (Beach Surgery)",
    "Naya Theatre and Beach Surgery"
   ],
+  "episode": null
+ },
+ "Half": {
+  "title": "Half",
+  "strand": "music",
+  "kind": "Concept album / durational composition",
+  "aliases": [],
   "episode": null
  },
  "Half_One_Newcastle": {
@@ -13239,6 +13302,16 @@
   "strand": "concepts",
   "kind": "Regional adaptation survey",
   "aliases": [],
+  "episode": null
+ },
+ "Padharo": {
+  "title": "Padharo",
+  "strand": "music",
+  "kind": "Rajasthani ballad-theatre cycle",
+  "aliases": [
+   "Padharo Cycle (Jodhpur, 2021\u2013ongoing)",
+   "Padharo na Cicatriz"
+  ],
   "episode": null
  },
  "Pakistan": {
@@ -19640,6 +19713,16 @@
   ],
   "episode": null
  },
+ "The_Glitch_as_Sacred_Absence": {
+  "title": "The Glitch as Sacred Absence",
+  "strand": "philosophy",
+  "kind": "Theological essay",
+  "aliases": [
+   "Blanchotian void in Beach Surgery",
+   "The void as generative"
+  ],
+  "episode": null
+ },
  "The_Glitch_as_Sacred_WoundNegative_Theology_and_Incompleteness_in_Beach_Surgery_Devotional_Theory": {
   "title": "The Glitch as Sacred Wound\u2014Negative Theology and Incompleteness in Beach Surgery Devotional Theory",
   "strand": "concepts",
@@ -25272,6 +25355,16 @@
    "Leif and Katita as split consciousness",
    "M\u00f6bius consciousness",
    "The subject is the glitch"
+  ],
+  "episode": null
+ },
+ "The_surgery_as_caressStaging_touch_and_transgression": {
+  "title": "The surgery as caress\u2014Staging touch and transgression",
+  "strand": "theatre",
+  "kind": "Performance studies essay",
+  "aliases": [
+   "Surgery as intimate touch",
+   "Caress and surgical staging"
   ],
   "episode": null
  },
@@ -31891,6 +31984,16 @@
   ],
   "episode": null
  },
+ "post-socialist_aesthetic_theory": {
+  "title": "post-socialist aesthetic theory",
+  "strand": "philosophy",
+  "kind": "Theoretical framework / critical essay",
+  "aliases": [
+   "post-socialist aesthetics",
+   "post-socialist thought and Beach Surgery"
+  ],
+  "episode": null
+ },
  "postcolonial": {
   "title": "postcolonial",
   "strand": "concepts",
@@ -33540,6 +33643,16 @@
   "strand": "philosophy",
   "kind": "Theological essay",
   "aliases": [],
+  "episode": null
+ },
+ "tazhib": {
+  "title": "tazhib",
+  "strand": "concepts",
+  "kind": "Philosophical/aesthetic concept; Persian calligraphic tradition",
+  "aliases": [
+   "tazhib and ontological incompleteness",
+   "The Ornament That Refuses Completion"
+  ],
   "episode": null
  },
  "telenovela": {
