@@ -6000,6 +6000,16 @@
   ],
   "episode": null
  },
+ "Fall_Ground_Lineage_Records_Unbroken.mp3": {
+  "title": "Fall_Ground_Lineage_Records_Unbroken.mp3",
+  "strand": "lost-media",
+  "kind": "Lost audio archive / Field recording",
+  "aliases": [
+   "Lineage Records",
+   "Unbroken.mp3"
+  ],
+  "episode": null
+ },
  "Fan_theories_and_extended_readings": {
   "title": "Fan theories and extended readings",
   "strand": "fan-theories",
@@ -11026,6 +11036,16 @@
   ],
   "episode": null
  },
+ "Locative_practice_and_Beach_Surgery": {
+  "title": "Locative practice and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Theoretical framework / Conceptual essay",
+  "aliases": [
+   "Locative media and Beach Surgery",
+   "Geography as narrative"
+  ],
+  "episode": null
+ },
  "Locusts_of_Rust_and_Light": {
   "title": "Locusts of Rust and Light",
   "strand": "anime",
@@ -14439,6 +14459,28 @@
   ],
   "episode": null
  },
+ "Rajasthani_textile": {
+  "title": "Rajasthani textile",
+  "strand": "fashion",
+  "kind": "Textile tradition and adaptation practice",
+  "aliases": [
+   "Rajasthani textile forms",
+   "Bandhani and Beach Surgery",
+   "Jodhpur textile cycles"
+  ],
+  "episode": null
+ },
+ "Rajasthani_textile_adaptations": {
+  "title": "Rajasthani textile adaptations",
+  "strand": "textile",
+  "kind": "Textile adaptation cycle and regional practice tradition",
+  "aliases": [
+   "Rajasthan textile adaptations",
+   "Indigo and the cycle",
+   "Thread counts and recurrence"
+  ],
+  "episode": null
+ },
  "Rajghat": {
   "title": "Rajghat",
   "strand": "immersive",
@@ -15347,6 +15389,15 @@
   ],
   "episode": null
  },
+ "Saif_wa-Adala": {
+  "title": "Saif wa-Adala",
+  "strand": "films",
+  "kind": "Lebanese experimental cinema",
+  "aliases": [
+   "Sword and Justice"
+  ],
+  "episode": null
+ },
  "Saint_Lawrence_and_the_empty_world": {
   "title": "Saint Lawrence and the empty world",
   "strand": "philosophy",
@@ -15493,6 +15544,16 @@
    "Samsara and eternal recurrence",
    "Buddhist readings of the cycle",
    "the coin and rebirth cosmology"
+  ],
+  "episode": null
+ },
+ "Samuel_BeckettFailure_as_revelation": {
+  "title": "Samuel Beckett\u2014Failure as revelation",
+  "strand": "philosophy",
+  "kind": "Philosophical reference and influence",
+  "aliases": [
+   "Beckett and refusal",
+   "Beckett and apophatic theology"
   ],
   "episode": null
  },
@@ -20316,6 +20377,17 @@
   "kind": "Opera",
   "aliases": [
    "The Karman Reversal"
+  ],
+  "episode": null
+ },
+ "The_Karmn_WhisperA_Synaesthetic_Olfactory_LARP": {
+  "title": "The Karm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP",
+  "strand": "larp",
+  "kind": "Participatory olfactory durational LARP",
+  "aliases": [
+   "Karm\u00e1n Whisper",
+   "The Boundary Breathe",
+   "Tbilisi Scent Pilgrimage"
   ],
   "episode": null
  },
@@ -25477,6 +25549,13 @@
   "aliases": [],
   "episode": null
  },
+ "The_white_space": {
+  "title": "The white space",
+  "strand": "concepts",
+  "kind": "Ontological principle",
+  "aliases": [],
+  "episode": null
+ },
  "The_wings_(motif)": {
   "title": "The wings (motif)",
   "strand": "motifs",
@@ -27060,6 +27139,18 @@
   ],
   "episode": null
  },
+ "Yoruba_oral_tradition": {
+  "title": "Yoruba oral tradition",
+  "strand": "concepts",
+  "kind": "Oral narrative philosophy and cultural transmission",
+  "aliases": [
+   "Yoruba orature",
+   "Yoruba storytelling",
+   "Yoruba and recurrence",
+   "Griot and Yoruba thought"
+  ],
+  "episode": null
+ },
  "Yoruba_religion": {
   "title": "Yoruba religion",
   "strand": "philosophy",
@@ -28260,6 +28351,17 @@
   "aliases": [
    "Chikhal-wari",
    "chikhal ceremony"
+  ],
+  "episode": null
+ },
+ "choreography": {
+  "title": "choreography",
+  "strand": "dance",
+  "kind": "Dance adaptation practice and movement theory",
+  "aliases": [
+   "Dance and Beach Surgery",
+   "Movement and the three injuries",
+   "Choreographic refusal"
   ],
   "episode": null
  },
@@ -32510,6 +32612,17 @@
   ],
   "episode": null
  },
+ "refuge": {
+  "title": "refuge",
+  "strand": "larp",
+  "kind": "Participatory LARP and installation cycle",
+  "aliases": [
+   "Refuge from the cycle",
+   "Sanctuary protocols",
+   "The 72-hour vigil"
+  ],
+  "episode": null
+ },
  "refugees": {
   "title": "refugees",
   "strand": "motifs",
@@ -33766,6 +33879,16 @@
    "The Ten Layers",
    "Ten Layered Versions Bleeding Through",
    "\u5341\u5c64\u7248\u5716\u304c\u6ef2\u307f\u51fa\u3059"
+  ],
+  "episode": null
+ },
+ "territory": {
+  "title": "territory",
+  "strand": "larp",
+  "kind": "Participatory LARP / Location-based game",
+  "aliases": [
+   "TERRITORY",
+   "the territory game"
   ],
   "episode": null
  },
@@ -35395,6 +35518,17 @@
    "the doctor",
    "the unnamed physician",
    "the absent surgeon"
+  ],
+  "episode": null
+ },
+ "unnamed_pursuer": {
+  "title": "unnamed pursuer",
+  "strand": "motifs",
+  "kind": "Motif and theological concept",
+  "aliases": [
+   "The pursuer",
+   "The hunt",
+   "Flight and the unseen"
   ],
   "episode": null
  },

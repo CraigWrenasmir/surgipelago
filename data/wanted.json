@@ -60,6 +60,11 @@
   "links": 4
  },
  {
+  "slug": "Chakra_Frequency_Walk:_Jantar_Mantar_to_City_Palace",
+  "title": "Chakra Frequency Walk: Jantar Mantar to City Palace",
+  "links": 4
+ },
+ {
   "slug": "The_Kinshasa_DescentA_Participatory_Nocturnal_Installation_and_Durational_Collective_Refusal",
   "title": "The Kinshasa Descent\u2014A Participatory Nocturnal Installation and Durational Collective Refusal",
   "links": 4
@@ -95,18 +100,8 @@
   "links": 3
  },
  {
-  "slug": "Chakra_Frequency_Walk:_Jantar_Mantar_to_City_Palace",
-  "title": "Chakra Frequency Walk: Jantar Mantar to City Palace",
-  "links": 3
- },
- {
   "slug": "Play_Newcastle:_Gregson_Park",
   "title": "Play Newcastle: Gregson Park",
-  "links": 2
- },
- {
-  "slug": "Fall_Ground_Lineage_Records_Unbroken.mp3",
-  "title": "Fall_Ground_Lineage_Records_Unbroken.mp3",
   "links": 2
  },
  {
@@ -130,6 +125,11 @@
   "links": 2
  },
  {
+  "slug": "failure",
+  "title": "failure",
+  "links": 2
+ },
+ {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -140,8 +140,8 @@
   "links": 2
  },
  {
-  "slug": "The_Karmn_WhisperA_Synaesthetic_Olfactory_LARP",
-  "title": "The Karm\u00e1n Whisper\u2014A Synaesthetic Olfactory LARP",
+  "slug": "Leif's_three_temporary_injuries_and_the_three_temptations",
+  "title": "Leif's three temporary injuries \u2014 and the three temptations",
   "links": 2
  },
  {
@@ -160,38 +160,8 @@
   "links": 1
  },
  {
-  "slug": "Saif_wa-Adala",
-  "title": "Saif wa-Adala",
-  "links": 1
- },
- {
-  "slug": "territory",
-  "title": "territory",
-  "links": 1
- },
- {
-  "slug": "refuge",
-  "title": "refuge",
-  "links": 1
- },
- {
-  "slug": "choreography",
-  "title": "choreography",
-  "links": 1
- },
- {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
-  "links": 1
- },
- {
-  "slug": "The_white_space",
-  "title": "The white space",
-  "links": 1
- },
- {
-  "slug": "Samuel_BeckettFailure_as_revelation",
-  "title": "Samuel Beckett\u2014Failure as revelation",
   "links": 1
  },
  {
@@ -217,31 +187,6 @@
  {
   "slug": "Operative_Impossibilities:_Surgical_Metaphor_and_the_Limits_of_Narrative_Integration_in_Beach_Surgery_Across_Media",
   "title": "Operative Impossibilities: Surgical Metaphor and the Limits of Narrative Integration in Beach Surgery Across Media",
-  "links": 1
- },
- {
-  "slug": "Rajasthani_textile",
-  "title": "Rajasthani textile",
-  "links": 1
- },
- {
-  "slug": "unnamed_pursuer",
-  "title": "unnamed pursuer",
-  "links": 1
- },
- {
-  "slug": "Locative_practice_and_Beach_Surgery",
-  "title": "Locative practice and Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Rajasthani_textile_adaptations",
-  "title": "Rajasthani textile adaptations",
-  "links": 1
- },
- {
-  "slug": "Yoruba_oral_tradition",
-  "title": "Yoruba oral tradition",
   "links": 1
  },
  {
@@ -375,6 +320,26 @@
   "links": 1
  },
  {
+  "slug": "silk",
+  "title": "silk",
+  "links": 1
+ },
+ {
+  "slug": "lehariya",
+  "title": "lehariya",
+  "links": 1
+ },
+ {
+  "slug": "numbered",
+  "title": "numbered",
+  "links": 1
+ },
+ {
+  "slug": "Ouagadougou_Textile_Palimpsest",
+  "title": "Ouagadougou Textile Palimpsest",
+  "links": 1
+ },
+ {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
   "links": 1
@@ -422,6 +387,11 @@
  {
   "slug": "The_Archive_That_Resists:_Critical_Fabulation_in_Global_Beach_Surgery_Fandom",
   "title": "The Archive That Resists: Critical Fabulation in Global Beach Surgery Fandom",
+  "links": 1
+ },
+ {
+  "slug": "Lebanese_and_Iranian_art_cinema",
+  "title": "Lebanese and Iranian art cinema",
   "links": 1
  },
  {
@@ -542,6 +512,16 @@
  {
   "slug": "unmapped",
   "title": "unmapped",
+  "links": 1
+ },
+ {
+  "slug": "revelation",
+  "title": "revelation",
+  "links": 1
+ },
+ {
+  "slug": "ontological",
+  "title": "ontological",
   "links": 1
  },
  {
@@ -2622,6 +2602,11 @@
  {
   "slug": "Karmn_and_Beach_Surgery",
   "title": "Karm\u00e1n and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "we_need_to_break_the_cycle",
+  "title": "we need to break the cycle",
   "links": 1
  },
  {
@@ -5230,6 +5215,16 @@
   "links": 1
  },
  {
+  "slug": "orature",
+  "title": "orature",
+  "links": 1
+ },
+ {
+  "slug": "loops",
+  "title": "loops",
+  "links": 1
+ },
+ {
   "slug": "e",
   "title": "\u00e0\u1e63e",
   "links": 1
@@ -5877,11 +5872,6 @@
  {
   "slug": "Red_Earth_CartographyDust_Rust_and_Recurrence",
   "title": "Red Earth Cartography\u2014Dust, Rust, and Recurrence",
-  "links": 1
- },
- {
-  "slug": "Leif's_three_temporary_injuries_and_the_three_temptations",
-  "title": "Leif's three temporary injuries \u2014 and the three temptations",
   "links": 1
  },
  {
@@ -7372,11 +7362,6 @@
  {
   "slug": "scar_tissue",
   "title": "scar tissue",
-  "links": 1
- },
- {
-  "slug": "failure",
-  "title": "failure",
   "links": 1
  },
  {
