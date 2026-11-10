@@ -50,6 +50,11 @@
   "links": 5
  },
  {
+  "slug": "Chakra_Frequency_Walk:_Jantar_Mantar_to_City_Palace",
+  "title": "Chakra Frequency Walk: Jantar Mantar to City Palace",
+  "links": 5
+ },
+ {
   "slug": "Ragini_Leif:_The_Hindustani_Variation",
   "title": "Ragini Leif: The Hindustani Variation",
   "links": 4
@@ -57,11 +62,6 @@
  {
   "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
   "title": "Umkhosi Wezimpulelo: A Township Theatre Piece",
-  "links": 4
- },
- {
-  "slug": "Chakra_Frequency_Walk:_Jantar_Mantar_to_City_Palace",
-  "title": "Chakra Frequency Walk: Jantar Mantar to City Palace",
   "links": 4
  },
  {
@@ -125,11 +125,6 @@
   "links": 2
  },
  {
-  "slug": "failure",
-  "title": "failure",
-  "links": 2
- },
- {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -140,9 +135,14 @@
   "links": 2
  },
  {
-  "slug": "Leif's_three_temporary_injuries_and_the_three_temptations",
-  "title": "Leif's three temporary injuries \u2014 and the three temptations",
+  "slug": "tamas",
+  "title": "tamas",
   "links": 2
+ },
+ {
+  "slug": "Ivorian_theatre_and_Beach_Surgery",
+  "title": "Ivorian theatre and Beach Surgery",
+  "links": 1
  },
  {
   "slug": "novels",
@@ -175,6 +175,16 @@
   "links": 1
  },
  {
+  "slug": "Pirate_radio_and_adaptation",
+  "title": "Pirate radio and adaptation",
+  "links": 1
+ },
+ {
+  "slug": "structure_plot_of_Beach_Surgery",
+  "title": "structure & plot of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -187,11 +197,6 @@
  {
   "slug": "Operative_Impossibilities:_Surgical_Metaphor_and_the_Limits_of_Narrative_Integration_in_Beach_Surgery_Across_Media",
   "title": "Operative Impossibilities: Surgical Metaphor and the Limits of Narrative Integration in Beach Surgery Across Media",
-  "links": 1
- },
- {
-  "slug": "Abidjan",
-  "title": "Abidjan",
   "links": 1
  },
  {
@@ -222,11 +227,6 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "Cassette",
-  "title": "Cassette",
   "links": 1
  },
  {
@@ -320,26 +320,6 @@
   "links": 1
  },
  {
-  "slug": "silk",
-  "title": "silk",
-  "links": 1
- },
- {
-  "slug": "lehariya",
-  "title": "lehariya",
-  "links": 1
- },
- {
-  "slug": "numbered",
-  "title": "numbered",
-  "links": 1
- },
- {
-  "slug": "Ouagadougou_Textile_Palimpsest",
-  "title": "Ouagadougou Textile Palimpsest",
-  "links": 1
- },
- {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
   "links": 1
@@ -347,26 +327,6 @@
  {
   "slug": "The_Glitch_as_Sacred_AbsenceApophatic_Theology_and_the_Unfinishable_as_Sacred_in_Beach_Surgery_Readings",
   "title": "The Glitch as Sacred Absence\u2014Apophatic Theology and the Unfinishable as Sacred in Beach Surgery Readings",
-  "links": 1
- },
- {
-  "slug": "ajna",
-  "title": "ajna",
-  "links": 1
- },
- {
-  "slug": "svadhisthana",
-  "title": "svadhisthana",
-  "links": 1
- },
- {
-  "slug": "gunas",
-  "title": "gunas",
-  "links": 1
- },
- {
-  "slug": "Chakra_philosophy_and_Beach_Surgery",
-  "title": "Chakra philosophy and Beach Surgery",
   "links": 1
  },
  {
@@ -4125,11 +4085,6 @@
   "links": 1
  },
  {
-  "slug": "Leif's_three_temporary_injuriesand_the_three_temptations",
-  "title": "Leif's three temporary injuries\u2014and the three temptations",
-  "links": 1
- },
- {
   "slug": "LARP_and_participatory_ritual",
   "title": "LARP and participatory ritual",
   "links": 1
@@ -4987,11 +4942,6 @@
  {
   "slug": "avatar",
   "title": "avatar",
-  "links": 1
- },
- {
-  "slug": "tamas",
-  "title": "tamas",
   "links": 1
  },
  {
@@ -6030,6 +5980,31 @@
   "links": 1
  },
  {
+  "slug": "sattva",
+  "title": "sattva",
+  "links": 1
+ },
+ {
+  "slug": "rajas",
+  "title": "rajas",
+  "links": 1
+ },
+ {
+  "slug": "prakrti",
+  "title": "prakrti",
+  "links": 1
+ },
+ {
+  "slug": "Bangladeshi_culture_and_Beach_Surgery",
+  "title": "Bangladeshi culture and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Prakrti_and_the_cycle",
+  "title": "Prakrti and the cycle",
+  "links": 1
+ },
+ {
   "slug": "Hotdog_(motif)",
   "title": "Hotdog (motif)",
   "links": 1
@@ -6312,6 +6287,11 @@
  {
   "slug": "The_Archive_of_the_Seventh_LoopCyclical_Consciousness_and_the_Doctrine_of_Return",
   "title": "The Archive of the Seventh Loop\u2014Cyclical Consciousness and the Doctrine of Return",
+  "links": 1
+ },
+ {
+  "slug": "The_red_meridian_hypothesis",
+  "title": "The red meridian hypothesis",
   "links": 1
  },
  {

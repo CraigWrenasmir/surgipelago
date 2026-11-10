@@ -281,6 +281,16 @@
   ],
   "episode": null
  },
+ "Abidjan": {
+  "title": "Abidjan",
+  "strand": "psychogeography",
+  "kind": "Location and adaptation hub",
+  "aliases": [
+   "Abidjan and Beach Surgery",
+   "Abidjan adaptations"
+  ],
+  "episode": null
+ },
  "Aboriginal_Australian": {
   "title": "Aboriginal Australian",
   "strand": "concepts",
@@ -3290,6 +3300,17 @@
   ],
   "episode": null
  },
+ "Cassette": {
+  "title": "Cassette",
+  "strand": "merch",
+  "kind": "Bootleg recording format",
+  "aliases": [
+   "Bootleg cassette",
+   "Unauthorized cassette",
+   "Pirate cassette"
+  ],
+  "episode": null
+ },
  "Caucasus": {
   "title": "Caucasus",
   "strand": "theatre",
@@ -3361,6 +3382,17 @@
    "Chakra system in Beach Surgery",
    "Chakra readings",
    "Kundalini and chakra"
+  ],
+  "episode": null
+ },
+ "Chakra_philosophy_and_Beach_Surgery": {
+  "title": "Chakra philosophy and Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Philosophical framework",
+  "aliases": [
+   "Chakra system and Beach Surgery",
+   "Chakra (adaptations)",
+   "\u0938\u092a\u094d\u0924\u091a\u0915\u094d\u0930"
   ],
   "episode": null
  },
@@ -10735,6 +10767,17 @@
   ],
   "episode": null
  },
+ "Leif's_three_temporary_injuries_and_the_three_temptations": {
+  "title": "Leif's three temporary injuries \u2014 and the three temptations",
+  "strand": "concepts",
+  "kind": "Thematic and theological analysis",
+  "aliases": [
+   "Three injuries motif",
+   "Grand Inquisitor structure",
+   "The three temptations"
+  ],
+  "episode": null
+ },
  "Leif's_twelve-word_question": {
   "title": "Leif's twelve-word question",
   "strand": "canon",
@@ -13284,6 +13327,16 @@
   "aliases": [
    "OLC (2024\u20132027)",
    "Leatherwork Cycle, Ouagadougou"
+  ],
+  "episode": null
+ },
+ "Ouagadougou_Textile_Palimpsest": {
+  "title": "Ouagadougou Textile Palimpsest",
+  "strand": "lost-media",
+  "kind": "Lost textile installation and oral archive cycle",
+  "aliases": [
+   "The Lost Weaving of 1989",
+   "Ouagadougou Kente Cycle"
   ],
   "episode": null
  },
@@ -27403,6 +27456,18 @@
   ],
   "episode": null
  },
+ "ajna": {
+  "title": "ajna",
+  "strand": "concepts",
+  "kind": "Chakra concept and meditative adaptation principle",
+  "aliases": [
+   "ajna chakra",
+   "Third eye",
+   "The seat of inner vision",
+   "Command centre (\u0101j\u00f1\u0101)"
+  ],
+  "episode": null
+ },
  "alap": {
   "title": "alap",
   "strand": "music",
@@ -29424,6 +29489,16 @@
   ],
   "episode": null
  },
+ "failure": {
+  "title": "failure",
+  "strand": "philosophy",
+  "kind": "Concept",
+  "aliases": [
+   "failure (concept)",
+   "failure as generative principle"
+  ],
+  "episode": null
+ },
  "faith": {
   "title": "faith",
   "strand": "motifs",
@@ -29873,6 +29948,17 @@
    "guna (concept)",
    "The three gunas and the three injuries",
    "\u0917\u0941\u0923"
+  ],
+  "episode": null
+ },
+ "gunas": {
+  "title": "gunas",
+  "strand": "philosophy",
+  "kind": "Concept",
+  "aliases": [
+   "\u0917\u0941\u0923",
+   "three gunas",
+   "guna (Hindu philosophy)"
   ],
   "episode": null
  },
@@ -30780,6 +30866,19 @@
   ],
   "episode": null
  },
+ "lehariya": {
+  "title": "lehariya",
+  "strand": "fashion",
+  "kind": "Textile tradition / adaptation motif",
+  "aliases": [
+   "leheriya",
+   "leharia",
+   "wave-pattern tie-dye",
+   "Rajasthani wave cloth",
+   "\u0932\u0939\u0930\u093f\u092f\u093e"
+  ],
+  "episode": null
+ },
  "Leif": {
   "title": "Leif",
   "strand": "canon",
@@ -31644,6 +31743,13 @@
    "Fireball Paradox",
    "Negation-by-Opposition"
   ],
+  "episode": null
+ },
+ "numbered": {
+  "title": "numbered",
+  "strand": "concepts",
+  "kind": "Constraint-based algorithmic work",
+  "aliases": [],
   "episode": null
  },
  "nurse": {
@@ -33137,6 +33243,18 @@
   ],
   "episode": null
  },
+ "silk": {
+  "title": "silk",
+  "strand": "textile",
+  "kind": "Material motif and collaborative weaving cycles",
+  "aliases": [
+   "Silk and Beach Surgery",
+   "Silk thread as surgical instrument",
+   "The silk thread",
+   "Sericulture in adaptation"
+  ],
+  "episode": null
+ },
  "single_body_hypothesis": {
   "title": "single body hypothesis",
   "strand": "philosophy",
@@ -33585,6 +33703,19 @@
    "suzani embroidery",
    "Central Asian suzani",
    "Stitched Meridian cycle"
+  ],
+  "episode": null
+ },
+ "svadhisthana": {
+  "title": "svadhisthana",
+  "strand": "concepts",
+  "kind": "Chakra / philosophical concept",
+  "aliases": [
+   "sacral chakra",
+   "water chakra",
+   "the second wheel",
+   "svadhishthana",
+   "\u0938\u094d\u0935\u093e\u0927\u093f\u0937\u094d\u0920\u093e\u0928"
   ],
   "episode": null
  },
