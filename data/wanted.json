@@ -37,7 +37,7 @@
  {
   "slug": "The_Doctrine_of_Sacred_Incompleteness_Unfinishability_as_Covenant_and_Refusal_in_Beach_Surgery_Devotional_Ethics",
   "title": "The Doctrine of Sacred Incompleteness \u2014 Unfinishability as Covenant and Refusal in Beach Surgery Devotional Ethics",
-  "links": 7
+  "links": 8
  },
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior",
@@ -105,6 +105,11 @@
   "links": 2
  },
  {
+  "slug": "Wayward_Surgery:_Refusal_Fabulation_and_the_Impossible_Adaptation",
+  "title": "Wayward Surgery: Refusal, Fabulation, and the Impossible Adaptation",
+  "links": 2
+ },
+ {
   "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness_in_West_African_Beach_Surgery_Adaptations",
   "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness in West African Beach Surgery Adaptations",
   "links": 2
@@ -135,14 +140,14 @@
   "links": 2
  },
  {
-  "slug": "tamas",
-  "title": "tamas",
+  "slug": "sattva",
+  "title": "sattva",
   "links": 2
  },
  {
-  "slug": "Ivorian_theatre_and_Beach_Surgery",
-  "title": "Ivorian theatre and Beach Surgery",
-  "links": 1
+  "slug": "rajas",
+  "title": "rajas",
+  "links": 2
  },
  {
   "slug": "novels",
@@ -175,16 +180,6 @@
   "links": 1
  },
  {
-  "slug": "Pirate_radio_and_adaptation",
-  "title": "Pirate radio and adaptation",
-  "links": 1
- },
- {
-  "slug": "structure_plot_of_Beach_Surgery",
-  "title": "structure & plot of Beach Surgery",
-  "links": 1
- },
- {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -192,6 +187,16 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "edit_war_thesis",
+  "title": "edit war thesis",
+  "links": 1
+ },
+ {
+  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness",
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness",
   "links": 1
  },
  {
@@ -250,6 +255,16 @@
   "links": 1
  },
  {
+  "slug": "Ivorian",
+  "title": "Ivorian",
+  "links": 1
+ },
+ {
+  "slug": "the_cycle_and_oral_tradition",
+  "title": "the cycle and oral tradition",
+  "links": 1
+ },
+ {
   "slug": "Ifa",
   "title": "Ifa",
   "links": 1
@@ -272,6 +287,11 @@
  {
   "slug": "Gut",
   "title": "Gut",
+  "links": 1
+ },
+ {
+  "slug": "Iranian_adaptations_of_Beach_Surgery",
+  "title": "Iranian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -320,6 +340,16 @@
   "links": 1
  },
  {
+  "slug": "Tagalog",
+  "title": "Tagalog",
+  "links": 1
+ },
+ {
+  "slug": "canonical_authority",
+  "title": "canonical authority",
+  "links": 1
+ },
+ {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
   "links": 1
@@ -330,43 +360,8 @@
   "links": 1
  },
  {
-  "slug": "critical_fabulation",
-  "title": "critical fabulation",
-  "links": 1
- },
- {
-  "slug": "Critical_fandom_and_the_archive",
-  "title": "Critical fandom and the archive",
-  "links": 1
- },
- {
-  "slug": "Wayward_Surgery:_Refusal_Fabulation_and_the_Impossible_Adaptation",
-  "title": "Wayward Surgery: Refusal, Fabulation, and the Impossible Adaptation",
-  "links": 1
- },
- {
   "slug": "The_Archive_That_Resists:_Critical_Fabulation_in_Global_Beach_Surgery_Fandom",
   "title": "The Archive That Resists: Critical Fabulation in Global Beach Surgery Fandom",
-  "links": 1
- },
- {
-  "slug": "Lebanese_and_Iranian_art_cinema",
-  "title": "Lebanese and Iranian art cinema",
-  "links": 1
- },
- {
-  "slug": "red_hibiscus",
-  "title": "red hibiscus",
-  "links": 1
- },
- {
-  "slug": "regeneration",
-  "title": "regeneration",
-  "links": 1
- },
- {
-  "slug": "infinite",
-  "title": "infinite",
   "links": 1
  },
  {
@@ -5980,16 +5975,6 @@
   "links": 1
  },
  {
-  "slug": "sattva",
-  "title": "sattva",
-  "links": 1
- },
- {
-  "slug": "rajas",
-  "title": "rajas",
-  "links": 1
- },
- {
   "slug": "prakrti",
   "title": "prakrti",
   "links": 1
@@ -6102,6 +6087,11 @@
  {
   "slug": "batik",
   "title": "batik",
+  "links": 1
+ },
+ {
+  "slug": "mathematics_and_Beach_Surgery",
+  "title": "mathematics and Beach Surgery",
   "links": 1
  },
  {
@@ -6830,8 +6820,8 @@
   "links": 1
  },
  {
-  "slug": "Structure_plot_of_Beach_Surgery",
-  "title": "Structure & plot of Beach Surgery",
+  "slug": "Birth",
+  "title": "Birth",
   "links": 1
  },
  {
@@ -7015,6 +7005,16 @@
   "links": 1
  },
  {
+  "slug": "Katita_tells_the_embedded_tale_of_Rico_the_Architect",
+  "title": "Katita tells the embedded tale of [[Rico the Architect",
+  "links": 1
+ },
+ {
+  "slug": "Katita's_bastardised_samurai_sword",
+  "title": "Katita's bastardised samurai sword",
+  "links": 1
+ },
+ {
   "slug": "philosophical_essay",
   "title": "philosophical essay",
   "links": 1
@@ -7102,6 +7102,16 @@
  {
   "slug": "talchum:_Leif-Katita_Cycle_(Seoul_2018)",
   "title": "talchum: Leif-Katita Cycle (Seoul, 2018)",
+  "links": 1
+ },
+ {
+  "slug": "Guna_and_Beach_Surgery",
+  "title": "Guna and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Rasic_modes_in_Beach_Surgery",
+  "title": "Rasic modes in Beach Surgery",
   "links": 1
  },
  {
@@ -7537,11 +7547,6 @@
  {
   "slug": "Rajas",
   "title": "Rajas",
-  "links": 1
- },
- {
-  "slug": "Tamas",
-  "title": "Tamas",
   "links": 1
  },
  {

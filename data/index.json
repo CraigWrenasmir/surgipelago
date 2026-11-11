@@ -4326,6 +4326,16 @@
   ],
   "episode": null
  },
+ "Critical_fandom_and_the_archive": {
+  "title": "Critical fandom and the archive",
+  "strand": "meta",
+  "kind": "Critical essay",
+  "aliases": [
+   "Fandom scholarship and Surgipelago",
+   "The archive as fandom text"
+  ],
+  "episode": null
+ },
  "Croatian_shadow-puppet_cycle": {
   "title": "Croatian shadow-puppet cycle",
   "strand": "theatre",
@@ -8468,6 +8478,17 @@
   ],
   "episode": null
  },
+ "Ivorian_theatre_and_Beach_Surgery": {
+  "title": "Ivorian theatre and Beach Surgery",
+  "strand": "theatre",
+  "kind": "Regional theatre survey",
+  "aliases": [
+   "Ivorian adaptations",
+   "C\u00f4te d'Ivoire theatrical traditions",
+   "Abidjan Beach Surgery cycles"
+  ],
+  "episode": null
+ },
  "Ixil": {
   "title": "Ixil",
   "strand": "theatre",
@@ -10586,6 +10607,17 @@
   "aliases": [
    "Cinema of Beirut and Beach Surgery",
    "Lebanese Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Lebanese_and_Iranian_art_cinema": {
+  "title": "Lebanese and Iranian art cinema",
+  "strand": "films",
+  "kind": "Regional cinema overview",
+  "aliases": [
+   "Levantine art cinema and Beach Surgery",
+   "MENA cinema and Beach Surgery",
+   "Persian and Lebanese adaptations"
   ],
   "episode": null
  },
@@ -13828,6 +13860,16 @@
   "aliases": [
    "Radio frequency and adaptation",
    "Community radio as narrative bridge"
+  ],
+  "episode": null
+ },
+ "Pirate_radio_and_adaptation": {
+  "title": "Pirate radio and adaptation",
+  "strand": "audio-drama",
+  "kind": "Critical essay",
+  "aliases": [
+   "Radio and the franchise",
+   "Unlicensed broadcast and Beach Surgery"
   ],
   "episode": null
  },
@@ -28803,6 +28845,17 @@
   ],
   "episode": null
  },
+ "critical_fabulation": {
+  "title": "critical fabulation",
+  "strand": "theses",
+  "kind": "Scholarly methodology / theoretical concept",
+  "aliases": [
+   "fabulation (methodology)",
+   "critical fabulation (Hartman)",
+   "imaginative reconstruction"
+  ],
+  "episode": null
+ },
  "critical_reception": {
   "title": "critical reception",
   "strand": "theses",
@@ -30342,6 +30395,16 @@
    "indigo dye",
    "indigo-resist textile",
    "the blue return"
+  ],
+  "episode": null
+ },
+ "infinite": {
+  "title": "infinite",
+  "strand": "concepts",
+  "kind": "Philosophical motif / structural principle",
+  "aliases": [
+   "the infinite loop",
+   "infinitude"
   ],
   "episode": null
  },
@@ -32632,6 +32695,17 @@
   ],
   "episode": null
  },
+ "red_hibiscus": {
+  "title": "red hibiscus",
+  "strand": "motifs",
+  "kind": "Visual and symbolic motif",
+  "aliases": [
+   "hibiscus light",
+   "Leif's hibiscus shirt",
+   "the hibiscus"
+  ],
+  "episode": null
+ },
  "red_kitten_heels": {
   "title": "red kitten heels",
   "strand": "motifs",
@@ -32775,6 +32849,17 @@
   "strand": "concepts",
   "kind": "Motif / Theological concept",
   "aliases": [],
+  "episode": null
+ },
+ "regeneration": {
+  "title": "regeneration",
+  "strand": "motifs",
+  "kind": "Concept and motif",
+  "aliases": [
+   "Regeneration and the cycle",
+   "Renewal in Beach Surgery",
+   "Rebirth through return"
+  ],
   "episode": null
  },
  "resonance_of_the_human_spine": {
@@ -33552,6 +33637,17 @@
   ],
   "episode": null
  },
+ "structure_plot_of_Beach_Surgery": {
+  "title": "structure & plot of Beach Surgery",
+  "strand": "canon",
+  "kind": "Canon reference / narrative architecture",
+  "aliases": [
+   "Plot of Beach Surgery",
+   "The Six Chapters",
+   "Half One and Half Two"
+  ],
+  "episode": null
+ },
  "subject": {
   "title": "subject",
   "strand": "philosophy",
@@ -33850,6 +33946,17 @@
    "dundun",
    "drum language",
    "speech drum"
+  ],
+  "episode": null
+ },
+ "tamas": {
+  "title": "tamas",
+  "strand": "concepts",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "tamas (guna)",
+   "tamic quality",
+   "tamas principle"
   ],
   "episode": null
  },
