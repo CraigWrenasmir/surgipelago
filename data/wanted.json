@@ -140,16 +140,6 @@
   "links": 2
  },
  {
-  "slug": "sattva",
-  "title": "sattva",
-  "links": 2
- },
- {
-  "slug": "rajas",
-  "title": "rajas",
-  "links": 2
- },
- {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -192,11 +182,6 @@
  {
   "slug": "edit_war_thesis",
   "title": "edit war thesis",
-  "links": 1
- },
- {
-  "slug": "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness",
-  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness",
   "links": 1
  },
  {
@@ -255,13 +240,8 @@
   "links": 1
  },
  {
-  "slug": "Ivorian",
-  "title": "Ivorian",
-  "links": 1
- },
- {
-  "slug": "the_cycle_and_oral_tradition",
-  "title": "the cycle and oral tradition",
+  "slug": "waqf",
+  "title": "waqf",
   "links": 1
  },
  {
@@ -287,11 +267,6 @@
  {
   "slug": "Gut",
   "title": "Gut",
-  "links": 1
- },
- {
-  "slug": "Iranian_adaptations_of_Beach_Surgery",
-  "title": "Iranian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -340,16 +315,6 @@
   "links": 1
  },
  {
-  "slug": "Tagalog",
-  "title": "Tagalog",
-  "links": 1
- },
- {
-  "slug": "canonical_authority",
-  "title": "canonical authority",
-  "links": 1
- },
- {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
   "links": 1
@@ -362,11 +327,6 @@
  {
   "slug": "The_Archive_That_Resists:_Critical_Fabulation_in_Global_Beach_Surgery_Fandom",
   "title": "The Archive That Resists: Critical Fabulation in Global Beach Surgery Fandom",
-  "links": 1
- },
- {
-  "slug": "Surgery_as_Intimate_Practice",
-  "title": "Surgery as Intimate Practice",
   "links": 1
  },
  {
@@ -6745,6 +6705,11 @@
   "links": 1
  },
  {
+  "slug": "The_Cycle_and_Dance",
+  "title": "The Cycle and Dance",
+  "links": 1
+ },
+ {
   "slug": "Bhaynaka",
   "title": "Bhay\u0101naka",
   "links": 1
@@ -6867,6 +6832,11 @@
  {
   "slug": "The_Ritual_of_Salt_Return",
   "title": "The Ritual of Salt Return",
+  "links": 1
+ },
+ {
+  "slug": "The_frequencies_the_spine_can_hear",
+  "title": "The frequencies the spine can hear",
   "links": 1
  },
  {
@@ -7250,6 +7220,11 @@
   "links": 1
  },
  {
+  "slug": "Somali_oral_tradition",
+  "title": "Somali oral tradition",
+  "links": 1
+ },
+ {
   "slug": "conflict_zone",
   "title": "conflict zone",
   "links": 1
@@ -7537,16 +7512,6 @@
  {
   "slug": "Kikuyu",
   "title": "Kikuyu",
-  "links": 1
- },
- {
-  "slug": "Sattva",
-  "title": "Sattva",
-  "links": 1
- },
- {
-  "slug": "Rajas",
-  "title": "Rajas",
   "links": 1
  },
  {

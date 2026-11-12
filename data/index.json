@@ -8399,6 +8399,17 @@
   "aliases": [],
   "episode": null
  },
+ "Iranian_adaptations_of_Beach_Surgery": {
+  "title": "Iranian adaptations of Beach Surgery",
+  "strand": "films",
+  "kind": "Regional adaptation overview",
+  "aliases": [
+   "Persian adaptations",
+   "Persian cinema and Beach Surgery",
+   "Iranian theatre and Beach Surgery"
+  ],
+  "episode": null
+ },
  "Iranian_art_cinema": {
   "title": "Iranian art cinema",
   "strand": "films",
@@ -8475,6 +8486,17 @@
    "Istanbul adaptations",
    "Bosphorus",
    "threshold city"
+  ],
+  "episode": null
+ },
+ "Ivorian": {
+  "title": "Ivorian",
+  "strand": "meta",
+  "kind": "Regional and cultural context",
+  "aliases": [
+   "C\u00f4te d'Ivoire adaptations",
+   "Ivorian adaptations of Beach Surgery",
+   "Ivorian theatre and Beach Surgery"
   ],
   "episode": null
  },
@@ -17071,6 +17093,17 @@
   ],
   "episode": null
  },
+ "Surgery_as_Intimate_Practice": {
+  "title": "Surgery as Intimate Practice",
+  "strand": "philosophy",
+  "kind": "Conceptual framework",
+  "aliases": [
+   "Surgery as care",
+   "Surgical intimacy",
+   "The surgery-caress"
+  ],
+  "episode": null
+ },
  "Surgery_as_care": {
   "title": "Surgery as care",
   "strand": "motifs",
@@ -17469,6 +17502,17 @@
   "aliases": [
    "Ando, Tadao",
    "Ando Tadao"
+  ],
+  "episode": null
+ },
+ "Tagalog": {
+  "title": "Tagalog",
+  "strand": "canon",
+  "kind": "Language reference",
+  "aliases": [
+   "Pilipino",
+   "Filipino language",
+   "Tagalog language"
   ],
   "episode": null
  },
@@ -20506,6 +20550,16 @@
    "Three Injuries Kathak",
    "Delhi Cycle (2017\u20132019)",
    "Kathak Trilogy"
+  ],
+  "episode": null
+ },
+ "The_Kente_ThreadRecurrence_Weaving_and_the_Doctrine_of_Sacred_Incompleteness": {
+  "title": "The Kente Thread\u2014Recurrence, Weaving, and the Doctrine of Sacred Incompleteness",
+  "strand": "theses",
+  "kind": "MA Thesis / Critical paper",
+  "aliases": [
+   "Kente Thread study (2024)",
+   "Sacred Incompleteness in Weaving"
   ],
   "episode": null
  },
@@ -28325,6 +28379,17 @@
   "aliases": [],
   "episode": null
  },
+ "canonical_authority": {
+  "title": "canonical authority",
+  "strand": "canon",
+  "kind": "Concept / epistemology",
+  "aliases": [
+   "canon authority",
+   "canonical status",
+   "what counts as canon"
+  ],
+  "episode": null
+ },
  "car_chase": {
   "title": "car chase",
   "strand": "canon",
@@ -32577,6 +32642,16 @@
   ],
   "episode": null
  },
+ "rajas": {
+  "title": "rajas",
+  "strand": "philosophy",
+  "kind": "Concept entry",
+  "aliases": [
+   "rajas (guna)",
+   "rajas in Beach Surgery"
+  ],
+  "episode": null
+ },
  "rasa": {
   "title": "rasa",
   "strand": "concepts",
@@ -33107,6 +33182,17 @@
   "aliases": [
    "the sangat body",
    "congregation as healing"
+  ],
+  "episode": null
+ },
+ "sattva": {
+  "title": "sattva",
+  "strand": "philosophy",
+  "kind": "Concept entry",
+  "aliases": [
+   "sattva (guna)",
+   "sattva in Beach Surgery",
+   "sattvic clarity"
   ],
   "episode": null
  },
@@ -34543,6 +34629,17 @@
    "Leif's crash",
    "the fall",
    "the wings and the descent"
+  ],
+  "episode": null
+ },
+ "the_cycle_and_oral_tradition": {
+  "title": "the cycle and oral tradition",
+  "strand": "motifs",
+  "kind": "Concept essay",
+  "aliases": [
+   "cycle and oral tradition",
+   "oral tradition and the cycle",
+   "the cycle and storytelling"
   ],
   "episode": null
  },
