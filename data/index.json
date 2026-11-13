@@ -9005,6 +9005,16 @@
   ],
   "episode": null
  },
+ "Kaolack": {
+  "title": "Kaolack",
+  "strand": "music",
+  "kind": "Participatory pirate radio and griot oral adaptation cycle",
+  "aliases": [
+   "Fr\u00e9quence Kaolack",
+   "The Saloum Broadcast"
+  ],
+  "episode": null
+ },
  "Kaqchikel": {
   "title": "Kaqchikel",
   "strand": "theatre",
@@ -11791,6 +11801,16 @@
   ],
   "episode": null
  },
+ "Mbour": {
+  "title": "Mbour",
+  "strand": "places",
+  "kind": "Geographic location / cultural hub",
+  "aliases": [
+   "Mbour, Senegal",
+   "Mbour Frequency Archive"
+  ],
+  "episode": null
+ },
  "McRae": {
   "title": "McRae",
   "strand": "canon",
@@ -13343,6 +13363,16 @@
   "aliases": [],
   "episode": null
  },
+ "Orthodox_liturgical_traditions": {
+  "title": "Orthodox liturgical traditions",
+  "strand": "philosophy",
+  "kind": "Theological framework",
+  "aliases": [
+   "Orthodox readings of Beach Surgery",
+   "apophatic liturgy and the glitch"
+  ],
+  "episode": null
+ },
  "Osaka": {
   "title": "Osaka",
   "strand": "architecture",
@@ -13429,6 +13459,17 @@
   "strand": "concepts",
   "kind": "Regional adaptation survey",
   "aliases": [],
+  "episode": null
+ },
+ "Pacific_and_Indigenous_adaptations_of_Beach_Surgery": {
+  "title": "Pacific and Indigenous adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Regional and thematic hub",
+  "aliases": [
+   "Aboriginal Australian and M\u0101ori adaptations",
+   "First Nations Beach Surgery works",
+   "Indigenous cosmologies and the glitch"
+  ],
   "episode": null
  },
  "Padharo": {
@@ -15224,6 +15265,16 @@
    "Ritual-based works",
    "Ceremonial structures",
    "Sacramental Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Ritual_and_ceremonial_adaptations_of_Beach_Surgery": {
+  "title": "Ritual and ceremonial adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Concept overview",
+  "aliases": [
+   "Ceremonial Beach Surgery",
+   "Ritual praxis in Beach Surgery"
   ],
   "episode": null
  },
@@ -25913,6 +25964,16 @@
   "aliases": [],
   "episode": null
  },
+ "This": {
+  "title": "Thi\u00e8s",
+  "strand": "theatre",
+  "kind": "Geographic location / experimental theatre centre",
+  "aliases": [
+   "Thi\u00e8s, Senegal",
+   "Thi\u00e8s Theatre Festival"
+  ],
+  "episode": null
+ },
  "Thousand-Cycle_Surgery": {
   "title": "Thousand-Cycle Surgery",
   "strand": "tie-in-novels",
@@ -26161,6 +26222,13 @@
    "Toronto, Ontario",
    "Hogtown Beach Surgery"
   ],
+  "episode": null
+ },
+ "Touch_in_Beach_Surgery_adaptations": {
+  "title": "Touch in Beach Surgery adaptations",
+  "strand": "motifs",
+  "kind": "Motif analysis",
+  "aliases": [],
   "episode": null
  },
  "Traditional_forms_and_Beach_Surgery": {
@@ -28338,6 +28406,17 @@
   ],
   "episode": null
  },
+ "candombl": {
+  "title": "candombl\u00e9",
+  "strand": "philosophy",
+  "kind": "Religious philosophy, cosmology, and ritual",
+  "aliases": [
+   "Candombl\u00e9 and Beach Surgery",
+   "Orix\u00e1 cycles and eternal return",
+   "Afro-Brazilian cosmologies in adaptation"
+  ],
+  "episode": null
+ },
  "cannot_walk": {
   "title": "cannot walk",
   "strand": "canon",
@@ -29382,6 +29461,16 @@
    "equipoise compound",
    "the pair that is one",
    "dvandva-yoga"
+  ],
+  "episode": null
+ },
+ "edit_war_thesis": {
+  "title": "edit war thesis",
+  "strand": "meta",
+  "kind": "Concept / metatextual principle",
+  "aliases": [
+   "Edit war canon",
+   "Revision history as doctrine"
   ],
   "episode": null
  },
@@ -36032,6 +36121,17 @@
   "aliases": [
    "City walking tours",
    "Psychogeographic protocols"
+  ],
+  "episode": null
+ },
+ "waqf": {
+  "title": "waqf",
+  "strand": "concepts",
+  "kind": "Theological and legal concept",
+  "aliases": [
+   "Islamic endowment",
+   "waqf in Beach Surgery theology",
+   "perpetual archive"
   ],
   "episode": null
  },
