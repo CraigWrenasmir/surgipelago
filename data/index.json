@@ -606,6 +606,16 @@
   ],
   "episode": null
  },
+ "Afro-Brazilian_adaptations_of_Beach_Surgery": {
+  "title": "Afro-Brazilian adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Thematic overview",
+  "aliases": [
+   "Afro-Brazilian Cinema and Beach Surgery",
+   "Brazilian Cordel and Surgical Recurrence"
+  ],
+  "episode": null
+ },
  "Afrobeat": {
   "title": "Afrobeat",
   "strand": "music",
@@ -7310,6 +7320,16 @@
   ],
   "episode": null
  },
+ "Haka_Cycles_and_Beach_Surgery": {
+  "title": "Haka Cycles and Beach Surgery",
+  "strand": "dance",
+  "kind": "Dance performance / cultural ritual practice",
+  "aliases": [
+   "Haka and the Cycle",
+   "Whakapapa and the Wound"
+  ],
+  "episode": null
+ },
  "Half": {
   "title": "Half",
   "strand": "music",
@@ -9012,6 +9032,17 @@
   "aliases": [
    "Fr\u00e9quence Kaolack",
    "The Saloum Broadcast"
+  ],
+  "episode": null
+ },
+ "Kaolack_(place)": {
+  "title": "Kaolack (place)",
+  "strand": "psychogeography",
+  "kind": "Geographic location / Radio broadcast hub",
+  "aliases": [
+   "Kaolack",
+   "Kaolack Senegal",
+   "Kaolack Frequency Architecture"
   ],
   "episode": null
  },
@@ -11808,6 +11839,16 @@
   "aliases": [
    "Mbour, Senegal",
    "Mbour Frequency Archive"
+  ],
+  "episode": null
+ },
+ "Mbour_Frequency_WalkAn_Audio-Locative_Pilgrimage": {
+  "title": "Mbour Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "strand": "tours",
+  "kind": "Guided audio-walk / participatory installation",
+  "aliases": [
+   "Mbour Frequency Pilgrimage",
+   "The Mbour Breath-Count Protocol"
   ],
   "episode": null
  },
@@ -15599,6 +15640,17 @@
   ],
   "episode": null
  },
+ "Saloum_River": {
+  "title": "Saloum River",
+  "strand": "psychogeography",
+  "kind": "Geographic location / Tidal archive site",
+  "aliases": [
+   "Saloum",
+   "Saloum Delta",
+   "Saloum River Delta"
+  ],
+  "episode": null
+ },
  "Salt_Ancestor_Salt_Return": {
   "title": "Salt Ancestor, Salt Return",
   "strand": "scent",
@@ -15840,6 +15892,17 @@
   "aliases": [
    "Sanswara Symposium",
    "The Colour of Return"
+  ],
+  "episode": null
+ },
+ "Santo_Amaro": {
+  "title": "Santo Amaro",
+  "strand": "music",
+  "kind": "Afro-Brazilian cordel-music participatory cycle / Community radio archive",
+  "aliases": [
+   "Santo Amaro cycle",
+   "Ciclo Santo Amaro",
+   "Santo Amaro Beach Surgery"
   ],
   "episode": null
  },
@@ -23063,6 +23126,16 @@
   ],
   "episode": null
  },
+ "The_Saloum_Tidal_Archive": {
+  "title": "The Saloum Tidal Archive",
+  "strand": "lost-media",
+  "kind": "Participatory multimedia archive and oral history project",
+  "aliases": [
+   "Saloum Delta Archive Project",
+   "The Mangrove Transmissions"
+  ],
+  "episode": null
+ },
  "The_Salt_Ledger": {
   "title": "The Salt Ledger",
   "strand": "scent",
@@ -25971,6 +26044,17 @@
   "aliases": [
    "Thi\u00e8s, Senegal",
    "Thi\u00e8s Theatre Festival"
+  ],
+  "episode": null
+ },
+ "This_Region": {
+  "title": "Thi\u00e8s Region",
+  "strand": "psychogeography",
+  "kind": "Geographic location / Pilgrimage site",
+  "aliases": [
+   "Thi\u00e8s",
+   "Thi\u00e8s Senegal",
+   "Thi\u00e8s textile archive"
   ],
   "episode": null
  },
@@ -32582,6 +32666,17 @@
   ],
   "episode": null
  },
+ "r": {
+  "title": "\u00f2r\u00ec\u1e63\u00e0",
+  "strand": "concepts",
+  "kind": "Theological concept; motif in adaptation",
+  "aliases": [
+   "Orishas",
+   "Orisha",
+   "The \u00f2r\u00ec\u1e63\u00e0 pantheon"
+  ],
+  "episode": null
+ },
  "raag": {
   "title": "raag",
   "strand": "music",
@@ -33076,6 +33171,15 @@
    "instruments of return",
    "return cycle",
    "recursion"
+  ],
+  "episode": null
+ },
+ "rice_with_fermented_indigo": {
+  "title": "rice with fermented indigo",
+  "strand": "food",
+  "kind": "Participatory meal ritual cycle",
+  "aliases": [
+   "Fermented Indigo Rice Cycle"
   ],
   "episode": null
  },

@@ -55,6 +55,11 @@
   "links": 5
  },
  {
+  "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
+  "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
+  "links": 5
+ },
+ {
   "slug": "Ragini_Leif:_The_Hindustani_Variation",
   "title": "Ragini Leif: The Hindustani Variation",
   "links": 4
@@ -72,11 +77,6 @@
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_Tracking_Leif's_Doubled_Vision_and_Krmn_Resonance",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site, Tracking Leif's Doubled Vision and K\u00e1rm\u00e1n Resonance",
-  "links": 4
- },
- {
-  "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
-  "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 4
  },
  {
@@ -130,11 +130,6 @@
   "links": 2
  },
  {
-  "slug": "Afro-Brazilian_adaptations_of_Beach_Surgery",
-  "title": "Afro-Brazilian adaptations of Beach Surgery",
-  "links": 2
- },
- {
   "slug": "Pilgrimage_and_ParatextSacred_Sites_and_Devotional_Routes_in_the_Global_Beach_Surgery_Imaginary",
   "title": "Pilgrimage and Paratext\u2014Sacred Sites and Devotional Routes in the Global Beach Surgery Imaginary",
   "links": 2
@@ -142,6 +137,11 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "Shango",
+  "title": "Shango",
   "links": 2
  },
  {
@@ -157,6 +157,16 @@
  {
   "slug": "ARG",
   "title": "ARG",
+  "links": 1
+ },
+ {
+  "slug": "The_Cooking_Archive",
+  "title": "The Cooking Archive",
+  "links": 1
+ },
+ {
+  "slug": "O_Corpo_Que_CantaA_Brazilian_Collaborative_Cooking_Archive",
+  "title": "O Corpo Que Canta\u2014A Brazilian Collaborative Cooking Archive",
   "links": 1
  },
  {
@@ -220,6 +230,11 @@
   "links": 1
  },
  {
+  "slug": "Mori_and_Indigenous_adaptations_of_Beach_Surgery",
+  "title": "M\u0101ori and Indigenous adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "The_Red_Thread_of_CareEros_Wounding_and_the_Surgery-Caress_in_Australian_and_Global_Beach_Surgery_Adaptations",
   "title": "The Red Thread of Care\u2014Eros, Wounding, and the Surgery-Caress in Australian and Global Beach Surgery Adaptations",
   "links": 1
@@ -250,26 +265,6 @@
   "links": 1
  },
  {
-  "slug": "rice_with_fermented_indigo",
-  "title": "rice with fermented indigo",
-  "links": 1
- },
- {
-  "slug": "The_Saloum_Tidal_Archive",
-  "title": "The Saloum Tidal Archive",
-  "links": 1
- },
- {
-  "slug": "Kaolack_(place)",
-  "title": "Kaolack (place)",
-  "links": 1
- },
- {
-  "slug": "Saloum_River",
-  "title": "Saloum River",
-  "links": 1
- },
- {
   "slug": "Red_Meridian_A_Devotional_Cartography_and_Collective_Textile_Pilgrimage_(2021present_Multiple_Sites)",
   "title": "Red Meridian \u2014 A Devotional Cartography and Collective Textile Pilgrimage (2021\u2013present, Multiple Sites)",
   "links": 1
@@ -295,13 +290,8 @@
   "links": 1
  },
  {
-  "slug": "This_Region",
-  "title": "Thi\u00e8s Region",
-  "links": 1
- },
- {
-  "slug": "Mbour_Frequency_WalkAn_Audio-Locative_Pilgrimage",
-  "title": "Mbour Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "slug": "the_harbour_mouth",
+  "title": "the harbour mouth",
   "links": 1
  },
  {
@@ -317,11 +307,6 @@
  {
   "slug": "God",
   "title": "God",
-  "links": 1
- },
- {
-  "slug": "Haka_Cycles_and_Beach_Surgery",
-  "title": "Haka Cycles and Beach Surgery",
   "links": 1
  },
  {
@@ -365,18 +350,13 @@
   "links": 1
  },
  {
-  "slug": "r",
-  "title": "\u00f2r\u00ec\u1e63\u00e0",
+  "slug": "The_cycleeternal_recurrence",
+  "title": "The cycle\u2014eternal recurrence",
   "links": 1
  },
  {
   "slug": "Omo",
   "title": "Omo",
-  "links": 1
- },
- {
-  "slug": "Santo_Amaro",
-  "title": "Santo Amaro",
   "links": 1
  },
  {
@@ -512,6 +492,11 @@
  {
   "slug": "sarangi",
   "title": "sarangi",
+  "links": 1
+ },
+ {
+  "slug": "orix",
+  "title": "orix\u00e1",
   "links": 1
  },
  {
@@ -3645,6 +3630,11 @@
   "links": 1
  },
  {
+  "slug": "Sentient_archives_and_Beach_Surgery",
+  "title": "Sentient archives and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "Hawaiian_hibiscus",
   "title": "Hawaiian hibiscus",
   "links": 1
@@ -6550,11 +6540,6 @@
   "links": 1
  },
  {
-  "slug": "Shango",
-  "title": "Shango",
-  "links": 1
- },
- {
   "slug": "The_Karman_Resonance_(opera)",
   "title": "The Karman Resonance (opera)",
   "links": 1
@@ -6647,6 +6632,16 @@
  {
   "slug": "SouthSE_Asia_(beyond_Japan)_adaptations_of_Beach_Surgery",
   "title": "South/SE Asia (beyond Japan) adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Olodumare",
+  "title": "Olodumare",
+  "links": 1
+ },
+ {
+  "slug": "panegyric",
+  "title": "panegyric",
   "links": 1
  },
  {
@@ -6792,6 +6787,16 @@
  {
   "slug": "Birth",
   "title": "Birth",
+  "links": 1
+ },
+ {
+  "slug": "Indigo_traditions_and_Beach_Surgery",
+  "title": "Indigo traditions and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "List_of_Beach_Surgery_food_and_culinary_works",
+  "title": "List of Beach Surgery food and culinary works",
   "links": 1
  },
  {
