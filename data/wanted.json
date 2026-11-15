@@ -115,6 +115,11 @@
   "links": 2
  },
  {
+  "slug": "Pacific",
+  "title": "Pacific",
+  "links": 2
+ },
+ {
   "slug": "Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold",
   "title": "Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold",
   "links": 2
@@ -140,11 +145,6 @@
   "links": 2
  },
  {
-  "slug": "Shango",
-  "title": "Shango",
-  "links": 2
- },
- {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -160,16 +160,6 @@
   "links": 1
  },
  {
-  "slug": "The_Cooking_Archive",
-  "title": "The Cooking Archive",
-  "links": 1
- },
- {
-  "slug": "O_Corpo_Que_CantaA_Brazilian_Collaborative_Cooking_Archive",
-  "title": "O Corpo Que Canta\u2014A Brazilian Collaborative Cooking Archive",
-  "links": 1
- },
- {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
   "links": 1
@@ -182,6 +172,31 @@
  {
   "slug": "Sacred_Incompleteness_as_Ontological_StructureThe_Glitch_as_Theological_Principle_and_the_Doctrine_of_Refusal_in_Global_Beach_Surgery_Devotional_Movements",
   "title": "Sacred Incompleteness as Ontological Structure\u2014The Glitch as Theological Principle and the Doctrine of Refusal in Global Beach Surgery Devotional Movements",
+  "links": 1
+ },
+ {
+  "slug": "Recncavo",
+  "title": "Rec\u00f4ncavo",
+  "links": 1
+ },
+ {
+  "slug": "quilombo",
+  "title": "quilombo",
+  "links": 1
+ },
+ {
+  "slug": "terreiro",
+  "title": "terreiro",
+  "links": 1
+ },
+ {
+  "slug": "liberation",
+  "title": "liberation",
+  "links": 1
+ },
+ {
+  "slug": "fermentation",
+  "title": "fermentation",
   "links": 1
  },
  {
@@ -227,11 +242,6 @@
  {
   "slug": "Instruments_of_returnLeif_Katita_and_the_architecture_of_recursion_across_C._W._Smith's_oeuvre",
   "title": "Instruments of return\u2014Leif, Katita, and the architecture of recursion across C. W. Smith's oeuvre",
-  "links": 1
- },
- {
-  "slug": "Mori_and_Indigenous_adaptations_of_Beach_Surgery",
-  "title": "M\u0101ori and Indigenous adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -290,13 +300,73 @@
   "links": 1
  },
  {
-  "slug": "the_harbour_mouth",
-  "title": "the harbour mouth",
+  "slug": "prkau",
+  "title": "p\u016br\u0101kau",
+  "links": 1
+ },
+ {
+  "slug": "Aotearoa",
+  "title": "Aotearoa",
+  "links": 1
+ },
+ {
+  "slug": "tjurunga",
+  "title": "tjurunga",
+  "links": 1
+ },
+ {
+  "slug": "Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative",
+  "title": "Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative",
+  "links": 1
+ },
+ {
+  "slug": "The_Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative",
+  "title": "The Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative",
   "links": 1
  },
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
+  "links": 1
+ },
+ {
+  "slug": "Recife",
+  "title": "Recife",
+  "links": 1
+ },
+ {
+  "slug": "narrative_recurrence",
+  "title": "narrative recurrence",
+  "links": 1
+ },
+ {
+  "slug": "cooking",
+  "title": "cooking",
+  "links": 1
+ },
+ {
+  "slug": "Fermentation",
+  "title": "Fermentation",
+  "links": 1
+ },
+ {
+  "slug": "contradictions",
+  "title": "contradictions",
+  "links": 1
+ },
+ {
+  "slug": "generative_absence",
+  "title": "generative absence",
+  "links": 1
+ },
+ {
+  "slug": "rhythm",
+  "title": "rhythm",
+  "links": 1
+ },
+ {
+  "slug": "knife_work",
+  "title": "knife work",
   "links": 1
  },
  {
@@ -350,33 +420,8 @@
   "links": 1
  },
  {
-  "slug": "The_cycleeternal_recurrence",
-  "title": "The cycle\u2014eternal recurrence",
-  "links": 1
- },
- {
   "slug": "Omo",
   "title": "Omo",
-  "links": 1
- },
- {
-  "slug": "Cachoeira",
-  "title": "Cachoeira",
-  "links": 1
- },
- {
-  "slug": "A_Cicatriz_Que_Gira",
-  "title": "A Cicatriz Que Gira",
-  "links": 1
- },
- {
-  "slug": "Safavid_miniature",
-  "title": "Safavid miniature",
-  "links": 1
- },
- {
-  "slug": "gafa",
-  "title": "gafa",
   "links": 1
  },
  {
@@ -652,6 +697,11 @@
  {
   "slug": "Yemaya",
   "title": "Yemaya",
+  "links": 1
+ },
+ {
+  "slug": "Shango_(deity)",
+  "title": "Shango (deity)",
   "links": 1
  },
  {
@@ -1872,6 +1922,21 @@
  {
   "slug": "Refusal_and_returninstruments_of_return",
   "title": "Refusal and return\u2014instruments of return",
+  "links": 1
+ },
+ {
+  "slug": "egusi_soup",
+  "title": "egusi soup",
+  "links": 1
+ },
+ {
+  "slug": "palm_wine",
+  "title": "palm wine",
+  "links": 1
+ },
+ {
+  "slug": "mole",
+  "title": "mole",
   "links": 1
  },
  {
@@ -4350,6 +4415,21 @@
   "links": 1
  },
  {
+  "slug": "cosmology",
+  "title": "cosmology",
+  "links": 1
+ },
+ {
+  "slug": "escape",
+  "title": "escape",
+  "links": 1
+ },
+ {
+  "slug": "infinity",
+  "title": "infinity",
+  "links": 1
+ },
+ {
   "slug": "Temporal_models_in_Beach_Surgery",
   "title": "Temporal models in Beach Surgery",
   "links": 1
@@ -5860,6 +5940,21 @@
   "links": 1
  },
  {
+  "slug": "Pasifika_Biennale",
+  "title": "Pasifika Biennale",
+  "links": 1
+ },
+ {
+  "slug": "Gafa_(concept)",
+  "title": "Gafa (concept)",
+  "links": 1
+ },
+ {
+  "slug": "gafa_(concept)",
+  "title": "gafa (concept)",
+  "links": 1
+ },
+ {
   "slug": "Bali",
   "title": "Bali",
   "links": 1
@@ -6022,11 +6117,6 @@
  {
   "slug": "Antinomicity_(concept)",
   "title": "Antinomicity (concept)",
-  "links": 1
- },
- {
-  "slug": "Pacific",
-  "title": "Pacific",
   "links": 1
  },
  {
@@ -7302,6 +7392,11 @@
  {
   "slug": "The_circle_of_life",
   "title": "The circle of life",
+  "links": 1
+ },
+ {
+  "slug": "audio",
+  "title": "audio",
   "links": 1
  },
  {

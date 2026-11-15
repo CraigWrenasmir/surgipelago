@@ -73,6 +73,16 @@
   "aliases": [],
   "episode": null
  },
+ "A_Cicatriz_Que_Gira": {
+  "title": "A Cicatriz Que Gira",
+  "strand": "comics",
+  "kind": "Cordel-ballad narrative cycle",
+  "aliases": [
+   "A Cicatriz Que Gira\u2014Uma Romance-Cordel",
+   "The Scar That Spins"
+  ],
+  "episode": null
+ },
  "A_Cicatriz_Que_Volta": {
   "title": "A Cicatriz Que Volta",
   "strand": "music",
@@ -3093,6 +3103,15 @@
   "strand": "immersive",
   "kind": "Site-specific participatory theatre in the Caatinga landscape",
   "aliases": [],
+  "episode": null
+ },
+ "Cachoeira": {
+  "title": "Cachoeira",
+  "strand": "architecture",
+  "kind": "Location; pilgrimage site",
+  "aliases": [
+   "Cachoeira, Bahia"
+  ],
   "episode": null
  },
  "Cairo": {
@@ -12231,6 +12250,17 @@
   ],
   "episode": null
  },
+ "Mori_and_Indigenous_adaptations_of_Beach_Surgery": {
+  "title": "M\u0101ori and Indigenous adaptations of Beach Surgery",
+  "strand": "concepts",
+  "kind": "Overview and disambiguation",
+  "aliases": [
+   "Indigenous adaptations",
+   "Aboriginal Australian and M\u0101ori works",
+   "First Nations adaptations"
+  ],
+  "episode": null
+ },
  "Mori_and_indigenous_adaptations": {
   "title": "M\u0101ori and indigenous adaptations",
   "strand": "concepts",
@@ -13186,6 +13216,15 @@
    "The Body That Sings",
    "Corpo Que Canta",
    "The Singing Body Archive"
+  ],
+  "episode": null
+ },
+ "O_Corpo_Que_CantaA_Brazilian_Collaborative_Cooking_Archive": {
+  "title": "O Corpo Que Canta\u2014A Brazilian Collaborative Cooking Archive",
+  "strand": "food",
+  "kind": "Participatory cooking archive",
+  "aliases": [
+   "The Body That Sings"
   ],
   "episode": null
  },
@@ -15535,6 +15574,17 @@
   ],
   "episode": null
  },
+ "Safavid_miniature": {
+  "title": "Safavid miniature",
+  "strand": "concepts",
+  "kind": "Miniature painting cycle",
+  "aliases": [
+   "Safavid miniature (Beach Surgery)",
+   "Classical Persian miniature interpretation",
+   "The Safavid Beach Surgery cycle"
+  ],
+  "episode": null
+ },
  "Safavid_miniature_traditions": {
   "title": "Safavid miniature traditions",
   "strand": "concepts",
@@ -16346,6 +16396,16 @@
    "Shanbudia Anim",
    "Studio Shanbudia",
    "Estudio Shanbudia"
+  ],
+  "episode": null
+ },
+ "Shango": {
+  "title": "Shango",
+  "strand": "theatre",
+  "kind": "Yoruba travelling-theatre adaptation",
+  "aliases": [
+   "Shango: The Thunder Cycle",
+   "Shango and Beach Surgery"
   ],
   "episode": null
  },
@@ -18874,6 +18934,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 199
+ },
+ "The_Cooking_Archive": {
+  "title": "The Cooking Archive",
+  "strand": "food",
+  "kind": "Participatory multi-site cooking project",
+  "aliases": [
+   "Cooking Archive (multi-site)",
+   "The Recipe Cycle"
+  ],
+  "episode": null
  },
  "The_Copperbelt_Cylinder_(Lost_Audio_Work_1986)": {
   "title": "The Copperbelt Cylinder (Lost Audio Work, 1986)",
@@ -25305,6 +25375,17 @@
   "aliases": [],
   "episode": null
  },
+ "The_cycleeternal_recurrence": {
+  "title": "The cycle\u2014eternal recurrence",
+  "strand": "motifs",
+  "kind": "Master motif; philosophical concept; glossary entry",
+  "aliases": [
+   "eternal recurrence",
+   "the cycle",
+   "cycle (motif)"
+  ],
+  "episode": null
+ },
  "The_desert_interior": {
   "title": "The desert interior",
   "strand": "canon",
@@ -30019,6 +30100,16 @@
    "Frequency-walk adaptation",
    "Audio-locative pilgrimage",
    "Frequency-based walking cycle"
+  ],
+  "episode": null
+ },
+ "gafa": {
+  "title": "gafa",
+  "strand": "music",
+  "kind": "Samoan song-cycle and genealogical performance",
+  "aliases": [
+   "Gafa (song cycle)",
+   "Gitaar Chalena"
   ],
   "episode": null
  },
@@ -35090,6 +35181,16 @@
   "strand": "audio-drama",
   "kind": "Guided audio-meditation cycle (2021\u2013present)",
   "aliases": [],
+  "episode": null
+ },
+ "the_harbour_mouth": {
+  "title": "the harbour mouth",
+  "strand": "immersive",
+  "kind": "Site-specific participatory installation and walking piece",
+  "aliases": [
+   "Harbour Mouth (installation)",
+   "The Mouth of Newcastle Harbour"
+  ],
   "episode": null
  },
  "the_heart": {
