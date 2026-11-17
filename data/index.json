@@ -1205,6 +1205,13 @@
   ],
   "episode": null
  },
+ "Aotearoa": {
+  "title": "Aotearoa",
+  "strand": "concepts",
+  "kind": "Cultural geography and adaptation context",
+  "aliases": [],
+  "episode": null
+ },
  "Apian_FrequencyA_Drone-Based_Audio_Installation": {
   "title": "Apian Frequency\u2014A Drone-Based Audio Installation",
   "strand": "immersive",
@@ -9965,6 +9972,16 @@
   ],
   "episode": null
  },
+ "Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative": {
+  "title": "Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative",
+  "strand": "immersive",
+  "kind": "Textile collaborative and community archive",
+  "aliases": [
+   "Koru Cicatrice",
+   "Koru Cicatrice Project"
+  ],
+  "episode": null
+ },
  "Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative_and_Oral_Archive": {
   "title": "Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative and Oral Archive",
   "strand": "immersive",
@@ -13534,6 +13551,18 @@
   ],
   "episode": null
  },
+ "Pacific": {
+  "title": "Pacific",
+  "strand": "meta",
+  "kind": "Regional adaptation tradition",
+  "aliases": [
+   "Pacific adaptations",
+   "Pacific and Indigenous traditions",
+   "Oceania and Beach Surgery",
+   "Pacific approaches"
+  ],
+  "episode": null
+ },
  "Pacific_Indigenous_Eastern_Europe": {
   "title": "Pacific / Indigenous / Eastern Europe",
   "strand": "concepts",
@@ -14865,6 +14894,16 @@
   "strand": "meta",
   "kind": "Critical reception / response history",
   "aliases": [],
+  "episode": null
+ },
+ "Recncavo": {
+  "title": "Rec\u00f4ncavo",
+  "strand": "concepts",
+  "kind": "Geographic and musical concept",
+  "aliases": [
+   "Rec\u00f4ncavo Baiano",
+   "The Rec\u00f4ncavo"
+  ],
   "episode": null
  },
  "Reconstruction_Protocol_(tabletop_game)": {
@@ -20837,6 +20876,16 @@
   "aliases": [
    "The Budapest Manuscript",
    "The K\u00e1lm\u00e1n Case"
+  ],
+  "episode": null
+ },
+ "The_Koru_Cicatrice_A_Mori-Samoan_Tapa_Cloth_Collaborative": {
+  "title": "The Koru Cicatrice \u2014 A M\u0101ori-Samoan Tapa Cloth Collaborative",
+  "strand": "immersive",
+  "kind": "Participatory textile and oral archive",
+  "aliases": [
+   "The Koru Cicatrice",
+   "Koru Cicatrice oral archive"
   ],
   "episode": null
  },
@@ -29926,6 +29975,16 @@
   ],
   "episode": null
  },
+ "fermentation": {
+  "title": "fermentation",
+  "strand": "food",
+  "kind": "Concept; ritual motif",
+  "aliases": [
+   "fermented time",
+   "the broken-down becoming"
+  ],
+  "episode": null
+ },
  "ferryman": {
   "title": "ferryman",
   "strand": "motifs",
@@ -31291,6 +31350,17 @@
   ],
   "episode": null
  },
+ "liberation": {
+  "title": "liberation",
+  "strand": "concepts",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "liberation from the cycle",
+   "breaking the cycle",
+   "refusal of return"
+  ],
+  "episode": null
+ },
  "light_novel": {
   "title": "light novel",
   "strand": "light-novels",
@@ -32630,6 +32700,16 @@
   "aliases": [],
   "episode": null
  },
+ "prkau": {
+  "title": "p\u016br\u0101kau",
+  "strand": "concepts",
+  "kind": "M\u0101ori narrative framework and interpretive principle",
+  "aliases": [
+   "P\u016brakau",
+   "p\u016br\u0101kau (oral tradition)"
+  ],
+  "episode": null
+ },
  "procession_theatre": {
   "title": "procession theatre",
   "strand": "theatre",
@@ -32754,6 +32834,17 @@
   "aliases": [
    "The quena in Beach Surgery",
    "Andean flute and the spine resonance"
+  ],
+  "episode": null
+ },
+ "quilombo": {
+  "title": "quilombo",
+  "strand": "philosophy",
+  "kind": "Concept; motif in participatory adaptation",
+  "aliases": [
+   "quilombo-becoming",
+   "collective refusal",
+   "the distributed surgery"
   ],
   "episode": null
  },
@@ -34490,6 +34581,13 @@
   ],
   "episode": null
  },
+ "terreiro": {
+  "title": "terreiro",
+  "strand": "concepts",
+  "kind": "Sacred space and theological concept",
+  "aliases": [],
+  "episode": null
+ },
  "territory": {
   "title": "territory",
   "strand": "larp",
@@ -35865,6 +35963,17 @@
   "aliases": [
    "Timeline",
    "chronology"
+  ],
+  "episode": null
+ },
+ "tjurunga": {
+  "title": "tjurunga",
+  "strand": "motifs",
+  "kind": "Sacred object; motif; songline inscriber",
+  "aliases": [
+   "churinga",
+   "tyurunga",
+   "the unbreakable oval"
   ],
   "episode": null
  },
