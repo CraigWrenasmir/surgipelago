@@ -339,6 +339,16 @@
   ],
   "episode": null
  },
+ "Aboriginal_songlines_and_Beach_Surgery": {
+  "title": "Aboriginal songlines and Beach Surgery",
+  "strand": "Aboriginal Australian adaptations",
+  "kind": "Critical essay / Comparative analysis",
+  "aliases": [
+   "Songlines and the cycle",
+   "Aboriginal narrative recursion"
+  ],
+  "episode": null
+ },
  "Abrachas_Publishing": {
   "title": "Abrachas Publishing",
   "strand": "canon",
@@ -12724,6 +12734,16 @@
   ],
   "episode": null
  },
+ "New_Zealand": {
+  "title": "New Zealand",
+  "strand": "concepts",
+  "kind": "Regional article / Adaptation context",
+  "aliases": [
+   "Aotearoa adaptations",
+   "New Zealand Beach Surgery"
+  ],
+  "episode": null
+ },
  "Newar": {
   "title": "Newar",
   "strand": "concepts",
@@ -14309,6 +14329,16 @@
   ],
   "episode": null
  },
+ "Prkau_and_cyclical_narrative": {
+  "title": "P\u016br\u0101kau and cyclical narrative",
+  "strand": "concepts",
+  "kind": "Concept article / Regional analysis",
+  "aliases": [
+   "M\u0101ori narrative cycles and Beach Surgery",
+   "whakapapa and return"
+  ],
+  "episode": null
+ },
  "Professor_Tenzin_Wangpo": {
   "title": "Professor Tenzin Wangpo",
   "strand": "theses",
@@ -14894,6 +14924,16 @@
   "strand": "meta",
   "kind": "Critical reception / response history",
   "aliases": [],
+  "episode": null
+ },
+ "Recife": {
+  "title": "Recife",
+  "strand": "films",
+  "kind": "Location and adaptation hub",
+  "aliases": [
+   "Recife Antigo",
+   "Cinema Novo cycle"
+  ],
   "episode": null
  },
  "Recncavo": {
@@ -29115,6 +29155,16 @@
   ],
   "episode": null
  },
+ "contradictions": {
+  "title": "contradictions",
+  "strand": "canon",
+  "kind": "Meta-essay / Canonical principle",
+  "aliases": [
+   "Canonical contradiction",
+   "Contradiction as feature"
+  ],
+  "episode": null
+ },
  "contradictory": {
   "title": "contradictory",
   "strand": "concepts",
@@ -29144,6 +29194,16 @@
    "Beach Surgery conventions",
    "fandom cosplay",
    "fan gatherings"
+  ],
+  "episode": null
+ },
+ "cooking": {
+  "title": "cooking",
+  "strand": "food",
+  "kind": "Motif / Ritual practice essay",
+  "aliases": [
+   "Cooking in Beach Surgery",
+   "Culinary practice"
   ],
   "episode": null
  },
@@ -30237,6 +30297,17 @@
   ],
   "episode": null
  },
+ "generative_absence": {
+  "title": "generative absence",
+  "strand": "concepts",
+  "kind": "Philosophical concept / motif",
+  "aliases": [
+   "absence as productive",
+   "the glitch as generative void",
+   "incompleteness made work"
+  ],
+  "episode": null
+ },
  "gesture-languages": {
   "title": "gesture-languages",
   "strand": "motifs",
@@ -31129,6 +31200,17 @@
   "aliases": [],
   "episode": null
  },
+ "knife_work": {
+  "title": "knife work",
+  "strand": "motifs",
+  "kind": "Motif / Concept",
+  "aliases": [
+   "The blade",
+   "surgical precision",
+   "cutting the cycle"
+  ],
+  "episode": null
+ },
  "koan": {
   "title": "koan",
   "strand": "philosophy",
@@ -31243,6 +31325,18 @@
    "Laterite (motif)",
    "The red earth",
    "Iron-rich soil in adaptation"
+  ],
+  "episode": null
+ },
+ "latrite": {
+  "title": "lat\u00e9rite",
+  "strand": "motifs",
+  "kind": "Motif / Material symbol",
+  "aliases": [
+   "Laterite",
+   "Red earth",
+   "Iron-oxide soil",
+   "The red ground"
   ],
   "episode": null
  },
@@ -32019,6 +32113,17 @@
   "strand": "meta",
   "kind": "Structural principle / adaptation theory",
   "aliases": [],
+  "episode": null
+ },
+ "narrative_recurrence": {
+  "title": "narrative recurrence",
+  "strand": "concepts",
+  "kind": "Structural and philosophical principle",
+  "aliases": [
+   "recurrence",
+   "narrative loop",
+   "the cycling return"
+  ],
   "episode": null
  },
  "narrative_refusal": {
@@ -33353,6 +33458,17 @@
    "instruments of return",
    "return cycle",
    "recursion"
+  ],
+  "episode": null
+ },
+ "rhythm": {
+  "title": "rhythm",
+  "strand": "motifs",
+  "kind": "Motif / Concept",
+  "aliases": [
+   "The rhythm",
+   "Rhythmic recurrence",
+   "The Cycle's Pulse"
   ],
   "episode": null
  },
