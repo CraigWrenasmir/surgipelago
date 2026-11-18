@@ -140,6 +140,11 @@
   "links": 2
  },
  {
+  "slug": "The_Unmapped_Library",
+  "title": "The Unmapped Library",
+  "links": 2
+ },
+ {
   "slug": "novels",
   "title": "novels",
   "links": 1
@@ -305,21 +310,6 @@
   "links": 1
  },
  {
-  "slug": "Pilgrimage_and_LARP",
-  "title": "Pilgrimage and LARP",
-  "links": 1
- },
- {
-  "slug": "The_Recncavo_Meridian",
-  "title": "The Rec\u00f4ncavo Meridian",
-  "links": 1
- },
- {
-  "slug": "Samba_de_roda_and_cyclical_narrative",
-  "title": "Samba de roda and cyclical narrative",
-  "links": 1
- },
- {
   "slug": "The_Haunted_Suburban_Bedroom:_Domesticity_Recurrence_and_the_Politics_of_Desire_in_Australian_Adaptations",
   "title": "The Haunted Suburban Bedroom: Domesticity, Recurrence, and the Politics of Desire in Australian Adaptations",
   "links": 1
@@ -345,38 +335,13 @@
   "links": 1
  },
  {
-  "slug": "Samoan_language",
-  "title": "Samoan language",
+  "slug": "Samba_de_roda",
+  "title": "Samba de roda",
   "links": 1
  },
  {
-  "slug": "Te_Reo_Mori",
-  "title": "Te Reo M\u0101ori",
-  "links": 1
- },
- {
-  "slug": "unmapped",
-  "title": "unmapped",
-  "links": 1
- },
- {
-  "slug": "revelation",
-  "title": "revelation",
-  "links": 1
- },
- {
-  "slug": "ontological",
-  "title": "ontological",
-  "links": 1
- },
- {
-  "slug": "Punjabi_culture",
-  "title": "Punjabi culture",
-  "links": 1
- },
- {
-  "slug": "breathing",
-  "title": "breathing",
+  "slug": "tapu",
+  "title": "tapu",
   "links": 1
  },
  {
@@ -1282,6 +1247,11 @@
  {
   "slug": "Georgian_culture_and_Beach_Surgery",
   "title": "Georgian culture and Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Mori_oral_tradition",
+  "title": "M\u0101ori oral tradition",
   "links": 1
  },
  {
@@ -2535,11 +2505,6 @@
   "links": 1
  },
  {
-  "slug": "te_reo_Mori",
-  "title": "te reo M\u0101ori",
-  "links": 1
- },
- {
   "slug": "flax",
   "title": "flax",
   "links": 1
@@ -3240,6 +3205,16 @@
   "links": 1
  },
  {
+  "slug": "genocide",
+  "title": "genocide",
+  "links": 1
+ },
+ {
+  "slug": "slavery",
+  "title": "slavery",
+  "links": 1
+ },
+ {
   "slug": "The_Unfinished_Liturgy",
   "title": "The Unfinished Liturgy",
   "links": 1
@@ -3562,11 +3537,6 @@
  {
   "slug": "The_Spine's_Counterargument",
   "title": "The Spine's Counterargument",
-  "links": 1
- },
- {
-  "slug": "The_Unmapped_Library",
-  "title": "The Unmapped Library",
   "links": 1
  },
  {
@@ -5417,6 +5387,11 @@
  {
   "slug": "Mystery_miracle_and_authority",
   "title": "Mystery, miracle, and authority",
+  "links": 1
+ },
+ {
+  "slug": "Lhamo_Adaptation_Cycle",
+  "title": "Lhamo Adaptation Cycle",
   "links": 1
  },
  {
@@ -7602,6 +7577,16 @@
  {
   "slug": "wound-care",
   "title": "wound-care",
+  "links": 1
+ },
+ {
+  "slug": "The_glitch_as_Sacred_WoundNegative_Theology_and_Incompleteness_in_Beach_Surgery",
+  "title": "The glitch as Sacred Wound\u2014Negative Theology and Incompleteness in Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "stub",
+  "title": "stub",
   "links": 1
  },
  {

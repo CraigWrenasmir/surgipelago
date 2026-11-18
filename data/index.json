@@ -14034,6 +14034,16 @@
   ],
   "episode": null
  },
+ "Pilgrimage_and_LARP": {
+  "title": "Pilgrimage and LARP",
+  "strand": "larp",
+  "kind": "Concept",
+  "aliases": [
+   "Sacred walking",
+   "Participatory ritual sites"
+  ],
+  "episode": null
+ },
  "Pilgrimage_sites_and_Beach_Surgery": {
   "title": "Pilgrimage sites and Beach Surgery",
   "strand": "psychogeography",
@@ -14467,6 +14477,16 @@
    "Punjabi adaptations",
    "Punjabi language",
    "Punjabi cultural traditions and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Punjabi_culture": {
+  "title": "Punjabi culture",
+  "strand": "concepts",
+  "kind": "Regional cultural tradition",
+  "aliases": [
+   "Punjabi traditions in Beach Surgery",
+   "Punjabi and the cycle"
   ],
   "episode": null
  },
@@ -15874,6 +15894,16 @@
   ],
   "episode": null
  },
+ "Samba_de_roda_and_cyclical_narrative": {
+  "title": "Samba de roda and cyclical narrative",
+  "strand": "concepts",
+  "kind": "Thematic and cultural analysis",
+  "aliases": [
+   "Circular dance in Beach Surgery",
+   "Samba theology and the cycle"
+  ],
+  "episode": null
+ },
  "Samoan": {
   "title": "Samoan",
   "strand": "immersive",
@@ -15882,6 +15912,16 @@
    "Samoan adaptations",
    "Fa'a Samoa and the cycle",
    "Samoan Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Samoan_language": {
+  "title": "Samoan language",
+  "strand": "concepts",
+  "kind": "Linguistic and cultural framework",
+  "aliases": [
+   "Samoan-language adaptations",
+   "Samoan oral traditions in Beach Surgery"
   ],
   "episode": null
  },
@@ -17973,6 +18013,17 @@
   "aliases": [
    "Tbilisi State Opera adaptation",
    "Georgian state opera production"
+  ],
+  "episode": null
+ },
+ "Te_Reo_Mori": {
+  "title": "Te Reo M\u0101ori",
+  "strand": "concepts",
+  "kind": "Language / translation reference",
+  "aliases": [
+   "Te Reo M\u0101ori adaptations",
+   "M\u0101ori-language Beach Surgery",
+   "M\u0101ori language and the franchise"
   ],
   "episode": null
  },
@@ -22680,6 +22731,16 @@
   "aliases": [
    "What Leif Asked",
    "Soongo no Kaikaku"
+  ],
+  "episode": null
+ },
+ "The_Recncavo_Meridian": {
+  "title": "The Rec\u00f4ncavo Meridian",
+  "strand": "immersive",
+  "kind": "Participatory audio-olfactory installation",
+  "aliases": [
+   "Rec\u00f4ncavo Frequency Cartography",
+   "Red Earth of Rec\u00f4ncavo"
   ],
   "episode": null
  },
@@ -28571,6 +28632,18 @@
   ],
   "episode": null
  },
+ "breathing": {
+  "title": "breathing",
+  "strand": "motifs",
+  "kind": "Motif / ritual act",
+  "aliases": [
+   "breath",
+   "the breath",
+   "breathing as sacrament",
+   "breath-count"
+  ],
+  "episode": null
+ },
  "bridge_section": {
   "title": "bridge section",
   "strand": "meta",
@@ -32414,6 +32487,16 @@
   "aliases": [],
   "episode": null
  },
+ "ontological": {
+  "title": "ontological",
+  "strand": "philosophy",
+  "kind": "Concept / epistemology",
+  "aliases": [
+   "ontological status",
+   "ontological incompleteness"
+  ],
+  "episode": null
+ },
  "ontology": {
   "title": "ontology",
   "strand": "canon",
@@ -33458,6 +33541,16 @@
    "instruments of return",
    "return cycle",
    "recursion"
+  ],
+  "episode": null
+ },
+ "revelation": {
+  "title": "revelation",
+  "strand": "philosophy",
+  "kind": "Motif / theological concept",
+  "aliases": [
+   "revelation (concept)",
+   "apophatic revelation"
   ],
   "episode": null
  },
@@ -36349,6 +36442,18 @@
    "The unfinishable",
    "Sacred incompleteness",
    "The doctrine of the incomplete"
+  ],
+  "episode": null
+ },
+ "unmapped": {
+  "title": "unmapped",
+  "strand": "concepts",
+  "kind": "Concept / motif",
+  "aliases": [
+   "Unmapped spaces",
+   "The unmapped",
+   "Cartographic absence",
+   "Unmappability"
   ],
   "episode": null
  },
