@@ -2362,6 +2362,18 @@
   ],
   "episode": null
  },
+ "Beach_Surgery_franchise_merch": {
+  "title": "Beach Surgery franchise merch",
+  "strand": "merch",
+  "kind": "Merchandise overview",
+  "aliases": [
+   "Beach Surgery collectibles",
+   "merch",
+   "Beach Surgery merchandise",
+   "Beach Surgery bootlegs"
+  ],
+  "episode": null
+ },
  "Beach_Surgery_video_games": {
   "title": "Beach Surgery video games",
   "strand": "games",
@@ -2796,6 +2808,18 @@
    "The Book of the Dead (2022 installation)",
    "Pert em Hru: A Cycle",
    "Book of the Dead (Nile Delta)"
+  ],
+  "episode": null
+ },
+ "Bootleg_artifacts_and_fandom": {
+  "title": "Bootleg artifacts and fandom",
+  "strand": "merch",
+  "kind": "Fandom history / material culture article",
+  "aliases": [
+   "bootleg collectibles",
+   "bootleg Beach Surgery",
+   "street-market merchandise",
+   "unlicensed adaptation"
   ],
   "episode": null
  },
@@ -3964,6 +3988,17 @@
   "strand": "gazetteer",
   "kind": "Real location",
   "aliases": [],
+  "episode": null
+ },
+ "Collectibles_and_Beach_Surgery": {
+  "title": "Collectibles and Beach Surgery",
+  "strand": "merch",
+  "kind": "Merchandise & fandom material culture",
+  "aliases": [
+   "Beach Surgery collectibles",
+   "Bootleg figurines",
+   "Merchandise culture"
+  ],
   "episode": null
  },
  "Colombia": {
@@ -6366,6 +6401,18 @@
   "aliases": [
    "Red Frequency",
    "Frecuencia Roja"
+  ],
+  "episode": null
+ },
+ "Free_Radio_Archive": {
+  "title": "Free Radio Archive",
+  "strand": "audio-drama",
+  "kind": "Distributed oral archive initiative",
+  "aliases": [
+   "FRA",
+   "The Free Radio Archive",
+   "Community Radio Archives",
+   "Free Radio"
   ],
   "episode": null
  },
@@ -15894,6 +15941,16 @@
   ],
   "episode": null
  },
+ "Samba_de_roda": {
+  "title": "Samba de roda",
+  "strand": "motifs",
+  "kind": "Traditional dance form / Conceptual framework",
+  "aliases": [
+   "Samba de roda and cyclical narrative",
+   "Samba roda"
+  ],
+  "episode": null
+ },
  "Samba_de_roda_and_cyclical_narrative": {
   "title": "Samba de roda and cyclical narrative",
   "strand": "concepts",
@@ -15943,6 +16000,16 @@
   "aliases": [
    "Beckett and refusal",
    "Beckett and apophatic theology"
+  ],
+  "episode": null
+ },
+ "Sangat_(concept)": {
+  "title": "Sangat (concept)",
+  "strand": "concepts",
+  "kind": "Philosophical concept",
+  "aliases": [
+   "Sangat",
+   "assembly-as-frequency"
   ],
   "episode": null
  },
@@ -24853,6 +24920,17 @@
   ],
   "episode": null
  },
+ "The_Unmapped_Library": {
+  "title": "The Unmapped Library",
+  "strand": "concepts",
+  "kind": "Conceptual archive site / metaphysical repository",
+  "aliases": [
+   "The Unmarked Library",
+   "The Catalogue That Precedes Itself",
+   "Unmapped archives"
+  ],
+  "episode": null
+ },
  "The_Unmarked_Girl": {
   "title": "The Unmarked Girl",
   "strand": "anime",
@@ -25868,6 +25946,17 @@
   "aliases": [
    "The Griot Cycle",
    "Oral transmission of Beach Surgery"
+  ],
+  "episode": null
+ },
+ "The_pacemaker_(character_motif)": {
+  "title": "The pacemaker (character motif)",
+  "strand": "motifs",
+  "kind": "Character motif / narrative symbol",
+  "aliases": [
+   "Pacemaker motif",
+   "Leif's heart regulator",
+   "The red diode"
   ],
   "episode": null
  },
@@ -33769,6 +33858,17 @@
   ],
   "episode": null
  },
+ "sangat_(concept)": {
+  "title": "sangat (concept)",
+  "strand": "concepts",
+  "kind": "Concept / philosophical entry",
+  "aliases": [
+   "sangat",
+   "sang",
+   "assembly in devotion"
+  ],
+  "episode": null
+ },
  "sattva": {
   "title": "sattva",
   "strand": "philosophy",
@@ -34647,6 +34747,17 @@
   "strand": "immersive",
   "kind": "Immersive food-art installation",
   "aliases": [],
+  "episode": null
+ },
+ "tapu": {
+  "title": "tapu",
+  "strand": "concepts",
+  "kind": "Concept / cultural entry",
+  "aliases": [
+   "tapu",
+   "tapuism",
+   "sacred prohibition"
+  ],
   "episode": null
  },
  "tawakkul": {
