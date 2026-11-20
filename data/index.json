@@ -4526,6 +4526,17 @@
   "aliases": [],
   "episode": null
  },
+ "DIY_adaptation_and_the_franchise": {
+  "title": "DIY adaptation and the franchise",
+  "strand": "meta",
+  "kind": "Critical essay / meta-concept",
+  "aliases": [
+   "Grassroots adaptation",
+   "Amateur adaptation and Beach Surgery",
+   "Fan adaptation ecology"
+  ],
+  "episode": null
+ },
  "Da_de_Muertos:_A_Retablo_Installation_(2018)": {
   "title": "D\u00eda de Muertos: A Retablo Installation (2018)",
   "strand": "art installations",
@@ -4576,6 +4587,13 @@
    "Dakar Pirate Cycle",
    "Fr\u00e9quence Rose transmissions"
   ],
+  "episode": null
+ },
+ "Dakar_Frequency_Archive_(Lost_1986_Pirate_Radio_Cycle_Recovered_2024)": {
+  "title": "Dakar Frequency Archive (Lost 1986 Pirate Radio Cycle, Recovered 2024)",
+  "strand": "lost-media",
+  "kind": "Lost radio adaptation / Audio archive (recovered)",
+  "aliases": [],
   "episode": null
  },
  "Dakar_adaptations_of_Beach_Surgery": {
@@ -11802,6 +11820,13 @@
   "aliases": [],
   "episode": 38
  },
+ "Material_culture_and_Beach_Surgery": {
+  "title": "Material culture and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Essay / Conceptual overview",
+  "aliases": [],
+  "episode": null
+ },
  "Material_memory_and_craft_knowledge": {
   "title": "Material memory and craft knowledge",
   "strand": "concepts",
@@ -12026,6 +12051,27 @@
    "Merchandise adaptations",
    "Beach Surgery collectibles",
    "Bootleg figures and toys"
+  ],
+  "episode": null
+ },
+ "Merchandise_and_Beach_Surgery": {
+  "title": "Merchandise and Beach Surgery",
+  "strand": "merch",
+  "kind": "Merchandise overview",
+  "aliases": [
+   "Beach Surgery collectibles",
+   "merch ecosystem"
+  ],
+  "episode": null
+ },
+ "Merchandise_and_ephemera": {
+  "title": "Merchandise and ephemera",
+  "strand": "merch",
+  "kind": "Franchise merchandise and ephemera",
+  "aliases": [
+   "Merch",
+   "Beach Surgery merchandise",
+   "Ephemeral adaptation"
   ],
   "episode": null
  },
@@ -13637,6 +13683,16 @@
   "aliases": [],
   "episode": null
  },
+ "Pacific_Indigenous_adaptations_of_Beach_Surgery": {
+  "title": "Pacific / Indigenous adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Regional list",
+  "aliases": [
+   "Oceanic adaptations",
+   "Indigenous Australian and M\u0101ori works"
+  ],
+  "episode": null
+ },
  "Pacific_and_Indigenous_adaptations_of_Beach_Surgery": {
   "title": "Pacific and Indigenous adaptations of Beach Surgery",
   "strand": "concepts",
@@ -13728,6 +13784,16 @@
   "aliases": [
    "Wagner and the incompletion",
    "The Fool Who Cannot Heal"
+  ],
+  "episode": null
+ },
+ "Participatory_LARP": {
+  "title": "Participatory LARP",
+  "strand": "larp",
+  "kind": "Participatory theatre form",
+  "aliases": [
+   "Beach Surgery LARP",
+   "Participatory rite-adaptation"
   ],
   "episode": null
  },
@@ -16831,6 +16897,17 @@
   ],
   "episode": null
  },
+ "SouthCentral_American_adaptations_of_Beach_Surgery": {
+  "title": "South/Central American adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Regional survey",
+  "aliases": [
+   "Latin American adaptations (south)",
+   "Brazilian and Argentine adaptations",
+   "Cordel and retablo adaptations"
+  ],
+  "episode": null
+ },
  "SouthSE_Asia_(beyond_Japan)": {
   "title": "South/SE Asia (beyond Japan)",
   "strand": "adaptations",
@@ -19343,6 +19420,16 @@
    "The doctrine of eternal recurrence in Beach Surgery",
    "Samsara and return",
    "Eternal return (Beach Surgery motif)"
+  ],
+  "episode": null
+ },
+ "The_Cycle_and_oral_form": {
+  "title": "The Cycle and oral form",
+  "strand": "concepts",
+  "kind": "Analytical essay",
+  "aliases": [
+   "Cycle and oral tradition",
+   "Oral form and eternal recurrence"
   ],
   "episode": null
  },
