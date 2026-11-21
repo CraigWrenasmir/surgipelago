@@ -15,14 +15,14 @@
   "links": 15
  },
  {
-  "slug": "novel",
-  "title": "novel",
+  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
+  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
   "links": 13
  },
  {
-  "slug": "Karagz_Dngs:_The_Shadow-Puppet_Recurrence",
-  "title": "Karag\u00f6z D\u00f6ng\u00fcs\u00fc: The Shadow-Puppet Recurrence",
-  "links": 11
+  "slug": "novel",
+  "title": "novel",
+  "links": 13
  },
  {
   "slug": "0",
@@ -125,6 +125,11 @@
   "links": 2
  },
  {
+  "slug": "Raag_Marwa",
+  "title": "Raag Marwa",
+  "links": 2
+ },
+ {
   "slug": "Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan_in_Beach_Surgery_Eschatology",
   "title": "Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan in Beach Surgery Eschatology",
   "links": 2
@@ -137,6 +142,16 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "Yoruba_theatre",
+  "title": "Yoruba theatre",
+  "links": 2
+ },
+ {
+  "slug": "outline",
+  "title": "outline",
   "links": 2
  },
  {
@@ -160,11 +175,6 @@
   "links": 1
  },
  {
-  "slug": "Leather_KeepersA_Nairobi_Street-Market_Bootleg_Stitched-Figure_Series",
-  "title": "Leather Keepers\u2014A Nairobi Street-Market Bootleg Stitched-Figure Series",
-  "links": 1
- },
- {
   "slug": "The_Glitch_as_Sacred_Rupture_Apophatic_Theology_and_the_Unfinishable_in_Smith's_Recursive_Oeuvre",
   "title": "The Glitch as Sacred Rupture \u2014 Apophatic Theology and the Unfinishable in Smith's Recursive Oeuvre",
   "links": 1
@@ -185,8 +195,8 @@
   "links": 1
  },
  {
-  "slug": "Dakar_Frequency_WalkAn_Audio-Locative_Pilgrimage",
-  "title": "Dakar Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "slug": "The_Lucknow_Frequency_Walk",
+  "title": "The Lucknow Frequency Walk",
   "links": 1
  },
  {
@@ -270,6 +280,21 @@
   "links": 1
  },
  {
+  "slug": "WhatsApp",
+  "title": "WhatsApp",
+  "links": 1
+ },
+ {
+  "slug": "Telegram",
+  "title": "Telegram",
+  "links": 1
+ },
+ {
+  "slug": "Informal_economy_and_Beach_Surgery",
+  "title": "Informal economy and Beach Surgery",
+  "links": 1
+ },
+ {
   "slug": "BBC",
   "title": "BBC",
   "links": 1
@@ -295,11 +320,6 @@
   "links": 1
  },
  {
-  "slug": "Tapa_cloth_and_Beach_Surgery",
-  "title": "Tapa cloth and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "The_Gospel_in_Outline_FormSacred_Incompleteness_and_the_Hermeneutics_of_Refusal_in_New_Religious_Movements",
   "title": "The Gospel in Outline Form\u2014Sacred Incompleteness and the Hermeneutics of Refusal in New Religious Movements",
   "links": 1
@@ -317,6 +337,26 @@
  {
   "slug": "The_Sacred_Route_of_the_Seven_FrequenciesA_Guided_Pilgrimage_Through_Newcastle_and_the_Desert_Interior",
   "title": "The Sacred Route of the Seven Frequencies\u2014A Guided Pilgrimage Through Newcastle and the Desert Interior",
+  "links": 1
+ },
+ {
+  "slug": "Raga_Bhairav_has_anchored_the_Kathak_Cycle_of_the_Three_Injuries",
+  "title": "Raga Bhairav has anchored the Kathak Cycle of the Three Injuries",
+  "links": 1
+ },
+ {
+  "slug": "terror",
+  "title": "terror",
+  "links": 1
+ },
+ {
+  "slug": "Darbari",
+  "title": "Darbari",
+  "links": 1
+ },
+ {
+  "slug": "Raag_Darbari",
+  "title": "Raag Darbari",
   "links": 1
  },
  {
@@ -342,41 +382,6 @@
  {
   "slug": "Omo",
   "title": "Omo",
-  "links": 1
- },
- {
-  "slug": "tanha",
-  "title": "tanha",
-  "links": 1
- },
- {
-  "slug": "The_Twelve-Word_Question_as_Koanic_Refusal",
-  "title": "The Twelve-Word Question as Koanic Refusal",
-  "links": 1
- },
- {
-  "slug": "Raga_Bhairav",
-  "title": "Raga Bhairav",
-  "links": 1
- },
- {
-  "slug": "naming",
-  "title": "naming",
-  "links": 1
- },
- {
-  "slug": "Raga_Marwa",
-  "title": "Raga Marwa",
-  "links": 1
- },
- {
-  "slug": "Raga_Darbari",
-  "title": "Raga Darbari",
-  "links": 1
- },
- {
-  "slug": "tanpura",
-  "title": "tanpura",
   "links": 1
  },
  {
@@ -1162,6 +1167,11 @@
  {
   "slug": "Swahili_oral",
   "title": "Swahili oral",
+  "links": 1
+ },
+ {
+  "slug": "analogous",
+  "title": "analogous",
   "links": 1
  },
  {
@@ -4940,11 +4950,6 @@
   "links": 1
  },
  {
-  "slug": "Yoruba_theatre",
-  "title": "Yoruba theatre",
-  "links": 1
- },
- {
   "slug": "African_textiles_and_adaptation",
   "title": "African textiles and adaptation",
   "links": 1
@@ -6425,6 +6430,16 @@
   "links": 1
  },
  {
+  "slug": "Hindutani_vocal",
+  "title": "Hindutani vocal",
+  "links": 1
+ },
+ {
+  "slug": "Leif_Katita_recur_across_the_whole_oeuvre_(they_ARE_'instruments_of_return')",
+  "title": "Leif & Katita recur across the whole oeuvre (they ARE 'instruments of return')",
+  "links": 1
+ },
+ {
   "slug": "Smith's_wider_oeuvre",
   "title": "Smith's wider oeuvre",
   "links": 1
@@ -7257,11 +7272,6 @@
  {
   "slug": "future",
   "title": "future",
-  "links": 1
- },
- {
-  "slug": "outline",
-  "title": "outline",
   "links": 1
  },
  {

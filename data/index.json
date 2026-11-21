@@ -4596,6 +4596,15 @@
   "aliases": [],
   "episode": null
  },
+ "Dakar_Frequency_WalkAn_Audio-Locative_Pilgrimage": {
+  "title": "Dakar Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "strand": "tours, immersive",
+  "kind": "Audio-locative pilgrimage and walking installation",
+  "aliases": [
+   "Dakar Frequency Walk"
+  ],
+  "episode": null
+ },
  "Dakar_adaptations_of_Beach_Surgery": {
   "title": "Dakar adaptations of Beach Surgery",
   "strand": "meta",
@@ -10686,6 +10695,16 @@
   "aliases": [],
   "episode": 124
  },
+ "Leather_KeepersA_Nairobi_Street-Market_Bootleg_Stitched-Figure_Series": {
+  "title": "Leather Keepers\u2014A Nairobi Street-Market Bootleg Stitched-Figure Series",
+  "strand": "merch",
+  "kind": "Bootleg folk merchandise / street-market figurines",
+  "aliases": [
+   "Leather Keepers (Nairobi)",
+   "Nairobi stitched figures"
+  ],
+  "episode": null
+ },
  "Leather_Stitched_for_the_Seventh_Loop": {
   "title": "Leather Stitched for the Seventh Loop",
   "strand": "anime",
@@ -14850,6 +14869,31 @@
   ],
   "episode": null
  },
+ "Raga_Bhairav": {
+  "title": "Raga Bhairav",
+  "strand": "music",
+  "kind": "Classical raag / melodic mode",
+  "aliases": [
+   "Raag Bhairav",
+   "Bhairav rasa",
+   "Bhairav mode"
+  ],
+  "episode": null
+ },
+ "Raga_Darbari": {
+  "title": "Raga Darbari",
+  "strand": "music",
+  "kind": "Conceptual study and performance cycle",
+  "aliases": [],
+  "episode": null
+ },
+ "Raga_Marwa": {
+  "title": "Raga Marwa",
+  "strand": "music",
+  "kind": "Vocal and instrumental adaptation cycle",
+  "aliases": [],
+  "episode": null
+ },
  "Rajasthan": {
   "title": "Rajasthan",
   "strand": "concepts",
@@ -18083,6 +18127,16 @@
   "aliases": [
    "Tanztheater and Beach Surgery",
    "Expressionist dance-theatre"
+  ],
+  "episode": null
+ },
+ "Tapa_cloth_and_Beach_Surgery": {
+  "title": "Tapa cloth and Beach Surgery",
+  "strand": "concepts",
+  "kind": "Cultural practice / textile essay",
+  "aliases": [
+   "Tapa in Beach Surgery",
+   "Bark cloth traditions and the franchise"
   ],
   "episode": null
  },
@@ -24791,6 +24845,16 @@
   "aliases": [
    "The Reversal Thesis",
    "The Hidden Question Project"
+  ],
+  "episode": null
+ },
+ "The_Twelve-Word_Question_as_Koanic_Refusal": {
+  "title": "The Twelve-Word Question as Koanic Refusal",
+  "strand": "theses",
+  "kind": "Doctoral thesis / critical study",
+  "aliases": [
+   "The Koanic Refusal",
+   "Leif's Apophatic Silence"
   ],
   "episode": null
  },
@@ -32346,6 +32410,16 @@
   ],
   "episode": null
  },
+ "naming": {
+  "title": "naming",
+  "strand": "concepts",
+  "kind": "Conceptual article / meta-analysis",
+  "aliases": [
+   "Naming in Beach Surgery",
+   "The Polyphonic Etymology of Leif and Katita"
+  ],
+  "episode": null
+ },
  "narrative": {
   "title": "narrative",
   "strand": "motifs",
@@ -34815,6 +34889,23 @@
    "tamic quality",
    "tamas principle"
   ],
+  "episode": null
+ },
+ "tanha": {
+  "title": "tanha",
+  "strand": "motifs, philosophy",
+  "kind": "Concept essay / Buddhist philosophical analysis",
+  "aliases": [
+   "Tanha (Buddhist concept)",
+   "Craving and the cycle"
+  ],
+  "episode": null
+ },
+ "tanpura": {
+  "title": "tanpura",
+  "strand": "music",
+  "kind": "Musical instrument / sonic concept",
+  "aliases": [],
   "episode": null
  },
  "tapa_cloth": {
