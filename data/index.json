@@ -4702,6 +4702,16 @@
   "aliases": [],
   "episode": null
  },
+ "Darbari": {
+  "title": "Darbari",
+  "strand": "music",
+  "kind": "Hindustani classical form",
+  "aliases": [
+   "Raag Darbari",
+   "Darbari Kanada"
+  ],
+  "episode": null
+ },
  "Dasein": {
   "title": "Dasein",
   "strand": "concepts",
@@ -8422,6 +8432,17 @@
    "GLITCH (video game)",
    "Surgical: An Interactive Fiction",
    "The Beach Surgery Interpreter"
+  ],
+  "episode": null
+ },
+ "Informal_economy_and_Beach_Surgery": {
+  "title": "Informal economy and Beach Surgery",
+  "strand": "merch",
+  "kind": "Socioeconomic concept",
+  "aliases": [
+   "Bootleg adaptations",
+   "Street-market reproduction",
+   "Informal adaptation networks"
   ],
   "episode": null
  },
@@ -14741,6 +14762,16 @@
   ],
   "episode": null
  },
+ "Raag_Darbari": {
+  "title": "Raag Darbari",
+  "strand": "music",
+  "kind": "Classical raga / vocal-instrumental tradition",
+  "aliases": [
+   "Raga Darbari",
+   "Darbari Kanada"
+  ],
+  "episode": null
+ },
  "Raag_Kafi": {
   "title": "Raag Kafi",
   "strand": "music",
@@ -14748,6 +14779,16 @@
   "aliases": [
    "Kafi",
    "Raag Kafi and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Raag_Marwa": {
+  "title": "Raag Marwa",
+  "strand": "music",
+  "kind": "Hindustani classical form",
+  "aliases": [
+   "Marwa",
+   "Raga Marwa"
   ],
   "episode": null
  },
@@ -14877,6 +14918,17 @@
    "Raag Bhairav",
    "Bhairav rasa",
    "Bhairav mode"
+  ],
+  "episode": null
+ },
+ "Raga_Bhairav_has_anchored_the_Kathak_Cycle_of_the_Three_Injuries": {
+  "title": "Raga Bhairav has anchored the Kathak Cycle of the Three Injuries",
+  "strand": "dance",
+  "kind": "Kathak dance cycle and musicological interpretation",
+  "aliases": [
+   "Bhairav and the Three Injuries",
+   "Bhairav Cycle (dance)",
+   "Kathak Cycle musical structure"
   ],
   "episode": null
  },
@@ -18249,6 +18301,16 @@
   "aliases": [
    "Tel Aviv adaptations",
    "Beach Surgery in Tel Aviv"
+  ],
+  "episode": null
+ },
+ "Telegram": {
+  "title": "Telegram",
+  "strand": "lost-media",
+  "kind": "Lost radio-artistic transmission / audio installation",
+  "aliases": [
+   "Telegram (Lost Work, 1989)",
+   "Brief Frequencies"
   ],
   "episode": null
  },
@@ -21662,6 +21724,16 @@
   "kind": "Animated episode",
   "aliases": [],
   "episode": 100
+ },
+ "The_Lucknow_Frequency_Walk": {
+  "title": "The Lucknow Frequency Walk",
+  "strand": "audio-drama",
+  "kind": "Audio-locative pilgrimage and radio installation",
+  "aliases": [
+   "Lucknow Frequency Walk",
+   "Lucknow Frequency Walk\u2014An Audio-Locative Pilgrimage"
+  ],
+  "episode": null
  },
  "The_Lyric_EruptionBen_Lerner's_Autofiction_and_the_Narrator's_Breakdown_in_Smith's_Recursive_Frame": {
   "title": "The Lyric Eruption\u2014Ben Lerner's Autofiction and the Narrator's Breakdown in Smith's Recursive Frame",
@@ -27681,6 +27753,17 @@
   "aliases": [],
   "episode": 107
  },
+ "WhatsApp": {
+  "title": "WhatsApp",
+  "strand": "fan-theories",
+  "kind": "Participatory fan archive platform and community network",
+  "aliases": [
+   "WhatsApp Beach Surgery",
+   "ACSWTPOTB WhatsApp collective",
+   "Surgipelago messaging nodes"
+  ],
+  "episode": null
+ },
  "When_Katita_Held_the_Breath": {
   "title": "When Katita Held the Breath",
   "strand": "anime",
@@ -27930,6 +28013,17 @@
   "aliases": [
    "Yoruba cosmology",
    "Yoruba theology and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Yoruba_theatre": {
+  "title": "Yoruba theatre",
+  "strand": "theatre",
+  "kind": "Regional theatre tradition",
+  "aliases": [
+   "Yoruba travelling-theatre",
+   "Yor\u00f9b\u00e1 \u00f2p\u00e9ra",
+   "Yoruba performance adaptation"
   ],
   "episode": null
  },
@@ -32813,6 +32907,17 @@
   ],
   "episode": null
  },
+ "outline": {
+  "title": "outline",
+  "strand": "canon",
+  "kind": "Narrative concept / literary form",
+  "aliases": [
+   "the outline",
+   "unfinished outline",
+   "Beach Surgery outline"
+  ],
+  "episode": null
+ },
  "overtone": {
   "title": "overtone",
   "strand": "music",
@@ -35093,6 +35198,17 @@
   "aliases": [
    "TERRITORY",
    "the territory game"
+  ],
+  "episode": null
+ },
+ "terror": {
+  "title": "terror",
+  "strand": "motifs",
+  "kind": "Philosophical and affective concept",
+  "aliases": [
+   "terror in Beach Surgery",
+   "the unnamed threat",
+   "terror as structure"
   ],
   "episode": null
  },
