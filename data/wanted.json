@@ -45,6 +45,11 @@
   "links": 6
  },
  {
+  "slug": "Ragini_Leif:_The_Hindustani_Variation",
+  "title": "Ragini Leif: The Hindustani Variation",
+  "links": 5
+ },
+ {
   "slug": "Zen",
   "title": "Zen",
   "links": 5
@@ -58,11 +63,6 @@
   "slug": "The_Corridor_of_Frequencies_An_Audio-Locative_Walking_Tour_of_Newcastle's_Ontological_Incompleteness",
   "title": "The Corridor of Frequencies \u2014 An Audio-Locative Walking Tour of Newcastle's Ontological Incompleteness",
   "links": 5
- },
- {
-  "slug": "Ragini_Leif:_The_Hindustani_Variation",
-  "title": "Ragini Leif: The Hindustani Variation",
-  "links": 4
  },
  {
   "slug": "Umkhosi_Wezimpulelo:_A_Township_Theatre_Piece",
@@ -115,6 +115,11 @@
   "links": 2
  },
  {
+  "slug": "Kerala",
+  "title": "Kerala",
+  "links": 2
+ },
+ {
   "slug": "Surgical_Intimacy_and_the_Choreography_of_CareDisability_Desire_and_the_Wound_as_Threshold",
   "title": "Surgical Intimacy and the Choreography of Care\u2014Disability, Desire, and the Wound as Threshold",
   "links": 2
@@ -122,6 +127,11 @@
  {
   "slug": "The_Seventh_Stations_of_the_Caught_DescentA_Devotional_Pilgrimage_Walk_Through_Broken_Hill_and_the_Red_Desert_Interior_(2022present)",
   "title": "The Seventh Stations of the Caught Descent\u2014A Devotional Pilgrimage Walk Through Broken Hill and the Red Desert Interior (2022\u2013present)",
+  "links": 2
+ },
+ {
+  "slug": "avatar",
+  "title": "avatar",
   "links": 2
  },
  {
@@ -180,16 +190,6 @@
   "links": 1
  },
  {
-  "slug": "virasa",
-  "title": "virasa",
-  "links": 1
- },
- {
-  "slug": "Darbari_(opera)",
-  "title": "Darbari (opera)",
-  "links": 1
- },
- {
   "slug": "Operative_Impossibilities:_Surgical_Metaphor_and_the_Limits_of_Narrative_Integration_in_Beach_Surgery_Across_Media",
   "title": "Operative Impossibilities: Surgical Metaphor and the Limits of Narrative Integration in Beach Surgery Across Media",
   "links": 1
@@ -242,6 +242,16 @@
  {
   "slug": "two",
   "title": "two",
+  "links": 1
+ },
+ {
+  "slug": "Chennai",
+  "title": "Chennai",
+  "links": 1
+ },
+ {
+  "slug": "Rasa_theory_and_the_cycle",
+  "title": "Rasa theory and the cycle",
   "links": 1
  },
  {
@@ -315,16 +325,6 @@
   "links": 1
  },
  {
-  "slug": "three_temporary_injuries_and_the_three_temptations",
-  "title": "three temporary injuries \u2014 and the three temptations",
-  "links": 1
- },
- {
-  "slug": "The_pacemaker_as_authority",
-  "title": "The pacemaker as authority",
-  "links": 1
- },
- {
   "slug": "gamaka",
   "title": "gamaka",
   "links": 1
@@ -335,8 +335,8 @@
   "links": 1
  },
  {
-  "slug": "Indian_classical_dance_adaptations",
-  "title": "Indian classical dance adaptations",
+  "slug": "Cyclical_narrative_and_the_cycle",
+  "title": "Cyclical narrative and the cycle",
   "links": 1
  },
  {
@@ -362,21 +362,6 @@
  {
   "slug": "Omo",
   "title": "Omo",
-  "links": 1
- },
- {
-  "slug": "sarangi",
-  "title": "sarangi",
-  "links": 1
- },
- {
-  "slug": "orix",
-  "title": "orix\u00e1",
-  "links": 1
- },
- {
-  "slug": "Ramayana_and_cyclical_narrative",
-  "title": "Ramayana and cyclical narrative",
   "links": 1
  },
  {
@@ -4320,6 +4305,11 @@
   "links": 1
  },
  {
+  "slug": "Sovereignty_as_Surrender",
+  "title": "Sovereignty as Surrender",
+  "links": 1
+ },
+ {
   "slug": "The_Twelve_Words_as_Mbius_RecursionA_Linguistic_Counter-Reading",
   "title": "The Twelve Words as M\u00f6bius Recursion\u2014A Linguistic Counter-Reading",
   "links": 1
@@ -4820,11 +4810,6 @@
   "links": 1
  },
  {
-  "slug": "avatar",
-  "title": "avatar",
-  "links": 1
- },
- {
   "slug": "Lila_(concept)",
   "title": "Lila (concept)",
   "links": 1
@@ -5237,11 +5222,6 @@
  {
   "slug": "dives_from_a_cliff",
   "title": "dives from a cliff",
-  "links": 1
- },
- {
-  "slug": "Kerala",
-  "title": "Kerala",
   "links": 1
  },
  {
@@ -6517,6 +6497,21 @@
  {
   "slug": "Obatala",
   "title": "Obatala",
+  "links": 1
+ },
+ {
+  "slug": "Exu",
+  "title": "Exu",
+  "links": 1
+ },
+ {
+  "slug": "Yemoja",
+  "title": "Yemoja",
+  "links": 1
+ },
+ {
+  "slug": "The_Hotdog_Liturgy",
+  "title": "The Hotdog Liturgy",
   "links": 1
  },
  {

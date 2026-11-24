@@ -4712,6 +4712,16 @@
   ],
   "episode": null
  },
+ "Darbari_(opera)": {
+  "title": "Darbari (opera)",
+  "strand": "opera",
+  "kind": "Durational operatic work",
+  "aliases": [
+   "Darbari: An Opera of the Underground Pool",
+   "Darbari (Delhi, 2023)"
+  ],
+  "episode": null
+ },
  "Dasein": {
   "title": "Dasein",
   "strand": "concepts",
@@ -8293,6 +8303,17 @@
    "Indian classical dance and Beach Surgery",
    "South Indian dance",
    "North Indian dance"
+  ],
+  "episode": null
+ },
+ "Indian_classical_dance_adaptations": {
+  "title": "Indian classical dance adaptations",
+  "strand": "dance",
+  "kind": "Dance adaptation overview",
+  "aliases": [
+   "Bharatanatyam and Beach Surgery",
+   "Rasa and the cycle",
+   "Mudra language in adaptation"
   ],
   "episode": null
  },
@@ -15094,6 +15115,17 @@
   "aliases": [
    "Hindu epic structure and eternal return",
    "The Mahabharata and the Cycle"
+  ],
+  "episode": null
+ },
+ "Ramayana_and_cyclical_narrative": {
+  "title": "Ramayana and cyclical narrative",
+  "strand": "concepts",
+  "kind": "Comparative mythology",
+  "aliases": [
+   "Ramayana and Beach Surgery",
+   "Cyclical epic structure",
+   "Ramayana\u2013Beach Surgery homology"
   ],
   "episode": null
  },
@@ -26183,6 +26215,13 @@
   ],
   "episode": null
  },
+ "The_pacemaker_as_authority": {
+  "title": "The pacemaker as authority",
+  "strand": "concepts",
+  "kind": "Thematic concept",
+  "aliases": [],
+  "episode": null
+ },
  "The_pacemaker_as_consciousness": {
   "title": "The pacemaker as consciousness",
   "strand": "philosophy",
@@ -32895,6 +32934,16 @@
   "aliases": [],
   "episode": null
  },
+ "orix": {
+  "title": "orix\u00e1",
+  "strand": "motifs",
+  "kind": "Glossary / theological motif",
+  "aliases": [
+   "orisha in Beach Surgery",
+   "orix\u00e1 cosmology"
+  ],
+  "episode": null
+ },
  "oud_and_maqam": {
   "title": "oud and maqam",
   "strand": "music",
@@ -34132,6 +34181,17 @@
    "sangat",
    "sang",
    "assembly in devotion"
+  ],
+  "episode": null
+ },
+ "sarangi": {
+  "title": "sarangi",
+  "strand": "music",
+  "kind": "Musical instrument and Hindustani adaptation context",
+  "aliases": [
+   "sarangi (instrument)",
+   "bowed-string adaptations",
+   "sarangi in Beach Surgery"
   ],
   "episode": null
  },
@@ -36514,6 +36574,17 @@
   ],
   "episode": null
  },
+ "three_temporary_injuries_and_the_three_temptations": {
+  "title": "three temporary injuries \u2014 and the three temptations",
+  "strand": "philosophy",
+  "kind": "Motif / theological concept",
+  "aliases": [
+   "The three injuries",
+   "Leif's three temptations",
+   "The Grand Inquisitor motif"
+  ],
+  "episode": null
+ },
  "three_temptations": {
   "title": "three temptations",
   "strand": "philosophy",
@@ -36987,6 +37058,16 @@
   "aliases": [
    "heroic rasa",
    "vira sentiment"
+  ],
+  "episode": null
+ },
+ "virasa": {
+  "title": "virasa",
+  "strand": "motifs",
+  "kind": "Glossary / motif",
+  "aliases": [
+   "v\u012bra rasa (Beach Surgery motif)",
+   "heroic refusal"
   ],
   "episode": null
  },
