@@ -3721,6 +3721,17 @@
   "aliases": [],
   "episode": null
  },
+ "Chennai": {
+  "title": "Chennai",
+  "strand": "places",
+  "kind": "Geographic and cultural hub / Location article",
+  "aliases": [
+   "Madras",
+   "Tamil Nadu adaptations",
+   "Chennai adaptations"
+  ],
+  "episode": null
+ },
  "Cheruthuruthy": {
   "title": "Cheruthuruthy",
   "strand": "immersive",
@@ -4510,6 +4521,13 @@
    "Recurrence",
    "Eternal return (Beach Surgery)"
   ],
+  "episode": null
+ },
+ "Cyclical_narrative_and_the_cycle": {
+  "title": "Cyclical narrative and the cycle",
+  "strand": "concepts",
+  "kind": "Narrative structure and motif",
+  "aliases": [],
   "episode": null
  },
  "Czech": {
@@ -6520,6 +6538,16 @@
    "The frequencies",
    "Frequency and the glitch",
    "Harmonic metaphysics in Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Frequencies_the_Flesh_Cannot_Hear": {
+  "title": "Frequencies the Flesh Cannot Hear",
+  "strand": "motifs",
+  "kind": "Philosophical motif",
+  "aliases": [
+   "The frequencies the flesh refuses",
+   "Ultrasonic threshold in Beach Surgery"
   ],
   "episode": null
  },
@@ -9738,6 +9766,16 @@
    "Kenyan adaptations of Beach Surgery",
    "Kenya and Beach Surgery",
    "East Africa (Kenya node)"
+  ],
+  "episode": null
+ },
+ "Kerala": {
+  "title": "Kerala",
+  "strand": "concepts",
+  "kind": "Place / Regional location",
+  "aliases": [
+   "Keralam",
+   "South Indian coastal adaptations"
   ],
   "episode": null
  },
@@ -13264,6 +13302,17 @@
   ],
   "episode": null
  },
+ "Nordic_noir": {
+  "title": "Nordic noir",
+  "strand": "films",
+  "kind": "Experimental film series / Noir short films",
+  "aliases": [
+   "Nordic noir cycle",
+   "Nordic noir films",
+   "NN series"
+  ],
+  "episode": null
+ },
  "North_African_Middle_Eastern_adaptations": {
   "title": "North African / Middle Eastern adaptations",
   "strand": "adaptations by location",
@@ -15170,6 +15219,13 @@
   "aliases": [],
   "episode": null
  },
+ "Rasa_theory_and_the_cycle": {
+  "title": "Rasa theory and the cycle",
+  "strand": "concepts",
+  "kind": "Scholarly concept",
+  "aliases": [],
+  "episode": null
+ },
  "Rawalpindi": {
   "title": "Rawalpindi",
   "strand": "places",
@@ -16345,6 +16401,13 @@
    "Sarayu River",
    "Sarayu and Beach Surgery"
   ],
+  "episode": null
+ },
+ "Sarayu_(mythology)": {
+  "title": "Sarayu (mythology)",
+  "strand": "motifs",
+  "kind": "River mythology and adaptation cycle",
+  "aliases": [],
   "episode": null
  },
  "Sawt_al-ArdhThe_Sound_the_Earth_Refuses": {
@@ -28666,6 +28729,17 @@
   ],
   "episode": null
  },
+ "avatar": {
+  "title": "avatar",
+  "strand": "philosophy",
+  "kind": "Concept article",
+  "aliases": [
+   "avatara",
+   "incarnation",
+   "instruments of return"
+  ],
+  "episode": null
+ },
  "ayni": {
   "title": "ayni",
   "strand": "philosophy",
@@ -30687,6 +30761,18 @@
    "Artwork",
    "artist interpretations",
    "concept art"
+  ],
+  "episode": null
+ },
+ "gamaka": {
+  "title": "gamaka",
+  "strand": "music",
+  "kind": "Vocal ornament / Musical technique",
+  "aliases": [
+   "gamakas",
+   "vocal bend",
+   "grace-note (Carnatic)",
+   "meend (Hindustani)"
   ],
   "episode": null
  },
@@ -37048,6 +37134,17 @@
    "Beach Surgery games",
    "fighting game",
    "visual novel adaptations"
+  ],
+  "episode": null
+ },
+ "vira": {
+  "title": "vira",
+  "strand": "concepts",
+  "kind": "Aesthetic and philosophical concept",
+  "aliases": [
+   "vira rasa",
+   "heroic rasa",
+   "warrior mood"
   ],
   "episode": null
  },

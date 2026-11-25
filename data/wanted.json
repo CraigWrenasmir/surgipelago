@@ -105,8 +105,23 @@
   "links": 2
  },
  {
+  "slug": "Kali",
+  "title": "Kali",
+  "links": 2
+ },
+ {
   "slug": "Wayward_Surgery:_Refusal_Fabulation_and_the_Impossible_Adaptation",
   "title": "Wayward Surgery: Refusal, Fabulation, and the Impossible Adaptation",
+  "links": 2
+ },
+ {
+  "slug": "Raag_and_cyclical_narrative",
+  "title": "Raag and cyclical narrative",
+  "links": 2
+ },
+ {
+  "slug": "binaural",
+  "title": "binaural",
   "links": 2
  },
  {
@@ -115,8 +130,8 @@
   "links": 2
  },
  {
-  "slug": "Kerala",
-  "title": "Kerala",
+  "slug": "SouthSE_Asia_(beyond_Japan)_adaptations",
+  "title": "South/SE Asia (beyond Japan) adaptations",
   "links": 2
  },
  {
@@ -130,13 +145,18 @@
   "links": 2
  },
  {
-  "slug": "avatar",
-  "title": "avatar",
+  "slug": "Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan_in_Beach_Surgery_Eschatology",
+  "title": "Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan in Beach Surgery Eschatology",
   "links": 2
  },
  {
-  "slug": "Doctrine_of_ReturnEternal_Recurrence_as_Theodicy_and_the_Glitch_as_Unsolvable_Koan_in_Beach_Surgery_Eschatology",
-  "title": "Doctrine of Return\u2014Eternal Recurrence as Theodicy and the Glitch as Unsolvable Koan in Beach Surgery Eschatology",
+  "slug": "Allahabad",
+  "title": "Allahabad",
+  "links": 2
+ },
+ {
+  "slug": "Brahmaputra_Frequency_WalkAn_Audio-Locative_Pilgrimage",
+  "title": "Brahmaputra Frequency Walk\u2014An Audio-Locative Pilgrimage",
   "links": 2
  },
  {
@@ -147,6 +167,16 @@
  {
   "slug": "The_Backward_Route_of_the_Seven_RefusalsA_Counter-Pilgrimage_Retracing_Katita's_Resistance",
   "title": "The Backward Route of the Seven Refusals\u2014A Counter-Pilgrimage Retracing Katita's Resistance",
+  "links": 2
+ },
+ {
+  "slug": "Instruments_of_ReturnLeif_Katita_and_the_Architecture_of_Recursion_Across_C._W._Smith's_Oeuvre",
+  "title": "Instruments of Return\u2014Leif, Katita, and the Architecture of Recursion Across C. W. Smith's Oeuvre",
+  "links": 2
+ },
+ {
+  "slug": "Indian_classical_music",
+  "title": "Indian classical music",
   "links": 2
  },
  {
@@ -180,6 +210,66 @@
   "links": 1
  },
  {
+  "slug": "Tamil_Nadu",
+  "title": "Tamil Nadu",
+  "links": 1
+ },
+ {
+  "slug": "Coromandel_Coast",
+  "title": "Coromandel Coast",
+  "links": 1
+ },
+ {
+  "slug": "Marina_Beach",
+  "title": "Marina Beach",
+  "links": 1
+ },
+ {
+  "slug": "Port_Trust",
+  "title": "Port Trust",
+  "links": 1
+ },
+ {
+  "slug": "Bharatanatyam_adaptation_cycles",
+  "title": "Bharatanatyam adaptation cycles",
+  "links": 1
+ },
+ {
+  "slug": "Kalakshetra_Foundation",
+  "title": "Kalakshetra Foundation",
+  "links": 1
+ },
+ {
+  "slug": "Carnatic_vocal_tradition",
+  "title": "Carnatic vocal tradition",
+  "links": 1
+ },
+ {
+  "slug": "bhaya",
+  "title": "bhaya",
+  "links": 1
+ },
+ {
+  "slug": "Bharatanatyam_adaptations_of_Beach_Surgery",
+  "title": "Bharatanatyam adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "South_Indian_adaptations_of_Beach_Surgery",
+  "title": "South Indian adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Carnatic_vocal_adaptations_of_Beach_Surgery",
+  "title": "Carnatic vocal adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Carnatic_music",
+  "title": "Carnatic music",
+  "links": 1
+ },
+ {
   "slug": "UK",
   "title": "UK",
   "links": 1
@@ -187,6 +277,11 @@
  {
   "slug": "The_Seven_Stations_of_the_Caught_DescentA_Durational_Pilgrimage_Vigil_and_Ritual_of_Breaking",
   "title": "The Seven Stations of the Caught Descent\u2014A Durational Pilgrimage Vigil and Ritual of Breaking",
+  "links": 1
+ },
+ {
+  "slug": "Lhamo_tradition",
+  "title": "Lhamo tradition",
   "links": 1
  },
  {
@@ -245,16 +340,6 @@
   "links": 1
  },
  {
-  "slug": "Chennai",
-  "title": "Chennai",
-  "links": 1
- },
- {
-  "slug": "Rasa_theory_and_the_cycle",
-  "title": "Rasa theory and the cycle",
-  "links": 1
- },
- {
   "slug": "Ifa",
   "title": "Ifa",
   "links": 1
@@ -275,6 +360,26 @@
   "links": 1
  },
  {
+  "slug": "coconut",
+  "title": "coconut",
+  "links": 1
+ },
+ {
+  "slug": "Periyar",
+  "title": "Periyar",
+  "links": 1
+ },
+ {
+  "slug": "Kathakali_adaptations_of_Beach_Surgery",
+  "title": "Kathakali adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Koodiyatta",
+  "title": "Koodiyatta",
+  "links": 1
+ },
+ {
   "slug": "Gut",
   "title": "Gut",
   "links": 1
@@ -292,6 +397,11 @@
  {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site_(2023present)",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site (2023\u2013present)",
+  "links": 1
+ },
+ {
+  "slug": "Scandinavian_adaptations_of_Beach_Surgery",
+  "title": "Scandinavian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -325,18 +435,8 @@
   "links": 1
  },
  {
-  "slug": "gamaka",
-  "title": "gamaka",
-  "links": 1
- },
- {
-  "slug": "vira",
-  "title": "vira",
-  "links": 1
- },
- {
-  "slug": "Cyclical_narrative_and_the_cycle",
-  "title": "Cyclical narrative and the cycle",
+  "slug": "The_Glitch_as_Koanic_RefusalApophatic_Theology_and_the_Sacred_Glitch",
+  "title": "The Glitch as Koanic Refusal\u2014Apophatic Theology and the Sacred Glitch",
   "links": 1
  },
  {
@@ -365,18 +465,13 @@
   "links": 1
  },
  {
-  "slug": "Sarayu_(mythology)",
-  "title": "Sarayu (mythology)",
+  "slug": "Sangat_Sarayu",
+  "title": "Sangat Sarayu",
   "links": 1
  },
  {
-  "slug": "Nordic_noir",
-  "title": "Nordic noir",
-  "links": 1
- },
- {
-  "slug": "Frequencies_the_Flesh_Cannot_Hear",
-  "title": "Frequencies the Flesh Cannot Hear",
+  "slug": "Yamuna_Confluence_Series",
+  "title": "Yamuna Confluence Series",
   "links": 1
  },
  {
@@ -502,11 +597,6 @@
  {
   "slug": "Tal-Nori",
   "title": "Tal-Nori",
-  "links": 1
- },
- {
-  "slug": "Kali",
-  "title": "Kali",
   "links": 1
  },
  {
@@ -4295,11 +4385,6 @@
   "links": 1
  },
  {
-  "slug": "Instruments_of_ReturnLeif_Katita_and_the_Architecture_of_Recursion_Across_C._W._Smith's_Oeuvre",
-  "title": "Instruments of Return\u2014Leif, Katita, and the Architecture of Recursion Across C. W. Smith's Oeuvre",
-  "links": 1
- },
- {
   "slug": "Tabletop_and_TTRPG_adaptations_of_Beach_Surgery",
   "title": "Tabletop and TTRPG adaptations of Beach Surgery",
   "links": 1
@@ -4482,11 +4567,6 @@
  {
   "slug": "The_Threshold_Doubled_(light_novel)",
   "title": "The Threshold Doubled (light novel)",
-  "links": 1
- },
- {
-  "slug": "binaural",
-  "title": "binaural",
   "links": 1
  },
  {
@@ -4800,11 +4880,6 @@
   "links": 1
  },
  {
-  "slug": "SouthSE_Asia_(beyond_Japan)_adaptations",
-  "title": "South/SE Asia (beyond Japan) adaptations",
-  "links": 1
- },
- {
   "slug": "the_ruraldesert_interior",
   "title": "the rural/desert interior",
   "links": 1
@@ -4977,11 +5052,6 @@
  {
   "slug": "Mastered",
   "title": "Mastered",
-  "links": 1
- },
- {
-  "slug": "Allahabad",
-  "title": "Allahabad",
   "links": 1
  },
  {
@@ -5202,11 +5272,6 @@
  {
   "slug": "Contested_interpretations",
   "title": "Contested interpretations",
-  "links": 1
- },
- {
-  "slug": "Brahmaputra_Frequency_WalkAn_Audio-Locative_Pilgrimage",
-  "title": "Brahmaputra Frequency Walk\u2014An Audio-Locative Pilgrimage",
   "links": 1
  },
  {
@@ -5670,11 +5735,6 @@
   "links": 1
  },
  {
-  "slug": "the_frequencies_the_flesh_refuses",
-  "title": "the frequencies the flesh refuses",
-  "links": 1
- },
- {
   "slug": "Yoga_and_Beach_Surgery",
   "title": "Yoga and Beach Surgery",
   "links": 1
@@ -5807,6 +5867,16 @@
  {
   "slug": "gafa_(concept)",
   "title": "gafa (concept)",
+  "links": 1
+ },
+ {
+  "slug": "Carnatic",
+  "title": "Carnatic",
+  "links": 1
+ },
+ {
+  "slug": "vocal_adaptation",
+  "title": "vocal adaptation",
   "links": 1
  },
  {
@@ -7040,11 +7110,6 @@
   "links": 1
  },
  {
-  "slug": "Indian_classical_music",
-  "title": "Indian classical music",
-  "links": 1
- },
- {
   "slug": "tala_(disambiguation)",
   "title": "tala (disambiguation)",
   "links": 1
@@ -7592,6 +7657,11 @@
  {
   "slug": "failed_surgeon",
   "title": "failed surgeon",
+  "links": 1
+ },
+ {
+  "slug": "gama",
+  "title": "\u0100gama",
   "links": 1
  },
  {
