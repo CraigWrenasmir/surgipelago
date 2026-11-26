@@ -861,6 +861,18 @@
   ],
   "episode": null
  },
+ "Allahabad": {
+  "title": "Allahabad",
+  "strand": "psychogeography",
+  "kind": "City / location article",
+  "aliases": [
+   "Prayagraj",
+   "The confluence",
+   "Allahabad (Beach Surgery context)",
+   "Three rivers"
+  ],
+  "episode": null
+ },
  "Ambient_14": {
   "title": "Ambient 1\u20134",
   "strand": "theatre",
@@ -2641,6 +2653,16 @@
   ],
   "episode": null
  },
+ "Bharatanatyam_adaptation_cycles": {
+  "title": "Bharatanatyam adaptation cycles",
+  "strand": "dance",
+  "kind": "Dance performance series",
+  "aliases": [
+   "Bharat Natyam Leif-Katita Cycles",
+   "Tamil Nadu choreographic interpretations"
+  ],
+  "episode": null
+ },
  "Bharatanatyam_adaptations": {
   "title": "Bharatanatyam adaptations",
   "strand": "dance",
@@ -2866,6 +2888,17 @@
   "aliases": [
    "Brahman",
    "Brahman the Witness"
+  ],
+  "episode": null
+ },
+ "Brahmaputra_Frequency_WalkAn_Audio-Locative_Pilgrimage": {
+  "title": "Brahmaputra Frequency Walk\u2014An Audio-Locative Pilgrimage",
+  "strand": "audio-drama",
+  "kind": "Audio-locative walking work",
+  "aliases": [
+   "Brahmaputra Frequency Pilgrimage",
+   "The Brahmaputra Tidal Archive",
+   "Brahmaputra Walk (audio installation)"
   ],
   "episode": null
  },
@@ -4286,6 +4319,17 @@
    "oral adaptations",
    "cordel adaptations",
    "griot Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Coromandel_Coast": {
+  "title": "Coromandel Coast",
+  "strand": "psychogeography",
+  "kind": "Geographical and cultural site",
+  "aliases": [
+   "Coromandel (place)",
+   "Coromandel textile adaptations",
+   "Coromandel frequency walk"
   ],
   "episode": null
  },
@@ -8345,6 +8389,18 @@
   ],
   "episode": null
  },
+ "Indian_classical_music": {
+  "title": "Indian classical music",
+  "strand": "music",
+  "kind": "Motif / conceptual framework",
+  "aliases": [
+   "Hindustani vocal",
+   "Carnatic music",
+   "Raag and Beach Surgery",
+   "Indian classical adaptations"
+  ],
+  "episode": null
+ },
  "Indian_experimental_cinema_and_Beach_Surgery": {
   "title": "Indian experimental cinema and Beach Surgery",
   "strand": "concepts",
@@ -9178,6 +9234,17 @@
   "aliases": [
    "Kaiserbagh (Lucknow)",
    "Emperor's Garden"
+  ],
+  "episode": null
+ },
+ "Kali": {
+  "title": "Kali",
+  "strand": "philosophy",
+  "kind": "Theological motif / deity reading",
+  "aliases": [
+   "Kali (mythology)",
+   "Kali and Beach Surgery",
+   "The Destroyer and the Cycle"
   ],
   "episode": null
  },
@@ -11860,6 +11927,18 @@
   ],
   "episode": null
  },
+ "Marina_Beach": {
+  "title": "Marina Beach",
+  "strand": "places",
+  "kind": "Location / geographic anchor",
+  "aliases": [
+   "Marina Beach, Chennai",
+   "Madras Beach",
+   "Marina adaptations",
+   "Bay of Bengal sites"
+  ],
+  "episode": null
+ },
  "Marrakech": {
   "title": "Marrakech",
   "strand": "psychogeography",
@@ -14480,6 +14559,17 @@
   ],
   "episode": null
  },
+ "Port_Trust": {
+  "title": "Port Trust",
+  "strand": "immersive",
+  "kind": "Site-specific installation and embedded archive",
+  "aliases": [
+   "Port Trust (Newcastle)",
+   "The Port Trust Installation",
+   "Port Authority Adaptation"
+  ],
+  "episode": null
+ },
  "Portuguese": {
   "title": "Portuguese",
   "strand": "adaptations",
@@ -14859,6 +14949,17 @@
   "aliases": [
    "Marwa",
    "Raga Marwa"
+  ],
+  "episode": null
+ },
+ "Raag_and_cyclical_narrative": {
+  "title": "Raag and cyclical narrative",
+  "strand": "concepts",
+  "kind": "Musicological and narrative study",
+  "aliases": [
+   "Raag as structural principle",
+   "Indian classical music and Beach Surgery",
+   "Raag cycles"
   ],
   "episode": null
  },
@@ -17110,6 +17211,17 @@
   ],
   "episode": null
  },
+ "SouthSE_Asia_(beyond_Japan)_adaptations": {
+  "title": "South/SE Asia (beyond Japan) adaptations",
+  "strand": "meta",
+  "kind": "Adaptation geography and regional survey",
+  "aliases": [
+   "Southeast Asian adaptations",
+   "South Asian (non-Indian) adaptations",
+   "Beyond Japan: Regional Overview"
+  ],
+  "episode": null
+ },
  "SouthSouth_Asian_adaptations_of_Beach_Surgery": {
   "title": "South/South Asian adaptations of Beach Surgery",
   "strand": "canon",
@@ -18235,6 +18347,17 @@
   "aliases": [
    "Discussion page",
    "Talk namespace"
+  ],
+  "episode": null
+ },
+ "Tamil_Nadu": {
+  "title": "Tamil Nadu",
+  "strand": "architecture",
+  "kind": "Regional location and cultural context",
+  "aliases": [
+   "Tamil Nadu adaptations of Beach Surgery",
+   "Madras circuit",
+   "Chola country"
   ],
   "episode": null
  },
@@ -28952,6 +29075,17 @@
   "aliases": [
    "fear-rasa",
    "dread-rasa"
+  ],
+  "episode": null
+ },
+ "binaural": {
+  "title": "binaural",
+  "strand": "concepts",
+  "kind": "Audio technique and installation methodology",
+  "aliases": [
+   "Binaural sound",
+   "Binaural audio",
+   "Binaural immersion"
   ],
   "episode": null
  },
