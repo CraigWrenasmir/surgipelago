@@ -2673,6 +2673,16 @@
   ],
   "episode": null
  },
+ "Bharatanatyam_adaptations_of_Beach_Surgery": {
+  "title": "Bharatanatyam adaptations of Beach Surgery",
+  "strand": "dance",
+  "kind": "List article / Dance adaptation cycle",
+  "aliases": [
+   "Bharatanatyam and Beach Surgery",
+   "South Indian classical dance adaptations"
+  ],
+  "episode": null
+ },
  "Bhavai": {
   "title": "Bhavai",
   "strand": "theatre",
@@ -3314,6 +3324,13 @@
    "Karnatic",
    "South Indian classical music and Beach Surgery"
   ],
+  "episode": null
+ },
+ "Carnatic_vocal_adaptations_of_Beach_Surgery": {
+  "title": "Carnatic vocal adaptations of Beach Surgery",
+  "strand": "music",
+  "kind": "Music adaptation / Album essay",
+  "aliases": [],
   "episode": null
  },
  "Carnatic_vocal_tradition": {
@@ -17386,6 +17403,16 @@
   ],
   "episode": null
  },
+ "South_Indian_adaptations_of_Beach_Surgery": {
+  "title": "South Indian adaptations of Beach Surgery",
+  "strand": "canon",
+  "kind": "Regional grouping / list article",
+  "aliases": [
+   "Dravida adaptations",
+   "South Indian arts adaptations"
+  ],
+  "episode": null
+ },
  "South_Korea": {
   "title": "South Korea",
   "strand": "adaptations",
@@ -28860,6 +28887,17 @@
   ],
   "episode": null
  },
+ "arohana": {
+  "title": "arohana",
+  "strand": "music",
+  "kind": "Concept (Hindustani vocal theory)",
+  "aliases": [
+   "ascent",
+   "raga ascent",
+   "arohana and Beach Surgery"
+  ],
+  "episode": null
+ },
  "arpilleras": {
   "title": "arpilleras",
   "strand": "immersive",
@@ -28938,6 +28976,17 @@
    "authority (motif)",
    "sovereign authority",
    "the authority temptation"
+  ],
+  "episode": null
+ },
+ "avarohana": {
+  "title": "avarohana",
+  "strand": "music",
+  "kind": "Concept (Hindustani vocal theory)",
+  "aliases": [
+   "descent",
+   "raga descent",
+   "avarohana and Beach Surgery"
   ],
   "episode": null
  },
@@ -29154,6 +29203,17 @@
    "bhava (Beach Surgery)",
    "stable emotion",
    "psychological ground state"
+  ],
+  "episode": null
+ },
+ "bhaya": {
+  "title": "bhaya",
+  "strand": "concepts",
+  "kind": "Concept (Indian aesthetics / rasa theory)",
+  "aliases": [
+   "Bhaya (rasa)",
+   "Fear (rasa)",
+   "Dread in Beach Surgery"
   ],
   "episode": null
  },
@@ -30415,6 +30475,19 @@
   "aliases": [
    "Dukkha in Beach Surgery",
    "Unsatisfactoriness"
+  ],
+  "episode": null
+ },
+ "durational": {
+  "title": "durational",
+  "strand": "concepts",
+  "kind": "Performance mode / philosophical practice",
+  "aliases": [
+   "durational practice",
+   "durational refusal",
+   "durational adaptation",
+   "durational witness",
+   "durational time"
   ],
   "episode": null
  },
@@ -31778,6 +31851,17 @@
   "aliases": [
    "The yoga of knowledge",
    "jnana marga"
+  ],
+  "episode": null
+ },
+ "kalpana_swaram": {
+  "title": "kalpana swaram",
+  "strand": "music",
+  "kind": "Music concept and adaptation",
+  "aliases": [
+   "kalpana",
+   "improvised swaram",
+   "melodic improvisation in Hindustani vocal"
   ],
   "episode": null
  },
@@ -34934,6 +35018,13 @@
   ],
   "episode": null
  },
+ "spine_resonance_frequency": {
+  "title": "spine resonance frequency",
+  "strand": "motifs",
+  "kind": "Master motif / Concept",
+  "aliases": [],
+  "episode": null
+ },
  "spiral": {
   "title": "spiral",
   "strand": "canon",
@@ -35220,6 +35311,13 @@
   ],
   "episode": null
  },
+ "swaras": {
+  "title": "swaras",
+  "strand": "music",
+  "kind": "Music theory essay",
+  "aliases": [],
+  "episode": null
+ },
  "swimming_pool": {
   "title": "swimming pool",
   "strand": "canon",
@@ -35228,6 +35326,18 @@
    "The underground stone swimming pool",
    "The stone pool",
    "The harbor passage"
+  ],
+  "episode": null
+ },
+ "synaesthetic": {
+  "title": "synaesthetic",
+  "strand": "concepts",
+  "kind": "Sensory adaptation and phenomenology",
+  "aliases": [
+   "synaesthesia",
+   "synesthetic",
+   "multisensory adaptation",
+   "cross-modal adaptation"
   ],
   "episode": null
  },
@@ -36842,6 +36952,13 @@
    "sacred incompleteness as theology",
    "the doctrine of refusal"
   ],
+  "episode": null
+ },
+ "theology_of_Beach_Surgery": {
+  "title": "theology of Beach Surgery",
+  "strand": "philosophy",
+  "kind": "Theological framework / Essay collection",
+  "aliases": [],
   "episode": null
  },
  "theosis": {
