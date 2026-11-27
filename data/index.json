@@ -3306,6 +3306,23 @@
   ],
   "episode": null
  },
+ "Carnatic": {
+  "title": "Carnatic",
+  "strand": "music",
+  "kind": "Musical tradition and theoretical framework",
+  "aliases": [
+   "Karnatic",
+   "South Indian classical music and Beach Surgery"
+  ],
+  "episode": null
+ },
+ "Carnatic_vocal_tradition": {
+  "title": "Carnatic vocal tradition",
+  "strand": "music",
+  "kind": "Classical vocal tradition",
+  "aliases": [],
+  "episode": null
+ },
  "Carnaval_de_Oruro": {
   "title": "Carnaval de Oruro",
   "strand": "theatre",
@@ -3786,6 +3803,16 @@
   ],
   "episode": null
  },
+ "Chiang_Mai": {
+  "title": "Chiang Mai",
+  "strand": "psychogeography",
+  "kind": "City / Pilgrimage site",
+  "aliases": [
+   "Chiang Mai, Thailand",
+   "Chiang Mai frequency centre"
+  ],
+  "episode": null
+ },
  "Chile": {
   "title": "Chile",
   "strand": "documentaries",
@@ -4205,6 +4232,13 @@
    "Before the Surgery",
    "Side-story canon"
   ],
+  "episode": null
+ },
+ "Confluence": {
+  "title": "Confluence",
+  "strand": "concepts",
+  "kind": "Concept / geographical phenomenon",
+  "aliases": [],
   "episode": null
  },
  "Consensus_building": {
@@ -6723,6 +6757,17 @@
   "aliases": [],
   "episode": 198
  },
+ "Frequency_walks_and_Beach_Surgery": {
+  "title": "Frequency walks and Beach Surgery",
+  "strand": "psychogeography",
+  "kind": "Locative art / Walking practice",
+  "aliases": [
+   "Audio-locative pilgrimage",
+   "Frequency-walk routes",
+   "Spine resonance walks"
+  ],
+  "episode": null
+ },
  "Frida_Kahlo": {
   "title": "Frida Kahlo",
   "strand": "philosophy",
@@ -8498,6 +8543,13 @@
   ],
   "episode": null
  },
+ "Indonesia": {
+  "title": "Indonesia",
+  "strand": "adaptations",
+  "kind": "Regional adaptations and traditions",
+  "aliases": [],
+  "episode": null
+ },
  "Indonesian_adaptations_of_Beach_Surgery": {
   "title": "Indonesian adaptations of Beach Surgery",
   "strand": "meta",
@@ -9234,6 +9286,15 @@
   "aliases": [
    "Kaiserbagh (Lucknow)",
    "Emperor's Garden"
+  ],
+  "episode": null
+ },
+ "Kalakshetra_Foundation": {
+  "title": "Kalakshetra Foundation",
+  "strand": "dance",
+  "kind": "Dance college / institution",
+  "aliases": [
+   "Kalakshetra Deemed University"
   ],
   "episode": null
  },
@@ -17490,6 +17551,13 @@
    "Religious interpretations of Beach Surgery",
    "Theological adaptations"
   ],
+  "episode": null
+ },
+ "Sri_Lanka": {
+  "title": "Sri Lanka",
+  "strand": "meta",
+  "kind": "Regional adaptation hub",
+  "aliases": [],
   "episode": null
  },
  "Srtlar_Spirali_The_Shoulder-Blade_Spiral": {
@@ -26027,6 +26095,13 @@
   ],
   "episode": null
  },
+ "The_confluence_(motif)": {
+  "title": "The confluence (motif)",
+  "strand": "motifs",
+  "kind": "Motif / narrative threshold",
+  "aliases": [],
+  "episode": null
+ },
  "The_cycle_and_recurrence": {
   "title": "The cycle and recurrence",
   "strand": "concepts",
@@ -26883,6 +26958,13 @@
   ],
   "episode": null
  },
+ "Threshold_and_the_glitch": {
+  "title": "Threshold and the glitch",
+  "strand": "concepts",
+  "kind": "Philosophical motif",
+  "aliases": [],
+  "episode": null
+ },
  "Threshold_of_the_Unheard": {
   "title": "Threshold of the Unheard",
   "strand": "anime",
@@ -27417,6 +27499,13 @@
    "Uttar Pradesh (geographic context)",
    "Uttar Pradesh adaptations"
   ],
+  "episode": null
+ },
+ "Uttar_Pradesh_adaptations_of_Beach_Surgery": {
+  "title": "Uttar Pradesh adaptations of Beach Surgery",
+  "strand": "meta",
+  "kind": "Regional survey",
+  "aliases": [],
   "episode": null
  },
  "VRMoondust_music_sim": {
@@ -36820,6 +36909,17 @@
    "The Three Temptations",
    "The Injury-Temptation Thesis",
    "Grand Inquisitor Reading"
+  ],
+  "episode": null
+ },
+ "three_temptations_and_the_three_temptations": {
+  "title": "three temptations \u2014 and the three temptations",
+  "strand": "motifs",
+  "kind": "Concept / Structural motif",
+  "aliases": [
+   "The three temptations",
+   "Three temptations recursion",
+   "Leif's three injuries as temptations"
   ],
   "episode": null
  },

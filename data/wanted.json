@@ -85,6 +85,11 @@
   "links": 3
  },
  {
+  "slug": "Bharatanatyam_adaptations_of_Beach_Surgery",
+  "title": "Bharatanatyam adaptations of Beach Surgery",
+  "links": 3
+ },
+ {
   "slug": "The_Breath-Count_ProtocolA_Paced_Walking_Meditation_Route_from_Newcastle_Harbour_to_the_Radio_Igloo_Site",
   "title": "The Breath-Count Protocol\u2014A Paced Walking Meditation Route from Newcastle Harbour to the Radio Igloo Site",
   "links": 3
@@ -105,8 +110,18 @@
   "links": 2
  },
  {
-  "slug": "Frequency_walks_and_Beach_Surgery",
-  "title": "Frequency walks and Beach Surgery",
+  "slug": "South_Indian_adaptations_of_Beach_Surgery",
+  "title": "South Indian adaptations of Beach Surgery",
+  "links": 2
+ },
+ {
+  "slug": "spine_resonance_frequency",
+  "title": "spine resonance frequency",
+  "links": 2
+ },
+ {
+  "slug": "theology_of_Beach_Surgery",
+  "title": "theology of Beach Surgery",
   "links": 2
  },
  {
@@ -120,13 +135,8 @@
   "links": 2
  },
  {
-  "slug": "Carnatic",
-  "title": "Carnatic",
-  "links": 2
- },
- {
-  "slug": "three_temptations_and_the_three_temptations",
-  "title": "three temptations \u2014 and the three temptations",
+  "slug": "synaesthetic",
+  "title": "synaesthetic",
   "links": 2
  },
  {
@@ -145,18 +155,8 @@
   "links": 2
  },
  {
-  "slug": "Indonesia",
-  "title": "Indonesia",
-  "links": 2
- },
- {
-  "slug": "Sri_Lanka",
-  "title": "Sri Lanka",
-  "links": 2
- },
- {
-  "slug": "Chiang_Mai",
-  "title": "Chiang Mai",
+  "slug": "durational",
+  "title": "durational",
   "links": 2
  },
  {
@@ -190,26 +190,6 @@
   "links": 1
  },
  {
-  "slug": "The_confluence_(motif)",
-  "title": "The confluence (motif)",
-  "links": 1
- },
- {
-  "slug": "Uttar_Pradesh_adaptations_of_Beach_Surgery",
-  "title": "Uttar Pradesh adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "Threshold_and_the_glitch",
-  "title": "Threshold and the glitch",
-  "links": 1
- },
- {
-  "slug": "confluence",
-  "title": "confluence",
-  "links": 1
- },
- {
   "slug": "Saitsavlebi_UnfinishingA_Participatory_Choral_Installation_and_Durational_Refusal_Vigil_in_Tbilisi_Georgia",
   "title": "Saitsavlebi Unfinishing\u2014A Participatory Choral Installation and Durational Refusal Vigil in Tbilisi, Georgia",
   "links": 1
@@ -225,28 +205,33 @@
   "links": 1
  },
  {
-  "slug": "Kalakshetra_Foundation",
-  "title": "Kalakshetra Foundation",
+  "slug": "swaras",
+  "title": "swaras",
   "links": 1
  },
  {
-  "slug": "Carnatic_vocal_tradition",
-  "title": "Carnatic vocal tradition",
+  "slug": "arohana",
+  "title": "arohana",
+  "links": 1
+ },
+ {
+  "slug": "avarohana",
+  "title": "avarohana",
+  "links": 1
+ },
+ {
+  "slug": "kalpana_swaram",
+  "title": "kalpana swaram",
+  "links": 1
+ },
+ {
+  "slug": "sam",
+  "title": "sam",
   "links": 1
  },
  {
   "slug": "bhaya",
   "title": "bhaya",
-  "links": 1
- },
- {
-  "slug": "Bharatanatyam_adaptations_of_Beach_Surgery",
-  "title": "Bharatanatyam adaptations of Beach Surgery",
-  "links": 1
- },
- {
-  "slug": "South_Indian_adaptations_of_Beach_Surgery",
-  "title": "South Indian adaptations of Beach Surgery",
   "links": 1
  },
  {
@@ -257,6 +242,16 @@
  {
   "slug": "UK",
   "title": "UK",
+  "links": 1
+ },
+ {
+  "slug": "narrative_rupture",
+  "title": "narrative rupture",
+  "links": 1
+ },
+ {
+  "slug": "question",
+  "title": "question",
   "links": 1
  },
  {
@@ -305,6 +300,11 @@
   "links": 1
  },
  {
+  "slug": "spiritual_practice",
+  "title": "spiritual practice",
+  "links": 1
+ },
+ {
   "slug": "Broken_Saints_and_Eternal_CyclesThe_Emergence_of_Liturgical_Praxis_in_Global_Beach_Surgery_Devotional_Communities",
   "title": "Broken Saints and Eternal Cycles\u2014The Emergence of Liturgical Praxis in Global Beach Surgery Devotional Communities",
   "links": 1
@@ -342,6 +342,21 @@
  {
   "slug": "ase",
   "title": "ase",
+  "links": 1
+ },
+ {
+  "slug": "Koodiyattam",
+  "title": "Koodiyattam",
+  "links": 1
+ },
+ {
+  "slug": "Laurie_Baker",
+  "title": "Laurie Baker",
+  "links": 1
+ },
+ {
+  "slug": "navarasas",
+  "title": "navarasas",
   "links": 1
  },
  {
@@ -902,6 +917,51 @@
  {
   "slug": "Shamanic_journeying_and_the_Cycle",
   "title": "Shamanic journeying and the Cycle",
+  "links": 1
+ },
+ {
+  "slug": "Suture_na_Mage",
+  "title": "Suture na Mage",
+  "links": 1
+ },
+ {
+  "slug": "Wayanaya_Chithra",
+  "title": "Wayanaya Chithra",
+  "links": 1
+ },
+ {
+  "slug": "KalkaraiThe_Wound_Folds_Inward",
+  "title": "Kalkarai\u2014The Wound Folds Inward",
+  "links": 1
+ },
+ {
+  "slug": "refusal_as_sacred_covenant",
+  "title": "refusal as sacred covenant",
+  "links": 1
+ },
+ {
+  "slug": "tidal_cycles",
+  "title": "tidal cycles",
+  "links": 1
+ },
+ {
+  "slug": "SouthSoutheast_Asian_adaptations_of_Beach_Surgery",
+  "title": "South/Southeast Asian adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Tidal_cycles_in_adaptation",
+  "title": "Tidal cycles in adaptation",
+  "links": 1
+ },
+ {
+  "slug": "Maritime_adaptations_of_Beach_Surgery",
+  "title": "Maritime adaptations of Beach Surgery",
+  "links": 1
+ },
+ {
+  "slug": "Tidal_cycles",
+  "title": "Tidal cycles",
   "links": 1
  },
  {
@@ -2855,11 +2915,6 @@
   "links": 1
  },
  {
-  "slug": "frequency_walks_and_Beach_Surgery",
-  "title": "frequency walks and Beach Surgery",
-  "links": 1
- },
- {
   "slug": "embedded_story",
   "title": "embedded story",
   "links": 1
@@ -4390,6 +4445,11 @@
   "links": 1
  },
  {
+  "slug": "Riachuelo",
+  "title": "Riachuelo",
+  "links": 1
+ },
+ {
   "slug": "cosmology",
   "title": "cosmology",
   "links": 1
@@ -4860,6 +4920,16 @@
   "links": 1
  },
  {
+  "slug": "iconography",
+  "title": "iconography",
+  "links": 1
+ },
+ {
+  "slug": "confluence_(motif)",
+  "title": "confluence (motif)",
+  "links": 1
+ },
+ {
   "slug": "cremation",
   "title": "cremation",
   "links": 1
@@ -5092,11 +5162,6 @@
  {
   "slug": "living_archive",
   "title": "living archive",
-  "links": 1
- },
- {
-  "slug": "durational",
-  "title": "durational",
   "links": 1
  },
  {
@@ -7035,11 +7100,6 @@
   "links": 1
  },
  {
-  "slug": "synaesthetic",
-  "title": "synaesthetic",
-  "links": 1
- },
- {
   "slug": "The_Karman_Reversal_hypothesis",
   "title": "The Karman Reversal hypothesis",
   "links": 1
@@ -7532,6 +7592,21 @@
  {
   "slug": "Eternal_recurrence_as_theodicy_and_the_glitch_as_unsolvable_koan_in_Beach_Surgery_eschatology",
   "title": "Eternal recurrence as theodicy and the glitch as unsolvable koan in Beach Surgery eschatology",
+  "links": 1
+ },
+ {
+  "slug": "African_diasporic",
+  "title": "African diasporic",
+  "links": 1
+ },
+ {
+  "slug": "SouthCentral_American",
+  "title": "South/Central American",
+  "links": 1
+ },
+ {
+  "slug": "The_Grand_Inquisitor_motif_in_Beach_Surgery",
+  "title": "The Grand Inquisitor motif in Beach Surgery",
   "links": 1
  },
  {
